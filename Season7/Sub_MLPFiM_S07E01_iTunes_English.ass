@@ -8,23 +8,31 @@ YCbCr Matrix: TV.601
 PlayResX: 1920
 PlayResY: 1080
 
+[Aegisub Project Garbage]
+Audio File: ../MLP-FiM S07E01 Celestial Advice 1080p.mkv
+Video File: ../MLP-FiM S07E01 Celestial Advice 1080p.mkv
+Video AR Mode: 4
+Video AR Value: 1.777778
+Video Zoom Percent: 0.250000
+Video Position: 116
+
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Somepony,Arial,68,&H00FFFFFF,&H000000FF,&H007D7E80,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
 Style: Default,Arial,68,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
-Style: Twilight,Arial,68,&H00FFFFFF,&H000000FF,&H0092376D,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Twilight,Arial,68,&H00FFFFFF,&H000000FF,&H00AE568C,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
 Style: RainbowDash,Arial,68,&H00FFFFFF,&H000000FF,&H00D29B1E,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
 Style: AppleJack,Arial,68,&H00FFFFFF,&H000000FF,&H00005AFF,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
 Style: PinkiePie,Arial,68,&H00FFFFFF,&H000000FF,&H009300E8,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
 Style: FlutterShy,Arial,68,&H00D2F9FF,&H000000FF,&H009542D6,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
 Style: Spike,Arial,68,&H00F9FFF9,&H000000FF,&H00209322,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
-Style: Celestia,Arial,68,&H00FBF8FD,&H000000FF,&H00DA2ACC,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Celestia,Arial,68,&H00FBF8FD,&H000000FF,&H00D177CB,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
 Style: Discord,Arial,68,&H00DAE7EE,&H000000FF,&H001A6A9D,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
 Style: StarlightGlimmer,Arial,68,&H00F5CEF2,&H000000FF,&H005C0104,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
 Style: Trixie,Arial,68,&H00FAEFDA,&H000000FF,&H00674303,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
 Style: Ember,Arial,68,&H00EDFFAA,&H000000FF,&H0057270F,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,30,30,45,1
 Style: Garble,Arial,68,&H009AECFA,&H000000FF,&H00081973,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,30,30,45,1
-Style: Guard,Arial,68,&H00FFFFFF,&H000000FF,&H008B8380,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Guard,Arial,68,&H00FFFFFF,&H000000FF,&H00CDAB9F,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
 Style: Thorax,Arial,68,&H00FCFCFC,&H000000FF,&H00CEC702,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
 Style: Sunburst,Arial,68,&H00DBFFFC,&H000000FF,&H000D37CC,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
 
@@ -34,7 +42,7 @@ Dialogue: 0,0:00:04.82,0:00:05.53,StarlightGlimmer,,0,0,0,,Hey, Spike!
 Dialogue: 0,0:00:05.53,0:00:06.43,StarlightGlimmer,,0,0,0,,What's up?
 Dialogue: 0,0:00:06.43,0:00:07.15,Spike,,0,0,0,,Just,
 Dialogue: 0,0:00:07.15,0:00:09.73,Spike,,0,0,0,,wanted to make sure you're ready for your big ceremony today.
-Dialogue: 0,0:00:09.73,0:00:10.05,StarlightGlimmer,,0,0,0,,Yup.
+Dialogue: 0,0:00:09.73,0:00:10.05,StarlightGlimmer,,0,0,0,,Yep.
 Dialogue: 0,0:00:11.27,0:00:15.69,StarlightGlimmer,,0,0,0,,I still can't believe, my friends and I are getting medals of honor.
 Dialogue: 0,0:00:16.43,0:00:17.96,Spike,,0,0,0,,Are you kidding?
 Dialogue: 0,0:00:17.96,0:00:19.52,Spike,,0,0,0,,You totally deserve it.
@@ -43,7 +51,7 @@ Dialogue: 0,0:00:20.98,0:00:22.96,Spike,,0,0,0,,saved Equestria from…
 Dialogue: 0,0:00:24.05,0:00:25.47,Spike,,0,0,0,,Queen Chrysalis!
 Dialogue: 0,0:00:25.47,0:00:29.40,Spike,,0,0,0,,With a help of Trixie and Thorax and Discord and…
 Dialogue: 0,0:00:30.27,0:00:30.87,StarlightGlimmer,,0,0,0,,Yeah,
-Dialogue: 0,0:00:30.87,0:00:32.16,StarlightGlimmer,,0,0,0,,I know what happened.
+Dialogue: 0,0:00:30.87,0:00:32.16,StarlightGlimmer,,0,0,0,,I know it happened.
 Dialogue: 0,0:00:32.16,0:00:33.22,StarlightGlimmer,,0,0,0,,I was kinda there.
 Dialogue: 0,0:00:33.64,0:00:34.28,Spike,,0,0,0,,Alright.
 Dialogue: 0,0:00:35.80,0:00:36.75,Spike,,0,0,0,,So...
@@ -54,7 +62,7 @@ Dialogue: 0,0:00:40.22,0:00:41.92,StarlightGlimmer,,0,0,0,,Am I supposed to dres
 Dialogue: 0,0:00:41.92,0:00:42.54,Spike,,0,0,0,,No!
 Dialogue: 0,0:00:42.54,0:00:44.15,Spike,,0,0,0,,I mean, you could.
 Dialogue: 0,0:00:44.15,0:00:46.45,Spike,,0,0,0,,It's like Rarity always says:
-Dialogue: 0,0:00:46.45,0:00:49.44,Spike,,0,0,0,,"There's no such thing as overdressed, darling,
+Dialogue: 0,0:00:46.45,0:00:49.44,Spike,,0,0,0,,"There's no such thing as overdress, darling,
 Dialogue: 0,0:00:49.44,0:00:51.92,Spike,,0,0,0,,you're just the best-looking pony in the room".
 Dialogue: 0,0:00:54.82,0:00:56.62,StarlightGlimmer,,0,0,0,,What are you looking at?
 Dialogue: 0,0:00:56.62,0:00:57.57,Spike,,0,0,0,,No! Don't look!
@@ -62,12 +70,12 @@ Dialogue: 0,0:01:00.11,0:01:02.61,Spike,,0,0,0,,Cause there was a spider there,
 Dialogue: 0,0:01:02.61,0:01:03.79,Spike,,0,0,0,,but it's gone now.
 Dialogue: 0,0:01:03.79,0:01:05.79,Spike,,0,0,0,,So, thanks, Starlight, bye.
 Dialogue: 0,0:01:12.46,0:01:14.11,Spike,,0,0,0,,She had no idea.
-Dialogue: 0,0:01:14.11,0:01:15.84,Spike,,0,0,0,,We're a good team, Sparkle.
+Dialogue: 0,0:01:14.11,0:01:15.84,Spike,,0,0,0,,We are a good team, Sparkle.
 Dialogue: 0,0:01:16.35,0:01:17.47,Twilight,,0,0,0,,Sparkle?
 Dialogue: 0,0:01:18.76,0:01:19.61,Twilight,,0,0,0,,Yeah, we are.
 Dialogue: 0,0:01:19.75,0:01:21.51,Twilight,,0,0,0,,So, do you think she'll like it?
 Dialogue: 0,0:01:21.72,0:01:23.66,Twilight,,0,0,0,,I want this present to say:
-Dialogue: 0,0:01:23.66,0:01:27.43,Twilight,,0,0,0,,"I'm so proud of you, both as a mentor and a friend.
+Dialogue: 0,0:01:23.66,0:01:27.43,Twilight,,0,0,0,,"I'm so proud of you both as a mentor and a friend.
 Dialogue: 0,0:01:27.72,0:01:30.69,Twilight,,0,0,0,,Equestria is safer thanks to you."
 Dialogue: 0,0:01:31.50,0:01:33.27,Spike,,0,0,0,,I thought you were getting her a mirror.
 Dialogue: 0,0:01:33.27,0:01:33.95,Spike,,0,0,0,,Like yours.
@@ -99,10 +107,10 @@ Dialogue: 0,0:03:37.00,0:03:38.61,PinkiePie,,0,0,0,,Yay!
 Dialogue: 0,0:03:41.34,0:03:43.41,Twilight,,0,0,0,,We are so proud of you all!
 Dialogue: 0,0:03:55.90,0:03:59.42,Trixie,,0,0,0,,It was the Great and Powerful Trixie's pleasure
 Dialogue: 0,0:03:59.64,0:04:02.37,Trixie,,0,0,0,,to save you from your imminent doom.
-Dialogue: 0,0:04:02.51,0:04:06.36,Discord,,0,0,0,,Yes. Because you did it all by yourself.
+Dialogue: 0,0:04:02.51,0:04:06.36,Discord,,0,0,0,,Yes, because you did it all by yourself.
 Dialogue: 0,0:04:07.23,0:04:09.89,Sunburst,,0,0,0,,I can't believe you managed to do it without magic!
 Dialogue: 0,0:04:10.13,0:04:11.49,Somepony,,0,0,0,,It was amazing!
-Dialogue: 0,0:04:11.62,0:04:14.27,Somepony,,0,0,0,,No one's has ever stood up to Chrysalis like that!
+Dialogue: 0,0:04:11.62,0:04:14.27,Somepony,,0,0,0,,No one has ever stood up to Chrysalis like that!
 Dialogue: 0,0:04:15.46,0:04:18.69,StarlightGlimmer,,0,0,0,,I just did what anypony would've done.
 Dialogue: 0,0:04:19.14,0:04:21.06,Celestia,,0,0,0,,It's a wonderful feeling, isn't it?
 Dialogue: 0,0:04:21.14,0:04:24.74,Celestia,,0,0,0,,Watching your student shine the way you always knew they could.
@@ -113,18 +121,18 @@ Dialogue: 0,0:04:35.94,0:04:39.34,Discord,,0,0,0,,Yes, Starlight is student of t
 Dialogue: 0,0:04:39.34,0:04:41.16,Discord,,0,0,0,,She's so much potential.
 Dialogue: 0,0:04:41.16,0:04:43.17,Discord,,0,0,0,,So, what are we going to do with her?
 Dialogue: 0,0:04:43.23,0:04:46.18,Discord,,0,0,0,,And by "we" I definitely mean you!
-Dialogue: 0,0:04:46.18,0:04:47.88,Discord,,0,0,0,,Being her mentor and all that,
-Dialogue: 0,0:04:48.15,0:04:51.56,Discord,,0,0,0,,her destiny falls squarely on your haunches.
-Dialogue: 0,0:04:53.30,0:04:58.17,Twilight,,0,0,0,,Oh, don't you worry. I've planned enough friendship lessons to cover the next three years!
+Dialogue: 0,0:04:46.18,0:04:47.88,Discord,,0,0,0,,Being her mentor and all that.
+Dialogue: 0,0:04:48.15,0:04:51.56,Discord,,0,0,0,,Her destiny falls squarely on your haunches.
+Dialogue: 0,0:04:53.30,0:04:58.17,Twilight,,0,0,0,,Oh don't you worry, I've planned enough friendship lessons to cover the next three years!
 Dialogue: 0,0:05:00.98,0:05:01.98,Twilight,,0,0,0,,What's so funny?
-Dialogue: 0,0:05:03.23,0:05:06.64,Discord,,0,0,0,,Clearly Starlight is beyond basic friendship classes.
-Dialogue: 0,0:05:06.64,0:05:09.91,Discord,,0,0,0,,She just won a medal, for Equestria's sake!
+Dialogue: 0,0:05:03.23,0:05:06.64,Discord,,0,0,0,,Clearly, Starlight is beyond basic friendship classes.
+Dialogue: 0,0:05:06.64,0:05:09.91,Discord,,0,0,0,,She's just got a medal, for Equestria's sake!
 Dialogue: 0,0:05:09.91,0:05:11.33,Discord,,0,0,0,,I thought you were joking...
 Dialogue: 0,0:05:11.92,0:05:13.76,Discord,,0,0,0,,You are joking, right?
-Dialogue: 0,0:05:15.06,0:05:16.74,Twilight,,0,0,0,,Of course I was.
-Dialogue: 0,0:05:17.48,0:05:20.82,Discord,,0,0,0,,Obviously you should have a grand master plan for her,
+Dialogue: 0,0:05:15.06,0:05:16.74,Twilight,,0,0,0,,Of course, I was.
+Dialogue: 0,0:05:17.48,0:05:20.82,Discord,,0,0,0,,Obviously, you should have a grand master plan for her,
 Dialogue: 0,0:05:20.82,0:05:28.01,Discord,,0,0,0,,the same way Celestia sent you on a path that eventually made you a princess.
-Dialogue: 0,0:05:28.13,0:05:28.81,Twilight,,0,0,0,,Yup.
+Dialogue: 0,0:05:28.13,0:05:28.81,Twilight,,0,0,0,,Yep.
 Dialogue: 0,0:05:29.43,0:05:31.00,Discord,,0,0,0,,Oh, good.
 Dialogue: 0,0:05:31.35,0:05:35.50,Discord,,0,0,0,,I'm sure she can't wait to hear all about it.
 Dialogue: 0,0:05:37.90,0:05:41.50,StarlightGlimmer,,0,0,0,,So, how the whole ruling a kingdom thing going?
@@ -133,17 +141,17 @@ Dialogue: 0,0:05:43.82,0:05:45.74,Thorax,,0,0,0,,But we're adjusting.
 Dialogue: 0,0:05:45.98,0:05:48.87,Somepony,,0,0,0,,So... you can't have friendship without makeovers?
 Dialogue: 0,0:05:49.99,0:05:51.33,AppleJack,,0,0,0,,No, not exactly.
 Dialogue: 0,0:05:52.70,0:05:57.18,Discord,,0,0,0,,Oh, Starlight, Princess Twilight has something very important to tell us.
-Dialogue: 0,0:05:57.18,0:06:01.44,Discord,,0,0,0,,Well, just you really, but I'm nosy and I want to hear.
+Dialogue: 0,0:05:57.18,0:06:01.44,Discord,,0,0,0,,Well, just you, really, but I'm nosy and I want to hear.
 Dialogue: 0,0:06:01.85,0:06:02.38,StarlightGlimmer,,0,0,0,,Okay.
 Dialogue: 0,0:06:02.63,0:06:04.55,StarlightGlimmer,,0,0,0,,Would you excuse me...
 Dialogue: 0,0:06:06.02,0:06:06.80,StarlightGlimmer,,0,0,0,,Nevermind.
 Dialogue: 0,0:06:07.52,0:06:08.50,StarlightGlimmer,,0,0,0,,What's going on?
 Dialogue: 0,0:06:08.50,0:06:14.02,Discord,,0,0,0,,Well, Twilight was just about to reveal her grand master plan for you!
 Dialogue: 0,0:06:14.16,0:06:14.83,StarlightGlimmer,,0,0,0,,Really?
-Dialogue: 0,0:06:15.10,0:06:17.48,StarlightGlimmer,,0,0,0,,I was kind of wondering what we were gonna do next!
+Dialogue: 0,0:06:15.10,0:06:17.48,StarlightGlimmer,,0,0,0,,I was kind of wondering what we're gonna do next!
 Dialogue: 0,0:06:17.48,0:06:18.10,Discord,,0,0,0,,Yes!
-Dialogue: 0,0:06:18.10,0:06:20.98,Discord,,0,0,0,,I would say we were both fairly interested.
-Dialogue: 0,0:06:22.42,0:06:23.61,Twilight,,0,0,0,,Of course you are.
+Dialogue: 0,0:06:18.10,0:06:20.98,Discord,,0,0,0,,I would say, we were both fairly interested.
+Dialogue: 0,0:06:22.42,0:06:23.61,Twilight,,0,0,0,,Of course, you are.
 Dialogue: 0,0:06:23.70,0:06:26.32,Twilight,,0,0,0,,And I do have a plan, obviously.
 Dialogue: 0,0:06:26.47,0:06:28.59,Twilight,,0,0,0,,But now's clearly not the time to do it.
 Dialogue: 0,0:06:28.59,0:06:30.45,Twilight,,0,0,0,,You should enjoy your party.
@@ -152,7 +160,7 @@ Dialogue: 0,0:06:31.96,0:06:34.82,Trixie,,0,0,0,,The Ponyville Chronicle wants t
 Dialogue: 0,0:06:34.82,0:06:37.04,Trixie,,0,0,0,,You too, Discord.
 Dialogue: 0,0:06:41.38,0:06:43.30,Discord,,0,0,0,,I see what you're doing.
 Dialogue: 0,0:06:43.30,0:06:44.17,Twilight,,0,0,0,,You do?!
-Dialogue: 0,0:06:44.51,0:06:52.59,Discord,,0,0,0,,You already planned the perfect moment during the party to make the grand announcement to everypony about your plan...
+Dialogue: 0,0:06:44.51,0:06:52.59,Discord,,0,0,0,,You already planned the perfect moment during the party to make a grand announcement to everypony about your plan...
 Dialogue: 0,0:06:54.00,0:06:55.18,Discord,,0,0,0,,Bravo, Twilight!
 Dialogue: 0,0:06:55.18,0:06:58.02,Discord,,0,0,0,,I can't wait to tell Fluttershy and the others.
 Dialogue: 0,0:06:58.02,0:06:59.11,Twilight,,0,0,0,,Discord, no!
@@ -176,9 +184,9 @@ Dialogue: 0,0:07:41.81,0:07:43.22,Celestia,,0,0,0,,Sounds familiar.
 Dialogue: 0,0:07:44.30,0:07:46.15,Twilight,,0,0,0,,That's why I had to talk to you.
 Dialogue: 0,0:07:46.15,0:07:48.27,Twilight,,0,0,0,,You of all ponies would know what to do.
 Dialogue: 0,0:07:48.27,0:07:50.73,Twilight,,0,0,0,,I mean, you were me and I was Starlight,
-Dialogue: 0,0:07:50.73,0:07:53.84,Twilight,,0,0,0,,but for now, I need you to pretend you're you and I'm me.
+Dialogue: 0,0:07:50.73,0:07:53.84,Twilight,,0,0,0,,but for now I need you to pretend you're you and I'm me.
 Dialogue: 0,0:07:55.19,0:07:55.99,Celestia,,0,0,0,,Go on.
-Dialogue: 0,0:07:56.22,0:07:59.39,Twilight,,0,0,0,,When I was your student and you were in this place, you...
+Dialogue: 0,0:07:56.22,0:07:59.39,Twilight,,0,0,0,,When I was your student, and you were in this place, you...
 Dialogue: 0,0:07:59.73,0:08:00.58,Twilight,,0,0,0,,Oh no.
 Dialogue: 0,0:08:01.59,0:08:02.93,Twilight,,0,0,0,,You sent me to Ponyville.
 Dialogue: 0,0:08:03.10,0:08:06.59,Twilight,,0,0,0,,Which means it's time for me to send Starlight Glimmer away!
@@ -194,8 +202,8 @@ Dialogue: 0,0:08:29.39,0:08:31.10,Twilight,,0,0,0,,This is something I have to d
 Dialogue: 0,0:08:34.48,0:08:35.45,Twilight,,0,0,0,,Oh, boy.
 Dialogue: 0,0:08:35.59,0:08:36.95,FlutterShy,,0,0,0,,Oh, boy!
 Dialogue: 0,0:08:37.49,0:08:41.70,Discord,,0,0,0,,Whatever Twilight's planning for Starlight is going to be so exciting!
-Dialogue: 0,0:08:42.61,0:08:44.96,AppleJack,,0,0,0,,Wonder why she didn't tell any of us about it?
-Dialogue: 0,0:08:45.12,0:08:48.04,Discord,,0,0,0,,Probably because you're not as close as you think you are.
+Dialogue: 0,0:08:42.61,0:08:44.96,AppleJack,,0,0,0,,Wonder why she didn't tell any of us about it.
+Dialogue: 0,0:08:45.12,0:08:48.04,Discord,,0,0,0,,Probably, because you're not as close as you think you are.
 Dialogue: 0,0:08:50.05,0:08:51.17,Discord,,0,0,0,,Just kidding.
 Dialogue: 0,0:08:51.45,0:08:53.63,Discord,,0,0,0,,She wanted it to be a big surprise.
 Dialogue: 0,0:08:53.63,0:08:58.05,Discord,,0,0,0,,Just between us, she's getting ready to make a big announcement!
@@ -206,7 +214,7 @@ Dialogue: 0,0:09:03.85,0:09:05.48,RainbowDash,,0,0,0,,Well, she definitely has o
 Dialogue: 0,0:09:05.75,0:09:08.94,RainbowDash,,0,0,0,,I mean, when has Twilight not had a plan?
 Dialogue: 0,0:09:10.99,0:09:13.87,Twilight,,0,0,0,,I sure don't want to send her into the wrong place.
 Dialogue: 0,0:09:15.49,0:09:16.30,Twilight,,0,0,0,,I got it!
-Dialogue: 0,0:09:16.54,0:09:21.77,Twilight,,0,0,0,,Since defeating Chrysalis, Starlight's given the changelings an opportunity to revolutionize their society!
+Dialogue: 0,0:09:16.54,0:09:21.77,Twilight,,0,0,0,,Since defeating Chrysalis, Starlight has given the changelings an opportunity to revolutionize their society!
 Dialogue: 0,0:09:21.77,0:09:23.45,Twilight,,0,0,0,,Maybe I can send her there!
 Dialogue: 0,0:09:29.91,0:09:31.09,Spike,,0,0,0,,Cool spell!
 Dialogue: 0,0:09:31.42,0:09:35.84,Twilight,,0,0,0,,If Starlight goes to the changeling hive, she can help them adjust to their new way of life!
@@ -218,7 +226,7 @@ Dialogue: 0,0:09:47.13,0:09:49.46,StarlightGlimmer,,0,0,0,,Oh no, what should we
 Dialogue: 0,0:09:49.90,0:09:51.01,Somepony,,0,0,0,,Attack!
 Dialogue: 0,0:09:51.01,0:09:53.07,Somepony,,0,0,0,,A winner gets to choose!
 Dialogue: 0,0:09:55.45,0:09:56.54,StarlightGlimmer,,0,0,0,,Or…
-Dialogue: 0,0:09:56.76,0:10:02.20,StarlightGlimmer,,0,0,0,,Thorax and I can talk about it and come up with the solution what works for everypony!
+Dialogue: 0,0:09:56.76,0:10:02.20,StarlightGlimmer,,0,0,0,,Thorax and I can talk about it, and come up with the solution what works for everypony!
 Dialogue: 0,0:10:02.51,0:10:08.33,Thorax,,0,0,0,,Starlight, how do you feel about honeysuckle and peanut butter sandwiches?
 Dialogue: 0,0:10:08.33,0:10:11.16,StarlightGlimmer,,0,0,0,,Why, that sounds delicious!
 Dialogue: 0,0:10:11.57,0:10:13.53,Somepony,,0,0,0,,Compromise.
@@ -236,7 +244,7 @@ Dialogue: 0,0:10:50.31,0:10:51.63,Twilight,,0,0,0,,Or dangerous.
 Dialogue: 0,0:10:51.63,0:10:54.71,Twilight,,0,0,0,,It would only take one changeling to deviate from the pack!
 Dialogue: 0,0:11:03.57,0:11:06.50,StarlightGlimmer,,0,0,0,,Hi, I'm Starlight Glimmer.
 Dialogue: 0,0:11:06.50,0:11:07.94,StarlightGlimmer,,0,0,0,,What's your name?
-Dialogue: 0,0:11:08.73,0:11:09.88,Somepony,,0,0,0,,Cornicle!
+Dialogue: 0,0:11:08.73,0:11:09.88,Somepony,,0,0,0,,Curnakle!
 Dialogue: 0,0:11:11.60,0:11:13.49,StarlightGlimmer,,0,0,0,,What kind of name is that?
 Dialogue: 0,0:11:14.39,0:11:19.27,StarlightGlimmer,,0,0,0,,Your wings are so… see-through.
 Dialogue: 0,0:11:19.61,0:11:22.23,StarlightGlimmer,,0,0,0,,I'm so glad I'm a pony.
@@ -264,7 +272,7 @@ Dialogue: 0,0:12:25.65,0:12:28.01,Twilight,,0,0,0,,Who knows what their dynamic 
 Dialogue: 0,0:12:40.81,0:12:41.65,Spike,,0,0,0,,Freaky.
 Dialogue: 0,0:12:42.36,0:12:44.98,Twilight,,0,0,0,,Starlight will love it in the Dragon Lands!
 Dialogue: 0,0:12:44.98,0:12:48.39,Twilight,,0,0,0,,In her letters, Ember said dragons do a lot of fun things:
-Dialogue: 0,0:12:48.39,0:12:51.65,Twilight,,0,0,0,,The Feast of Fire, the Dragon Bowl, Claw-chella.
+Dialogue: 0,0:12:48.39,0:12:51.65,Twilight,,0,0,0,,The Fist of Fire, the Dragon Bowl, Claw-chella.
 Dialogue: 0,0:12:53.10,0:12:56.13,Twilight,,0,0,0,,Starlight could be there for a really long time.
 Dialogue: 0,0:12:56.37,0:13:00.96,Twilight,,0,0,0,,But then again, not all dragons like ponies as much as Ember does.
 Dialogue: 0,0:13:02.11,0:13:03.72,Garble,,0,0,0,,Hey, Twinkle Star!
@@ -291,11 +299,11 @@ Dialogue: 0,0:13:54.65,0:13:58.90,Sunburst,,0,0,0,,Try placing your horn directl
 Dialogue: 0,0:14:04.24,0:14:08.65,Twilight,,0,0,0,,They could challenge each other into becoming the most talented unicorns Equestria has ever seen!
 Dialogue: 0,0:14:08.65,0:14:10.98,StarlightGlimmer,,0,0,0,,We did it! Quick, what's next?
 Dialogue: 0,0:14:12.06,0:14:15.45,Twilight,,0,0,0,,Of course, the study of magic is a life-long pursuit
-Dialogue: 0,0:14:15.45,0:14:21.12,Twilight,,0,0,0,,and Starlight could be there for a while, especially once they start to attempt the really complicated stuff...
+Dialogue: 0,0:14:15.45,0:14:21.12,Twilight,,0,0,0,,and Starlight could be there for a while, especially when they start to attempt the really complicated stuff...
 Dialogue: 0,0:14:21.12,0:14:23.75,Spike,,0,0,0,,Three, two, one.
 Dialogue: 0,0:14:24.06,0:14:26.53,Twilight,,0,0,0,,What if they become too ambitious?!
-Dialogue: 0,0:14:27.09,0:14:31.89,StarlightGlimmer,,0,0,0,,I would've never thought to combine Starswirl's apparitions spell with Spatium Flexibus,
-Dialogue: 0,0:14:31.89,0:14:35.96,StarlightGlimmer,,0,0,0,,but what would happen if we added Somnabula's Tempesubjectis?
+Dialogue: 0,0:14:27.09,0:14:31.89,StarlightGlimmer,,0,0,0,,I would've never thought to combine Star Swirl's apparitions spell with Spaceshim Flexibus,
+Dialogue: 0,0:14:31.89,0:14:35.96,StarlightGlimmer,,0,0,0,,but what would happen if we add Somnabulous Tempesubjectis?
 Dialogue: 0,0:14:35.96,0:14:41.56,Sunburst,,0,0,0,,If we do it just right, it should allow us to materialize an object that was lost in the past.
 Dialogue: 0,0:14:50.70,0:14:52.03,Twilight,,0,0,0,,Don't do it.
 Dialogue: 0,0:15:01.33,0:15:04.71,Somepony,,0,0,0,,Starlight! No!
@@ -316,8 +324,8 @@ Dialogue: 0,0:15:52.44,0:15:54.50,Spike,,0,0,0,,Are you talking about Twilight?
 Dialogue: 0,0:15:54.50,0:15:56.43,Spike,,0,0,0,,I can see what you're thinking about.
 Dialogue: 0,0:15:57.08,0:15:58.31,Celestia,,0,0,0,,Yes, Spike.
 Dialogue: 0,0:16:04.93,0:16:09.29,Celestia,,0,0,0,,I was constantly surprised and impressed with her discoveries.
-Dialogue: 0,0:16:12.25,0:16:17.69,Celestia,,0,0,0,,But I noticed that her pursuit of academia was preventing her from reaching her full potential.
-Dialogue: 0,0:16:17.69,0:16:20.50,Spike,,0,0,0,,You mean it was keeping her isolated and alone?
+Dialogue: 0,0:16:12.25,0:16:17.69,Celestia,,0,0,0,,But I noticed, that her pursuit of academia was preventing her from reaching her full potential.
+Dialogue: 0,0:16:17.69,0:16:20.50,Spike,,0,0,0,,You mean, it was keeping her isolated and alone?
 Dialogue: 0,0:16:21.01,0:16:21.70,Celestia,,0,0,0,,Yes, Spike.
 Dialogue: 0,0:16:22.27,0:16:24.25,Celestia,,0,0,0,,I had a decision to make.
 Dialogue: 0,0:16:25.27,0:16:26.79,Celestia,,0,0,0,,But it wasn't easy.
@@ -328,12 +336,12 @@ Dialogue: 0,0:16:39.15,0:16:41.12,Celestia,,0,0,0,,I must send her away.
 Dialogue: 0,0:16:43.38,0:16:46.51,Celestia,,0,0,0,,I knew there was a special group of fillies in Ponyville,
 Dialogue: 0,0:16:46.51,0:16:50.53,Celestia,,0,0,0,,but I kept inventing all kinds of reasons why I shouldn't send you.
 Dialogue: 0,0:16:51.93,0:16:54.08,Celestia,,0,0,0,,What if she runs into a manticore?
-Dialogue: 0,0:16:54.08,0:16:56.21,Celestia,,0,0,0,,Or what if she gets pulled into Tartarus?
-Dialogue: 0,0:16:56.21,0:16:59.39,Celestia,,0,0,0,,Or worst of all, what if she doesn't get along with anypony?!
+Dialogue: 0,0:16:54.08,0:16:56.21,Celestia,,0,0,0,,or what if she gets pulled into Tartarus?
+Dialogue: 0,0:16:56.21,0:16:59.39,Celestia,,0,0,0,,Or worst of all, what if she does not get along with anypony?!
 Dialogue: 0,0:17:00.04,0:17:01.48,Guard,,0,0,0,,Are we supposed to say something?
 Dialogue: 0,0:17:01.48,0:17:02.50,Guard,,0,0,0,,I don't think so.
 Dialogue: 0,0:17:03.91,0:17:07.24,Celestia,,0,0,0,,I kept you in Canterlot longer than I should have.
-Dialogue: 0,0:17:08.60,0:17:14.33,Celestia,,0,0,0,,Eventually, I realized all the anxiety I felt was because I didn't want you to go.
+Dialogue: 0,0:17:08.60,0:17:14.33,Celestia,,0,0,0,,Eventually, I realised all the anxiety I felt, was because I didn't want you to go.
 Dialogue: 0,0:17:14.60,0:17:15.51,Twilight,,0,0,0,,Really?
 Dialogue: 0,0:17:15.80,0:17:18.38,Celestia,,0,0,0,,I loved having you as a student.
 Dialogue: 0,0:17:18.38,0:17:22.39,Celestia,,0,0,0,,You challenged me and taught me just as much as I taught you.
@@ -342,14 +350,14 @@ Dialogue: 0,0:17:27.38,0:17:29.29,Celestia,,0,0,0,,you wouldn't need me anymore.
 Dialogue: 0,0:17:30.77,0:17:33.96,Twilight,,0,0,0,,Princess Celestia, that is so not true.
 Dialogue: 0,0:17:33.96,0:17:36.08,Twilight,,0,0,0,,I will always need you.
 Dialogue: 0,0:17:36.08,0:17:39.65,Celestia,,0,0,0,,I think Starlight Glimmer might feel the same way about you.
-Dialogue: 0,0:17:39.65,0:17:41.37,Celestia,,0,0,0,,If that is what you're afraid of.
+Dialogue: 0,0:17:39.65,0:17:41.37,Celestia,,0,0,0,,If that is what you are afraid of.
 Dialogue: 0,0:17:41.37,0:17:43.29,Twilight,,0,0,0,,Maybe it is. Just a little.
 Dialogue: 0,0:17:44.14,0:17:46.50,Spike,,0,0,0,,It definitely is. Like a lot.
 Dialogue: 0,0:17:47.61,0:17:50.78,Celestia,,0,0,0,,Here we are after all this years, Twilight.
-Dialogue: 0,0:17:51.31,0:17:54.91,Celestia,,0,0,0,,We are living proof that letting someone spread their wings
-Dialogue: 0,0:17:54.91,0:17:58.26,Celestia,,0,0,0,,doesn't mean you no longer have a place in their lives.
+Dialogue: 0,0:17:51.31,0:17:54.91,Celestia,,0,0,0,,We are living proof that letting someone spread their wings,
+Dialogue: 0,0:17:54.91,0:17:58.26,Celestia,,0,0,0,,doesn't mean you no longer have a place in their lifes.
 Dialogue: 0,0:17:58.58,0:17:59.49,Twilight,,0,0,0,,Thank you.
-Dialogue: 0,0:17:59.49,0:18:03.89,Celestia,,0,0,0,,And if you're still worried, you can always make her write you letters!
+Dialogue: 0,0:17:59.49,0:18:03.89,Celestia,,0,0,0,,And if you still worried, you always can write me letters.
 Dialogue: 0,0:18:13.06,0:18:14.72,Discord,,0,0,0,,I may have let it slip
 Dialogue: 0,0:18:14.72,0:18:17.74,Discord,,0,0,0,,that you'd be unveiling your big plan for Starlight tonight.
 Dialogue: 0,0:18:17.74,0:18:19.16,Discord,,0,0,0,,Silly me.
@@ -358,20 +366,20 @@ Dialogue: 0,0:18:26.46,0:18:30.21,Discord,,0,0,0,,You weren't coming up with a p
 Dialogue: 0,0:18:30.40,0:18:31.42,Discord,,0,0,0,,Oh, dear.
 Dialogue: 0,0:18:31.96,0:18:34.96,Discord,,0,0,0,,This could be pretty embarrassing for you.
 Dialogue: 0,0:18:35.50,0:18:37.10,Twilight,,0,0,0,,Gee, thanks, Discord.
-Dialogue: 0,0:18:37.40,0:18:38.34,Discord,,0,0,0,,Anytime.
+Dialogue: 0,0:18:37.40,0:18:38.34,Discord,,0,0,0,,Any time.
 Dialogue: 0,0:18:38.55,0:18:40.76,Discord,,0,0,0,,I really do love being helpful.
 Dialogue: 0,0:18:43.55,0:18:45.92,Twilight,,0,0,0,,If I could have everypony's attention.
-Dialogue: 0,0:18:46.25,0:18:50.50,Twilight,,0,0,0,,As you all know, Starlight Glimmer been my pupil for a while now
+Dialogue: 0,0:18:46.25,0:18:50.50,Twilight,,0,0,0,,As you all know, Starlight Glimmer's been my pupil for a while now,
 Dialogue: 0,0:18:50.50,0:18:54.16,Twilight,,0,0,0,,and I'd hoped she'd be my pupil for a long time yet to come.
-Dialogue: 0,0:18:54.16,0:18:57.28,Twilight,,0,0,0,,But it turns out that's just not meant to be.
+Dialogue: 0,0:18:54.16,0:18:57.28,Twilight,,0,0,0,,But it turns out, that's just not meant to be.
 Dialogue: 0,0:18:58.96,0:19:01.44,Twilight,,0,0,0,,Starlight, you have proved yourself to be
-Dialogue: 0,0:19:01.44,0:19:06.45,Twilight,,0,0,0,,a kind, loyal, strong, honest and truly magical friend.
+Dialogue: 0,0:19:01.44,0:19:06.45,Twilight,,0,0,0,,a kind, loyal, strong, honest, and truly magical friend.
 Dialogue: 0,0:19:06.72,0:19:09.92,Twilight,,0,0,0,,Just looking around this room at all the new friendships you've made,
 Dialogue: 0,0:19:09.92,0:19:12.28,Twilight,,0,0,0,,I know there's nothing more I need to teach you.
 Dialogue: 0,0:19:13.34,0:19:15.97,Twilight,,0,0,0,,So we have a second reason to celebrate today.
 Dialogue: 0,0:19:15.97,0:19:19.52,Twilight,,0,0,0,,Three cheers for Starlight Glimmer on her graduation day!
 Dialogue: 0,0:19:23.02,0:19:24.85,PinkiePie,,0,0,0,,What a great surprise!
-Dialogue: 0,0:19:25.82,0:19:27.81,Twilight,,0,0,0,,Your future is in your own hooves now.
+Dialogue: 0,0:19:25.82,0:19:27.81,Twilight,,0,0,0,,The future's in your own hooves now.
 Dialogue: 0,0:19:28.20,0:19:28.78,StarlightGlimmer,,0,0,0,,Wow.
 Dialogue: 0,0:19:28.78,0:19:30.98,StarlightGlimmer,,0,0,0,,I was not expecting this!
 Dialogue: 0,0:19:33.12,0:19:33.80,Discord,,0,0,0,,Darn it.
@@ -379,18 +387,18 @@ Dialogue: 0,0:19:33.80,0:19:35.94,Discord,,0,0,0,,I was hoping you'd send her to
 Dialogue: 0,0:19:35.94,0:19:37.28,Discord,,0,0,0,,We could've been roomies.
 Dialogue: 0,0:19:37.28,0:19:40.02,Discord,,0,0,0,,Way to not pick up what I was putting down.
 Dialogue: 0,0:19:41.28,0:19:42.50,Trixie,,0,0,0,,How do you wanna celebrate?
-Dialogue: 0,0:19:42.50,0:19:44.46,Trixie,,0,0,0,,Girls trip to Las Pegasus?
-Dialogue: 0,0:19:44.72,0:19:47.16,Thorax,,0,0,0,,We can throw you a changeling Gorbfest!
+Dialogue: 0,0:19:42.50,0:19:44.46,Trixie,,0,0,0,,Girls' trip to Las Pegasus?
+Dialogue: 0,0:19:44.72,0:19:47.16,Thorax,,0,0,0,,We could throw you a changeling gourd fest!
 Dialogue: 0,0:19:47.91,0:19:49.42,Thorax,,0,0,0,,Uh, it's more fun than it sounds.
 Dialogue: 0,0:19:51.32,0:19:53.95,Discord,,0,0,0,,Or we could go cause a little mischief.
 Dialogue: 0,0:19:53.95,0:19:58.38,Discord,,0,0,0,,I know a trick that'll turn Celestia's castle into cheese.
-Dialogue: 0,0:19:58.57,0:20:00.63,Discord,,0,0,0,,Do you think it's a gouda idea?
+Dialogue: 0,0:19:58.57,0:20:00.63,Discord,,0,0,0,,Do you think that's a gouda idea?
 Dialogue: 0,0:20:02.21,0:20:05.76,Discord,,0,0,0,,That's just the first of many cheese jokes if we go down this path.
 Dialogue: 0,0:20:06.31,0:20:08.93,StarlightGlimmer,,0,0,0,,That all sounds wonderful, but...
 Dialogue: 0,0:20:09.82,0:20:11.42,StarlightGlimmer,,0,0,0,,Give me a minute, would ya…
 Dialogue: 0,0:20:13.67,0:20:15.56,Twilight,,0,0,0,,Congratulations.
 Dialogue: 0,0:20:15.56,0:20:16.52,StarlightGlimmer,,0,0,0,,Thanks.
-Dialogue: 0,0:20:16.84,0:20:18.87,Twilight,,0,0,0,,So, how do you feel?
+Dialogue: 0,0:20:16.84,0:20:18.87,Twilight,,0,0,0,,So how do you feel?
 Dialogue: 0,0:20:18.87,0:20:21.85,StarlightGlimmer,,0,0,0,,Happy, surprised, overwhelmed…
 Dialogue: 0,0:20:21.85,0:20:24.69,StarlightGlimmer,,0,0,0,,I mean… not that I'm not grateful but…
 Dialogue: 0,0:20:24.69,0:20:26.24,StarlightGlimmer,,0,0,0,,Are you sure?
@@ -410,6 +418,6 @@ Dialogue: 0,0:21:00.14,0:21:01.94,Twilight,,0,0,0,,It's fits perfectly over your
 Dialogue: 0,0:21:02.03,0:21:03.36,Twilight,,0,0,0,,I know, I measured.
 Dialogue: 0,0:21:04.24,0:21:05.24,StarlightGlimmer,,0,0,0,,Thank you.
 Dialogue: 0,0:21:05.46,0:21:07.70,Twilight,,0,0,0,,I may not know what come next to you,
-Dialogue: 0,0:21:07.70,0:21:11.63,Twilight,,0,0,0,,but whatever it is, I promise I'll always be there for you.
+Dialogue: 0,0:21:07.70,0:21:11.63,Twilight,,0,0,0,,but whatever it is - I promise I'll always be there for you.
 Dialogue: 0,0:21:34.00,0:21:36.43,Default,,0,0,0,,SCHASTLIVY PONEC
 Dialogue: 0,0:21:36.43,0:21:38.56,Default,,0,0,0,,anon2anon\Nsunnysubs.com

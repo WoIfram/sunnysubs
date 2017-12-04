@@ -9,13 +9,11 @@ WrapStyle: 0
 YCbCr Matrix: TV.601
 
 [Aegisub Project Garbage]
-Audio File: ../../../media/andrey/DATA/Downloads/YP-1T-07x20.mkv
-Video File: ../../../media/andrey/DATA/Downloads/YP-1T-07x20.mkv
+Audio File: ../MLP-FiM S07E20 A Health of Information 1080p.mkv
+Video File: ../MLP-FiM S07E20 A Health of Information 1080p.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Active Line: 5
-Video Position: 556
+Video Zoom Percent: 0.250000
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding

@@ -9,8 +9,10 @@ PlayResX: 1920
 PlayResY: 1080
 
 [Aegisub Project Garbage]
-Scroll Position: 116
-Active Line: 137
+Audio File: ../MLP-FiM S07E03 A Flurry of Emotions 1080p.mkv
+Video File: ../MLP-FiM S07E03 A Flurry of Emotions 1080p.mkv
+Video AR Mode: 4
+Video AR Value: 1.777778
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -164,7 +166,7 @@ Dialogue: 0,0:09:51.08,0:09:54.84,Spike,,0,0,0,,Yeah, but if you add it to the f
 Dialogue: 0,0:09:54.84,0:09:55.83,Spike,,0,0,0,,we're still
 Dialogue: 0,0:09:55.83,0:09:57.66,Spike,,0,0,0,,fifty five minutes behind!
 Dialogue: 0,0:09:59.39,0:10:00.57,Spike,,0,0,0,,I mean,
-Dialogue: 0,0:10:00.57,0:10:02.57,Spike,,0,0,0,,yay, team?
+Dialogue: 0,0:10:00.57,0:10:02.57,Spike,,0,0,0,,eighteen.
 Dialogue: 0,0:10:04.45,0:10:06.31,Twilight,,0,0,0,,Thanks for helping us out, Cheerilee.
 Dialogue: 0,0:10:06.31,0:10:07.53,Twilight,,0,0,0,,Sorry we were late.
 Dialogue: 0,0:10:07.53,0:10:09.05,Cheerilee,,0,0,0,,Oh, no problem!

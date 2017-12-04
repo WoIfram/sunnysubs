@@ -8,6 +8,14 @@ YCbCr Matrix: TV.601
 PlayResX: 1920
 PlayResY: 1080
 
+[Aegisub Project Garbage]
+Audio File: ../MLP-FiM S07E07 Parental Glideance 1080p.mkv
+Video File: ../MLP-FiM S07E07 Parental Glideance 1080p.mkv
+Video AR Mode: 4
+Video AR Value: 1.777778
+Video Zoom Percent: 0.250000
+Video Position: 116
+
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Somepony,Arial,68,&H00FFFFFF,&H000000FF,&H007D7E80,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
@@ -382,7 +390,7 @@ Dialogue: 0,0:19:56.13,0:19:58.35,RainbowDash,,0,0,0,,"I love my parents and I'm
 Dialogue: 0,0:19:58.35,0:19:59.85,RainbowDash,,0,0,0,,and I know that they made me who I am today,
 Dialogue: 0,0:19:59.85,0:20:02.13,RainbowDash,,0,0,0,,so I really wanna make it up for them" event.
 Dialogue: 0,0:20:05.15,0:20:06.05,RainbowDash,,0,0,0,,Enjoy!
-Dialogue: 0,0:20:11.34,0:20:12.61,RainbowDash,,0,0,0,,Thanks for doing this.
+Dialogue: 0,0:20:10.09,0:20:12.61,RainbowDash,,0,0,0,,Thanks for doing this.
 Dialogue: 0,0:20:12.61,0:20:13.89,Spitfire,,0,0,0,,Happy to help.
 Dialogue: 0,0:20:38.81,0:20:40.87,RainbowDash,,0,0,0,,Mom and dad, I want you to know
 Dialogue: 0,0:20:40.95,0:20:43.38,RainbowDash,,0,0,0,,that I am your biggest fan.

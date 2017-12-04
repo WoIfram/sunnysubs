@@ -8,6 +8,14 @@ ScriptType: v4.00+
 WrapStyle: 0
 YCbCr Matrix: TV.601
 
+[Aegisub Project Garbage]
+Audio File: ../MLP-FiM S07E13 The Perfect Pear 1080p.mkv
+Video File: ../MLP-FiM S07E13 The Perfect Pear 1080p.mkv
+Video AR Mode: 4
+Video AR Value: 1.777778
+Video Zoom Percent: 0.250000
+Video Position: 418
+
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: AppleBloom,Arial,68,&H00C0FAF4,&H000000FF,&H006F00FF,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1

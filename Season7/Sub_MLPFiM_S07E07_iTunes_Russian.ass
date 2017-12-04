@@ -9,7 +9,12 @@ PlayResX: 1920
 PlayResY: 1080
 
 [Aegisub Project Garbage]
-Video Zoom Percent: 0.500000
+Last Style Storage: Default
+Audio File: ../MLP-FiM S07E06 Forever Filly 1080p.mkv
+Video File: ../MLP-FiM S07E06 Forever Filly 1080p.mkv
+Video AR Mode: 4
+Video AR Value: 1.777778
+Video Zoom Percent: 0.250000
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -20,7 +25,7 @@ Style: AppleBloom,Arial,68,&H00C0FAF4,&H000000FF,&H006F00FF,&H00000000,0,0,0,0,1
 Style: Scootaloo,Arial,68,&H00A0DAFF,&H000000FF,&H007800A0,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
 Style: SweetieBelle,Arial,68,&H00E8F0FF,&H000000FF,&H00752A5E,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
 Style: BowHothoof,Arial,68,&H00E9D7D6,&H000000FF,&H0064331E,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
-Style: Cheerilee,Arial,68,&H009D69C3,&H000000FF,&H00361F46,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Cheerilee,Arial,68,&H009D69C3,&H000000FF,&H0065358A,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
 Style: Wonderbolt,Arial,68,&H00AFEEFA,&H000000FF,&H00BF8604,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
 Style: WindyWhistles,Arial,68,&H00E7CFCF,&H000000FF,&H003A4191,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
 Style: Spitfire,Arial,68,&H00BEF6FD,&H0007B3B5,&H000063BE,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
@@ -385,7 +390,7 @@ Dialogue: 0,0:19:56.13,0:19:58.35,RainbowDash,,0,0,0,,"Я люблю своих 
 Dialogue: 0,0:19:58.35,0:19:59.85,RainbowDash,,0,0,0,,и я знаю, что благодаря им я стала той, кто я есть сейчас,
 Dialogue: 0,0:19:59.85,0:20:02.13,RainbowDash,,0,0,0,,так что я очень хочу загладить свою вину".
 Dialogue: 0,0:20:05.15,0:20:06.05,RainbowDash,,0,0,0,,Наслаждайтесь!
-Dialogue: 0,0:20:11.34,0:20:12.61,RainbowDash,,0,0,0,,Спасибо за поддержку.
+Dialogue: 0,0:20:10.09,0:20:12.61,RainbowDash,,0,0,0,,Спасибо за поддержку.
 Dialogue: 0,0:20:12.61,0:20:13.89,Spitfire,,0,0,0,,Рада помочь.
 Dialogue: 0,0:20:38.81,0:20:40.87,RainbowDash,,0,0,0,,Мам, пап, я хочу, чтобы вы знали:
 Dialogue: 0,0:20:40.95,0:20:43.38,RainbowDash,,0,0,0,,я ваша самая большая фанатка.

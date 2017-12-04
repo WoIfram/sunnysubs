@@ -9,14 +9,11 @@ PlayResX: 1920
 PlayResY: 1080
 
 [Aegisub Project Garbage]
-Audio File: G:/My Little Pony/YP-1T-07x19.mkv
-Video File: G:/My Little Pony/YP-1T-07x19.mkv
+Audio File: ../MLP-FiM S07E19 It Isn't the Mane Thing About You 1080p.mkv
+Video File: ../MLP-FiM S07E19 It Isn't the Mane Thing About You 1080p.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Scroll Position: 324
-Active Line: 339
-Video Position: 30140
+Video Zoom Percent: 0.250000
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding

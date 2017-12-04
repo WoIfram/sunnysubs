@@ -8,6 +8,13 @@ ScriptType: v4.00+
 WrapStyle: 0
 YCbCr Matrix: TV.601
 
+[Aegisub Project Garbage]
+Audio File: ../MLP-FiM S07E18 Daring Done 1080p.mkv
+Video File: ../MLP-FiM S07E18 Daring Done 1080p.mkv
+Video AR Mode: 4
+Video AR Value: 1.777778
+Video Zoom Percent: 0.250000
+
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Caballeron,Arial,68,&H00DBE8EA,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1

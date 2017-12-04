@@ -8,6 +8,13 @@ YCbCr Matrix: TV.601
 PlayResX: 1920
 PlayResY: 1080
 
+[Aegisub Project Garbage]
+Audio File: ../MLP-FiM S07E22 Once Upon a Zepplin 1080p.mkv
+Video File: ../MLP-FiM S07E22 Once Upon a Zepplin 1080p.mkv
+Video AR Mode: 4
+Video AR Value: 1.777778
+Video Zoom Percent: 0.250000
+
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Somepony,Arial,68,&H00FFFFFF,&H000000FF,&H007D7E80,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
@@ -321,7 +328,7 @@ Dialogue: 0,0:15:47.65,0:15:52.18,IronWill,,0,0,0,,Come get in line if you want 
 Dialogue: 0,0:16:03.01,0:16:05.04,Somepony,,0,0,0,,Best day ever!\NCan you believe it?
 Dialogue: 0,0:16:08.79,0:16:10.27,Twilight,,0,0,0,,How long have you been waiting?
 Dialogue: 0,0:16:15.61,0:16:17.36,Twilight,,0,0,0,,Oh, no. What time is it!?
-Dialogue: 0,0:16:31.24,0:16:33.74,Twilight,,0,0,0,,I missed them? I missed the Northern Stars?
+Dialogue: 0,0:16:30.24,0:16:33.04,Twilight,,0,0,0,,I missed them? I missed the Northern Stars?
 Dialogue: 0,0:16:35.81,0:16:37.51,PrincessCadence,,0,0,0,,You were right, Twilight.
 Dialogue: 0,0:16:37.51,0:16:39.31,PrincessCadence,,0,0,0,,They were breathtaking.
 Dialogue: 0,0:16:40.35,0:16:43.39,NightLight,,0,0,0,,Aw, we wish you'd been here to see it, sweet pea, but

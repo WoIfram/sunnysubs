@@ -8,6 +8,13 @@ YCbCr Matrix: TV.601
 PlayResX: 1920
 PlayResY: 1080
 
+[Aegisub Project Garbage]
+Audio File: ../MLP-FiM S07E21  Marks and Recreation 1080p.mkv
+Video File: ../MLP-FiM S07E21  Marks and Recreation 1080p.mkv
+Video AR Mode: 4
+Video AR Value: 1.777778
+Video Zoom Percent: 0.250000
+
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Somepony,Arial,68,&H00FFFFFF,&H000000FF,&H007D7E80,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
@@ -23,7 +30,7 @@ Style: Thunderlane,Arial,68,&H00CED29D,&H000000FF,&H00565355,&H00010201,0,0,0,0,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:05.99,0:00:10.17,AppleBloom,,0,0,0,,OK! Let's see how you still life's comin' along, Kettle Corn.
+Dialogue: 0,0:00:05.99,0:00:10.17,AppleBloom,,0,0,0,,OK! Let's see how you still life's comin' along, Kettle Corn
 Dialogue: 0,0:00:11.57,0:00:14.22,SweetieBelle,,0,0,0,,Well, that certainly is…
 Dialogue: 0,0:00:14.22,0:00:15.15,SweetieBelle,,0,0,0,,round.
 Dialogue: 0,0:00:15.15,0:00:16.90,KettleCorn,,0,0,0,,I can make it rounder!
