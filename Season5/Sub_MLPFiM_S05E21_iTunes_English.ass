@@ -1,0 +1,478 @@
+﻿[Script Info]
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,68,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,4.5,4.5,2,30,30,45,1
+Style: Twilight,Arial,68,&H00FFFFFF,&H000000FF,&H00AE568C,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: RainbowDash,Arial,68,&H00FFFFFF,&H000000FF,&H00D29B1E,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: AppleJack,Arial,68,&H00FFFFFF,&H000000FF,&H00005AFF,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Applejack,Arial,68,&H00FFFFFF,&H000000FF,&H00005AFF,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: PinkiePie,Arial,68,&H00FFFFFF,&H000000FF,&H009300E8,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: FlutterShy,Arial,68,&H00D2F9FF,&H000000FF,&H009542D6,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Fluttershy,Arial,68,&H00D2F9FF,&H000000FF,&H009542D6,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Rarity,Arial,68,&H00FFFBF0,&H000000FF,&H00690050,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Celestia,Arial,68,&H00FBF8FD,&H000000FF,&H00D177CB,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Spike,Arial,68,&H00F9FFF9,&H000000FF,&H00209322,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Somepony,Arial,68,&H00FFFFFF,&H000000FF,&H007D7E80,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Auto,Arial,68,&H00FFFFFF,&H000000FF,&H007D7E80,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Luna,Arial,68,&H00FFD6D7,&H000000FF,&H00BB4416,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Shining_Armor,Arial,68,&H00FFFFFF,&H000000FF,&H007C473B,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: PrincessCadence,Arial,68,&H00D7F8FE,&H000000FF,&H00B0327F,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Guard,Arial,68,&H00FFFFFF,&H000000FF,&H00CDAB9F,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Librarian_Gray,Arial,68,&H00F2F2F2,&H000000FF,&H00C69E96,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Librarian,Arial,68,&H00F9F4FF,&H000000FF,&H00CA9191,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: AppleBloom,Arial,68,&H00C0FAF4,&H000000FF,&H006F00FF,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: GrannySmith,Arial,68,&H00FFFFFF,&H000000FF,&H0000A37B,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Scootaloo,Arial,68,&H00A0DAFF,&H000000FF,&H007800A0,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: SweetieBelle,Arial,68,&H00E8F0FF,&H000000FF,&H00752A5E,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: BabsSeed,Arial,68,&H00ABCBE6,&H000000FF,&H004608E5,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: DiamondTiara,Arial,68,&H00FFE6FA,&H00FFFFFF,&H00AD5F8A,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: SilverSpoon,Arial,68,&H00FFFFFF,&H000000FF,&H009A957F,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Trixie,Arial,68,&H00FAEFDA,&H000000FF,&H00674303,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Zecora,Arial,68,&H00EAEAEA,&H000000FF,&H003F3F3F,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Snips,Arial,68,&H00F8F9F3,&H000000FF,&H00626B2C,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Snails,Arial,68,&H00DEF2FF,&H000000FF,&H00066FA6,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: MysteryPony,Arial,68,&H002B2415,&H000000FF,&H00D7CCBC,&H00000000,0,0,0,0,100,100,0,0,1,1.5,1.5,2,30,30,45,1
+Style: MrCake,Arial,68,&H0064D1E4,&H000000FF,&H003295F4,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: MrsCake,Arial,68,&H00F2E195,&H000000FF,&H00885DDC,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Spitfire,Arial,68,&H00BEF6FD,&H0007B3B5,&H000063BE,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: LightingDust,Arial,68,&H00FAFFF0,&H005BD6EE,&H0097B400,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: KingSombra,Arial,68,&H00C6C6C6,&H00000000,&H000F0EC8,&H00111211,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: BigMac,Arial,68,&H00C2E1FF,&H00001FFF,&H000000DE,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: AppleRose,Arial,68,&H00DCECFF,&H00F2F1F4,&H006459CA,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Applesauce,Arial,68,&H00E9FFF4,&H00000000,&H0012C055,&H00111211,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Discord,Arial,68,&H00DAE7EE,&H000000FF,&H001A6A9D,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: RevizorReal,Arial,68,&H00FFFFFF,&H000000FF,&H007D7E80,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Mayor,Arial,68,&H0073AEC2,&H000000FF,&H002C2C2C,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Cheerilee,Arial,68,&H009D69C3,&H000000FF,&H0065358A,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: SunsetShimmer,Arial,68,&H0099DFF9,&H000000FF,&H00001891,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: FlashSentry,Arial,68,&H00FFFFFF,&H000000FF,&H007D7E80,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Reference,Arial,45,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2.25,2.25,8,30,30,45,1
+Style: Prim,Arial,68,&H00FFFFFF,&H000000FF,&H007D7E80,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Suri,Arial,68,&H00FFFFFF,&H000000FF,&H007D7E80,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Coco,Arial,68,&H00FFFFFF,&H000000FF,&H007D7E80,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: FlimFlam,Arial,68,&H00B6F6F4,&H000000FF,&H004230C0,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: StarlightGlimmer,Arial,68,&H00F5CEF2,&H000000FF,&H005C0104,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: StarlightEqual,Arial,68,&H00FFEAF8,&H000000FF,&H00636363,&H00000000,0,0,0,0,100,100,0,0,1,3,3,2,30,30,45,1
+Style: Loudspeaker,Arial,68,&H00FFFFFF,&H000000FF,&H007D7E80,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,8,30,30,45,1
+Style: Shadow,Arial,68,&H00C6C6C6,&H00000000,&H000F0EC8,&H00111211,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Sheriff,Arial,68,&H0085C7CD,&H000000FF,&H00195971,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Braeburn,Arial,68,&H0097ECF0,&H000000FF,&H001F8AC2,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Troubleshoes,Arial,68,&H00A6A6C5,&H000000FF,&H002E2950,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: TreeHugger,Arial,68,&H006AE7AC,&H00000000,&H00379A54,&H00111211,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: MaudPie,Arial,68,&H00FFD0D8,&H000000FF,&H00823F54,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Gilda,Arial,68,&H00FFFFFF,&H000000FF,&H00297690,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,29,29,45,1
+Style: Cranky,Arial,68,&H00DCEBF4,&H000000FF,&H004F6567,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Matilda,Arial,68,&H00C1EDFE,&H000000FF,&H002A5F64,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Derpy,Arial,68,&H00ABFBF5,&H000000FF,&H00A67B6F,&H00000000,0,0,0,0,100,100,0,0,1,2.5,2.25,2,30,30,45,1
+Style: DrWhooves,Arial,68,&H00B7DDED,&H000000FF,&H00172732,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: JeffLetrotski,Arial,68,&H00E0EEF3,&H000000FF,&H002585B7,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: LillyValley,Arial,68,&H00B4EDF6,&H000000FF,&H007247B4,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Daisy,Arial,68,&H00FCDFFE,&H000000FF,&H0000AA61,&H00000000,0,0,0,0,100,100,0,0,1,3,2.25,2,30,30,45,1
+Style: Rose,Arial,68,&H00C5E7E8,&H000000FF,&H005335A0,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Lyra,Arial,68,&H00F2F6DD,&H000000FF,&H003A6119,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: BonBon,Arial,68,&H00F8DFFF,&H000000FF,&H00905838,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Octavia,Arial,68,&H00C6CDCF,&H000000FF,&H00333033,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: AmethystStar,Arial,68,&H00FFEBFD,&H000000FF,&H008E245E,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: StevenMagnet,Arial,68,&H007FFDFF,&H000000FF,&H00954D8E,&H00000000,0,0,0,0,100,100,0,0,1,2.5,2.25,2,30,30,45,1
+Style: Gummy,Arial,68,&H00D5FEE4,&H000000FF,&H001F7C20,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: FancyPants,Arial,68,&H00FFFFFF,&H000000FF,&H00ABAA99,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,30,30,45,1
+Style: CherryJubilee,Arial,68,&H00AAE8F4,&H000000FF,&H00321979,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,30,30,45,1
+Style: Rutherford,Arial,68,&H005F98B8,&H000000FF,&H00173D77,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Moondancer,Arial,68,&H00F0FEFD,&H000000FF,&H004D12BC,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: LemonHearts,Arial,68,&H00C8FFFC,&H000000FF,&H006B5B0D,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Minuette,Arial,68,&H00FFFFFF,&H000000FF,&H00A16A3C,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: TwinkleShine,Arial,68,&H00F4FFFD,&H000000FF,&H00A96ABA,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Pipsqueak,Arial,68,&H00DEF2FF,&H000000FF,&H00066FA6,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: SomeponyYellow,Arial,68,&H0098FFFE,&H000000FF,&H00333333,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,30,30,45,1
+Style: SomeponyWhiteOnDarkBlue,Arial,68,&H00FFFFFF,&H000000FF,&H00882200,&H00000000,0,0,0,0,100,100,0,0,1,2.5,2.5,2,30,30,45,1
+Style: SomeponyLightPink,Arial,68,&H00B6B2FE,&H000000FF,&H00262663,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,30,30,45,1
+Style: SomeponyOrange,Arial,68,&H0058B2FE,&H000000FF,&H00333333,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,30,30,45,1
+Style: SomeponyBluishWhite,Arial,68,&H00FFE2D8,&H000000FF,&H00333333,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,30,30,45,1
+Style: SomeponyLightCyan,Arial,68,&H00FBFFB0,&H000000FF,&H00333333,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,30,30,45,1
+Style: Sassy,Arial,68,&H00FFF2D2,&H000000FF,&H002D3492,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: FashionPlate,Arial,68,&H00F5EAD2,&H000000FF,&H0025231D,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Windrider,Arial,68,&H00FEECC7,&H000000FF,&H0046666B,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Soarin,Arial,68,&H00FFF4D1,&H000000FF,&H008A4220,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Wonderbolt,Arial,68,&H00AFEEFA,&H000000FF,&H00BF8604,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:08.60,0:00:09.46,Fluttershy,,0,0,0,,Fuzzy Legs,
+Dialogue: 0,0:00:09.46,0:00:11.33,Fluttershy,,0,0,0,,do you think you could secure those windows?
+Dialogue: 0,0:00:14.19,0:00:17.13,Fluttershy,,0,0,0,,And you'll alert me if anything scary comes close to the cottage?
+Dialogue: 0,0:00:17.88,0:00:19.53,Fluttershy,,0,0,0,,Oh, who am I kidding?
+Dialogue: 0,0:00:19.53,0:00:22.57,Fluttershy,,0,0,0,,When something scary comes close to the cottage.
+Dialogue: 0,0:00:22.57,0:00:25.09,Fluttershy,,0,0,0,,Please tell me my hiding place is ready?
+Dialogue: 0,0:00:28.19,0:00:29.28,Fluttershy,,0,0,0,,Oh, look.
+Dialogue: 0,0:00:29.28,0:00:33.21,Fluttershy,,0,0,0,,You filled it with everything I need to survive this awful night.
+Dialogue: 0,0:00:34.16,0:00:35.14,Fluttershy,,0,0,0,,Thank you.
+Dialogue: 0,0:00:35.14,0:00:36.52,Fluttershy,,0,0,0,,Thank you all.
+Dialogue: 0,0:00:37.23,0:00:39.22,Fluttershy,,0,0,0,,Now I don't have to step a hoof outside
+Dialogue: 0,0:00:39.22,0:00:41.13,Fluttershy,,0,0,0,,until this whole thing is over.
+Dialogue: 0,0:00:45.67,0:00:46.49,Fluttershy,,0,0,0,,Oh no.
+Dialogue: 0,0:00:46.49,0:00:47.72,Fluttershy,,0,0,0,,You don't have any carrots?
+Dialogue: 0,0:00:48.35,0:00:51.54,Fluttershy,,0,0,0,,Do you have any other fresh veggies you may enjoy?
+Dialogue: 0,0:00:51.54,0:00:52.81,Fluttershy,,0,0,0,,Or maybe some hay?
+Dialogue: 0,0:00:54.17,0:00:54.84,Fluttershy,,0,0,0,,But,
+Dialogue: 0,0:00:54.84,0:00:56.98,Fluttershy,,0,0,0,,that means I'll need to go out.
+Dialogue: 0,0:00:56.98,0:00:59.05,Fluttershy,,0,0,0,,On Nightmare Night!
+Dialogue: 0,0:02:00.27,0:02:01.47,Somepony,,0,0,0,,Nightmare Night!
+Dialogue: 0,0:02:01.47,0:02:02.66,Somepony,,0,0,0,,What a fright!
+Dialogue: 0,0:02:02.66,0:02:05.06,Somepony,,0,0,0,,Gimme something sweet to bite!
+Dialogue: 0,0:02:07.32,0:02:08.47,Somepony,,0,0,0,,Nightmare Night!
+Dialogue: 0,0:02:08.47,0:02:09.66,Somepony,,0,0,0,,What a fright!
+Dialogue: 0,0:02:09.66,0:02:11.68,Somepony,,0,0,0,,Gimme something sweet to bite!
+Dialogue: 0,0:02:14.15,0:02:15.33,GrannySmith,,0,0,0,,Fluttershy?
+Dialogue: 0,0:02:16.18,0:02:18.05,GrannySmith,,0,0,0,,What are you doin' out and about?
+Dialogue: 0,0:02:18.05,0:02:20.52,GrannySmith,,0,0,0,,It's Nightmare Night, remember?
+Dialogue: 0,0:02:20.52,0:02:22.31,Fluttershy,,0,0,0,,How can I forget.
+Dialogue: 0,0:02:23.96,0:02:27.38,Fluttershy,,0,0,0,,I don't suppose I can borrow a few pieces of hay from you?
+Dialogue: 0,0:02:27.38,0:02:30.01,Fluttershy,,0,0,0,,I forgot to stock up on food for Angel and
+Dialogue: 0,0:02:30.01,0:02:31.90,Fluttershy,,0,0,0,,you do seem to have quite a lot.
+Dialogue: 0,0:02:31.90,0:02:34.99,GrannySmith,,0,0,0,,We need it for the Apple Family Haunted Maze!
+Dialogue: 0,0:02:34.99,0:02:39.11,GrannySmith,,0,0,0,,The scariest maze that there ever was!
+Dialogue: 0,0:02:39.11,0:02:41.66,GrannySmith,,0,0,0,,Who knows what lurks inside?
+Dialogue: 0,0:02:42.38,0:02:44.40,Fluttershy,,0,0,0,,I'm sure I don't.
+Dialogue: 0,0:02:44.40,0:02:47.14,GrannySmith,,0,0,0,,Is it the mummified pony that just bleed down at ya?
+Dialogue: 0,0:02:47.14,0:02:48.22,Fluttershy,,0,0,0,,I don't know.
+Dialogue: 0,0:02:48.22,0:02:49.26,Fluttershy,,0,0,0,,Is it?
+Dialogue: 0,0:02:49.26,0:02:52.76,GrannySmith,,0,0,0,,And what's that crunching sound beneath your hooves?
+Dialogue: 0,0:02:52.76,0:02:57.77,GrannySmith,,0,0,0,,Maybe it's the bones of ponies that didn't make it out alive!
+Dialogue: 0,0:02:57.77,0:02:58.68,Fluttershy,,0,0,0,,Bones?
+Dialogue: 0,0:02:58.68,0:03:00.56,GrannySmith,,0,0,0,,And are those peeled grapes,
+Dialogue: 0,0:03:00.56,0:03:05.11,GrannySmith,,0,0,0,,or a thosaund slimy eyeballs, staring at you from beyong the grave?
+Dialogue: 0,0:03:05.11,0:03:07.75,Fluttershy,,0,0,0,,Please tell me they're the grapes.
+Dialogue: 0,0:03:07.75,0:03:09.32,GrannySmith,,0,0,0,,Oh, I'll never tell.
+Dialogue: 0,0:03:14.52,0:03:16.48,GrannySmith,,0,0,0,,I wonder what got stuck in her craw.
+Dialogue: 0,0:03:24.69,0:03:25.67,Fluttershy,,0,0,0,,Twilight?
+Dialogue: 0,0:03:28.85,0:03:30.23,Fluttershy,,0,0,0,,Hello?
+Dialogue: 0,0:03:41.04,0:03:42.44,Spike,,0,0,0,,You think it's scary now?
+Dialogue: 0,0:03:42.44,0:03:43.97,Spike,,0,0,0,,Just wait until it's done.
+Dialogue: 0,0:03:45.73,0:03:46.52,Fluttershy,,0,0,0,,That's okay.
+Dialogue: 0,0:03:46.52,0:03:48.14,Fluttershy,,0,0,0,,I'll take your word for it.
+Dialogue: 0,0:03:50.71,0:03:53.01,Spike,,0,0,0,,Hey, wait a minute.
+Dialogue: 0,0:03:53.01,0:03:54.20,Spike,,0,0,0,,It's Nightmare Night!
+Dialogue: 0,0:03:54.20,0:03:56.59,Spike,,0,0,0,,And you're here and not hold up in your cottage.
+Dialogue: 0,0:03:57.10,0:03:58.79,Spike,,0,0,0,,Does that's means I think it means?!
+Dialogue: 0,0:03:58.79,0:04:01.32,Fluttershy,,0,0,0,,That I foolishly forgot to stock up on food for Angel
+Dialogue: 0,0:04:01.32,0:04:03.76,Fluttershy,,0,0,0,,and had to go out to get him some but got spooked in town
+Dialogue: 0,0:04:03.76,0:04:06.48,Fluttershy,,0,0,0,,so I came here hoping that Twilight has some lettuce I could give him.
+Dialogue: 0,0:04:07.27,0:04:10.28,Spike,,0,0,0,,Oh. I thought maybe you decided to come out with us tonight.
+Dialogue: 0,0:04:10.28,0:04:11.55,Fluttershy,,0,0,0,,Goodness no!
+Dialogue: 0,0:04:11.55,0:04:13.28,Fluttershy,,0,0,0,,I couldn't be out tonight.
+Dialogue: 0,0:04:13.28,0:04:14.70,Fluttershy,,0,0,0,,I just couldn't.
+Dialogue: 0,0:04:14.70,0:04:17.11,Spike,,0,0,0,,Technically speaking you already are out right now.
+Dialogue: 0,0:04:19.26,0:04:20.96,Fluttershy,,0,0,0,,I guess that is true.
+Dialogue: 0,0:04:20.96,0:04:24.03,Spike,,0,0,0,,So, what if you stayed out a little longer with your friends?
+Dialogue: 0,0:04:24.03,0:04:26.08,Spike,,0,0,0,,I know they'll be super excited!
+Dialogue: 0,0:04:26.08,0:04:27.23,Fluttershy,,0,0,0,,You think so?
+Dialogue: 0,0:04:27.23,0:04:29.62,Spike,,0,0,0,,You would make them so happy if you joined in!
+Dialogue: 0,0:04:29.62,0:04:31.21,Spike,,0,0,0,,They wouldn't believe their own eyes!
+Dialogue: 0,0:04:31.21,0:04:32.73,Spike,,0,0,0,,Come on, Fluttershy.
+Dialogue: 0,0:04:32.73,0:04:33.88,Spike,,0,0,0,,What do you say?
+Dialogue: 0,0:04:38.53,0:04:39.79,PinkiePie,,0,0,0,,And then,
+Dialogue: 0,0:04:39.79,0:04:42.71,PinkiePie,,0,0,0,,it got very, very quiet.
+Dialogue: 0,0:04:42.71,0:04:44.50,PinkiePie,,0,0,0,,And suddenly, they realized:
+Dialogue: 0,0:04:44.50,0:04:47.88,PinkiePie,,0,0,0,,the baloons had never been inflated!
+Dialogue: 0,0:04:53.13,0:04:54.68,Rarity,,0,0,0,,Did I ever tell you
+Dialogue: 0,0:04:54.68,0:04:57.70,Rarity,,0,0,0,,about the night that the mannequin came to life?
+Dialogue: 0,0:04:57.70,0:05:00.13,Rarity,,0,0,0,,And haunted all the costumes.
+Dialogue: 0,0:05:00.13,0:05:01.72,RainbowDash,,0,0,0,,What happened?
+Dialogue: 0,0:05:01.72,0:05:02.75,Rarity,,0,0,0,,I just told you, darling.
+Dialogue: 0,0:05:02.75,0:05:03.94,Rarity,,0,0,0,,The mannequin came to life.
+Dialogue: 0,0:05:03.94,0:05:05.62,Rarity,,0,0,0,,Haunted all of the costumes.
+Dialogue: 0,0:05:06.20,0:05:08.56,Fluttershy,,0,0,0,,Hi, everypony.
+Dialogue: 0,0:05:08.56,0:05:10.55,Twilight,,0,0,0,,Fluttershy, what are you doing here?
+Dialogue: 0,0:05:10.55,0:05:11.86,Twilight,,0,0,0,,Is everything okay?
+Dialogue: 0,0:05:11.86,0:05:13.17,Fluttershy,,0,0,0,,Everything is fine.
+Dialogue: 0,0:05:13.17,0:05:15.67,Fluttershy,,0,0,0,,In fact, it's more than fine.
+Dialogue: 0,0:05:15.67,0:05:19.24,Fluttershy,,0,0,0,,I've decided to join you on Nightmare Night festivities.
+Dialogue: 0,0:05:21.20,0:05:24.56,RainbowDash,,0,0,0,,Seriously? You? Out? Tonight?
+Dialogue: 0,0:05:25.84,0:05:28.30,Fluttershy,,0,0,0,,Every Nightmare Night I shut myself in my cottage
+Dialogue: 0,0:05:28.30,0:05:30.24,Fluttershy,,0,0,0,,and refuse to come out until morning.
+Dialogue: 0,0:05:30.24,0:05:33.51,Fluttershy,,0,0,0,,But it's just like I was afraid to sing in front of anypony.
+Dialogue: 0,0:05:33.51,0:05:35.29,Fluttershy,,0,0,0,,If hadn't gave it a try,
+Dialogue: 0,0:05:35.29,0:05:38.10,Fluttershy,,0,0,0,,I never would have found how much I enjoy it.
+Dialogue: 0,0:05:38.10,0:05:40.55,Applejack,,0,0,0,,And we would've missed out on how great you sound.
+Dialogue: 0,0:05:41.17,0:05:43.64,Rarity,,0,0,0,,Fluttershy, with us on Nightmare Night?
+Dialogue: 0,0:05:43.64,0:05:47.24,Rarity,,0,0,0,,Why, that's positively the most wonderful news I've heard in ages!
+Dialogue: 0,0:05:47.98,0:05:49.80,PinkiePie,,0,0,0,,You could get dressed up in costumes with us,
+Dialogue: 0,0:05:49.80,0:05:51.33,PinkiePie,,0,0,0,,then play Nightmare Night games with us,
+Dialogue: 0,0:05:51.33,0:05:53.07,PinkiePie,,0,0,0,,and eat candy apples with us!
+Dialogue: 0,0:05:53.07,0:05:55.13,Applejack,,0,0,0,,Don't forget the best part:
+Dialogue: 0,0:05:55.13,0:05:57.50,Applejack,,0,0,0,,going through my family scare maze!
+Dialogue: 0,0:05:58.06,0:05:59.14,Fluttershy,,0,0,0,,Oh, right.
+Dialogue: 0,0:05:59.14,0:05:59.99,Fluttershy,,0,0,0,,The maze.
+Dialogue: 0,0:06:01.10,0:06:02.69,Applejack,,0,0,0,,Only if you are up for it.
+Dialogue: 0,0:06:03.83,0:06:04.71,Fluttershy,,0,0,0,,I am.
+Dialogue: 0,0:06:04.71,0:06:07.32,Fluttershy,,0,0,0,,I'm ready to take on Nightmare Night.
+Dialogue: 0,0:06:13.69,0:06:15.25,Fluttershy,,0,0,0,,Just practicing.
+Dialogue: 0,0:06:28.56,0:06:29.23,Rarity,,0,0,0,,Mummy?
+Dialogue: 0,0:06:29.82,0:06:30.31,Rarity,,0,0,0,,No.
+Dialogue: 0,0:06:30.85,0:06:31.77,Rarity,,0,0,0,,Headless pony?
+Dialogue: 0,0:06:32.31,0:06:33.11,Rarity,,0,0,0,,No.
+Dialogue: 0,0:06:33.11,0:06:34.34,Rarity,,0,0,0,,Vampire fruitbat?
+Dialogue: 0,0:06:35.38,0:06:36.63,Rarity,,0,0,0,,Definitely no.
+Dialogue: 0,0:06:37.78,0:06:39.27,Rarity,,0,0,0,,You see, Fluttershy,
+Dialogue: 0,0:06:39.27,0:06:40.88,Rarity,,0,0,0,,the beauty of Nightmare Night is
+Dialogue: 0,0:06:40.88,0:06:43.63,Rarity,,0,0,0,,that you don't have to dress up as something scary.
+Dialogue: 0,0:06:46.59,0:06:48.19,Rarity,,0,0,0,,Yes.
+Dialogue: 0,0:06:48.19,0:06:50.08,Rarity,,0,0,0,,This one would look gorgeous on you.
+Dialogue: 0,0:06:50.08,0:06:52.49,Rarity,,0,0,0,,Period costumes are all the rage this year.
+Dialogue: 0,0:06:54.22,0:06:55.28,Rarity,,0,0,0,,What? Not good?
+Dialogue: 0,0:06:55.28,0:06:58.57,Fluttershy,,0,0,0,,What if we encounter something terrifying and need to get away quickly,
+Dialogue: 0,0:06:58.57,0:07:01.12,Fluttershy,,0,0,0,,all these layers can slow me down or worse…
+Dialogue: 0,0:07:01.12,0:07:02.39,Fluttershy,,0,0,0,,make me trip!
+Dialogue: 0,0:07:03.42,0:07:05.08,Rarity,,0,0,0,,I never consider that.
+Dialogue: 0,0:07:05.08,0:07:05.94,Rarity,,0,0,0,,Never fear!
+Dialogue: 0,0:07:07.65,0:07:10.26,Rarity,,0,0,0,,Now this is a real stunner.
+Dialogue: 0,0:07:10.26,0:07:12.43,Rarity,,0,0,0,,I call it… Masquerade!
+Dialogue: 0,0:07:13.05,0:07:15.00,Rarity,,0,0,0,,Just a simple black dress underneath,
+Dialogue: 0,0:07:15.00,0:07:18.13,Rarity,,0,0,0,,but with this ornately decorated mask!
+Dialogue: 0,0:07:18.13,0:07:19.24,Fluttershy,,0,0,0,,Mask?
+Dialogue: 0,0:07:20.52,0:07:21.64,Rarity,,0,0,0,,No?
+Dialogue: 0,0:07:21.64,0:07:24.45,Fluttershy,,0,0,0,,They can just be so difficult to see out of.
+Dialogue: 0,0:07:24.95,0:07:26.86,Rarity,,0,0,0,,Yes, but… this one has eyeholes.
+Dialogue: 0,0:07:27.92,0:07:31.35,Fluttershy,,0,0,0,,What about being able to see what's on the left or right of me?
+Dialogue: 0,0:07:32.25,0:07:35.36,Rarity,,0,0,0,,I suppose your vision would be somewhat obscured.
+Dialogue: 0,0:07:35.36,0:07:37.12,Rarity,,0,0,0,,It's your first Nightmare Night out
+Dialogue: 0,0:07:37.12,0:07:39.07,Rarity,,0,0,0,,and about and we do want you to be comfortable.
+Dialogue: 0,0:07:39.07,0:07:41.04,Fluttershy,,0,0,0,,What if I just wear the dress?
+Dialogue: 0,0:07:42.39,0:07:43.86,Rarity,,0,0,0,,Sure, dear…
+Dialogue: 0,0:07:43.86,0:07:44.70,Rarity,,0,0,0,,That's…
+Dialogue: 0,0:07:44.70,0:07:45.49,Rarity,,0,0,0,,fine.
+Dialogue: 0,0:07:46.01,0:07:47.96,Rarity,,0,0,0,,That's so plain, it's frightening.
+Dialogue: 0,0:07:49.81,0:07:51.91,Rarity,,0,0,0,,Oh, my, look at all of you!
+Dialogue: 0,0:07:51.91,0:07:54.11,Rarity,,0,0,0,,My costumes fit you to a "T"!
+Dialogue: 0,0:07:55.50,0:07:57.33,AppleJack,,0,0,0,,We're gonna have the best time!
+Dialogue: 0,0:08:00.26,0:08:01.45,RainbowDash,,0,0,0,,Fluttershy,
+Dialogue: 0,0:08:01.45,0:08:02.89,RainbowDash,,0,0,0,,where's your costume?
+Dialogue: 0,0:08:02.89,0:08:04.36,Fluttershy,,0,0,0,,I'm wearing it.
+Dialogue: 0,0:08:06.43,0:08:07.14,PinkiePie,,0,0,0,,I get it!
+Dialogue: 0,0:08:07.14,0:08:09.37,PinkiePie,,0,0,0,,You're a robber, escaping into the night!
+Dialogue: 0,0:08:09.37,0:08:12.17,PinkiePie,,0,0,0,,You're a ninja, escaping into the night!
+Dialogue: 0,0:08:12.17,0:08:15.00,PinkiePie,,0,0,0,,You're black licorice escaping into the night!
+Dialogue: 0,0:08:15.00,0:08:15.85,Fluttershy,,0,0,0,,Close.
+Dialogue: 0,0:08:15.85,0:08:18.09,Fluttershy,,0,0,0,,I'm going to a masquerade ball.
+Dialogue: 0,0:08:18.09,0:08:19.02,Fluttershy,,0,0,0,,Without the mask.
+Dialogue: 0,0:08:22.47,0:08:25.04,Twilight,,0,0,0,,That's great! Isn't it great?
+Dialogue: 0,0:08:25.04,0:08:26.79,PinkiePie,,0,0,0,,So creative!
+Dialogue: 0,0:08:34.28,0:08:36.89,PinkiePie,,0,0,0,,I figured I'd save the really scary games for next year.
+Dialogue: 0,0:08:36.89,0:08:38.36,PinkiePie,,0,0,0,,when Fluttershy's more used to it
+Dialogue: 0,0:08:41.59,0:08:43.74,Somepony,,0,0,0,,Round and round and round you go,
+Dialogue: 0,0:08:43.74,0:08:46.12,Somepony,,0,0,0,,where you stop nopony knows!
+Dialogue: 0,0:08:46.12,0:08:47.82,PinkiePie,,0,0,0,,Okay… Go!
+Dialogue: 0,0:08:52.47,0:08:55.13,RainbowDash,,0,0,0,,Good luck beating that, Fluttershy!
+Dialogue: 0,0:08:56.51,0:08:58.08,Fluttershy,,0,0,0,,Well, um,
+Dialogue: 0,0:08:58.08,0:08:59.76,Fluttershy,,0,0,0,,it's just that if I'm blindfolded and
+Dialogue: 0,0:08:59.76,0:09:01.70,Fluttershy,,0,0,0,,somepony would leap out in front of me,
+Dialogue: 0,0:09:01.70,0:09:04.04,Fluttershy,,0,0,0,,I'd never have the chance to defend myself.
+Dialogue: 0,0:09:06.06,0:09:07.61,Rarity,,0,0,0,,That's fine, darling.
+Dialogue: 0,0:09:07.61,0:09:10.43,Rarity,,0,0,0,,You don't have to do anything you don't want to.
+Dialogue: 0,0:09:10.43,0:09:12.02,Twilight,,0,0,0,,We're just glad you're here.
+Dialogue: 0,0:09:12.02,0:09:13.50,PinkiePie,,0,0,0,,We don't have to finish that game.
+Dialogue: 0,0:09:13.50,0:09:15.99,PinkiePie,,0,0,0,,I have another one I know you'll love!
+Dialogue: 0,0:09:15.99,0:09:17.40,PinkiePie,,0,0,0,,Bobbing for apples!
+Dialogue: 0,0:09:20.46,0:09:22.30,Twilight,,0,0,0,,Fluttershy, what's wrong?
+Dialogue: 0,0:09:22.30,0:09:23.94,Fluttershy,,0,0,0,,It's just that, um,
+Dialogue: 0,0:09:23.94,0:09:26.52,Fluttershy,,0,0,0,,what happens if when my head is deep down in the water,
+Dialogue: 0,0:09:26.52,0:09:28.53,Fluttershy,,0,0,0,,some kind of scary monster appears,
+Dialogue: 0,0:09:28.53,0:09:30.98,Fluttershy,,0,0,0,,how would I even hear it to know I was under attack?
+Dialogue: 0,0:09:33.44,0:09:35.51,PinkiePie,,0,0,0,,Time for candy!
+Dialogue: 0,0:09:35.51,0:09:36.54,Fluttershy,,0,0,0,,It is?
+Dialogue: 0,0:09:36.54,0:09:37.76,PinkiePie,,0,0,0,,I made candy bags!
+Dialogue: 0,0:09:37.76,0:09:40.18,PinkiePie,,0,0,0,,Each bag has been made with each of you in mind,
+Dialogue: 0,0:09:40.18,0:09:42.88,PinkiePie,,0,0,0,,complete with each of your favorite candies.
+Dialogue: 0,0:09:44.22,0:09:45.12,RainbowDash,,0,0,0,,Awesome!
+Dialogue: 0,0:09:47.59,0:09:49.25,PinkiePie,,0,0,0,,Here, take it, take it!
+Dialogue: 0,0:09:49.25,0:09:50.84,PinkiePie,,0,0,0,,What are you waiting for?
+Dialogue: 0,0:09:50.84,0:09:52.79,Fluttershy,,0,0,0,,Well, it's just…
+Dialogue: 0,0:09:52.79,0:09:55.38,Fluttershy,,0,0,0,,What if when I'm eating one of these chewy taffies,
+Dialogue: 0,0:09:55.38,0:09:58.75,Fluttershy,,0,0,0,,my mouth becomes glued shut and I can't scream for help?
+Dialogue: 0,0:10:04.85,0:10:06.29,Fluttershy,,0,0,0,,Oh, goodness.
+Dialogue: 0,0:10:06.29,0:10:09.47,Fluttershy,,0,0,0,,We've only just started to celebrate Nightmare Night together,
+Dialogue: 0,0:10:09.47,0:10:12.34,Fluttershy,,0,0,0,,And I'm already taking all the fun out of it, aren't I?
+Dialogue: 0,0:10:13.18,0:10:16.06,PinkiePie,,0,0,0,,You not taking out all the fun!
+Dialogue: 0,0:10:16.06,0:10:17.77,RainbowDash,,0,0,0,,Just like ninety per…
+Dialogue: 0,0:10:18.89,0:10:19.85,RainbowDash,,0,0,0,,Some of it.
+Dialogue: 0,0:10:19.85,0:10:21.80,Fluttershy,,0,0,0,,I really wanna do this.
+Dialogue: 0,0:10:21.80,0:10:22.60,Fluttershy,,0,0,0,,But…
+Dialogue: 0,0:10:22.60,0:10:25.77,Fluttershy,,0,0,0,,there's just so many things that terrify me about tonight.
+Dialogue: 0,0:10:25.77,0:10:28.66,Fluttershy,,0,0,0,,I couldn't possibly predict what might upset me.
+Dialogue: 0,0:10:31.85,0:10:33.28,Twilight,,0,0,0,,Unless…
+Dialogue: 0,0:10:33.28,0:10:35.73,Twilight,,0,0,0,,You were the one doing the scaring!
+Dialogue: 0,0:10:35.73,0:10:36.34,RainbowDash,,0,0,0,,Her?
+Dialogue: 0,0:10:36.34,0:10:37.82,RainbowDash,,0,0,0,,Scaring us?
+Dialogue: 0,0:10:43.58,0:10:44.95,RainbowDash,,0,0,0,,You're being serious…
+Dialogue: 0,0:10:44.95,0:10:47.00,Twilight,,0,0,0,,The thing you hate is being scared,
+Dialogue: 0,0:10:47.00,0:10:51.62,Twilight,,0,0,0,,But if you're the one doing the scaring, then…
+Dialogue: 0,0:10:52.39,0:10:54.56,Fluttershy,,0,0,0,,Then I can help you all have fun
+Dialogue: 0,0:10:54.56,0:10:57.41,Fluttershy,,0,0,0,,And I can still be a part of Nightmare Night.
+Dialogue: 0,0:10:57.41,0:10:59.52,Twilight,,0,0,0,,So, you like that idea?
+Dialogue: 0,0:10:59.52,0:11:00.96,Fluttershy,,0,0,0,,I think I do!
+Dialogue: 0,0:11:00.96,0:11:02.95,Fluttershy,,0,0,0,,And I don't wanna get ahead of myself.
+Dialogue: 0,0:11:02.95,0:11:06.50,Fluttershy,,0,0,0,,But I think I have the perfect idea for how I'm gonna do it.
+Dialogue: 0,0:11:06.50,0:11:07.22,PinkiePie,,0,0,0,,Really?
+Dialogue: 0,0:11:07.22,0:11:09.12,PinkiePie,,0,0,0,,This is so exciting!
+Dialogue: 0,0:11:09.12,0:11:12.66,Fluttershy,,0,0,0,,Meet me at my cottage in an hour.
+Dialogue: 0,0:11:12.66,0:11:15.57,Fluttershy,,0,0,0,,I'm excited to see everypony soon!
+Dialogue: 0,0:11:27.97,0:11:32.59,Fluttershy,,0,0,0,,Welcome to Fluttershy's tea party.
+Dialogue: 0,0:11:32.59,0:11:34.93,RainbowDash,,0,0,0,,Did she just said tea party?
+Dialogue: 0,0:11:34.93,0:11:38.95,Twilight,,0,0,0,,It sounds like it's a… scary tea party?
+Dialogue: 0,0:11:40.94,0:11:42.94,Fluttershy,,0,0,0,,Have a seat.
+Dialogue: 0,0:11:46.50,0:11:49.96,Fluttershy,,0,0,0,,Don't be scared of what awaits you.
+Dialogue: 0,0:11:49.96,0:11:53.40,Fluttershy,,0,0,0,,Go on, pass the sugar.
+Dialogue: 0,0:11:54.45,0:11:57.14,Fluttershy,,0,0,0,,Oh no, there is none
+Dialogue: 0,0:11:58.90,0:12:01.62,Fluttershy,,0,0,0,,You're a terrible host.
+Dialogue: 0,0:12:01.62,0:12:04.81,Fluttershy,,0,0,0,,Rarity, put your coat on.
+Dialogue: 0,0:12:04.81,0:12:06.47,Rarity,,0,0,0,,Why would I do that?
+Dialogue: 0,0:12:06.47,0:12:08.36,Fluttershy,,0,0,0,,You need to cover up,
+Dialogue: 0,0:12:08.36,0:12:11.98,Fluttershy,,0,0,0,,Because no one has complemented your dress!
+Dialogue: 0,0:12:13.09,0:12:15.80,Fluttershy,,0,0,0,,Pinkie Pie, look to your left,
+Dialogue: 0,0:12:15.80,0:12:21.00,Fluttershy,,0,0,0,,and ask your best friend to pass cucumber sandwiches.
+Dialogue: 0,0:12:21.00,0:12:24.69,PinkiePie,,0,0,0,,Huh? I can't! There isn't anypony there!
+Dialogue: 0,0:12:24.69,0:12:29.73,Fluttershy,,0,0,0,,That's right, because she didn't care to show up!
+Dialogue: 0,0:12:29.73,0:12:30.71,PinkiePie,,0,0,0,,What?
+Dialogue: 0,0:12:30.71,0:12:32.71,Fluttershy,,0,0,0,,A friend that didn't come through
+Dialogue: 0,0:12:32.71,0:12:35.95,Fluttershy,,0,0,0,,that must scare you to the core!
+Dialogue: 0,0:12:35.95,0:12:38.71,Fluttershy,,0,0,0,,Quick! Everypony look behind you!
+Dialogue: 0,0:12:38.71,0:12:40.98,RainbowDash,,0,0,0,,What are those?
+Dialogue: 0,0:12:40.98,0:12:43.49,Fluttershy,,0,0,0,,They are unplanned guests
+Dialogue: 0,0:12:43.49,0:12:45.70,Fluttershy,,0,0,0,,your worst nightmare!
+Dialogue: 0,0:12:45.70,0:12:48.37,Fluttershy,,0,0,0,,You don't have enough food for them!
+Dialogue: 0,0:12:49.36,0:12:53.33,Fluttershy,,0,0,0,,Oh no! There's a tiny kitten that needs a home!
+Dialogue: 0,0:12:53.33,0:12:55.97,Fluttershy,,0,0,0,,But you are overscheduled right now.
+Dialogue: 0,0:12:55.97,0:12:59.11,Fluttershy,,0,0,0,,You don't have time to help!
+Dialogue: 0,0:12:59.11,0:13:02.98,Fluttershy,,0,0,0,,I said — you don't have time to help!
+Dialogue: 0,0:13:05.28,0:13:08.07,Fluttershy,,0,0,0,,This should appear to scare you!
+Dialogue: 0,0:13:11.56,0:13:13.42,Fluttershy,,0,0,0,,Why don't you look terrified?
+Dialogue: 0,0:13:13.42,0:13:17.00,Fluttershy,,0,0,0,,You showed up to a party and everypony was extremely dissapointed in you.
+Dialogue: 0,0:13:17.00,0:13:19.92,Fluttershy,,0,0,0,,Can you imagine anything more upsetting?
+Dialogue: 0,0:13:19.92,0:13:25.97,Rarity,,0,0,0,,It was a realy good try, darling, but the scares at Nightnare Night are of entirely different nature!
+Dialogue: 0,0:13:25.97,0:13:28.44,Twilight,,0,0,0,,It was really creative, though.
+Dialogue: 0,0:13:28.44,0:13:30.51,Twilight,,0,0,0,,I never would have thought
+Dialogue: 0,0:13:30.51,0:13:31.63,Twilight,,0,0,0,,of this!
+Dialogue: 0,0:13:33.87,0:13:36.02,Fluttershy,,0,0,0,,I'm just not cut out for this
+Dialogue: 0,0:13:36.02,0:13:38.25,Fluttershy,,0,0,0,,Just go on without me.
+Dialogue: 0,0:13:38.25,0:13:40.60,Rarity,,0,0,0,,Oh no! We couldn't possibly…
+Dialogue: 0,0:13:40.60,0:13:41.70,Fluttershy,,0,0,0,,You have to!
+Dialogue: 0,0:13:41.70,0:13:44.87,Fluttershy,,0,0,0,,This is the night you look forward to all year.
+Dialogue: 0,0:13:44.87,0:13:47.74,PinkiePie,,0,0,0,,We could… stay here!
+Dialogue: 0,0:13:47.74,0:13:51.17,Fluttershy,,0,0,0,,It's okay. I really want you all to have fun!
+Dialogue: 0,0:13:51.17,0:13:54.17,Fluttershy,,0,0,0,,This is how I spend every Nightmare Night.
+Dialogue: 0,0:13:54.17,0:13:54.93,Fluttershy,,0,0,0,,Please,
+Dialogue: 0,0:13:54.93,0:13:55.77,Fluttershy,,0,0,0,,go.
+Dialogue: 0,0:13:55.77,0:13:56.99,Fluttershy,,0,0,0,,I'll be fine.
+Dialogue: 0,0:13:57.86,0:13:58.68,PinkiePie,,0,0,0,,It's funny.
+Dialogue: 0,0:13:58.68,0:14:02.54,PinkiePie,,0,0,0,,I actually thought she had an idea for something really scary for a second there.
+Dialogue: 0,0:14:02.54,0:14:04.63,Applejack,,0,0,0,,She definitely tried her hardest.
+Dialogue: 0,0:14:07.01,0:14:09.17,Fluttershy,,0,0,0,,I did tried my hardest.
+Dialogue: 0,0:14:13.30,0:14:15.36,Fluttershy,,0,0,0,,Or maybe not.
+Dialogue: 0,0:14:15.36,0:14:17.98,Fluttershy,,0,0,0,,I suppose I could've gone with something a bit scarier.
+Dialogue: 0,0:14:19.78,0:14:22.70,Fluttershy,,0,0,0,,You are right! I've been taking baby steps.
+Dialogue: 0,0:14:22.70,0:14:25.26,Fluttershy,,0,0,0,,I think it's time for grown up ones!
+Dialogue: 0,0:14:26.39,0:14:29.43,Fluttershy,,0,0,0,,I don't suppose you have any ideas how I can do that?
+Dialogue: 0,0:14:35.63,0:14:38.44,Applejack,,0,0,0,,Everypony is lining up for the Corn Maze y'all, let's go!
+Dialogue: 0,0:14:40.00,0:14:42.54,Spike,,0,0,0,,Yeah! I can't believe we are finally doing this!
+Dialogue: 0,0:14:50.85,0:14:53.30,RainbowDash,,0,0,0,,It's a good thing Fluttershy isn't here,
+Dialogue: 0,0:14:53.30,0:14:56.24,RainbowDash,,0,0,0,,because she would never be able to handle this!
+Dialogue: 0,0:15:20.01,0:15:20.80,Rarity,,0,0,0,,What?
+Dialogue: 0,0:15:20.80,0:15:21.83,Rarity,,0,0,0,,is
+Dialogue: 0,0:15:21.83,0:15:22.83,Rarity,,0,0,0,,that
+Dialogue: 0,0:15:22.83,0:15:23.90,Rarity,,0,0,0,,sound
+Dialogue: 0,0:15:25.91,0:15:27.10,PinkiePie,,0,0,0,,It looks like…
+Dialogue: 0,0:15:27.10,0:15:28.32,PinkiePie,,0,0,0,,bones!
+Dialogue: 0,0:15:30.74,0:15:34.09,RainbowDash,,0,0,0,,Looks like a bunch of dry sticks painted white to me.
+Dialogue: 0,0:15:34.09,0:15:37.14,Applejack,,0,0,0,,Hey! Try to keep up the illusion, would ya?
+Dialogue: 0,0:15:54.07,0:15:55.11,Applejack,,0,0,0,,Whoa! What was that?
+Dialogue: 0,0:15:57.72,0:15:58.93,Spike,,0,0,0,,Don't you know?
+Dialogue: 0,0:15:59.87,0:16:01.20,Applejack,,0,0,0,,Of course I do.
+Dialogue: 0,0:16:01.20,0:16:02.05,Applejack,,0,0,0,,It was a…
+Dialogue: 0,0:16:19.50,0:16:21.74,Rarity,,0,0,0,,Fluttershy had a point for the layers on the dress!
+Dialogue: 0,0:16:32.12,0:16:33.03,Rarity,,0,0,0,,What is this?
+Dialogue: 0,0:16:33.03,0:16:34.78,Rarity,,0,0,0,,Is it a tunnel? Where does it lead?
+Dialogue: 0,0:16:40.88,0:16:43.16,Twilight,,0,0,0,,Which way are we supposed to go now?
+Dialogue: 0,0:16:43.16,0:16:44.26,Applejack,,0,0,0,,I don't know!
+Dialogue: 0,0:16:44.26,0:16:45.91,Applejack,,0,0,0,,I don't know what's going on!
+Dialogue: 0,0:16:47.37,0:16:48.45,RainbowDash,,0,0,0,,What do you mean?
+Dialogue: 0,0:16:48.45,0:16:50.32,RainbowDash,,0,0,0,,Didn't you help plan this?
+Dialogue: 0,0:16:53.94,0:16:55.70,Applejack,,0,0,0,,There's Granny Smith!
+Dialogue: 0,0:16:55.70,0:16:58.90,Applejack,,0,0,0,,Not that I was ever scared, 'cause I wasn't.
+Dialogue: 0,0:16:58.90,0:17:01.54,Applejack,,0,0,0,,I'm a pretty good actress when I wanna be.
+Dialogue: 0,0:17:01.54,0:17:02.94,Applejack,,0,0,0,,Granny?
+Dialogue: 0,0:17:12.68,0:17:13.67,Spike,,0,0,0,,Applejack,
+Dialogue: 0,0:17:13.67,0:17:15.61,Spike,,0,0,0,,didn't you know about any of this?
+Dialogue: 0,0:17:15.61,0:17:16.43,Applejack,,0,0,0,,All right.
+Dialogue: 0,0:17:16.43,0:17:19.36,Applejack,,0,0,0,,I gotta admit I didn't know about any of this, but…
+Dialogue: 0,0:17:19.36,0:17:22.13,Applejack,,0,0,0,,Maybe they're just trying to make it interesting for me, too?
+Dialogue: 0,0:17:22.13,0:17:24.89,Applejack,,0,0,0,,I'm sure Granny Smith or Big Mac is behind this.
+Dialogue: 0,0:17:24.89,0:17:27.97,GrannySmith,,0,0,0,,Are those peeled grapes or eyeballs
+Dialogue: 0,0:17:27.97,0:17:30.83,GrannySmith,,0,0,0,,starin' at you from beyond the grave?
+Dialogue: 0,0:17:34.48,0:17:35.08,BigMac,,0,0,0,,Eeeup!
+Dialogue: 0,0:17:38.46,0:17:40.74,AppleJack,,0,0,0,,That's what we were supposed to do!
+Dialogue: 0,0:17:40.74,0:17:42.56,AppleJack,,0,0,0,,I don't know why we are down here.
+Dialogue: 0,0:17:42.56,0:17:44.62,AppleJack,,0,0,0,,This is really scaring me now!
+Dialogue: 0,0:17:58.47,0:18:00.29,PinkiePie,,0,0,0,,How did that get down here?
+Dialogue: 0,0:18:01.88,0:18:03.66,RainbowDash,,0,0,0,,Run!
+Dialogue: 0,0:18:08.88,0:18:10.90,PinkiePie,,0,0,0,,I can't see!
+Dialogue: 0,0:18:11.50,0:18:13.13,RainbowDash,,0,0,0,,I can barely move!
+Dialogue: 0,0:18:14.18,0:18:16.18,RainbowDash,,0,0,0,,It's like glue!
+Dialogue: 0,0:19:05.63,0:19:08.13,FlutterShy,,0,0,0,,I'm so, so sorry!
+Dialogue: 0,0:19:08.13,0:19:10.46,FlutterShy,,0,0,0,,Can you ever forgive me?
+Dialogue: 0,0:19:11.37,0:19:12.60,AppleJack,,0,0,0,,Fluttershy?
+Dialogue: 0,0:19:12.60,0:19:14.88,RainbowDash,,0,0,0,,It was you the whole time?
+Dialogue: 0,0:19:14.88,0:19:17.25,Twilight,,0,0,0,,I can't believe it!
+Dialogue: 0,0:19:17.80,0:19:19.45,Rarity,,0,0,0,,That. Was.
+Dialogue: 0,0:19:19.45,0:19:22.65,PinkiePie,,0,0,0,,The best thing ever!!!
+Dialogue: 0,0:19:22.65,0:19:24.51,RainbowDash,,0,0,0,,It was way more terrifying than the most
+Dialogue: 0,0:19:24.51,0:19:27.23,RainbowDash,,0,0,0,,terrifying thing I could've thought of!
+Dialogue: 0,0:19:27.23,0:19:30.53,AppleJack,,0,0,0,,You had nightmared the scariest part of the Corn Maze.
+Dialogue: 0,0:19:30.53,0:19:32.89,Twilight,,0,0,0,,How did you do all this?
+Dialogue: 0,0:19:32.89,0:19:34.63,FlutterShy,,0,0,0,,After you left I realized
+Dialogue: 0,0:19:34.63,0:19:37.08,FlutterShy,,0,0,0,,that I wasn't ready to give up on Nightmare Night.
+Dialogue: 0,0:19:37.08,0:19:39.67,FlutterShy,,0,0,0,,So I asked Granny Smith if I could try to make the Maze
+Dialogue: 0,0:19:39.67,0:19:42.10,FlutterShy,,0,0,0,,even scarier for my friends.
+Dialogue: 0,0:19:42.10,0:19:44.56,RainbowDash,,0,0,0,,You came up with all of this?
+Dialogue: 0,0:19:44.56,0:19:46.12,FlutterShy,,0,0,0,,I had some help.
+Dialogue: 0,0:19:49.33,0:19:51.23,FlutterShy,,0,0,0,,Angel was this scary figure that kept,
+Dialogue: 0,0:19:51.23,0:19:53.56,FlutterShy,,0,0,0,,scurrying after you in the Maze.
+Dialogue: 0,0:19:55.88,0:19:57.84,FlutterShy,,0,0,0,,Fuzzy Legs made the sticky wall that made it
+Dialogue: 0,0:19:57.84,0:20:00.50,FlutterShy,,0,0,0,,difficult for you to see and move.
+Dialogue: 0,0:20:01.94,0:20:03.01,FlutterShy,,0,0,0,,And, of course,
+Dialogue: 0,0:20:03.01,0:20:06.28,FlutterShy,,0,0,0,,Hairy was the especially scary monster.
+Dialogue: 0,0:20:08.00,0:20:08.96,Twilight,,0,0,0,,Wow.
+Dialogue: 0,0:20:08.96,0:20:11.09,Twilight,,0,0,0,,{\i1}That{\i0} was inspired.
+Dialogue: 0,0:20:11.09,0:20:13.63,PinkiePie,,0,0,0,,You have to do this every year!
+Dialogue: 0,0:20:14.56,0:20:15.37,Twilight,,0,0,0,,Every year!
+Dialogue: 0,0:20:16.44,0:20:20.87,FlutterShy,,0,0,0,,We… could celebrate Nightmare Night together every year,
+Dialogue: 0,0:20:20.87,0:20:24.79,FlutterShy,,0,0,0,,but… the truth is I really don't want to.
+Dialogue: 0,0:20:24.79,0:20:26.38,PinkiePie,,0,0,0,,You don't?
+Dialogue: 0,0:20:26.38,0:20:27.88,Rarity,,0,0,0,,But you've done it.
+Dialogue: 0,0:20:27.88,0:20:31.20,Rarity,,0,0,0,,You found a way that we could all have a fabulous time together.
+Dialogue: 0,0:20:31.20,0:20:32.84,FlutterShy,,0,0,0,,Yes, but
+Dialogue: 0,0:20:32.84,0:20:35.37,FlutterShy,,0,0,0,,I've also realized something.
+Dialogue: 0,0:20:35.37,0:20:37.61,FlutterShy,,0,0,0,,You all may love Nightmare Night,
+Dialogue: 0,0:20:37.61,0:20:39.80,FlutterShy,,0,0,0,,and I may be good at being a part of it,
+Dialogue: 0,0:20:39.80,0:20:43.77,FlutterShy,,0,0,0,,but it's no fun for me to see my friends feel like they're in danger,
+Dialogue: 0,0:20:43.77,0:20:45.77,FlutterShy,,0,0,0,,even I know they're not.
+Dialogue: 0,0:20:45.77,0:20:47.36,FlutterShy,,0,0,0,,I really don't like it.
+Dialogue: 0,0:20:47.36,0:20:49.76,FlutterShy,,0,0,0,,It's just… not my cup of tea.
+Dialogue: 0,0:20:49.76,0:20:52.71,PinkiePie,,0,0,0,,Spo-o-o-oky tea?
+Dialogue: 0,0:20:52.71,0:20:56.04,FlutterShy,,0,0,0,,No. Just regular tea.
+Dialogue: 0,0:20:56.04,0:20:58.56,FlutterShy,,0,0,0,,We do lots of fun things together,
+Dialogue: 0,0:20:58.56,0:21:01.55,FlutterShy,,0,0,0,,but I'm afraid this just isn't gonna be one of them.
+Dialogue: 0,0:21:01.55,0:21:03.64,FlutterShy,,0,0,0,,Actually, I'm not afraid.
+Dialogue: 0,0:21:03.64,0:21:06.18,FlutterShy,,0,0,0,,I'm perfectly fine with it.
+Dialogue: 0,0:21:06.18,0:21:08.18,Twilight,,0,0,0,,Then, we are too.
+Dialogue: 0,0:21:19.97,0:21:23.19,FlutterShy,,0,0,0,,I don't to know why I doubted myself for a second.
+Dialogue: 0,0:21:23.19,0:21:25.49,FlutterShy,,0,0,0,,Now this is what I call
+Dialogue: 0,0:21:25.49,0:21:28.76,FlutterShy,,0,0,0,,a perfect Nightmare Night.
+Dialogue: 0,0:21:32.06,0:21:34.18,Auto,,0,0,0,,СЧАСТЛИВЫЙ ПОНЕЦ
+Dialogue: 0,0:21:34.18,0:21:36.34,Auto,,0,0,0,,anon2anon\Nsunnysubs.com

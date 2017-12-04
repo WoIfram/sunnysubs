@@ -1,0 +1,385 @@
+[Script Info]
+PlayResX:1920
+PlayResY:1080
+ScaledBorderAndShadow: yes
+ScriptType: v4.00+
+WrapStyle: 0
+YCbCr Matrix: TV.601
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,68,&H00FFFFFF,&H000000FF,&H007D7E80,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Discord,Arial,68,&H00DAE7EE,&H000000FF,&H001A6A9D,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: FlutterShy,Arial,68,&H00D2F9FF,&H000000FF,&H009542D6,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: PinkiePie,Arial,68,&H00FFFFFF,&H000000FF,&H009300E8,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Somepony,Arial,68,&H00FFFFFF,&H000000FF,&H007D7E80,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: SomeponyPurple,Arial,68,&H00B44A96,&H00FFE6FD,&H00FFFFFF,&H00FFFFFF,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+
+[Events]
+Dialogue: 0,0:00:08.32,0:00:10.47,FlutterShy,,0,0,0,,Care for a carrot ginger sandwich?
+Dialogue: 0,0:00:11.57,0:00:14.81,Discord,,0,0,0,,You remember to cut off the crests for me.
+Dialogue: 0,0:00:16.85,0:00:18.41,FlutterShy,,0,0,0,,Of course, I did.
+Dialogue: 0,0:00:18.88,0:00:20.63,FlutterShy,,0,0,0,,I know how you like them.
+Dialogue: 0,0:00:25.21,0:00:28.27,Discord,,0,0,0,,You really do make the best finger foods.
+Dialogue: 0,0:00:30.13,0:00:31.40,Discord,,0,0,0,,What do you say?
+Dialogue: 0,0:00:31.61,0:00:32.91,Discord,,0,0,0,,Excuse me.
+Dialogue: 0,0:00:33.73,0:00:35.49,Discord,,0,0,0,,I really can't take them anywhere.
+Dialogue: 0,0:00:39.37,0:00:41.52,Discord,,0,0,0,,Can I trouble you for another sugarcube?
+Dialogue: 0,0:00:43.08,0:00:43.96,FlutterShy,,0,0,0,,Oh no.
+Dialogue: 0,0:00:44.17,0:00:46.99,FlutterShy,,0,0,0,,I'm so sorry, but I seem to be out.
+Dialogue: 0,0:00:47.20,0:00:49.59,Discord,,0,0,0,,Well, I can just pop us in some more.
+Dialogue: 0,0:00:49.67,0:00:50.72,FlutterShy,,0,0,0,,Oh, that's alright.
+Dialogue: 0,0:00:51.09,0:00:52.48,FlutterShy,,0,0,0,,I need to go to the market anyway.
+Dialogue: 0,0:00:52.59,0:00:55.75,FlutterShy,,0,0,0,,I have to restock my pantry for a tea party next week.
+Dialogue: 0,0:00:56.32,0:01:00.70,Discord,,0,0,0,,I never realized how much work you put into hosting these tea parties.
+Dialogue: 0,0:01:04.26,0:01:06.68,FlutterShy,,0,0,0,,Oh, it's really not that much.
+Dialogue: 0,0:01:06.68,0:01:11.70,Discord,,0,0,0,,No-no-no-no-no, I've been taking advantage of your hospitality for far too long.
+Dialogue: 0,0:01:11.80,0:01:14.24,Discord,,0,0,0,,It's high time I do something about it.
+Dialogue: 0,0:01:14.96,0:01:17.48,Discord,,0,0,0,,What to do? What to do?
+Dialogue: 0,0:01:18.43,0:01:20.99,Discord,,0,0,0,,Why don't you host the next tea party?
+Dialogue: 0,0:01:21.84,0:01:22.82,Discord,,0,0,0,,I've got it!
+Dialogue: 0,0:01:22.90,0:01:26.46,Discord,,0,0,0,,Why don't I host the next tea party at my place?
+Dialogue: 0,0:01:26.58,0:01:28.14,Discord,,0,0,0,,Hey, that's my idea.
+Dialogue: 0,0:01:29.91,0:01:31.74,Discord,,0,0,0,,Why didn't I see that coming?
+Dialogue: 0,0:02:14.64,0:02:15.99,Discord,,0,0,0,,So, Fluttershy,
+Dialogue: 0,0:02:17.10,0:02:20.70,Discord,,0,0,0,,what do you think of my brilliant genius amazing idea
+Dialogue: 0,0:02:20.76,0:02:23.57,Discord,,0,0,0,,of having the next tea party at my place?
+Dialogue: 0,0:02:27.45,0:02:28.69,FlutterShy,,0,0,0,,Are you sure?
+Dialogue: 0,0:02:28.70,0:02:30.61,FlutterShy,,0,0,0,,I wouldn't want you to go through any trouble.
+Dialogue: 0,0:02:31.05,0:02:34.37,Discord,,0,0,0,,You? Trouble? Never! I insist.
+Dialogue: 0,0:02:40.64,0:02:41.86,FlutterShy,,0,0,0,,Then count me in.
+Dialogue: 0,0:02:41.97,0:02:44.01,FlutterShy,,0,0,0,,I'm already looking forward to it.
+Dialogue: 0,0:02:44.06,0:02:45.57,Discord,,0,0,0,,Me too.
+Dialogue: 0,0:02:45.57,0:02:48.20,Discord,,0,0,0,,I'm so excited, I can't wait.
+Dialogue: 0,0:02:48.20,0:02:50.20,Discord,,0,0,0,,No, really, I can't.
+Dialogue: 0,0:02:50.58,0:02:54.13,Discord,,0,0,0,,How about we have a tea party tomorrow afternoon?
+Dialogue: 0,0:02:54.69,0:02:55.90,FlutterShy,,0,0,0,,Sounds good to me.
+Dialogue: 0,0:02:56.04,0:02:59.40,FlutterShy,,0,0,0,,You know, Discord, I've never been to your house before.
+Dialogue: 0,0:02:59.77,0:03:03.20,Discord,,0,0,0,,Well, that's okay, because I've never hosted a tea party before.
+Dialogue: 0,0:03:06.30,0:03:09.92,Discord,,0,0,0,,I've never hosted a tea party before, so much to do!
+Dialogue: 0,0:03:10.62,0:03:14.78,Discord,,0,0,0,,Thank you so much for the tea and nibblies, but I really must be going.
+Dialogue: 0,0:03:15.53,0:03:19.78,FlutterShy,,0,0,0,,Discord, before you go, would you mind helping me tidy up?
+Dialogue: 0,0:03:22.93,0:03:25.58,Discord,,0,0,0,,There you go, back to normal, just the way you like it.
+Dialogue: 0,0:03:25.76,0:03:27.08,Discord,,0,0,0,,See you tomorrow!
+Dialogue: 0,0:03:28.73,0:03:30.22,Discord,,0,0,0,,I can't wait!
+Dialogue: 0,0:03:32.72,0:03:36.44,Discord,,0,0,0,,Okay, since Fluttershy always goes out of her way
+Dialogue: 0,0:03:36.44,0:03:38.44,Discord,,0,0,0,,to host the perfect tea party for me,
+Dialogue: 0,0:03:38.52,0:03:42.53,Discord,,0,0,0,,how do I make my tea party for her even more perfect?
+Dialogue: 0,0:03:42.61,0:03:46.10,Somepony,,0,0,0,,I'm sorry, dearie, were you talking to me?
+Dialogue: 0,0:03:46.10,0:03:48.85,Discord,,0,0,0,,Actually, madam, I'm talking to myself.
+Dialogue: 0,0:03:48.96,0:03:50.77,Discord,,0,0,0,,Well, I'm not talking to you.
+Dialogue: 0,0:03:50.90,0:03:53.04,Discord,,0,0,0,,It's for Fluttershy.
+Dialogue: 0,0:03:53.13,0:03:55.77,Discord,,0,0,0,,Oh, alright, no more holes though.
+Dialogue: 0,0:03:56.21,0:03:59.50,Discord,,0,0,0,,You have to knock this tea party out of the park for her.
+Dialogue: 0,0:03:59.62,0:04:01.65,Discord,,0,0,0,,She was our first friend after all.
+Dialogue: 0,0:04:01.89,0:04:03.84,Discord,,0,0,0,,You don't have to tell me that.
+Dialogue: 0,0:04:03.94,0:04:06.48,Discord,,0,0,0,,She gave us a chance, when no other pony would.
+Dialogue: 0,0:04:06.77,0:04:09.45,Discord,,0,0,0,,She makes us want to be a better draconequus.
+Dialogue: 0,0:04:09.69,0:04:12.44,Discord,,0,0,0,,Fluttershy deserves the best of everything.
+Dialogue: 0,0:04:12.54,0:04:14.93,Discord,,0,0,0,,Of course, I should get her the best of everything.
+Dialogue: 0,0:04:15.00,0:04:16.53,Discord,,0,0,0,,Why didn't I think of that?
+Dialogue: 0,0:04:17.72,0:04:19.64,Discord,,0,0,0,,Well, are you going to answer me or not?
+Dialogue: 0,0:04:19.94,0:04:23.02,Somepony,,0,0,0,,Me? I thought you were talking to…
+Dialogue: 0,0:04:23.97,0:04:25.20,Discord,,0,0,0,,No time!
+Dialogue: 0,0:04:25.36,0:04:29.32,Discord,,0,0,0,,I'm off to prepare a tea party worthy of Fluttershy.
+Dialogue: 0,0:04:33.82,0:04:35.24,Discord,,0,0,0,,Excuse me.
+Dialogue: 0,0:04:35.37,0:04:37.82,Discord,,0,0,0,,Is this where Fluttershy usually buys her tea?
+Dialogue: 0,0:04:38.05,0:04:39.76,SomeponyPurple,,0,0,0,,Oh yes, it is.
+Dialogue: 0,0:04:39.85,0:04:40.86,Discord,,0,0,0,,Oh, wonderful!
+Dialogue: 0,0:04:41.06,0:04:43.00,Discord,,0,0,0,,I'll be enjoying her company tomorrow.
+Dialogue: 0,0:04:43.06,0:04:46.84,Discord,,0,0,0,,So I'll be needing your very best tea, please.
+Dialogue: 0,0:04:47.01,0:04:48.73,Discord,,0,0,0,,Something especially special.
+Dialogue: 0,0:04:49.14,0:04:52.74,SomeponyPurple,,0,0,0,,I'm sure Fluttershy would enjoy some of our rose hip green tea.
+Dialogue: 0,0:04:52.77,0:04:54.42,Discord,,0,0,0,,Oh, interesting.
+Dialogue: 0,0:04:54.42,0:04:58.12,Discord,,0,0,0,,Does it decorate your hips in roses or turn you green?
+Dialogue: 0,0:04:59.66,0:05:01.85,SomeponyPurple,,0,0,0,,Neither. It just tastes good.
+Dialogue: 0,0:05:02.36,0:05:03.46,Discord,,0,0,0,,How boring.
+Dialogue: 0,0:05:03.73,0:05:04.78,Discord,,0,0,0,,Pass.
+Dialogue: 0,0:05:06.65,0:05:07.66,Discord,,0,0,0,,Hold on!
+Dialogue: 0,0:05:07.73,0:05:09.25,Discord,,0,0,0,,Ginseng tea!
+Dialogue: 0,0:05:10.10,0:05:11.52,Discord,,0,0,0,,Now that sounds promising.
+Dialogue: 0,0:05:11.60,0:05:12.69,Discord,,0,0,0,,What does it sing?
+Dialogue: 0,0:05:13.02,0:05:16.81,Discord,,0,0,0,,I'm partial to something upbeat and jazzy.
+Dialogue: 0,0:05:17.06,0:05:20.10,SomeponyPurple,,0,0,0,,Again, it's just tasty like all of our tea here.
+Dialogue: 0,0:05:20.29,0:05:24.02,Discord,,0,0,0,,So, all of this is just tea you simply drink?
+Dialogue: 0,0:05:24.41,0:05:25.22,SomeponyPurple,,0,0,0,,Uh-huh.
+Dialogue: 0,0:05:26.62,0:05:29.14,Discord,,0,0,0,,Seems I got here just in time.
+Dialogue: 0,0:05:33.28,0:05:35.01,Discord,,0,0,0,,Singing ginseng!
+Dialogue: 0,0:05:35.09,0:05:36.20,Discord,,0,0,0,,I'll take it.
+Dialogue: 0,0:05:36.34,0:05:39.14,SomeponyPurple,,0,0,0,,Are you sure you're friends with Fluttershy?
+Dialogue: 0,0:05:39.30,0:05:42.37,SomeponyPurple,,0,0,0,,You seem so very different from her.
+Dialogue: 0,0:05:42.37,0:05:43.78,Discord,,0,0,0,,Of course we're friends.
+Dialogue: 0,0:05:43.90,0:05:46.62,Discord,,0,0,0,,She gets me and you obviously do not.
+Dialogue: 0,0:05:46.73,0:05:49.22,Discord,,0,0,0,,And you're sure you're friends with Fluttershy?
+Dialogue: 0,0:05:49.76,0:05:51.37,Discord,,0,0,0,,The very nerve.
+Dialogue: 0,0:05:53.18,0:05:54.88,Discord,,0,0,0,,I'm sorry, do you validate?
+Dialogue: 0,0:05:57.30,0:05:58.69,Discord,,0,0,0,,Hello!
+Dialogue: 0,0:06:00.32,0:06:02.10,Somepony,,0,0,0,,Can I help you find something?
+Dialogue: 0,0:06:02.21,0:06:03.28,Discord,,0,0,0,,Yes, you can.
+Dialogue: 0,0:06:03.33,0:06:05.78,Discord,,0,0,0,,Your finest tea set, please.
+Dialogue: 0,0:06:06.00,0:06:08.76,Discord,,0,0,0,,I want only the best for my friend Fluttershy.
+Dialogue: 0,0:06:09.74,0:06:11.78,Somepony,,0,0,0,,You're friends with Fluttershy?
+Dialogue: 0,0:06:13.32,0:06:16.73,Discord,,0,0,0,,Yes, judgy clerk pony.
+Dialogue: 0,0:06:17.02,0:06:18.42,Discord,,0,0,0,,Why is it such a surprise?
+Dialogue: 0,0:06:18.52,0:06:20.14,Discord,,0,0,0,,Sure she is on the quieter side.
+Dialogue: 0,0:06:20.14,0:06:22.46,Discord,,0,0,0,,And I'm a bit well more showy.
+Dialogue: 0,0:06:22.64,0:06:25.24,Discord,,0,0,0,,But I'll have you know we're besties.
+Dialogue: 0,0:06:25.36,0:06:28.88,Discord,,0,0,0,,And that's why I need the best tea set.
+Dialogue: 0,0:06:29.92,0:06:33.66,Somepony,,0,0,0,,Perhaps then you'll be interested in our classic "tea for two" set.
+Dialogue: 0,0:06:36.92,0:06:38.70,Discord,,0,0,0,,A teapot that just pours tea?
+Dialogue: 0,0:06:38.70,0:06:40.64,Discord,,0,0,0,,How positively dreadful!
+Dialogue: 0,0:06:40.90,0:06:43.78,Somepony,,0,0,0,,But that's all teapots are supposed to do.
+Dialogue: 0,0:06:43.90,0:06:45.60,Discord,,0,0,0,,Not anymore!
+Dialogue: 0,0:06:48.26,0:06:49.46,Discord,,0,0,0,,Much better.
+Dialogue: 0,0:06:49.52,0:06:50.32,Discord,,0,0,0,,Don't wrap it.
+Dialogue: 0,0:06:50.38,0:06:51.68,Discord,,0,0,0,,I'll walk it home.
+Dialogue: 0,0:06:56.40,0:06:57.40,Discord,,0,0,0,,Now let's see.
+Dialogue: 0,0:06:57.40,0:07:00.22,Discord,,0,0,0,,I have the perfect tea and the perfect tea service.
+Dialogue: 0,0:07:00.26,0:07:03.06,Discord,,0,0,0,,What else do I need for the perfect tea party?
+Dialogue: 0,0:07:03.94,0:07:05.92,Discord,,0,0,0,,Decorations, of course!
+Dialogue: 0,0:07:08.14,0:07:09.24,Discord,,0,0,0,,Good…
+Dialogue: 0,0:07:09.28,0:07:12.56,Discord,,0,0,0,,But not nearly good enough for Fluttershy.
+Dialogue: 0,0:07:17.40,0:07:19.06,Discord,,0,0,0,,Oh, better.
+Dialogue: 0,0:07:20.80,0:07:22.46,Discord,,0,0,0,,I'll need napkins!
+Dialogue: 0,0:07:22.64,0:07:24.20,Discord,,0,0,0,,I'll simply make them…
+Dialogue: 0,0:07:24.42,0:07:25.84,Discord,,0,0,0,,I could… Or…
+Dialogue: 0,0:07:26.20,0:07:28.54,Discord,,0,0,0,,No, I've got nothing.
+Dialogue: 0,0:07:28.80,0:07:30.86,Discord,,0,0,0,,How do I make these better?
+Dialogue: 0,0:07:30.96,0:07:32.46,Discord,,0,0,0,,What should I do…?
+Dialogue: 0,0:07:32.46,0:07:33.86,Discord,,0,0,0,,Make them…
+Dialogue: 0,0:07:33.90,0:07:35.14,Discord,,0,0,0,,Make them glow!
+Dialogue: 0,0:07:36.12,0:07:38.22,Discord,,0,0,0,,Oh, that's not good enough for Fluttershy.
+Dialogue: 0,0:07:38.22,0:07:40.24,Discord,,0,0,0,,Should I make them fly?
+Dialogue: 0,0:07:40.48,0:07:43.46,Discord,,0,0,0,,Glow, fly and… and fold!
+Dialogue: 0,0:07:43.46,0:07:46.84,Discord,,0,0,0,,Glow, fly, fold into fun shapes.
+Dialogue: 0,0:07:46.84,0:07:47.94,Discord,,0,0,0,,Perhaps.
+Dialogue: 0,0:07:48.44,0:07:51.00,PinkiePie,,0,0,0,,Discord? Are you okay?
+Dialogue: 0,0:07:51.26,0:07:54.20,Discord,,0,0,0,,Pinkie Pie! Just the pony I need.
+Dialogue: 0,0:07:55.08,0:07:56.84,Discord,,0,0,0,,As the party pony
+Dialogue: 0,0:07:56.84,0:07:59.86,Discord,,0,0,0,,and Fluttershy's close but not best friend.
+Dialogue: 0,0:07:59.96,0:08:01.33,Discord,,0,0,0,,I need your advice.
+Dialogue: 0,0:08:01.33,0:08:04.92,Discord,,0,0,0,,I'm hosting a tea party for her and it has to be perfect.
+Dialogue: 0,0:08:04.96,0:08:08.44,Discord,,0,0,0,,No, it has to be even better than perfect!
+Dialogue: 0,0:08:08.64,0:08:12.56,PinkiePie,,0,0,0,,Oh, Discord, you're wa-a-ay overthinking things.
+Dialogue: 0,0:08:12.74,0:08:15.32,PinkiePie,,0,0,0,,All you have to do is make Fluttershy feel comfortable.
+Dialogue: 0,0:08:15.32,0:08:16.98,PinkiePie,,0,0,0,,It should be pretty easy for you.
+Dialogue: 0,0:08:16.98,0:08:18.74,PinkiePie,,0,0,0,,You know her so well!
+Dialogue: 0,0:08:21.14,0:08:24.04,Discord,,0,0,0,,And that's why you're the party expert.
+Dialogue: 0,0:08:24.04,0:08:25.76,Discord,,0,0,0,,Thank you, Pinkie Pie.
+Dialogue: 0,0:08:25.76,0:08:27.86,Discord,,0,0,0,,I feel so much better now.
+Dialogue: 0,0:08:28.08,0:08:29.96,PinkiePie,,0,0,0,,That's what I do.
+Dialogue: 0,0:08:33.64,0:08:34.86,PinkiePie,,0,0,0,,Excuse me.
+Dialogue: 0,0:08:35.00,0:08:38.46,PinkiePie,,0,0,0,,Where can I find the glowing, flying, self-folding napkins?
+Dialogue: 0,0:08:42.04,0:08:46.36,Discord,,0,0,0,,Make Fluttershy feel comfortable, make Fluttershy feel comfortable, comfortable, comfortable…
+Dialogue: 0,0:08:46.56,0:08:48.96,Discord,,0,0,0,,Well, I mean, that shouldn't be a problem.
+Dialogue: 0,0:09:03.62,0:09:06.78,Discord,,0,0,0,,Oh dear… That might be a problem.
+Dialogue: 0,0:09:12.30,0:09:14.22,Discord,,0,0,0,,Maybe it's not as bad as I think.
+Dialogue: 0,0:09:14.40,0:09:18.06,Discord,,0,0,0,,Maybe Fluttershy would be comfortable having a tea party here.
+Dialogue: 0,0:09:22.86,0:09:25.68,Discord,,0,0,0,,Maybe I just need another set of eyes on this.
+Dialogue: 0,0:09:25.76,0:09:27.26,Discord,,0,0,0,,What do you think?
+Dialogue: 0,0:09:29.34,0:09:30.58,Discord,,0,0,0,,That bad?
+Dialogue: 0,0:09:30.58,0:09:31.84,Discord,,0,0,0,,No, worse.
+Dialogue: 0,0:09:31.84,0:09:34.00,Discord,,0,0,0,,Fluttershy would never be comfortable here.
+Dialogue: 0,0:09:34.00,0:09:36.00,Discord,,0,0,0,,What have you done?!
+Dialogue: 0,0:09:36.66,0:09:40.92,Discord,,0,0,0,,I was trying to make the tea party different and special, like me.
+Dialogue: 0,0:09:40.92,0:09:44.72,Discord,,0,0,0,,But all I did was make it chaotic and weird… like me.
+Dialogue: 0,0:09:45.42,0:09:48.66,Discord,,0,0,0,,What if those ponies from the tea shop and the china shop were right?
+Dialogue: 0,0:09:48.74,0:09:51.54,Discord,,0,0,0,,What if Fluttershy sees how crazy this place is.
+Dialogue: 0,0:09:51.54,0:09:53.70,Discord,,0,0,0,,and realizes how different we are
+Dialogue: 0,0:09:53.70,0:09:56.02,Discord,,0,0,0,,and then doesn't want to be friends anymore?
+Dialogue: 0,0:09:58.72,0:09:59.84,Discord,,0,0,0,,Relax.
+Dialogue: 0,0:09:59.84,0:10:01.24,Discord,,0,0,0,,We can fix this.
+Dialogue: 0,0:10:01.24,0:10:03.06,Discord,,0,0,0,,I am to call in the team.
+Dialogue: 0,0:10:07.40,0:10:09.52,Discord,,0,0,0,,Okay, chief. What's the plan?
+Dialogue: 0,0:10:10.84,0:10:12.96,Discord,,0,0,0,,What to do, what to do, what to do?
+Dialogue: 0,0:10:14.24,0:10:14.90,Discord,,0,0,0,,Got it!
+Dialogue: 0,0:10:15.10,0:10:17.76,Discord,,0,0,0,,We know Fluttershy and we know what she likes.
+Dialogue: 0,0:10:17.82,0:10:21.20,Discord,,0,0,0,,First of all, we need to get rid of all the new stuff.
+Dialogue: 0,0:10:21.26,0:10:22.04,Discord,,0,0,0,,You heard him!
+Dialogue: 0,0:10:22.04,0:10:23.58,Discord,,0,0,0,,Strike the new stuff!
+Dialogue: 0,0:10:46.66,0:10:48.98,Discord,,0,0,0,,Pinatas hate bats.
+Dialogue: 0,0:10:51.73,0:10:55.06,Discord,,0,0,0,,Enjoy your all-expense-paid trip around Equestria.
+Dialogue: 0,0:10:56.73,0:11:00.04,Discord,,0,0,0,,Well done everybody, but there is still more work to do.
+Dialogue: 0,0:11:01.42,0:11:02.47,Discord,,0,0,0,,Did you have the chance to…
+Dialogue: 0,0:11:02.47,0:11:03.42,Discord,,0,0,0,,I didn't get around…
+Dialogue: 0,0:11:03.84,0:11:08.49,Discord,,0,0,0,,We need to make this place more Fluttershy and less, well… me.
+Dialogue: 0,0:11:09.02,0:11:10.84,Discord,,0,0,0,,One thing I know about my dear friend,
+Dialogue: 0,0:11:10.84,0:11:13.42,Discord,,0,0,0,,is that she loves comfy chairs.
+Dialogue: 0,0:11:13.42,0:11:15.84,Discord,,0,0,0,,But not on the ceiling.
+Dialogue: 0,0:11:16.78,0:11:19.15,Discord,,0,0,0,,And I'm almost certain she likes stairs
+Dialogue: 0,0:11:19.15,0:11:21.15,Discord,,0,0,0,,that lead somewhere.
+Dialogue: 0,0:11:30.42,0:11:34.95,Discord,,0,0,0,,And although we've never discussed it, I'm pretty sure Fluttershy likes gravity.
+Dialogue: 0,0:11:37.02,0:11:40.69,Discord,,0,0,0,,Okay, fellas, this is a good start, but stand back.
+Dialogue: 0,0:11:40.80,0:11:42.44,Discord,,0,0,0,,Let me show you how it's done.
+Dialogue: 0,0:11:42.55,0:11:44.95,Discord,,0,0,0,,We just need some of this.
+Dialogue: 0,0:11:45.71,0:11:47.24,Discord,,0,0,0,,And a little of that.
+Dialogue: 0,0:11:53.42,0:11:56.40,Discord,,0,0,0,,And a whole lot of those.
+Dialogue: 0,0:12:04.35,0:12:05.69,Discord,,0,0,0,,How boring…
+Dialogue: 0,0:12:05.69,0:12:07.00,Discord,,0,0,0,,I mean normal.
+Dialogue: 0,0:12:07.00,0:12:08.26,Discord,,0,0,0,,Thank you.
+Dialogue: 0,0:12:08.29,0:12:12.11,Discord,,0,0,0,,Good job. The window treatments are perfectly unexceptional.
+Dialogue: 0,0:12:12.15,0:12:14.11,Discord,,0,0,0,,But we're not done yet.
+Dialogue: 0,0:12:14.20,0:12:15.53,Discord,,0,0,0,,You don't mean…
+Dialogue: 0,0:12:17.62,0:12:19.71,Discord,,0,0,0,,Makeover!
+Dialogue: 0,0:12:22.78,0:12:24.18,Discord,,0,0,0,,Hating it.
+Dialogue: 0,0:12:28.51,0:12:30.13,Discord,,0,0,0,,Hating it.
+Dialogue: 0,0:12:33.84,0:12:35.22,Discord,,0,0,0,,Hating it.
+Dialogue: 0,0:12:37.75,0:12:42.00,Discord,,0,0,0,,Hating… how much I love it!
+Dialogue: 0,0:12:56.20,0:13:00.73,Discord,,0,0,0,,Okay, let's give these conversation cards a whirl.
+Dialogue: 0,0:13:00.98,0:13:04.60,Discord,,0,0,0,,"It is very nice to see you today."
+Dialogue: 0,0:13:06.60,0:13:09.73,Discord,,0,0,0,,"Have you read any good books lately?"
+Dialogue: 0,0:13:09.84,0:13:14.09,Discord,,0,0,0,,"Your garden looks positively lovely!"
+Dialogue: 0,0:13:17.35,0:13:18.84,Discord,,0,0,0,,Bring on!
+Dialogue: 0,0:13:20.11,0:13:24.42,Discord,,0,0,0,,Quite strange, for the first time of my live I don't feel quite strange.
+Dialogue: 0,0:13:24.42,0:13:26.38,Discord,,0,0,0,,In fact, I feel…
+Dialogue: 0,0:13:26.38,0:13:28.06,Discord,,0,0,0,,completely normal.
+Dialogue: 0,0:13:28.26,0:13:31.06,Discord,,0,0,0,,Everything is finally perfect.
+Dialogue: 0,0:13:31.06,0:13:33.98,Discord,,0,0,0,,For Fluttershy.
+Dialogue: 0,0:13:34.09,0:13:36.35,Discord,,0,0,0,,And just in time.
+Dialogue: 0,0:13:38.26,0:13:42.42,FlutterShy,,0,0,0,,Discord! I'm so excited to finally see where you live.
+Dialogue: 0,0:13:43.11,0:13:44.18,Discord,,0,0,0,,Greetings, friend.
+Dialogue: 0,0:13:44.18,0:13:46.66,Discord,,0,0,0,,Please, do come in.
+Dialogue: 0,0:13:46.80,0:13:49.40,FlutterShy,,0,0,0,,I can't wait to see how…
+Dialogue: 0,0:13:54.49,0:13:55.60,Discord,,0,0,0,,Is something amiss?
+Dialogue: 0,0:13:56.06,0:13:57.60,FlutterShy,,0,0,0,,No-no. Not at all.
+Dialogue: 0,0:13:57.60,0:14:01.60,FlutterShy,,0,0,0,,It's just… not what I expected. It's quite… lovely.
+Dialogue: 0,0:14:02.24,0:14:04.69,Discord,,0,0,0,,Please, have a sit.
+Dialogue: 0,0:14:04.69,0:14:05.86,FlutterShy,,0,0,0,,Where is it?
+Dialogue: 0,0:14:05.86,0:14:08.00,Discord,,0,0,0,,Right here.
+Dialogue: 0,0:14:10.11,0:14:15.29,Discord,,0,0,0,,I think you'd be quite pleased with the green tea I've selected for us today.
+Dialogue: 0,0:14:15.89,0:14:18.00,FlutterShy,,0,0,0,,Does it actually turn us green?
+Dialogue: 0,0:14:18.26,0:14:20.62,FlutterShy,,0,0,0,,Is it really envious of the other teas?
+Dialogue: 0,0:14:20.73,0:14:22.51,FlutterShy,,0,0,0,,What does it do, what does it do?
+Dialogue: 0,0:14:22.71,0:14:25.31,Discord,,0,0,0,,Well, it tastes delicious.
+Dialogue: 0,0:14:25.58,0:14:27.53,FlutterShy,,0,0,0,,Oh, okay.
+Dialogue: 0,0:14:30.46,0:14:33.31,Discord,,0,0,0,,What particularly nice weather we are having.
+Dialogue: 0,0:14:33.31,0:14:36.15,FlutterShy,,0,0,0,,Yes… yes, we are.
+Dialogue: 0,0:14:38.47,0:14:40.88,Discord,,0,0,0,,It did rain the other day hovewer.
+Dialogue: 0,0:14:42.82,0:14:45.70,Discord,,0,0,0,,But the weather today is particularly nice.
+Dialogue: 0,0:14:46.59,0:14:49.16,Discord,,0,0,0,,As I previously mentioned.
+Dialogue: 0,0:14:51.18,0:14:53.48,Discord,,0,0,0,,Would you care for some milk toast?
+Dialogue: 0,0:14:54.39,0:14:55.31,FlutterShy,,0,0,0,,Discord,
+Dialogue: 0,0:14:55.42,0:14:57.50,FlutterShy,,0,0,0,,you don't seem to be yourself today.
+Dialogue: 0,0:14:57.78,0:14:59.20,FlutterShy,,0,0,0,,Are you feeling alright?
+Dialogue: 0,0:14:59.86,0:15:01.11,Discord,,0,0,0,,What ever do you mean?
+Dialogue: 0,0:15:01.59,0:15:05.59,FlutterShy,,0,0,0,,Well… it's just… what you're wearing.
+Dialogue: 0,0:15:05.67,0:15:07.83,FlutterShy,,0,0,0,,And also… what you're saying and…
+Dialogue: 0,0:15:07.98,0:15:09.18,FlutterShy,,0,0,0,,also, the way you're saying it.
+Dialogue: 0,0:15:09.18,0:15:09.94,FlutterShy,,0,0,0,,And…
+Dialogue: 0,0:15:10.03,0:15:11.35,FlutterShy,,0,0,0,,pretty much everything else.
+Dialogue: 0,0:15:11.62,0:15:12.59,Discord,,0,0,0,,Oh, dear Fluttershy.
+Dialogue: 0,0:15:12.66,0:15:13.31,Discord,,0,0,0,,Worry not.
+Dialogue: 0,0:15:13.40,0:15:15.42,Discord,,0,0,0,,I can show you that for the first time
+Dialogue: 0,0:15:15.47,0:15:17.42,Discord,,0,0,0,,I'm feeling perfectly normal.
+Dialogue: 0,0:15:17.59,0:15:19.70,Discord,,0,0,0,,Now, let me top you off.
+Dialogue: 0,0:15:20.11,0:15:22.36,Discord,,0,0,0,,Oops, butterfingers.
+Dialogue: 0,0:15:22.39,0:15:23.96,Discord,,0,0,0,,How embarrasing.
+Dialogue: 0,0:15:26.23,0:15:27.46,FlutterShy,,0,0,0,,What's going on?
+Dialogue: 0,0:15:30.16,0:15:32.70,Discord,,0,0,0,,I have no idea.
+Dialogue: 0,0:15:33.20,0:15:36.19,FlutterShy,,0,0,0,,Discord! You are starting to fade away!
+Dialogue: 0,0:15:36.72,0:15:38.54,Discord,,0,0,0,,You don't say.
+Dialogue: 0,0:15:39.07,0:15:41.70,Discord,,0,0,0,,Have you read any good books lately?
+Dialogue: 0,0:15:50.86,0:15:52.22,Discord,,0,0,0,,Have you tried the scones?
+Dialogue: 0,0:15:52.28,0:15:54.02,Discord,,0,0,0,,They are positively delectable.
+Dialogue: 0,0:15:54.18,0:15:56.50,Discord,,0,0,0,,The secret is in the extra butter.
+Dialogue: 0,0:15:56.77,0:15:58.13,FlutterShy,,0,0,0,,What is wrong with you?
+Dialogue: 0,0:15:58.46,0:15:59.84,FlutterShy,,0,0,0,,You acting so normal.
+Dialogue: 0,0:16:00.17,0:16:02.02,FlutterShy,,0,0,0,,Which is not so normal for you.
+Dialogue: 0,0:16:02.81,0:16:04.10,Discord,,0,0,0,,What ever do you mean?
+Dialogue: 0,0:16:04.21,0:16:05.21,Discord,,0,0,0,,This is just me
+Dialogue: 0,0:16:05.42,0:16:06.49,Discord,,0,0,0,,being me.
+Dialogue: 0,0:16:07.17,0:16:08.46,FlutterShy,,0,0,0,,No, it's not!
+Dialogue: 0,0:16:08.48,0:16:10.94,FlutterShy,,0,0,0,,It's you being like everypony else.
+Dialogue: 0,0:16:16.36,0:16:18.76,FlutterShy,,0,0,0,,The more you do — the more you fade away.
+Dialogue: 0,0:16:19.78,0:16:21.22,FlutterShy,,0,0,0,,Of course!
+Dialogue: 0,0:16:21.37,0:16:23.26,FlutterShy,,0,0,0,,You are creature of pure chaos.
+Dialogue: 0,0:16:23.62,0:16:26.02,FlutterShy,,0,0,0,,Being normal is destroying you!
+Dialogue: 0,0:16:27.26,0:16:28.52,Discord,,0,0,0,,How interesting.
+Dialogue: 0,0:16:28.62,0:16:31.86,Discord,,0,0,0,,That reminds me of something I heard at the market today.
+Dialogue: 0,0:16:33.64,0:16:34.53,FlutterShy,,0,0,0,,Stop it!
+Dialogue: 0,0:16:34.62,0:16:38.05,FlutterShy,,0,0,0,,Please, you need to go back to being your not normal normal self!
+Dialogue: 0,0:16:38.12,0:16:39.25,FlutterShy,,0,0,0,,Quick, Discord,
+Dialogue: 0,0:16:39.54,0:16:41.73,FlutterShy,,0,0,0,,do something chaotic before it's too late!
+Dialogue: 0,0:16:41.73,0:16:42.77,FlutterShy,,0,0,0,,Please!
+Dialogue: 0,0:16:43.00,0:16:46.05,Discord,,0,0,0,,Do something chaotic? I'll try.
+Dialogue: 0,0:16:48.30,0:16:50.49,Discord,,0,0,0,,That's not good.
+Dialogue: 0,0:16:51.52,0:16:54.77,FlutterShy,,0,0,0,,Then I guess it's up to me. Ok. Alright.
+Dialogue: 0,0:16:54.94,0:16:55.93,FlutterShy,,0,0,0,,How about?
+Dialogue: 0,0:16:58.73,0:16:59.88,FlutterShy,,0,0,0,,Oh no.
+Dialogue: 0,0:16:59.93,0:17:01.72,FlutterShy,,0,0,0,,I tipped over that cup.
+Dialogue: 0,0:17:01.98,0:17:03.58,FlutterShy,,0,0,0,,That's pretty chaotic.
+Dialogue: 0,0:17:03.76,0:17:04.40,FlutterShy,,0,0,0,,Right?
+Dialogue: 0,0:17:06.98,0:17:07.82,FlutterShy,,0,0,0,,What if I…?
+Dialogue: 0,0:17:10.90,0:17:12.05,FlutterShy,,0,0,0,,Oh my!
+Dialogue: 0,0:17:12.06,0:17:16.26,FlutterShy,,0,0,0,,Talking with food in my mouth after taking a bite from every sandwich!
+Dialogue: 0,0:17:16.73,0:17:18.16,FlutterShy,,0,0,0,,How wacky!
+Dialogue: 0,0:17:19.28,0:17:20.58,FlutterShy,,0,0,0,,Doing anything for ya?
+Dialogue: 0,0:17:22.90,0:17:23.81,FlutterShy,,0,0,0,,Ok.
+Dialogue: 0,0:17:24.33,0:17:26.62,FlutterShy,,0,0,0,,Maybe I need to start thinking like you.
+Dialogue: 0,0:17:27.33,0:17:29.01,FlutterShy,,0,0,0,,What would Discord do?
+Dialogue: 0,0:17:29.50,0:17:32.06,FlutterShy,,0,0,0,,Well, I guess he'd probably make another version
+Dialogue: 0,0:17:32.10,0:17:34.33,FlutterShy,,0,0,0,,of himself to bounce ideas off of.
+Dialogue: 0,0:17:36.21,0:17:37.32,FlutterShy,,0,0,0,,But one wouldn't be enough.
+Dialogue: 0,0:17:37.37,0:17:38.25,FlutterShy,,0,0,0,,He did more.
+Dialogue: 0,0:17:38.38,0:17:39.14,FlutterShy,,0,0,0,,Way more!
+Dialogue: 0,0:17:46.96,0:17:48.36,FlutterShy,,0,0,0,,Hey there, Fluttershies!
+Dialogue: 0,0:17:48.48,0:17:51.46,FlutterShy,,0,0,0,,Any ideas on how to discord up this tea party?
+Dialogue: 0,0:17:51.73,0:17:53.70,FlutterShy,,0,0,0,,Hi, Fluttershy. Thanks for asking.
+Dialogue: 0,0:17:53.93,0:17:56.16,FlutterShy,,0,0,0,,First of all, you gotta redecorate this place.
+Dialogue: 0,0:17:56.24,0:17:58.21,FlutterShy,,0,0,0,,I mean this is were Discord lives!
+Dialogue: 0,0:17:58.29,0:18:01.93,FlutterShy,,0,0,0,,And you are telling me there aren't any stairs that lead to nowhere?
+Dialogue: 0,0:18:02.20,0:18:02.97,FlutterShy,,0,0,0,,On it!
+Dialogue: 0,0:18:17.09,0:18:18.00,FlutterShy,,0,0,0,,Better.
+Dialogue: 0,0:18:18.09,0:18:20.00,FlutterShy,,0,0,0,,But it still needs something.
+Dialogue: 0,0:18:23.98,0:18:25.92,FlutterShy,,0,0,0,,Now that's more like it.
+Dialogue: 0,0:18:28.88,0:18:29.85,FlutterShy,,0,0,0,,It's working!
+Dialogue: 0,0:18:30.96,0:18:32.34,FlutterShy,,0,0,0,,Ok, what else?
+Dialogue: 0,0:18:32.45,0:18:33.69,FlutterShy,,0,0,0,,Furniture on the ground?
+Dialogue: 0,0:18:33.69,0:18:34.84,FlutterShy,,0,0,0,,So predictable.
+Dialogue: 0,0:18:34.84,0:18:36.84,FlutterShy,,0,0,0,,Let's put them where they don't belong.
+Dialogue: 0,0:18:47.32,0:18:50.37,FlutterShy,,0,0,0,,And he'd have a chaise lounge that would actually chase you!
+Dialogue: 0,0:18:50.42,0:18:51.82,FlutterShy,,0,0,0,,Because it's funny like that.
+Dialogue: 0,0:18:52.32,0:18:53.76,FlutterShy,,0,0,0,,Bet you can't catch me!
+Dialogue: 0,0:19:04.86,0:19:07.00,FlutterShy,,0,0,0,,And, Discord would have a special kind of tea.
+Dialogue: 0,0:19:07.16,0:19:09.54,FlutterShy,,0,0,0,,Like a ginseng that could really sing!
+Dialogue: 0,0:19:09.85,0:19:12.08,Discord,,0,0,0,,I would… I would!
+Dialogue: 0,0:19:17.84,0:19:19.93,FlutterShy,,0,0,0,,And he'd serve it on the floating table!
+Dialogue: 0,0:19:20.38,0:19:23.77,FlutterShy,,0,0,0,,We never talked about it, but I'm pretty sure Discord hates gravity.
+Dialogue: 0,0:19:23.85,0:19:27.12,Discord,,0,0,0,,I do. Who wants to be tethered to the ground,
+Dialogue: 0,0:19:27.12,0:19:28.78,Discord,,0,0,0,,when you can do this?
+Dialogue: 0,0:19:30.85,0:19:34.50,FlutterShy,,0,0,0,,Now, this is exactly what I was hoping for.
+Dialogue: 0,0:19:35.24,0:19:37.18,Discord,,0,0,0,,This is what you were hoping for?!
+Dialogue: 0,0:19:37.33,0:19:40.42,Discord,,0,0,0,,But this is the complete opposite of your tea parties.
+Dialogue: 0,0:19:40.76,0:19:43.61,FlutterShy,,0,0,0,,I wouldn't expect you to throw a tea party the way I would.
+Dialogue: 0,0:19:43.61,0:19:44.86,FlutterShy,,0,0,0,,We're different!
+Dialogue: 0,0:19:45.80,0:19:46.72,Discord,,0,0,0,,I know.
+Dialogue: 0,0:19:46.78,0:19:50.04,Discord,,0,0,0,,I was afraid if you saw exactly how different we are,
+Dialogue: 0,0:19:50.17,0:19:52.24,Discord,,0,0,0,,you wouldn't want to be friends anymore…
+Dialogue: 0,0:19:52.77,0:19:53.48,FlutterShy,,0,0,0,,What?!
+Dialogue: 0,0:19:53.68,0:19:55.84,FlutterShy,,0,0,0,,Why would you ever think that?!
+Dialogue: 0,0:19:56.05,0:20:01.17,Discord,,0,0,0,,Because… you and I… don't make sense to anypony else.
+Dialogue: 0,0:20:01.33,0:20:02.50,FlutterShy,,0,0,0,,That may be true.
+Dialogue: 0,0:20:02.66,0:20:04.25,FlutterShy,,0,0,0,,But we make sense to me.
+Dialogue: 0,0:20:04.49,0:20:08.40,FlutterShy,,0,0,0,,I never would have thought to make singing ginseng before I met you.
+Dialogue: 0,0:20:08.89,0:20:13.61,FlutterShy,,0,0,0,,You've opened me up to so many more posibilities and impossibilities!
+Dialogue: 0,0:20:13.61,0:20:16.01,FlutterShy,,0,0,0,,So, I guess, what I'm trying to say is:
+Dialogue: 0,0:20:16.14,0:20:19.45,FlutterShy,,0,0,0,,I like you because you are so different from me.
+Dialogue: 0,0:20:19.60,0:20:20.61,Discord,,0,0,0,,You do?!
+Dialogue: 0,0:20:21.02,0:20:22.88,FlutterShy,,0,0,0,,Of course, I do, silly!
+Dialogue: 0,0:20:23.13,0:20:26.86,FlutterShy,,0,0,0,,Besides, what's Discord without a little chaos?
+Dialogue: 0,0:20:28.30,0:20:31.56,Discord,,0,0,0,,In that case, I certainly don't need to be wearing this.
+Dialogue: 0,0:20:34.38,0:20:36.74,Discord,,0,0,0,,I forgot that I still had this on.
+Dialogue: 0,0:20:38.70,0:20:41.21,FlutterShy,,0,0,0,,Now, about that tea party…
+Dialogue: 0,0:20:42.52,0:20:46.12,FlutterShy,,0,0,0,,You know, your garden really is looking lovely.
+Dialogue: 0,0:20:46.29,0:20:48.68,Discord,,0,0,0,,Why, thank you for noticing.
+Dialogue: 0,0:20:49.02,0:20:51.98,Discord,,0,0,0,,I also couldn't help but notice you need a refill.
+Dialogue: 0,0:20:57.57,0:20:58.81,FlutterShy,,0,0,0,,Gesundheit.
+Dialogue: 0,0:20:59.10,0:21:01.25,Discord,,0,0,0,,It really is nice having you here.
+Dialogue: 0,0:21:01.62,0:21:03.08,FlutterShy,,0,0,0,,I'm happy to be here.
+Dialogue: 0,0:21:03.18,0:21:05.16,FlutterShy,,0,0,0,,And I really do like your place.
+Dialogue: 0,0:21:05.30,0:21:07.64,FlutterShy,,0,0,0,,Because it's so you.
+Dialogue: 0,0:21:07.96,0:21:10.17,Discord,,0,0,0,,Why, thank you, Fluttershy.
+Dialogue: 0,0:21:10.52,0:21:14.52,FlutterShy,,0,0,0,,Now, how about we try some of those delicious looking sandwiches?
+Dialogue: 0,0:21:16.94,0:21:18.81,Discord,,0,0,0,,You read my mind!
+Dialogue: 0,0:21:33.96,0:21:36.56,Default,,0,0,0,,SCHASTLIVY PONEC
+Dialogue: 0,0:21:36.60,0:21:42.88,Default,,0,0,0,,anon2anon\Nsunnysubs.com

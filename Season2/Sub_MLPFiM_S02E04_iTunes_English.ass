@@ -1,0 +1,331 @@
+﻿[Script Info]
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 1920
+PlayResY: 1080
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,68,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,4.5,4.5,2,30,30,45,1
+Style: Twilight,Arial,68,&H00FFFFFF,&H000000FF,&H00AE568C,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: RainbowDash,Arial,68,&H00FFFFFF,&H000000FF,&H00D29B1E,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: AppleJack,Arial,68,&H00FFFFFF,&H000000FF,&H00005AFF,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: PinkiePie,Arial,68,&H00FFFFFF,&H000000FF,&H009300E8,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: FlutterShy,Arial,68,&H00D2F9FF,&H000000FF,&H009542D6,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Spike,Arial,68,&H00F9FFF9,&H000000FF,&H00209322,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Somepony,Arial,68,&H00FFFFFF,&H000000FF,&H007D7E80,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Luna,Arial,68,&H00FFD6D7,&H000000FF,&H00BB4416,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Granny Smith,Arial,45,&H00FFFFFF,&H000000FF,&H0000A37B,&H00000000,0,0,0,0,100,100,0,0,1,1.5,1.5,2,20,20,30,1
+Style: Zecora,Arial,68,&H00EAEAEA,&H000000FF,&H003F3F3F,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Pipsqueak,Arial,68,&H00DEF2FF,&H000000FF,&H00066FA6,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Mayor,Arial,68,&H0073AEC2,&H000000FF,&H002C2C2C,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:06.62,0:00:10.22,Spike,,0,0,0,,Come on, Twilight. We're gonna be late\Nfor the Nightmare Night Festival.
+Dialogue: 0,0:00:13.38,0:00:14.31,Spike,,0,0,0,,Huh?
+Dialogue: 0,0:00:15.31,0:00:16.53,Spike,,0,0,0,,Are you…
+Dialogue: 0,0:00:16.53,0:00:20.60,Spike,,0,0,0,,…that one creaky grandpa\Nfrom Ponyville Retirement Village?
+Dialogue: 0,0:00:20.91,0:00:22.97,Twilight,,0,0,0,,I'm Star Swirl the Bearded.
+Dialogue: 0,0:00:24.33,0:00:26.75,Twilight,,0,0,0,,Father of the omnimorphic spell?
+Dialogue: 0,0:00:27.90,0:00:31.61,Twilight,,0,0,0,,Did you even read that book I gave you\Nabout obscure unicorn history?
+Dialogue: 0,0:00:31.61,0:00:32.76,Spike,,0,0,0,,Um…
+Dialogue: 0,0:00:33.52,0:00:34.67,Spike,,0,0,0,,That sounds important!
+Dialogue: 0,0:00:37.32,0:00:42.38,Somepony,,0,0,0,,{\i1}Nightmare Night! What a fright!\NGive us something sweet to bite!{\i}
+Dialogue: 0,0:00:44.54,0:00:47.40,Twilight,,0,0,0,,Hi, everypony. Great costumes.
+Dialogue: 0,0:00:47.40,0:00:49.21,Twilight,,0,0,0,,Happy Nightmare Night, Granny Smith.
+Dialogue: 0,0:00:49.21,0:00:52.58,Granny Smith,,0,0,0,,I should have been\Nasleep five hours ago.
+Dialogue: 0,0:01:01.47,0:01:06.10,Pipsqueak,,0,0,0,,Pipsqueak the Pirate, at your service.\NIt's my very first Nightmare Night.
+Dialogue: 0,0:01:06.10,0:01:07.98,Twilight,,0,0,0,,Since you moved here from Trottingham?
+Dialogue: 0,0:01:07.98,0:01:11.90,Pipsqueak,,0,0,0,,No. My very first Nightmare Night ever!
+Dialogue: 0,0:01:12.46,0:01:14.56,PinkiePie,,0,0,0,,Enough chitchat! Time is candy!
+Dialogue: 0,0:01:14.56,0:01:17.11,Twilight,,0,0,0,,Pinkie Pie, aren't you\Na little old for this?
+Dialogue: 0,0:01:17.11,0:01:19.19,PinkiePie,,0,0,0,,Too old for free candy?
+Dialogue: 0,0:01:19.60,0:01:20.75,PinkiePie,,0,0,0,,Never!
+Dialogue: 0,0:01:27.23,0:01:28.58,Twilight,,0,0,0,,Do you like it?
+Dialogue: 0,0:01:29.41,0:01:31.51,PinkiePie,,0,0,0,,Yeah! Great costume, Twilight.
+Dialogue: 0,0:01:31.51,0:01:34.04,PinkiePie,,0,0,0,,Oh, you make a fantastic weirdo clown.
+Dialogue: 0,0:01:35.30,0:01:36.86,Twilight,,0,0,0,,A clown?!
+Dialogue: 0,0:01:38.89,0:01:41.19,Twilight,,0,0,0,,Look at the borders on these robes.
+Dialogue: 0,0:01:41.19,0:01:42.83,Twilight,,0,0,0,,These are hoof-stitched!
+Dialogue: 0,0:01:42.83,0:01:44.47,Spike,,0,0,0,,It's a great costume.
+Dialogue: 0,0:01:45.03,0:01:46.36,Spike,,0,0,0,,…grandpa.
+Dialogue: 0,0:02:27.50,0:02:32.14,Twilight,,0,0,0,,Star Swirl the Bearded is only the most\Nimportant conjurer of the pre-classical era.
+Dialogue: 0,0:02:35.34,0:02:37.77,Twilight,,0,0,0,,He created more than two hundred spells.
+Dialogue: 0,0:02:37.77,0:02:41.56,Twilight,,0,0,0,,He even has a shelf in the Canterlot\Nlibrary of magic named after him.
+Dialogue: 0,0:02:43.23,0:02:46.67,Twilight,,0,0,0,,Maybe I should start up a pony group\Nto teach ponies of our history.
+Dialogue: 0,0:02:46.67,0:02:49.67,Twilight,,0,0,0,,I bet everypony would love it.\NDon't you, Spike?
+Dialogue: 0,0:02:51.25,0:02:52.43,Spike,,0,0,0,,I love it.
+Dialogue: 0,0:02:54.08,0:02:55.69,Twilight,,0,0,0,,Hey, look. We're here already.
+Dialogue: 0,0:02:55.69,0:02:57.27,Twilight,,0,0,0,,Should we get something to eat?
+Dialogue: 0,0:02:59.19,0:03:01.73,PinkiePie,,0,0,0,,Twilight! Twilight! Look at our haul!
+Dialogue: 0,0:03:01.78,0:03:03.07,PinkiePie,,0,0,0,,Can you believe it?
+Dialogue: 0,0:03:06.59,0:03:09.56,PinkiePie,,0,0,0,,And then we went to Cheerilee's house\Nand we got a bunch more goodies.
+Dialogue: 0,0:03:09.56,0:03:10.52,PinkiePie,,0,0,0,,Didn't we, Pip?
+Dialogue: 0,0:03:10.52,0:03:11.32,Pipsqueak,,0,0,0,,Sure did!
+Dialogue: 0,0:03:11.32,0:03:12.72,PinkiePie,,0,0,0,,And then we had to stop and wait\Nfor Granny Smith and…
+Dialogue: 0,0:03:17.46,0:03:20.09,Twilight,,0,0,0,,Rainbow Dash! That wasn't very nice.
+Dialogue: 0,0:03:20.09,0:03:23.98,RainbowDash,,0,0,0,,Lighten up, old-timer. This is\Nthe best night of the year for pranks.
+Dialogue: 0,0:03:23.98,0:03:25.75,Twilight,,0,0,0,,Look what you did to Spike.
+Dialogue: 0,0:03:27.44,0:03:28.88,RainbowDash,,0,0,0,,Aw, it's all in good fun.
+Dialogue: 0,0:03:28.88,0:03:30.80,RainbowDash,,0,0,0,,Oh! Oh! There's another group over there!
+Dialogue: 0,0:03:44.96,0:03:46.98,Twilight,,0,0,0,,Happy Nightmare Night, Applejack.
+Dialogue: 0,0:03:46.98,0:03:50.46,AppleJack,,0,0,0,,Howdy, Spike. Hey, Twilight.\NNice costume.
+Dialogue: 0,0:03:50.46,0:03:52.36,Spike,,0,0,0,,Thanks! I'm a dragon.
+Dialogue: 0,0:03:52.37,0:03:54.17,Twilight,,0,0,0,,She means me, Spike.
+Dialogue: 0,0:03:54.18,0:03:57.48,AppleJack,,0,0,0,,With that beard, I reckon you're\Nsome sorta country music singer.
+Dialogue: 0,0:03:58.29,0:04:01.21,AppleJack,,0,0,0,,While y'all are here, you feel like\Nbobbin' for an apple?
+Dialogue: 0,0:04:07.48,0:04:09.19,Mayor,,0,0,0,,Thank you, everypony.
+Dialogue: 0,0:04:09.19,0:04:12.34,Mayor,,0,0,0,,And welcome to\Nthe Nightmare Night Festival.
+Dialogue: 0,0:04:14.57,0:04:17.63,Mayor,,0,0,0,,Now, all the little ponies, who\Nhave been out collecting sweets…
+Dialogue: 0,0:04:17.63,0:04:21.87,Mayor,,0,0,0,,…should follow our friend Zecora\Nto hear the legend of…
+Dialogue: 0,0:04:22.03,0:04:24.68,Mayor,,0,0,0,,Nightmare Moooon!
+Dialogue: 0,0:04:27.21,0:04:30.56,Spike,,0,0,0,,Spooky voice might work better\Nif she wasn't dressed like that.
+Dialogue: 0,0:04:38.12,0:04:43.44,Zecora,,0,0,0,,Follow me and very soon\NYou'll hear the tale of Nightmare Moon.
+Dialogue: 0,0:04:45.94,0:04:50.70,Zecora,,0,0,0,,Listen close, my little dears.\NI'll tell you where you got your fears.
+Dialogue: 0,0:04:50.98,0:04:53.87,Zecora,,0,0,0,,Of Nightmare Night, so dark and scary.
+Dialogue: 0,0:04:55.98,0:04:59.25,Zecora,,0,0,0,,Of Nightmare Moon, who makes you wary.
+Dialogue: 0,0:05:02.57,0:05:07.51,Zecora,,0,0,0,,Every year we put on a disguise\NTo save ourselves from her searching eyes.
+Dialogue: 0,0:05:10.49,0:05:14.03,Zecora,,0,0,0,,The Nightmare Moon wants just one thing:
+Dialogue: 0,0:05:15.76,0:05:19.14,Zecora,,0,0,0,,To gobble up ponies in one quick swing!
+Dialogue: 0,0:05:21.07,0:05:26.85,Zecora,,0,0,0,,Hungrily she soars the sky.\NIf she sees nopony, she passes by.
+Dialogue: 0,0:05:26.86,0:05:32.39,Zecora,,0,0,0,,So if she comes and all is clear,\NEquestria is safe another year!
+Dialogue: 0,0:05:33.94,0:05:36.36,Pipsqueak,,0,0,0,,Um… Miss Zecora.
+Dialogue: 0,0:05:36.36,0:05:39.46,Pipsqueak,,0,0,0,,If we wear costumes to hide\Nfrom Nightmare Moon…
+Dialogue: 0,0:05:39.47,0:05:41.39,Pipsqueak,,0,0,0,,…so she won't gobble us up…
+Dialogue: 0,0:05:41.39,0:05:44.69,Pipsqueak,,0,0,0,,…how come we still need to\Ngive her some of our candy?
+Dialogue: 0,0:05:44.69,0:05:50.63,Zecora,,0,0,0,,A perfect question, my little friend!\NFor Nightmare Moon you must not offend.
+Dialogue: 0,0:05:51.70,0:05:53.98,Zecora,,0,0,0,,Fill up her belly with a treat or two…
+Dialogue: 0,0:05:54.08,0:05:58.10,Zecora,,0,0,0,,So she won't return to come eat YOUUU!
+Dialogue: 0,0:06:00.25,0:06:02.94,PinkiePie,,0,0,0,,Everypony! Just dump some\Ncandy and get outta here!
+Dialogue: 0,0:06:26.64,0:06:28.59,PinkiePie,,0,0,0,,IT'S NIGHTMARE MOON! RUUUN!!!
+Dialogue: 0,0:06:59.36,0:07:01.09,Twilight,,0,0,0,,Princess Luna!
+Dialogue: 0,0:07:13.42,0:07:16.26,Luna,,0,0,0,,CITIZENS OF PONYVILLE!
+Dialogue: 0,0:07:16.76,0:07:20.31,Luna,,0,0,0,,WE HAVE GRACED YOUR TINY\NVILLAGE WITH OUR PRESENCE…
+Dialogue: 0,0:07:20.31,0:07:25.88,Luna,,0,0,0,,…SO THAT YOU MIGHT BEHOLD\NTHE REAL PRINCESS OF THE NIGHT!
+Dialogue: 0,0:07:25.88,0:07:29.13,Luna,,0,0,0,,A CREATURE OF NIGHTMARE IS\NNO LONGER, BUT INSTEAD…
+Dialogue: 0,0:07:29.13,0:07:32.77,Luna,,0,0,0,,…A PONY WHO DESIRES\NYOUR LOVE AND ADMIRATION.
+Dialogue: 0,0:07:32.77,0:07:35.63,Luna,,0,0,0,,TOGETHER WE SHALL CHANGE\NTHIS DREADFUL CELEBRATION…
+Dialogue: 0,0:07:35.64,0:07:39.71,Luna,,0,0,0,,…INTO A BRIGHT AND\NGLORIOUS FEEEAST!
+Dialogue: 0,0:07:41.22,0:07:42.41,PinkiePie,,0,0,0,,Did you hear that, everypony?
+Dialogue: 0,0:07:42.41,0:07:45.33,PinkiePie,,0,0,0,,Nightmare Moon says\Nshe's gonna feast on us all!
+Dialogue: 0,0:07:49.99,0:07:50.94,Luna,,0,0,0,,What?!
+Dialogue: 0,0:07:50.94,0:07:55.47,Luna,,0,0,0,,No, children, no! You no longer\Nhave reason to fear us.
+Dialogue: 0,0:07:55.47,0:07:58.30,Luna,,0,0,0,,Screams of delight is\Nwhat your princess desires.
+Dialogue: 0,0:07:58.30,0:08:00.40,Luna,,0,0,0,,Not screams of terror.
+Dialogue: 0,0:08:02.45,0:08:03.78,Luna,,0,0,0,,Madame Mayor.
+Dialogue: 0,0:08:03.78,0:08:07.29,Luna,,0,0,0,,Thy princess of the night hath arrived.
+Dialogue: 0,0:08:14.03,0:08:15.76,Luna,,0,0,0,,What is the matter with you?
+Dialogue: 0,0:08:19.47,0:08:21.68,Luna,,0,0,0,,Very well then! Be that way!
+Dialogue: 0,0:08:21.88,0:08:25.03,Luna,,0,0,0,,We won't even bother with\Nthe traditional royal farewell.
+Dialogue: 0,0:08:25.95,0:08:27.68,Twilight,,0,0,0,,I'm gonna go talk to her.
+Dialogue: 0,0:08:28.14,0:08:30.63,Spike,,0,0,0,,You can't talk to her!\NShe's Nightmare Moon!
+Dialogue: 0,0:08:30.63,0:08:31.88,Twilight,,0,0,0,,No, she's not.
+Dialogue: 0,0:08:31.88,0:08:34.98,Twilight,,0,0,0,,I saw the Elements of Harmony\Nchange her back to good.
+Dialogue: 0,0:08:34.99,0:08:37.14,Twilight,,0,0,0,,But it seems like she's having\Nsome trouble adjusting…
+Dialogue: 0,0:08:37.14,0:08:39.71,Twilight,,0,0,0,,…after being gone\Nfor a thousand years.
+Dialogue: 0,0:08:46.65,0:08:47.95,Twilight,,0,0,0,,Princess Luna?
+Dialogue: 0,0:08:48.66,0:08:50.11,Twilight,,0,0,0,,Hi. My name is…
+Dialogue: 0,0:08:50.11,0:08:51.67,Luna,,0,0,0,,Star Swirl the Bearded.
+Dialogue: 0,0:08:51.68,0:08:54.67,Luna,,0,0,0,,Commendable costume.\NThou even got the bells right.
+Dialogue: 0,0:08:54.67,0:08:58.99,Twilight,,0,0,0,,Thank you, finally! Somepony\Nwho gets my costume.
+Dialogue: 0,0:09:00.85,0:09:04.27,Twilight,,0,0,0,,Uh… I just came to welcome you\Nto our celebration.
+Dialogue: 0,0:09:04.47,0:09:05.92,Twilight,,0,0,0,,My actual name is…
+Dialogue: 0,0:09:05.92,0:09:07.09,Luna,,0,0,0,,Twilight Sparkle.
+Dialogue: 0,0:09:07.92,0:09:10.88,Luna,,0,0,0,,IT WAS THOU WHO UNLEASHED\NTHE POWERS OF HARMONY UPON US…
+Dialogue: 0,0:09:10.88,0:09:13.31,Luna,,0,0,0,,…AND TOOK AWAY OUR DARK POWERS!
+Dialogue: 0,0:09:14.80,0:09:17.14,Twilight,,0,0,0,,And that was a good thing, right?
+Dialogue: 0,0:09:17.14,0:09:19.79,Luna,,0,0,0,,But of course! We\Ncould not be happier.
+Dialogue: 0,0:09:19.79,0:09:21.05,Luna,,0,0,0,,Is that not clear?!
+Dialogue: 0,0:09:21.06,0:09:23.93,Twilight,,0,0,0,,Well, you kind of sound\Nlike you're yelling at me.
+Dialogue: 0,0:09:23.94,0:09:26.98,Luna,,0,0,0,,But this is the traditional\Nroyal Canterlot voice.
+Dialogue: 0,0:09:26.98,0:09:29.87,Luna,,0,0,0,,It is tradition to speak\Nusing the royal "we"…
+Dialogue: 0,0:09:29.87,0:09:33.61,Luna,,0,0,0,,…and to use THIS MUCH VOLUME\NWHEN ADDRESSING OUR SUBJECTS!
+Dialogue: 0,0:09:37.28,0:09:40.82,Twilight,,0,0,0,,You know, that might explain why\Nyour appearance was met with…
+Dialogue: 0,0:09:41.19,0:09:42.69,Twilight,,0,0,0,,…mixed results.
+Dialogue: 0,0:09:42.69,0:09:45.09,Twilight,,0,0,0,,I think if you just changed\Nyour approach a bit…
+Dialogue: 0,0:09:45.09,0:09:47.78,Twilight,,0,0,0,,…you might be met\Nwith a warmer reception.
+Dialogue: 0,0:09:48.42,0:09:50.20,Luna,,0,0,0,,CHANGE OUR APPROACH?
+Dialogue: 0,0:09:50.81,0:09:52.42,Twilight,,0,0,0,,Or the volume.
+Dialogue: 0,0:09:52.42,0:09:55.94,Luna,,0,0,0,,Oh. We have been locked away\Nfor a thousand years.
+Dialogue: 0,0:09:55.94,0:09:58.84,Luna,,0,0,0,,We are… not sure we can.
+Dialogue: 0,0:10:00.57,0:10:04.66,Twilight,,0,0,0,,Don't worry, princess. Fluttershy\Ncan give you some great pointers.
+Dialogue: 0,0:10:04.66,0:10:08.09,Twilight,,0,0,0,,She's delicate and demure\Nwith the sweetest little voice.
+Dialogue: 0,0:10:09.03,0:10:12.18,FlutterShy,,0,0,0,,GO AWAY! NO CANDY HERE! VISITORS\NNOT WELCOME ON NIGHTMARE NIGHT!
+Dialogue: 0,0:10:13.84,0:10:16.36,Twilight,,0,0,0,,Fluttershy, it's me, Twilight!
+Dialogue: 0,0:10:16.88,0:10:18.17,FlutterShy,,0,0,0,,It is you.
+Dialogue: 0,0:10:18.91,0:10:20.31,FlutterShy,,0,0,0,,Ah, and Nightmare Moon.
+Dialogue: 0,0:10:20.94,0:10:22.08,FlutterShy,,0,0,0,,Nightmare Moon?!
+Dialogue: 0,0:10:25.02,0:10:26.01,Twilight,,0,0,0,,Wait right here.
+Dialogue: 0,0:10:31.16,0:10:35.21,Twilight,,0,0,0,,Fluttershy… you remember Princess Luna?
+Dialogue: 0,0:10:35.81,0:10:36.91,Luna,,0,0,0,,CHARMED!
+Dialogue: 0,0:10:40.25,0:10:41.52,FlutterShy,,0,0,0,,Likewise…
+Dialogue: 0,0:10:41.52,0:10:44.90,Luna,,0,0,0,,TWILIGHT SPARKLE HATH SPOKEN\NOF THE SWEETNESS OF THY VOICE.
+Dialogue: 0,0:10:44.90,0:10:48.92,Luna,,0,0,0,,WE ASK, THOU TEACHEST TO US\NTO SPEAK AS THOU SPEAKEST!
+Dialogue: 0,0:10:48.92,0:10:49.83,FlutterShy,,0,0,0,,Okay…
+Dialogue: 0,0:10:49.83,0:10:51.44,Luna,,0,0,0,,SHALL OUR LESSONS BEGIN?
+Dialogue: 0,0:10:51.44,0:10:52.56,FlutterShy,,0,0,0,,Okay…
+Dialogue: 0,0:10:52.56,0:10:54.43,Luna,,0,0,0,,SHALL WE MIMIC THY VOICE?
+Dialogue: 0,0:10:54.43,0:10:55.20,FlutterShy,,0,0,0,,Okay…
+Dialogue: 0,0:10:55.20,0:10:56.69,Luna,,0,0,0,,HOW IS THIS?
+Dialogue: 0,0:10:56.70,0:10:57.86,FlutterShy,,0,0,0,,Perfect. Lesson over.
+Dialogue: 0,0:10:59.67,0:11:01.57,Twilight,,0,0,0,,A little quieter, princess.
+Dialogue: 0,0:11:01.72,0:11:04.23,Luna,,0,0,0,,HOW IS… this?
+Dialogue: 0,0:11:04.23,0:11:06.09,Twilight,,0,0,0,,Better. Right, Fluttershy?
+Dialogue: 0,0:11:07.61,0:11:08.58,FlutterShy,,0,0,0,,Yes.
+Dialogue: 0,0:11:09.57,0:11:12.73,Luna,,0,0,0,,How… about… now?
+Dialogue: 0,0:11:12.73,0:11:14.04,Twilight,,0,0,0,,Now you're getting it.
+Dialogue: 0,0:11:14.27,0:11:16.53,Luna,,0,0,0,,And… how about now?
+Dialogue: 0,0:11:16.53,0:11:18.29,Twilight,,0,0,0,,Yes! Well done.
+Dialogue: 0,0:11:19.56,0:11:21.92,Luna,,0,0,0,,AH, THANK YOU, DEAR FLUTTERSHY!
+Dialogue: 0,0:11:21.92,0:11:23.89,Luna,,0,0,0,,OUR NORMAL SPEAKING\NVOICE SHALL SURELY…
+Dialogue: 0,0:11:23.90,0:11:26.81,Luna,,0,0,0,,…WIN US THE HEARTS\NOF THY FELLOW VILLAGERS.
+Dialogue: 0,0:11:26.93,0:11:28.38,PinkiePie,,0,0,0,,Fluttershy! You've gotta hide us!
+Dialogue: 0,0:11:28.38,0:11:29.74,PinkiePie,,0,0,0,,Nightmare Moon is here and…
+Dialogue: 0,0:11:30.81,0:11:35.19,PinkiePie,,0,0,0,,She stole Fluttershy's voice so she\Ncan't scream when she GOBBLES HER UP!!!
+Dialogue: 0,0:11:37.56,0:11:39.44,Luna,,0,0,0,,NAY, CHILDREN, WAIT!
+Dialogue: 0,0:11:40.69,0:11:43.95,Luna,,0,0,0,,I mean… nay, children, wait.
+Dialogue: 0,0:11:45.01,0:11:47.85,Twilight,,0,0,0,,Come on, princess. Time for plan B.
+Dialogue: 0,0:11:59.57,0:12:01.71,Luna,,0,0,0,,It is of no use, Twilight Sparkle.
+Dialogue: 0,0:12:01.71,0:12:04.27,Luna,,0,0,0,,They have never liked us\Nand they never shall.
+Dialogue: 0,0:12:04.28,0:12:07.50,Twilight,,0,0,0,,My friend Applejack is one of the\Nmost likeable ponies around.
+Dialogue: 0,0:12:07.50,0:12:09.41,Twilight,,0,0,0,,I'm sure she'll have some ideas.
+Dialogue: 0,0:12:10.06,0:12:10.92,Pipsqueak,,0,0,0,,Heee…!
+Dialogue: 0,0:12:10.93,0:12:12.95,AppleJack,,0,0,0,,Whoop. Careful there, partner.
+Dialogue: 0,0:12:17.98,0:12:19.77,Twilight,,0,0,0,,Uh… Applejack.
+Dialogue: 0,0:12:19.77,0:12:23.56,AppleJack,,0,0,0,,The princess is looking for a little\Nadvice on how to fit in around here.
+Dialogue: 0,0:12:23.56,0:12:25.53,AppleJack,,0,0,0,,"Fit in"? Really?
+Dialogue: 0,0:12:26.76,0:12:28.85,AppleJack,,0,0,0,,I mean… that's easy!
+Dialogue: 0,0:12:28.85,0:12:31.13,AppleJack,,0,0,0,,All you gotta do is have\Nthe right attitude.
+Dialogue: 0,0:12:31.14,0:12:35.11,AppleJack,,0,0,0,,Loosen up a bit, be positive,\Nplay a few games, have some fun.
+Dialogue: 0,0:12:35.12,0:12:35.82,Luna,,0,0,0,,Fun?
+Dialogue: 0,0:12:36.09,0:12:38.49,Luna,,0,0,0,,What is this "fun" thou speakest of?
+Dialogue: 0,0:12:40.33,0:12:43.55,Luna,,0,0,0,,Pray tell, what purpose do these serve?
+Dialogue: 0,0:12:43.55,0:12:47.32,Somepony,,0,0,0,,Try to land the\Nsp-sp-spiders on the web.
+Dialogue: 0,0:12:52.60,0:12:54.20,AppleJack,,0,0,0,,You can do it, princess!
+Dialogue: 0,0:12:59.46,0:13:02.64,Luna,,0,0,0,,Ha! Your princess enjoys this… fun.
+Dialogue: 0,0:13:02.69,0:13:05.30,Luna,,0,0,0,,In what other ways\Nmay we experience it?
+Dialogue: 0,0:13:07.74,0:13:09.47,Twilight,,0,0,0,,Fire away, princess!
+Dialogue: 0,0:13:13.91,0:13:16.62,Luna,,0,0,0,,Ha ha! The fun has been doubled!
+Dialogue: 0,0:13:18.55,0:13:20.28,AppleJack,,0,0,0,,Why don't you try bobbin' for apples?
+Dialogue: 0,0:13:20.28,0:13:22.90,AppleJack,,0,0,0,,We got the best apples\Nin Equestria here, princess.
+Dialogue: 0,0:13:22.90,0:13:25.76,Luna,,0,0,0,,I ask that thou call us… me…
+Dialogue: 0,0:13:26.25,0:13:28.30,Luna,,0,0,0,,…Luna, fair Applejack.
+Dialogue: 0,0:13:28.30,0:13:32.70,Luna,,0,0,0,,Hear me, villagers!\NAll of you! Call me Luna!
+Dialogue: 0,0:13:34.67,0:13:36.85,Luna,,0,0,0,,Show me to this bobbing apples.
+Dialogue: 0,0:13:37.82,0:13:39.06,Pipsqueak,,0,0,0,,Whoooa…!
+Dialogue: 0,0:13:40.99,0:13:42.73,PinkiePie,,0,0,0,,Hey, gals. Anypony seen Pip?
+Dialogue: 0,0:13:42.73,0:13:44.40,PinkiePie,,0,0,0,,We lost him the last time\Nwe had to run…
+Dialogue: 0,0:13:45.86,0:13:47.67,PinkiePie,,0,0,0,,NIGHTMARE MOON IS\NGOBBLING PIPSQUEAK!
+Dialogue: 0,0:13:47.67,0:13:50.29,PinkiePie,,0,0,0,,EVERYPONY RUUUN!!!
+Dialogue: 0,0:13:52.11,0:13:55.51,Pipsqueak,,0,0,0,,Heeelp! My backside has been gobbled!
+Dialogue: 0,0:13:55.51,0:13:57.03,Luna,,0,0,0,,'Tis a lie!
+Dialogue: 0,0:13:57.03,0:14:01.49,Luna,,0,0,0,,Thy backside is whole and ungobbled,\Nthou ungrateful whelp!
+Dialogue: 0,0:14:04.97,0:14:08.32,Luna,,0,0,0,,Fair villagers, please do not back away.
+Dialogue: 0,0:14:08.32,0:14:10.34,Luna,,0,0,0,,Let us join together in…
+Dialogue: 0,0:14:10.69,0:14:12.00,Luna,,0,0,0,,…fun!
+Dialogue: 0,0:14:17.22,0:14:20.97,Luna,,0,0,0,,Not enough fun for you?\NWhat say you to this?
+Dialogue: 0,0:14:34.01,0:14:37.45,Luna,,0,0,0,,Huzzah! How many points do I receive?
+Dialogue: 0,0:14:41.59,0:14:43.05,Luna,,0,0,0,,Do not run away!
+Dialogue: 0,0:14:45.42,0:14:47.92,Luna,,0,0,0,,As your princess we command you!
+Dialogue: 0,0:14:56.72,0:14:59.74,Luna,,0,0,0,,BE STILL!!!
+Dialogue: 0,0:15:04.95,0:15:07.65,Twilight,,0,0,0,,Princess, remember! Watch the screaming!
+Dialogue: 0,0:15:07.65,0:15:09.86,Luna,,0,0,0,,NO, TWILIGHT SPARKLE!
+Dialogue: 0,0:15:09.87,0:15:13.04,Luna,,0,0,0,,WE MUST USE THE TRADITIONAL\NROYAL CANTERLOT VOICE…
+Dialogue: 0,0:15:13.05,0:15:15.07,Luna,,0,0,0,,…FOR WHAT WE ARE ABOUT TO SAY.
+Dialogue: 0,0:15:16.49,0:15:19.78,Luna,,0,0,0,,SINCE YOU CHOOSE TO FEAR YOUR PRINCESS\NRATHER THAN LOVE HER…
+Dialogue: 0,0:15:19.78,0:15:23.04,Luna,,0,0,0,,…AND DISHONOR HER WITH THIS\NINSULTING CELEBRATION…
+Dialogue: 0,0:15:23.34,0:15:27.61,Luna,,0,0,0,,…WE DECREE THAT NIGHTMARE\NNIGHT SHALL BE CANCELED!
+Dialogue: 0,0:15:27.61,0:15:30.17,Luna,,0,0,0,,FOREVER!
+Dialogue: 0,0:15:38.07,0:15:40.79,AppleJack,,0,0,0,,Shoot. We had everything goin' our way.
+Dialogue: 0,0:15:40.79,0:15:45.07,AppleJack,,0,0,0,,Luna was happy, everypony in town\Nwas happy. Now look at 'em.
+Dialogue: 0,0:15:45.98,0:15:49.45,Somepony,,0,0,0,,But I wanted to be a zombie next year!
+Dialogue: 0,0:15:53.03,0:15:54.65,Twilight,,0,0,0,,It's not over yet.
+Dialogue: 0,0:15:54.65,0:15:56.07,AppleJack,,0,0,0,,What are you gonna do?
+Dialogue: 0,0:15:56.07,0:15:58.55,Twilight,,0,0,0,,I'm going to do what I do best.
+Dialogue: 0,0:15:58.63,0:16:00.13,Twilight,,0,0,0,,Lecture her!
+Dialogue: 0,0:16:09.42,0:16:10.46,Twilight,,0,0,0,,Princess.
+Dialogue: 0,0:16:10.46,0:16:12.58,Luna,,0,0,0,,Leave me be, Twilight Sparkle.
+Dialogue: 0,0:16:12.58,0:16:16.45,Twilight,,0,0,0,,Princess. I'm sorry it hasn't\Nworked out how we wanted.
+Dialogue: 0,0:16:16.45,0:16:19.67,Twilight,,0,0,0,,But you have to believe me when\NI tell you that Nightmare Night…
+Dialogue: 0,0:16:19.67,0:16:22.82,Twilight,,0,0,0,,…is one of the most popular\Ncelebrations we have.
+Dialogue: 0,0:16:22.83,0:16:24.57,Luna,,0,0,0,,Yes. I can tell.
+Dialogue: 0,0:16:24.58,0:16:28.79,Luna,,0,0,0,,By all the adoring shrieks\Nof the children as they run away.
+Dialogue: 0,0:16:29.77,0:16:31.40,Twilight,,0,0,0,,Princess.
+Dialogue: 0,0:16:51.62,0:16:55.24,Twilight,,0,0,0,,No! No shrieking. No squealing\Nor screaming either. Okay?
+Dialogue: 0,0:16:55.24,0:16:56.34,PinkiePie,,0,0,0,,Okay.
+Dialogue: 0,0:16:57.05,0:16:58.70,Twilight,,0,0,0,,There's something I want you to see.
+Dialogue: 0,0:16:58.70,0:17:02.33,Twilight,,0,0,0,,And I promise that it's safe, but you\Nreally, really, really can't shriek.
+Dialogue: 0,0:17:02.33,0:17:04.04,Twilight,,0,0,0,,Do you promise not to shriek?
+Dialogue: 0,0:17:12.96,0:17:16.06,Twilight,,0,0,0,,Pinkie Pie, you remember\NPrincess Luna, right?
+Dialogue: 0,0:17:16.07,0:17:19.59,Luna,,0,0,0,,Ah. The ringleader of the\Nfrightened children.
+Dialogue: 0,0:17:20.03,0:17:22.51,Luna,,0,0,0,,Hast thou come to make peace?
+Dialogue: 0,0:17:31.81,0:17:33.14,PinkiePie,,0,0,0,,Nightmare Moon!
+Dialogue: 0,0:17:34.29,0:17:35.74,Twilight,,0,0,0,,Rainbow!
+Dialogue: 0,0:17:41.06,0:17:45.01,Twilight,,0,0,0,,She's changed, Pinkie!\NShe's not evil or scary anymore!
+Dialogue: 0,0:17:45.01,0:17:47.64,Twilight,,0,0,0,,And she definitely doesn't\Nwant to gobble you up!
+Dialogue: 0,0:17:49.01,0:17:50.59,PinkiePie,,0,0,0,,Well, duh.
+Dialogue: 0,0:17:50.59,0:17:51.39,Twilight,,0,0,0,,Huh?
+Dialogue: 0,0:17:51.39,0:17:53.04,PinkiePie,,0,0,0,,I know that. Sheesh, Twilight.
+Dialogue: 0,0:17:53.04,0:17:56.01,PinkiePie,,0,0,0,,I'm almost as big as her.\NHow's she gonna gobble me up?
+Dialogue: 0,0:17:56.02,0:17:58.50,Twilight,,0,0,0,,So why do you keep\Nrunning away and screaming?
+Dialogue: 0,0:17:58.50,0:18:01.70,PinkiePie,,0,0,0,,Sometimes it's just\Nreally fun to be scared.
+Dialogue: 0,0:18:01.70,0:18:03.77,Twilight,,0,0,0,,Fun?
+Dialogue: 0,0:18:05.03,0:18:07.40,Twilight,,0,0,0,,Pinkie Pie, you're a genius!
+Dialogue: 0,0:18:07.40,0:18:08.85,PinkiePie,,0,0,0,,No, I'm not. I'm a chicken.
+Dialogue: 0,0:18:09.95,0:18:12.10,Twilight,,0,0,0,,Princess Luna!\NI've finally figured out…
+Dialogue: 0,0:18:12.10,0:18:14.61,Twilight,,0,0,0,,…why you're having\Nso much trouble being liked!
+Dialogue: 0,0:18:14.61,0:18:17.74,Luna,,0,0,0,,Forgive me if I withhold my enthusiasm.
+Dialogue: 0,0:18:17.74,0:18:20.94,Twilight,,0,0,0,,Come with me. I'll explain\Neverything on the way.
+Dialogue: 0,0:18:23.04,0:18:26.59,Pipsqueak,,0,0,0,,Gosh. I never thought my\Nvery first Nightmare Night…
+Dialogue: 0,0:18:26.59,0:18:28.32,Pipsqueak,,0,0,0,,…would be my very last.
+Dialogue: 0,0:18:29.15,0:18:34.81,Zecora,,0,0,0,,Come, little Pip. Now don't you fret.\NNightmare Night's not over yet.
+Dialogue: 0,0:18:34.81,0:18:40.36,Zecora,,0,0,0,,We still have candy left to give,\NSo Nightmare Moon might let us live.
+Dialogue: 0,0:18:40.37,0:18:43.30,Mayor,,0,0,0,,Yes. Come on, little ponies.
+Dialogue: 0,0:18:43.30,0:18:46.39,Mayor,,0,0,0,,What's Nightmare Night without\Nthe annual candy offering?
+Dialogue: 0,0:18:47.07,0:18:50.23,Mayor,,0,0,0,,You don't want Nightmare Moon\Nto gobble you up…
+Dialogue: 0,0:18:50.23,0:18:52.19,Mayor,,0,0,0,,…dooo youuu?
+Dialogue: 0,0:18:53.22,0:18:56.00,Spike,,0,0,0,,Aw, the rainbow wig just kills it for me.
+Dialogue: 0,0:18:56.78,0:18:59.19,AppleJack,,0,0,0,,Come on, kids!\NDoesn't that sound like fun?
+Dialogue: 0,0:19:08.32,0:19:10.09,Pipsqueak,,0,0,0,,Goodbye, Nightmare Night.
+Dialogue: 0,0:19:10.49,0:19:11.88,Pipsqueak,,0,0,0,,Forever.
+Dialogue: 0,0:19:13.99,0:19:15.77,Luna,,0,0,0,,CITIZENS OF PONYVILLE!
+Dialogue: 0,0:19:15.94,0:19:19.00,Luna,,0,0,0,,YOU WERE WISE TO BRING THIS CANDY TO ME.
+Dialogue: 0,0:19:19.00,0:19:21.27,Luna,,0,0,0,,I AM PLEASED WITH YOUR OFFERING.
+Dialogue: 0,0:19:21.27,0:19:23.94,Luna,,0,0,0,,SO PLEASED THAT I MAY JUST EAT IT…
+Dialogue: 0,0:19:23.94,0:19:26.92,Luna,,0,0,0,,…INSTEAD OF EATING YOU!
+Dialogue: 0,0:19:34.36,0:19:38.83,Luna,,0,0,0,,I am not certain that did what\Nyou meant for it to do, Twilight Sparkle.
+Dialogue: 0,0:19:38.83,0:19:40.28,Twilight,,0,0,0,,Just wait.
+Dialogue: 0,0:19:40.67,0:19:43.64,Luna,,0,0,0,,For what? For… for them\Nto scream some more?
+Dialogue: 0,0:19:43.66,0:19:45.84,Pipsqueak,,0,0,0,,Um… Princess Luna.
+Dialogue: 0,0:19:45.84,0:19:49.06,Pipsqueak,,0,0,0,,I know there's not gonna be\Nany more Nightmare Night…
+Dialogue: 0,0:19:49.26,0:19:52.63,Pipsqueak,,0,0,0,,…but do you suppose maybe\Nyou could come back next year…
+Dialogue: 0,0:19:52.64,0:19:54.69,Pipsqueak,,0,0,0,,…and scare us again anyway?
+Dialogue: 0,0:19:55.81,0:19:58.76,Luna,,0,0,0,,Child. Are thou saying that thou…
+Dialogue: 0,0:19:59.03,0:20:01.13,Luna,,0,0,0,,…likest me to scare you?
+Dialogue: 0,0:20:01.13,0:20:04.40,Pipsqueak,,0,0,0,,It's really fun! Scary, but fun.
+Dialogue: 0,0:20:04.40,0:20:05.78,Luna,,0,0,0,,It… is?
+Dialogue: 0,0:20:06.07,0:20:09.35,Pipsqueak,,0,0,0,,Yeah! Nightmare Night is my\Nfavorite night of the year.
+Dialogue: 0,0:20:09.35,0:20:12.42,Luna,,0,0,0,,Well then. We shall have to bring…
+Dialogue: 0,0:20:12.43,0:20:15.20,Luna,,0,0,0,,…NIGHTMARE NIGHT BACK!
+Dialogue: 0,0:20:15.20,0:20:16.44,Pipsqueak,,0,0,0,,Whoa!
+Dialogue: 0,0:20:16.53,0:20:19.54,Pipsqueak,,0,0,0,,You're my favorite princess ever!
+Dialogue: 0,0:20:20.69,0:20:22.67,Pipsqueak,,0,0,0,,She said yes, guys!
+Dialogue: 0,0:20:22.67,0:20:23.90,Somepony,,0,0,0,,YAY!
+Dialogue: 0,0:20:23.90,0:20:26.95,Twilight,,0,0,0,,See? They really do like you, princess.
+Dialogue: 0,0:20:26.95,0:20:29.05,Luna,,0,0,0,,Can it be true?
+Dialogue: 0,0:20:30.10,0:20:32.70,Luna,,0,0,0,,OH, MOST WONDERFUL OF…
+Dialogue: 0,0:20:32.80,0:20:35.02,Luna,,0,0,0,,I mean…
+Dialogue: 0,0:20:35.07,0:20:38.03,Luna,,0,0,0,,Oh, most wonderful of nights.
+Dialogue: 0,0:20:38.56,0:20:40.41,Twilight,,0,0,0,,"Dear Princess Celestia."
+Dialogue: 0,0:20:40.41,0:20:44.21,Twilight,,0,0,0,,"When you first sent me to Ponyville,\NI didn't know anything about friendship."
+Dialogue: 0,0:20:44.21,0:20:47.29,Twilight,,0,0,0,,"I met somepony tonight who\Nwas having the same problem…"
+Dialogue: 0,0:20:47.29,0:20:49.46,Twilight,,0,0,0,,"…your sister, Princess Luna."
+Dialogue: 0,0:20:49.68,0:20:52.43,Twilight,,0,0,0,,"She taught me that one of the best\Nthings you can do with friendship…"
+Dialogue: 0,0:20:52.44,0:20:55.86,Twilight,,0,0,0,,"…is to give it to others and\Nhelp them find it themselves."
+Dialogue: 0,0:20:55.86,0:20:58.85,Twilight,,0,0,0,,"And I'm happy to report that\Nall of Ponyville has learned…"
+Dialogue: 0,0:20:58.85,0:21:03.04,Twilight,,0,0,0,,"…that even if somepony seems\Na little intimidating, even scary…"
+Dialogue: 0,0:21:03.04,0:21:07.45,Twilight,,0,0,0,,"…when you offer them your friendship,\Nyou'll discover a whole new pony underneath."
+Dialogue: 0,0:21:08.06,0:21:11.26,Twilight,,0,0,0,,"And even if my Star Swirl the Bearded\Ncostume didn't go over…"
+Dialogue: 0,0:21:11.46,0:21:15.00,Twilight,,0,0,0,,"…this still turned out to be\Nthe best Nightmare Night ever."

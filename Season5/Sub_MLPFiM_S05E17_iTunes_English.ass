@@ -1,0 +1,479 @@
+﻿[Script Info]
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,68,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Twilight,Arial,68,&H00FFFFFF,&H000000FF,&H00AE568C,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: RainbowDash,Arial,68,&H00FFFFFF,&H000000FF,&H00D29B1E,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: AppleJack,Arial,68,&H00FFFFFF,&H000000FF,&H00005AFF,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: PinkiePie,Arial,68,&H00FFFFFF,&H000000FF,&H009300E8,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: FlutterShy,Arial,68,&H00D2F9FF,&H000000FF,&H009542D6,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Rarity,Arial,68,&H00FFFBF0,&H000000FF,&H00690050,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Celestia,Arial,68,&H00FBF8FD,&H000000FF,&H00D177CB,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Spike,Arial,68,&H00F9FFF9,&H000000FF,&H00209322,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Somepony,Arial,68,&H00FFFFFF,&H000000FF,&H007D7E80,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Auto,Arial,68,&H00FFFFFF,&H000000FF,&H007D7E80,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Luna,Arial,68,&H00FFD6D7,&H000000FF,&H00BB4416,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: ShiningArmor,Arial,68,&H00FFFFFF,&H000000FF,&H007C473B,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: PrincessCadence,Arial,68,&H00D7F8FE,&H000000FF,&H00B0327F,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Guard,Arial,68,&H00FFFFFF,&H000000FF,&H00CDAB9F,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Librarian_Gray,Arial,68,&H00F2F2F2,&H000000FF,&H00C69E96,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Librarian,Arial,68,&H00F9F4FF,&H000000FF,&H00CA9191,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: AppleBloom,Arial,68,&H00C0FAF4,&H000000FF,&H006F00FF,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: GrannySmith,Arial,68,&H00FFFFFF,&H000000FF,&H0000A37B,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Scootaloo,Arial,68,&H00A0DAFF,&H000000FF,&H007800A0,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: SweetieBelle,Arial,68,&H00E8F0FF,&H000000FF,&H00752A5E,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: BabsSeed,Arial,68,&H00ABCBE6,&H000000FF,&H004608E5,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: DiamondTiara,Arial,68,&H00FFE6FA,&H00FFFFFF,&H00AD5F8A,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: SilverSpoon,Arial,68,&H00FFFFFF,&H000000FF,&H009A957F,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Trixie,Arial,68,&H00FAEFDA,&H000000FF,&H00674303,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Zecora,Arial,68,&H00EAEAEA,&H000000FF,&H003F3F3F,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Snips,Arial,68,&H00F8F9F3,&H000000FF,&H00626B2C,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Snails,Arial,68,&H00DEF2FF,&H000000FF,&H00066FA6,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: MysteryPony,Arial,68,&H002B2415,&H000000FF,&H00D7CCBC,&H00000000,0,0,0,0,100,100,0,0,1,1.5,1.5,2,30,30,45,1
+Style: MrCake,Arial,68,&H0064D1E4,&H000000FF,&H003295F4,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: MrsCake,Arial,68,&H00F2E195,&H000000FF,&H00885DDC,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Spitfire,Arial,68,&H00BEF6FD,&H0007B3B5,&H000063BE,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: LightingDust,Arial,68,&H00FAFFF0,&H005BD6EE,&H0097B400,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: KingSombra,Arial,68,&H00C6C6C6,&H00000000,&H000F0EC8,&H00111211,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: BigMac,Arial,68,&H00C2E1FF,&H00001FFF,&H000000DE,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: AppleRose,Arial,68,&H00DCECFF,&H00F2F1F4,&H006459CA,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Applesauce,Arial,68,&H00E9FFF4,&H00000000,&H0012C055,&H00111211,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Discord,Arial,68,&H00DAE7EE,&H000000FF,&H001A6A9D,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: RevizorReal,Arial,68,&H00FFFFFF,&H000000FF,&H007D7E80,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Mayor,Arial,68,&H0073AEC2,&H000000FF,&H002C2C2C,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Cheerilee,Arial,68,&H009D69C3,&H000000FF,&H0065358A,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: SunsetShimmer,Arial,68,&H0099DFF9,&H000000FF,&H00001891,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: FlashSentry,Arial,68,&H00FFFFFF,&H000000FF,&H007D7E80,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Reference,Arial,45,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2.25,2.25,8,30,30,45,1
+Style: Prim,Arial,68,&H00FFFFFF,&H000000FF,&H007D7E80,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Suri,Arial,68,&H00FFFFFF,&H000000FF,&H007D7E80,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Coco,Arial,68,&H00FFFFFF,&H000000FF,&H007D7E80,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: FlimFlam,Arial,68,&H00B6F6F4,&H000000FF,&H004230C0,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: StarlightGlimmer,Arial,68,&H00F5CEF2,&H000000FF,&H005C0104,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: StarlightEqual,Arial,68,&H00FFEAF8,&H000000FF,&H00636363,&H00000000,0,0,0,0,100,100,0,0,1,3,3,2,30,30,45,1
+Style: Loudspeaker,Arial,68,&H00FFFFFF,&H000000FF,&H007D7E80,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,8,30,30,45,1
+Style: Shadow,Arial,68,&H00C6C6C6,&H00000000,&H000F0EC8,&H00111211,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Sheriff,Arial,68,&H0085C7CD,&H000000FF,&H00195971,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Braeburn,Arial,68,&H0097ECF0,&H000000FF,&H001F8AC2,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Troubleshoes,Arial,68,&H00A6A6C5,&H000000FF,&H002E2950,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: TreeHugger,Arial,68,&H006AE7AC,&H00000000,&H00379A54,&H00111211,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: MaudPie,Arial,68,&H00FFD0D8,&H000000FF,&H00823F54,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Gilda,Arial,68,&H00FFFFFF,&H000000FF,&H00297690,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,29,29,45,1
+Style: Cranky,Arial,68,&H00DCEBF4,&H000000FF,&H004F6567,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Matilda,Arial,68,&H00C1EDFE,&H000000FF,&H002A5F64,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Derpy,Arial,68,&H00ABFBF5,&H000000FF,&H00A67B6F,&H00000000,0,0,0,0,100,100,0,0,1,2.5,2.25,2,30,30,45,1
+Style: DrWhooves,Arial,68,&H00B7DDED,&H000000FF,&H00172732,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: JeffLetrotski,Arial,68,&H00E0EEF3,&H000000FF,&H002585B7,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: LillyValley,Arial,68,&H00B4EDF6,&H000000FF,&H007247B4,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Daisy,Arial,68,&H00FCDFFE,&H000000FF,&H0000AA61,&H00000000,0,0,0,0,100,100,0,0,1,3,2.25,2,30,30,45,1
+Style: Rose,Arial,68,&H00C5E7E8,&H000000FF,&H005335A0,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Lyra,Arial,68,&H00F2F6DD,&H000000FF,&H003A6119,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: BonBon,Arial,68,&H00F8DFFF,&H000000FF,&H00905838,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Octavia,Arial,68,&H00C6CDCF,&H000000FF,&H00333033,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: AmethystStar,Arial,68,&H00FFEBFD,&H000000FF,&H008E245E,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: StevenMagnet,Arial,68,&H007FFDFF,&H000000FF,&H00954D8E,&H00000000,0,0,0,0,100,100,0,0,1,2.5,2.25,2,30,30,45,1
+Style: Gummy,Arial,68,&H00D5FEE4,&H000000FF,&H001F7C20,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: FancyPants,Arial,68,&H00FFFFFF,&H000000FF,&H00ABAA99,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,30,30,45,1
+Style: CherryJubilee,Arial,68,&H00AAE8F4,&H000000FF,&H00321979,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,30,30,45,1
+Style: Rutherford,Arial,68,&H005F98B8,&H000000FF,&H00173D77,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Moondancer,Arial,68,&H00F0FEFD,&H000000FF,&H004D12BC,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: LemonHearts,Arial,68,&H00C8FFFC,&H000000FF,&H006B5B0D,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Minuette,Arial,68,&H00FFFFFF,&H000000FF,&H00A16A3C,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: TwinkleShine,Arial,68,&H00F4FFFD,&H000000FF,&H00A96ABA,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Pipsqueak,Arial,68,&H00DEF2FF,&H000000FF,&H00066FA6,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: SomeponyYellow,Arial,68,&H0098FFFE,&H000000FF,&H00333333,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,30,30,45,1
+Style: SomeponyWhiteOnDarkBlue,Arial,68,&H00FFFFFF,&H000000FF,&H00882200,&H00000000,0,0,0,0,100,100,0,0,1,2.5,2.5,2,30,30,45,1
+Style: SomeponyLightPink,Arial,68,&H00B6B2FE,&H000000FF,&H00262663,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,30,30,45,1
+Style: SomeponyOrange,Arial,68,&H0058B2FE,&H000000FF,&H00333333,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,30,30,45,1
+Style: SomeponyBluishWhite,Arial,68,&H00FFE2D8,&H000000FF,&H00333333,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,30,30,45,1
+Style: SomeponyLightCyan,Arial,68,&H00FBFFB0,&H000000FF,&H00333333,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,30,30,45,1
+Style: Sassy,Arial,68,&H00FFF2D2,&H000000FF,&H002D3492,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: FashionPlate,Arial,68,&H00F5EAD2,&H000000FF,&H0025231D,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Windrider,Arial,68,&H00FEECC7,&H000000FF,&H0046666B,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Soarin,Arial,68,&H00FFF4D1,&H000000FF,&H008A4220,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Wonderbolt,Arial,68,&H00AFEEFA,&H000000FF,&H00BF8604,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: PhotoFinish,Arial,68,&H00FBF2D9,&H000000FF,&H00802E9F,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: PrincipalCinch,Arial,68,&H00F9FDDF,&H000000FF,&H005B1F6F,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Cinch,Arial,68,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,4.5,4.5,2,30,30,45,1
+Style: SourSweet,Arial,68,&H00D1FBFF,&H000000FF,&H004F2084,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: IndigoZap,Arial,68,&H00C8EAF7,&H000000FF,&H00664216,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: SugarCoat,Arial,68,&H00FAFEEB,&H000000FF,&H005E5514,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: SunnyFlare,Arial,68,&H00F5FCE3,&H000000FF,&H007D2C6C,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:02.96,0:00:04.89,GrannySmith,,0,0,0,,Oh, snickerdoodle!
+Dialogue: 0,0:00:04.89,0:00:07.45,GrannySmith,,0,0,0,,Where is the darned thing?!
+Dialogue: 0,0:00:07.45,0:00:10.90,GrannySmith,,0,0,0,,I wish for once I'd remember to label these boxes.
+Dialogue: 0,0:00:11.85,0:00:15.28,GrannySmith,,0,0,0,,Big Mac, be a dear and help me move those.
+Dialogue: 0,0:00:15.28,0:00:18.02,GrannySmith,,0,0,0,,Maybe it's in that one on the bottom.
+Dialogue: 0,0:00:25.35,0:00:28.61,GrannySmith,,0,0,0,,Ooh, dagnabbit, it's not in there either.
+Dialogue: 0,0:00:30.01,0:00:31.45,AppleBloom,,0,0,0,,You can't catch me!
+Dialogue: 0,0:00:32.39,0:00:33.23,AppleBloom,,0,0,0,,Hey!
+Dialogue: 0,0:00:34.63,0:00:36.02,AppleJack,,0,0,0,,You trickster.
+Dialogue: 0,0:00:36.45,0:00:39.58,GrannySmith,,0,0,0,,Sisterhooves Social is right around the corner.
+Dialogue: 0,0:00:39.58,0:00:42.87,GrannySmith,,0,0,0,,Thought it would be nice to award the winner of the big race
+Dialogue: 0,0:00:42.87,0:00:46.42,GrannySmith,,0,0,0,,the ribbon from when we hosted the very first Social.
+Dialogue: 0,0:00:47.24,0:00:49.44,GrannySmith,,0,0,0,,If'n of course I could find the darn thing.
+Dialogue: 0,0:00:53.00,0:00:55.72,GrannySmith,,0,0,0,,Ooh, would ya lookie here.
+Dialogue: 0,0:00:55.72,0:01:01.04,GrannySmith,,0,0,0,,My, how Apple Bloom used to love watching you make that thing fly.
+Dialogue: 0,0:01:01.04,0:01:03.73,GrannySmith,,0,0,0,,It's like she thought you used magic.
+Dialogue: 0,0:01:03.73,0:01:05.46,GrannySmith,,0,0,0,,Ah, right, enough reminiscin',
+Dialogue: 0,0:01:05.46,0:01:07.23,GrannySmith,,0,0,0,,gotta find that ribbon!
+Dialogue: 0,0:01:10.98,0:01:12.46,GrannySmith,,0,0,0,,If you would just help me
+Dialogue: 0,0:01:12.46,0:01:14.71,GrannySmith,,0,0,0,,get… that… box
+Dialogue: 0,0:01:14.71,0:01:16.26,GrannySmith,,0,0,0,,Then maybe I can
+Dialogue: 0,0:01:17.43,0:01:18.31,GrannySmith,,0,0,0,,Big Mac?
+Dialogue: 0,0:01:21.96,0:01:23.19,GrannySmith,,0,0,0,,Found her!
+Dialogue: 0,0:02:01.84,0:02:04.07,Somepony,,0,0,0,,S.I.S.T.E.R.S.
+Dialogue: 0,0:02:04.07,0:02:06.33,Somepony,,0,0,0,,Which two sisters are the best?
+Dialogue: 0,0:02:06.33,0:02:07.49,Somepony,,0,0,0,,We are!
+Dialogue: 0,0:02:07.49,0:02:09.85,Somepony,,0,0,0,,Apple Bloom and Applejack forever!
+Dialogue: 0,0:02:12.10,0:02:15.75,AppleBloom,,0,0,0,,We are gonna win every competition at the Sisterhooves Social!
+Dialogue: 0,0:02:15.75,0:02:17.90,AppleBloom,,0,0,0,,Those other fillies aren't gonna know what hit them!
+Dialogue: 0,0:02:18.54,0:02:19.73,AppleJack,,0,0,0,,Hey there Big Mac!
+Dialogue: 0,0:02:19.73,0:02:20.53,AppleJack,,0,0,0,,Did you want somethin'?
+Dialogue: 0,0:02:20.76,0:02:21.24,BigMac,,0,0,0,,Yep!
+Dialogue: 0,0:02:21.88,0:02:22.58,AppleBloom,,0,0,0,,Hold that thought
+Dialogue: 0,0:02:22.84,0:02:26.13,AppleBloom,,0,0,0,,Applejack, you are the most awesome sister ever!
+Dialogue: 0,0:02:26.88,0:02:27.90,AppleJack,,0,0,0,,Gee-whiz…
+Dialogue: 0,0:02:28.27,0:02:30.73,AppleJack,,0,0,0,,Well, I think it's sweet that you hold that opinion,
+Dialogue: 0,0:02:30.73,0:02:31.25,AppleJack,,0,0,0,,But…
+Dialogue: 0,0:02:31.25,0:02:32.40,AppleBloom,,0,0,0,,It's not opinion!
+Dialogue: 0,0:02:32.40,0:02:33.80,AppleBloom,,0,0,0,,It's objective fact!
+Dialogue: 0,0:02:33.80,0:02:36.45,AppleBloom,,0,0,0,,You saved Equestria like a gazillion times,
+Dialogue: 0,0:02:36.45,0:02:38.53,AppleBloom,,0,0,0,,you're smart, funny, strong,
+Dialogue: 0,0:02:38.53,0:02:40.50,AppleBloom,,0,0,0,,why, you're the best sister of all time!
+Dialogue: 0,0:02:40.75,0:02:43.39,AppleBloom,,0,0,0,,Probably the best Apple of all time!
+Dialogue: 0,0:02:43.39,0:02:44.39,AppleBloom,,0,0,0,,Right, Big Mac?
+Dialogue: 0,0:02:45.04,0:02:45.93,BigMac,,0,0,0,,Yep!
+Dialogue: 0,0:02:46.55,0:02:47.98,AppleBloom,,0,0,0,,And with you by my side,
+Dialogue: 0,0:02:47.98,0:02:52.30,AppleBloom,,0,0,0,,I am guaranteed to taste sweet sweet Sisterhooves Social victory!
+Dialogue: 0,0:02:52.30,0:02:53.98,AppleBloom,,0,0,0,,Go, Apples! Go! Go!
+Dialogue: 0,0:02:53.98,0:02:55.49,AppleBloom,,0,0,0,,Go, Apples, Go!
+Dialogue: 0,0:02:56.68,0:02:57.61,AppleJack,,0,0,0,,Apple Bloom,
+Dialogue: 0,0:02:57.61,0:03:00.06,AppleJack,,0,0,0,,I think Big Mac's got something he wants to show you.
+Dialogue: 0,0:03:06.92,0:03:09.63,AppleBloom,,0,0,0,,Oh hey, is that the toy we used to play with when I was little?
+Dialogue: 0,0:03:09.63,0:03:10.43,BigMac,,0,0,0,,Yep!
+Dialogue: 0,0:03:10.55,0:03:11.29,AppleBloom,,0,0,0,,Neat.
+Dialogue: 0,0:03:11.58,0:03:12.58,AppleBloom,,0,0,0,,All right then!
+Dialogue: 0,0:03:12.58,0:03:14.24,AppleBloom,,0,0,0,,Let's get back to practicing.
+Dialogue: 0,0:03:19.66,0:03:21.90,AppleBloom,,0,0,0,,One more run-through of our juggling routine?
+Dialogue: 0,0:03:22.15,0:03:24.39,AppleBloom,,0,0,0,,Make sure a harmonies are tight in our song
+Dialogue: 0,0:03:24.39,0:03:27.33,AppleBloom,,0,0,0,,and see if we can beat our best pie eating time!
+Dialogue: 0,0:03:27.33,0:03:28.60,AppleJack,,0,0,0,,Hold on, sugarcube!
+Dialogue: 0,0:03:28.60,0:03:30.68,AppleJack,,0,0,0,,I need a minute to talk with Big Mac.
+Dialogue: 0,0:03:30.68,0:03:33.47,AppleBloom,,0,0,0,,Mind if I go ahead and start eating this pie?
+Dialogue: 0,0:03:38.69,0:03:39.85,AppleJack,,0,0,0,,Hey, Big Mac!
+Dialogue: 0,0:03:39.85,0:03:40.98,AppleJack,,0,0,0,,You allright?
+Dialogue: 0,0:03:41.63,0:03:42.44,BigMac,,0,0,0,,Yep!
+Dialogue: 0,0:03:42.80,0:03:43.60,AppleJack,,0,0,0,,You sure?
+Dialogue: 0,0:03:43.93,0:03:45.68,AppleJack,,0,0,0,,You seemed a little down back there.
+Dialogue: 0,0:03:46.67,0:03:47.50,BigMac,,0,0,0,,Nope!
+Dialogue: 0,0:03:49.51,0:03:50.50,AppleJack,,0,0,0,,Come on,
+Dialogue: 0,0:03:50.50,0:03:51.99,AppleJack,,0,0,0,,You can tell me.
+Dialogue: 0,0:03:51.99,0:03:53.63,AppleJack,,0,0,0,,You felling a little left out?
+Dialogue: 0,0:03:53.63,0:03:57.92,AppleJack,,0,0,0,,Apple Bloom and I've been spendin' a lot of time together gettin' ready for the Social.
+Dialogue: 0,0:03:59.29,0:04:00.27,AppleJack,,0,0,0,,What in the…
+Dialogue: 0,0:04:01.94,0:04:03.21,AppleBloom,,0,0,0,,Your cutiemark!
+Dialogue: 0,0:04:03.21,0:04:05.02,AppleBloom,,0,0,0,,You're being summoned, Applejack.
+Dialogue: 0,0:04:05.02,0:04:07.17,AppleBloom,,0,0,0,,This is so cool!
+Dialogue: 0,0:04:07.99,0:04:09.02,BigMac,,0,0,0,,Yep.
+Dialogue: 0,0:04:09.02,0:04:11.01,AppleBloom,,0,0,0,,Wonder where you are being called to?
+Dialogue: 0,0:04:11.01,0:04:13.12,AppleBloom,,0,0,0,,Wonder what you are supposed to do when you get there?
+Dialogue: 0,0:04:13.12,0:04:17.21,AppleBloom,,0,0,0,,Obviously to something awesome, because you're awesome.
+Dialogue: 0,0:04:17.21,0:04:17.88,AppleBloom,,0,0,0,,But…
+Dialogue: 0,0:04:17.88,0:04:20.42,AppleBloom,,0,0,0,,But if you are being summoned to solve a friendship problem,
+Dialogue: 0,0:04:20.42,0:04:22.72,AppleBloom,,0,0,0,,That means you'll have to miss the Sisterhooves Social.
+Dialogue: 0,0:04:22.72,0:04:25.77,AppleBloom,,0,0,0,,And if you have to miss the Social, then I'll have to miss the Social.
+Dialogue: 0,0:04:25.77,0:04:29.48,AppleBloom,,0,0,0,,Which means I won't be able to taste sweet sweet victory!
+Dialogue: 0,0:04:31.21,0:04:32.89,AppleJack,,0,0,0,,Now calm down.
+Dialogue: 0,0:04:32.89,0:04:36.72,AppleJack,,0,0,0,,Let me just go over to Twilight's castle and see what's what.
+Dialogue: 0,0:04:36.72,0:04:39.79,AppleJack,,0,0,0,,Maybe it's just a false alarm.
+Dialogue: 0,0:04:40.61,0:04:43.12,AppleBloom,,0,0,0,,But you said it was a false alarm!
+Dialogue: 0,0:04:43.12,0:04:45.83,AppleJack,,0,0,0,,I said, maybe it's a false alarm.
+Dialogue: 0,0:04:45.83,0:04:47.03,AppleJack,,0,0,0,,Well it's not.
+Dialogue: 0,0:04:47.03,0:04:49.44,AppleJack,,0,0,0,,Rarity and I have to go to Manehattan
+Dialogue: 0,0:04:49.44,0:04:52.55,AppleBloom,,0,0,0,,Can't you just tell that map it will have to wait for a couple days?
+Dialogue: 0,0:04:52.55,0:04:54.23,AppleJack,,0,0,0,,No can do, sugarcube.
+Dialogue: 0,0:04:54.23,0:04:57.26,AppleJack,,0,0,0,,When duty calls, I gotta answer right away.
+Dialogue: 0,0:04:57.26,0:05:01.08,AppleJack,,0,0,0,,What kind of an example would I be setting for my little sister if I didn't?
+Dialogue: 0,0:05:01.08,0:05:03.79,AppleBloom,,0,0,0,,This can't be happening!
+Dialogue: 0,0:05:03.79,0:05:07.49,AppleBloom,,0,0,0,,Your extreme awesomeness is backfiring on me!
+Dialogue: 0,0:05:08.16,0:05:10.71,AppleJack,,0,0,0,,I am sorry, Apple Bloom.
+Dialogue: 0,0:05:10.71,0:05:12.33,AppleJack,,0,0,0,,Try and cheer her up, won't ya?
+Dialogue: 0,0:05:12.33,0:05:13.55,BigMac,,0,0,0,,Eeyup.
+Dialogue: 0,0:05:15.78,0:05:19.14,GrannySmith,,0,0,0,,Breakfast! Come and get it!
+Dialogue: 0,0:05:29.04,0:05:31.13,GrannySmith,,0,0,0,,Oh… It's no use, Big Mac.
+Dialogue: 0,0:05:31.13,0:05:32.99,GrannySmith,,0,0,0,,If I know my Apple Bloom,
+Dialogue: 0,0:05:32.99,0:05:37.45,GrannySmith,,0,0,0,,she won't come out of a funk this funky 'til her big sister gets back.
+Dialogue: 0,0:05:41.04,0:05:41.95,SweetieBelle,,0,0,0,,Hey, Apple Bloom.
+Dialogue: 0,0:05:41.95,0:05:43.70,SweetieBelle,,0,0,0,,The Social's gonna start in a few hours.
+Dialogue: 0,0:05:43.72,0:05:45.22,SweetieBelle,,0,0,0,,Thought you might wanna go with us.
+Dialogue: 0,0:05:45.22,0:05:47.36,Scootaloo,,0,0,0,,Since Rarity and Applejack are out of town,
+Dialogue: 0,0:05:47.36,0:05:50.79,Scootaloo,,0,0,0,,you and Sweetie Belle can cheer on me and Rainbow Dash instead.
+Dialogue: 0,0:05:50.79,0:05:54.71,SweetieBelle,,0,0,0,,Pretty great they're letting you participate, even though you are not technically sisters.
+Dialogue: 0,0:05:54.71,0:05:59.69,GrannySmith,,0,0,0,,Well, Social's always had pretty loose definition of what constimatutes a sister.
+Dialogue: 0,0:05:59.69,0:06:04.02,GrannySmith,,0,0,0,,As long as you share a bond that represents the spirit of the Social, you're in!
+Dialogue: 0,0:06:04.11,0:06:05.49,SweetieBelle,,0,0,0,,So what do you say?
+Dialogue: 0,0:06:05.49,0:06:06.40,Scootaloo,,0,0,0,,You comin'?
+Dialogue: 0,0:06:06.40,0:06:07.65,AppleBloom,,0,0,0,,Why not…
+Dialogue: 0,0:06:07.65,0:06:09.53,AppleBloom,,0,0,0,,got nothing better to do.
+Dialogue: 0,0:06:09.53,0:06:12.06,AppleBloom,,0,0,0,,Let me wash up and I'll meet you in a little bit.
+Dialogue: 0,0:06:15.42,0:06:19.36,GrannySmith,,0,0,0,,Such a shame we don't live closer to all your second cousins.
+Dialogue: 0,0:06:19.36,0:06:22.92,GrannySmith,,0,0,0,,You could maybe do the Social with one of them instead.
+Dialogue: 0,0:06:24.94,0:06:27.59,GrannySmith,,0,0,0,,What is it Big Mac? Y'all got an idea?
+Dialogue: 0,0:06:27.59,0:06:28.81,BigMac,,0,0,0,,Eeyup.
+Dialogue: 0,0:06:28.81,0:06:30.47,AppleBloom,,0,0,0,,What? What is it?
+Dialogue: 0,0:06:37.29,0:06:39.05,Scootaloo,,0,0,0,,Today is our big day!
+Dialogue: 0,0:06:39.05,0:06:41.09,RainbowDash,,0,0,0,,We have so got this.
+Dialogue: 0,0:06:41.09,0:06:42.66,RainbowDash,,0,0,0,,I'm gonna go sign us in.
+Dialogue: 0,0:06:44.20,0:06:47.58,SweetieBelle,,0,0,0,,I guess I'm just a little jealous you two get to compete and I don't,
+Dialogue: 0,0:06:47.58,0:06:50.12,SweetieBelle,,0,0,0,,but at least I get to be here and cheer you on.
+Dialogue: 0,0:06:51.02,0:06:53.26,SweetieBelle,,0,0,0,,I thought Apple Bloom was gonna be here too.
+Dialogue: 0,0:06:53.26,0:06:54.65,Scootaloo,,0,0,0,,Guess she changed her mind.
+Dialogue: 0,0:06:56.41,0:06:57.68,Scootaloo,,0,0,0,,Hey, there you are.
+Dialogue: 0,0:06:57.68,0:07:00.28,Scootaloo,,0,0,0,,You ready to cheer on me and Rainbow Dash to victory?
+Dialogue: 0,0:07:00.28,0:07:01.97,AppleBloom,,0,0,0,,Uh, not exactly.
+Dialogue: 0,0:07:02.20,0:07:04.78,AppleBloom,,0,0,0,,Seems I'm gonna get to participate after all.
+Dialogue: 0,0:07:05.34,0:07:08.19,SweetieBelle,,0,0,0,,Applejack is back from Manehattan already?
+Dialogue: 0,0:07:08.73,0:07:11.34,SweetieBelle,,0,0,0,,That must mean Rarity is back too!
+Dialogue: 0,0:07:11.34,0:07:13.99,AppleBloom,,0,0,0,,No, our sisters are still gone.
+Dialogue: 0,0:07:13.97,0:07:15.02,AppleBloom,,0,0,0,,But it's a…
+Dialogue: 0,0:07:15.27,0:07:17.48,AppleBloom,,0,0,0,,turns out my long-lost cousin…
+Dialogue: 0,0:07:17.48,0:07:20.40,AppleBloom,,0,0,0,,Orchard Blossom was able to make it last minute,
+Dialogue: 0,0:07:22.54,0:07:24.42,SweetieBelle,,0,0,0,,Your cousin who what now?
+Dialogue: 0,0:07:24.42,0:07:26.89,BigMac,,0,0,0,,Well, I do declare!
+Dialogue: 0,0:07:26.89,0:07:31.50,BigMac,,0,0,0,,It's hotter today than the business end of a corncob pipe.
+Dialogue: 0,0:07:43.99,0:07:45.15,BigMac,,0,0,0,,Oh my,
+Dialogue: 0,0:07:45.15,0:07:49.31,BigMac,,0,0,0,,I'm so delighted to meet your little friends, Apple Bloom.
+Dialogue: 0,0:07:49.31,0:07:53.40,BigMac,,0,0,0,,Would these be your dear and beloved Cutie Mark Crusaders?
+Dialogue: 0,0:07:54.97,0:07:56.81,AppleBloom,,0,0,0,,Sweetie Belle and Scootaloo,
+Dialogue: 0,0:07:56.81,0:07:58.44,AppleBloom,,0,0,0,,cousin Orchard Blossom.
+Dialogue: 0,0:07:58.44,0:08:03.09,BigMac,,0,0,0,,It is my extraordinary pleasure to make your acquaintance.
+Dialogue: 0,0:08:04.38,0:08:06.03,SweetieBelle,,0,0,0,,That's Big Mac in a dress.
+Dialogue: 0,0:08:06.84,0:08:08.40,BigMac,,0,0,0,,Big Mac?
+Dialogue: 0,0:08:08.40,0:08:11.43,BigMac,,0,0,0,,Why, as charmed as I am that you find
+Dialogue: 0,0:08:11.43,0:08:14.55,BigMac,,0,0,0,,me in a slightest resemblance to such a
+Dialogue: 0,0:08:14.55,0:08:17.79,BigMac,,0,0,0,,fine and noble product of the Apple Clan
+Dialogue: 0,0:08:17.79,0:08:21.00,BigMac,,0,0,0,,I'm astonished in equal measure.
+Dialogue: 0,0:08:21.00,0:08:25.10,BigMac,,0,0,0,,However, I shall take this startling observation under advisement,
+Dialogue: 0,0:08:25.10,0:08:30.30,BigMac,,0,0,0,,giving that it'is from such an astute and perceptive filly as yourself, Sweetie Belle.
+Dialogue: 0,0:08:30.30,0:08:33.37,SweetieBelle,,0,0,0,,That's awful nice of you to say, Cousin Orchard Blossom.
+Dialogue: 0,0:08:33.37,0:08:35.34,SweetieBelle,,0,0,0,,I've been told before I'm pretty observant.
+Dialogue: 0,0:08:35.52,0:08:38.04,BigMac,,0,0,0,,I haven't the slightest doubt.
+Dialogue: 0,0:08:38.90,0:08:40.36,BigMac,,0,0,0,,Pardon, me.
+Dialogue: 0,0:08:44.66,0:08:49.70,BigMac,,0,0,0,,My dearest cousin Applejack is regrettably unable to be here as planned.
+Dialogue: 0,0:08:49.70,0:08:53.30,BigMac,,0,0,0,,So I, her cousin Orchard Blossom,
+Dialogue: 0,0:08:53.30,0:08:56.16,BigMac,,0,0,0,,will accompany Apple Bloom in her stead.
+Dialogue: 0,0:08:58.41,0:09:01.76,BigMac,,0,0,0,,I trust that's acceptable to all concerned?
+Dialogue: 0,0:09:01.95,0:09:04.84,RainbowDash,,0,0,0,,Cousin Orchard Blossom, huh?
+Dialogue: 0,0:09:04.84,0:09:06.97,RainbowDash,,0,0,0,,I know Applejack has a lot of relatives,
+Dialogue: 0,0:09:06.97,0:09:10.09,RainbowDash,,0,0,0,,but I feel like she would have mentioned you.
+Dialogue: 0,0:09:12.09,0:09:15.56,BigMac,,0,0,0,,Why, you must be Rainbow Dash.
+Dialogue: 0,0:09:15.56,0:09:17.14,BigMac,,0,0,0,,You are Scootaloo's…
+Dialogue: 0,0:09:18.68,0:09:20.49,BigMac,,0,0,0,,How are you related again?
+Dialogue: 0,0:09:21.91,0:09:24.14,RainbowDash,,0,0,0,,Hm. Why don't I just let you finish signing in?
+Dialogue: 0,0:09:24.54,0:09:28.71,RainbowDash,,0,0,0,,But don't think me and Scootaloo are going to take it easy on you just 'cause you are a stallion.
+Dialogue: 0,0:09:30.38,0:09:32.27,BigMac,,0,0,0,,Now, where were we?
+Dialogue: 0,0:09:34.59,0:09:37.95,AppleBloom,,0,0,0,,Excuse me, I have to… go to the bathroom.
+Dialogue: 0,0:09:39.53,0:09:42.41,BigMac,,0,0,0,,You mean powder your muzzle, don't you, dear?
+Dialogue: 0,0:09:42.41,0:09:47.52,BigMac,,0,0,0,,Such a more feminine-like reference to nature's call, don't you agree?
+Dialogue: 0,0:09:54.00,0:09:55.90,SweetieBelle,,0,0,0,,Have they called your brother's bluff yet?
+Dialogue: 0,0:09:55.90,0:09:57.93,AppleBloom,,0,0,0,,No, but they are about to!
+Dialogue: 0,0:09:57.93,0:09:59.67,AppleBloom,,0,0,0,,I can't bear to watch!
+Dialogue: 0,0:10:01.47,0:10:03.25,BigMac,,0,0,0,,Apple Bloom!
+Dialogue: 0,0:10:03.25,0:10:06.47,BigMac,,0,0,0,,They've approved us as a pair.
+Dialogue: 0,0:10:06.47,0:10:08.40,BigMac,,0,0,0,,Hurry along now, precious.
+Dialogue: 0,0:10:08.40,0:10:10.24,AppleBloom,,0,0,0,,I can't believe they've bought it.
+Dialogue: 0,0:10:10.24,0:10:12.53,SweetieBelle,,0,0,0,,It's sweet he wants to help you out like this.
+Dialogue: 0,0:10:12.53,0:10:14.56,SweetieBelle,,0,0,0,,Weird, but sweet.
+Dialogue: 0,0:10:19.28,0:10:21.24,SomeponyYellow,,0,0,0,,Bravo, bravo!
+Dialogue: 0,0:10:21.24,0:10:23.58,SomeponyYellow,,0,0,0,,Weren't those two sisters great?!
+Dialogue: 0,0:10:23.58,0:10:26.09,SomeponyYellow,,0,0,0,,Now where are our next competitors.
+Dialogue: 0,0:10:26.09,0:10:28.09,BigMac,,0,0,0,,Here we are!
+Dialogue: 0,0:10:34.96,0:10:36.44,BigMac,,0,0,0,,This one, please.
+Dialogue: 0,0:10:36.44,0:10:38.14,SomeponyYellow,,0,0,0,,Excellent choice…
+Dialogue: 0,0:10:38.14,0:10:39.98,SomeponyYellow,,0,0,0,,Ma'am.
+Dialogue: 0,0:10:39.98,0:10:41.84,AppleBloom,,0,0,0,,You sure you know all the words?
+Dialogue: 0,0:10:41.84,0:10:45.35,AppleBloom,,0,0,0,,'Cause it took Applejack a pretty long time to get it down.
+Dialogue: 0,0:10:45.35,0:10:46.91,BigMac,,0,0,0,,Did it, now?
+Dialogue: 0,0:10:53.98,0:10:56.94,Somepony,,0,0,0,,We all love our brothers
+Dialogue: 0,0:10:56.94,0:10:59.41,Somepony,,0,0,0,,And our fathers and mothers
+Dialogue: 0,0:10:59.41,0:11:04.20,Somepony,,0,0,0,,We honor them like every family should.
+Dialogue: 0,0:11:05.22,0:11:08.20,Somepony,,0,0,0,,But there's something that's quite unique
+Dialogue: 0,0:11:08.20,0:11:11.19,Somepony,,0,0,0,,When my sister is there with me
+Dialogue: 0,0:11:11.19,0:11:15.93,Somepony,,0,0,0,,And we share that special bond of sisterhood.
+Dialogue: 0,0:11:16.69,0:11:19.16,AppleBloom,,0,0,0,,Sisterhood!
+Dialogue: 0,0:11:18.36,0:11:20.30,BigMac,,0,0,0,,Sisterhood!
+Dialogue: 0,0:11:19.92,0:11:22.86,AppleBloom,,0,0,0,,Is a special kind of friend.
+Dialogue: 0,0:11:22.86,0:11:24.99,AppleBloom,,0,0,0,,Sisterhood!
+Dialogue: 0,0:11:24.37,0:11:26.58,BigMac,,0,0,0,,Sisterhood!
+Dialogue: 0,0:11:25.89,0:11:29.10,AppleBloom,,0,0,0,,Is a bond that never ends.
+Dialogue: 0,0:11:30.11,0:11:32.18,Somepony,,0,0,0,,It's not always perfect
+Dialogue: 0,0:11:32.18,0:11:35.22,Somepony,,0,0,0,,You might find you'll be misunderstood
+Dialogue: 0,0:11:35.22,0:11:37.65,Somepony,,0,0,0,,But together you'll always have
+Dialogue: 0,0:11:37.65,0:11:40.24,Somepony,,0,0,0,,Sisterhood!
+Dialogue: 0,0:11:40.88,0:11:43.37,BigMac,,0,0,0,,Sisterhood!
+Dialogue: 0,0:11:42.34,0:11:44.04,AppleBloom,,0,0,0,,Sisterhood!
+Dialogue: 0,0:11:44.04,0:11:46.17,BigMac,,0,0,0,,Sisterhood!
+Dialogue: 0,0:11:45.32,0:11:47.00,AppleBloom,,0,0,0,,Sisterhood!
+Dialogue: 0,0:11:46.87,0:11:49.42,BigMac,,0,0,0,,Sisterhood!
+Dialogue: 0,0:11:48.16,0:11:50.13,AppleBloom,,0,0,0,,Sisterhood!
+Dialogue: 0,0:11:49.78,0:11:54.49,BigMac,,0,0,0,,Sisterhood!
+Dialogue: 0,0:11:55.96,0:11:57.07,BigMac,,0,0,0,,Eeyup!
+Dialogue: 0,0:12:05.54,0:12:07.97,AppleBloom,,0,0,0,,Are you okay, cousin Orchard Blossom?
+Dialogue: 0,0:12:07.97,0:12:11.13,AppleBloom,,0,0,0,,You sounded like you were catching a cold or something else
+Dialogue: 0,0:12:11.13,0:12:13.51,AppleBloom,,0,0,0,,that would make your voice sound totally different
+Dialogue: 0,0:12:13.51,0:12:15.20,AppleBloom,,0,0,0,,right at the end of the song.
+Dialogue: 0,0:12:17.55,0:12:19.72,BigMac,,0,0,0,,Just a frog in my throat, dear.
+Dialogue: 0,0:12:19.72,0:12:22.59,BigMac,,0,0,0,,Probably just need to get a sip of water
+Dialogue: 0,0:12:22.59,0:12:26.86,BigMac,,0,0,0,,If you'll excuse us, we have another event in which to participate.
+Dialogue: 0,0:12:29.15,0:12:32.72,BigMac,,0,0,0,,Oh my, that certainly didn't go as I had planned.
+Dialogue: 0,0:12:32.72,0:12:36.65,BigMac,,0,0,0,,But don't you worry, we'll get you a blue ribbon yet, Apple Bloom.
+Dialogue: 0,0:12:36.65,0:12:38.46,AppleBloom,,0,0,0,,You sure about that?
+Dialogue: 0,0:12:38.46,0:12:42.23,BigMac,,0,0,0,,As sure, as my name is cousin Orchard Blossom
+Dialogue: 0,0:12:42.23,0:12:44.92,AppleBloom,,0,0,0,,But that isn't your name!
+Dialogue: 0,0:12:45.79,0:12:48.25,Somepony,,0,0,0,,C.O.U.S.I.N.S.
+Dialogue: 0,0:12:48.25,0:12:51.60,Somepony,,0,0,0,,Which two sisters… cousins are the best!
+Dialogue: 0,0:12:51.60,0:12:58.69,Somepony,,0,0,0,,We are! Apple Bloom and Applejack…\NI mean Orchardjack Blossom! Forever!
+Dialogue: 0,0:12:59.27,0:13:00.75,Somepony,,0,0,0,,YAAY!
+Dialogue: 0,0:13:04.50,0:13:05.91,AppleBloom,,0,0,0,,Yay…
+Dialogue: 0,0:13:30.56,0:13:35.63,BigMac,,0,0,0,,Oh, I don't know why I didn't choose to wear something more casual.
+Dialogue: 0,0:13:35.63,0:13:39.45,BigMac,,0,0,0,,Why, I knew that juggling routine like the back of my hoof!
+Dialogue: 0,0:13:39.45,0:13:42.63,BigMac,,0,0,0,,But never you mind, there is still the race to be run!
+Dialogue: 0,0:13:42.63,0:13:47.70,AppleBloom,,0,0,0,,I'm realy appreciate all the efforts Big Ma… cousin Orchard Blossom.
+Dialogue: 0,0:13:47.70,0:13:52.30,AppleBloom,,0,0,0,,But maybe we'll just skip the whole obstacle course thing and call it a day.
+Dialogue: 0,0:13:52.30,0:13:55.72,BigMac,,0,0,0,,Why, Apple Bloom! I wouldn't hear of it!
+Dialogue: 0,0:13:55.72,0:13:58.69,BigMac,,0,0,0,,Your cousin Orchard Blossom may be many things
+Dialogue: 0,0:13:58.69,0:14:01.00,BigMac,,0,0,0,,but she is not a quitter.
+Dialogue: 0,0:14:01.00,0:14:02.97,AppleBloom,,0,0,0,,I'm sure she's not, but…
+Dialogue: 0,0:14:02.97,0:14:04.61,AppleBloom,,0,0,0,,It's like Applejack said.
+Dialogue: 0,0:14:04.61,0:14:06.98,AppleBloom,,0,0,0,,There'll be more Sisterhooves Socials down the line.
+Dialogue: 0,0:14:06.98,0:14:10.46,AppleBloom,,0,0,0,,And I'm sure she'll help me get a blue ribbon next time around.
+Dialogue: 0,0:14:11.17,0:14:13.51,BigMac,,0,0,0,,But you wanted to win at this Sisterhooves Social!
+Dialogue: 0,0:14:13.51,0:14:18.21,BigMac,,0,0,0,,And no matter what, I'm gonna get you that win!
+Dialogue: 0,0:14:18.21,0:14:20.78,BigMac,,0,0,0,,Why, I simply have to.
+Dialogue: 0,0:14:29.70,0:14:31.20,RainbowDash,,0,0,0,,Allright, Scootaloo.
+Dialogue: 0,0:14:31.20,0:14:34.11,RainbowDash,,0,0,0,,Remember the parts where teamwork really comes into play?
+Dialogue: 0,0:14:34.11,0:14:35.07,Scootaloo,,0,0,0,,How can I forget.
+Dialogue: 0,0:14:35.07,0:14:37.15,Scootaloo,,0,0,0,,We've been training all week.
+Dialogue: 0,0:14:37.15,0:14:38.68,RainbowDash,,0,0,0,,Okay, hot stuff.
+Dialogue: 0,0:14:38.68,0:14:40.28,RainbowDash,,0,0,0,,What's our move on the grape squish?
+Dialogue: 0,0:14:40.28,0:14:40.97,Scootaloo,,0,0,0,,The alley-oop!
+Dialogue: 0,0:14:40.97,0:14:41.66,RainbowDash,,0,0,0,,Appletoss?
+Dialogue: 0,0:14:41.66,0:14:42.19,Scootaloo,,0,0,0,,Flip-flop.
+Dialogue: 0,0:14:42.19,0:14:42.90,RainbowDash,,0,0,0,,Egg carrying?
+Dialogue: 0,0:14:42.90,0:14:43.73,Scootaloo,,0,0,0,,Flutter-bomb.
+Dialogue: 0,0:14:43.73,0:14:45.31,Somepony,,0,0,0,,Yeah!
+Dialogue: 0,0:14:47.68,0:14:49.63,BigMac,,0,0,0,,Oh dear.
+Dialogue: 0,0:14:49.63,0:14:51.54,GrannySmith,,0,0,0,,Competing sisters!
+Dialogue: 0,0:14:51.54,0:14:53.72,GrannySmith,,0,0,0,,Take your positions!
+Dialogue: 0,0:14:58.25,0:15:01.40,GrannySmith,,0,0,0,,And ready, and set,
+Dialogue: 0,0:15:01.40,0:15:02.70,GrannySmith,,0,0,0,,Go!
+Dialogue: 0,0:15:06.47,0:15:08.30,RainbowDash,,0,0,0,,Nice job, Scoots!
+Dialogue: 0,0:16:09.81,0:16:10.53,AppleBloom,,0,0,0,,Yikes!
+Dialogue: 0,0:16:10.53,0:16:12.06,AppleBloom,,0,0,0,,You almost squished me!
+Dialogue: 0,0:16:21.96,0:16:23.97,BigMac,,0,0,0,,Pick up those hooves, Apple Bloom.
+Dialogue: 0,0:16:23.97,0:16:26.41,BigMac,,0,0,0,,Why, you're barely moving at a mosey!
+Dialogue: 0,0:16:31.03,0:16:32.50,BigMac,,0,0,0,,Come on, junebug, it's…
+Dialogue: 0,0:16:32.50,0:16:34.81,BigMac,,0,0,0,,like you've never carried an egg before.
+Dialogue: 0,0:16:35.70,0:16:38.09,AppleBloom,,0,0,0,,I'm going as fast as I can!
+Dialogue: 0,0:17:09.18,0:17:10.81,BigMac,,0,0,0,,I mean,
+Dialogue: 0,0:17:10.81,0:17:13.65,BigMac,,0,0,0,,victory is ours, sweet Apple Bloom.
+Dialogue: 0,0:17:16.59,0:17:17.44,BigMac,,0,0,0,,Uh oh.
+Dialogue: 0,0:17:17.44,0:17:19.56,Somepony,,0,0,0,,"Uh oh" indeed!
+Dialogue: 0,0:17:21.59,0:17:25.35,AppleBloom,,0,0,0,,I should've known you would eventually get busted for being a stallion!
+Dialogue: 0,0:17:25.35,0:17:27.84,Somepony,,0,0,0,,Oh no, we've known all along.
+Dialogue: 0,0:17:27.84,0:17:30.86,Somepony,,0,0,0,,The Sisterhooves Social has always had a loose policy
+Dialogue: 0,0:17:30.86,0:17:33.46,Somepony,,0,0,0,,when it comes to what counts as a… sister.
+Dialogue: 0,0:17:34.12,0:17:37.62,Somepony,,0,0,0,,But we do have a strict policy when it comes to sportsponyship.
+Dialogue: 0,0:17:37.62,0:17:40.76,Somepony,,0,0,0,,In your… sister's desperation to win
+Dialogue: 0,0:17:40.76,0:17:44.71,Somepony,,0,0,0,,he used brute strength to physically take out the competitors.
+Dialogue: 0,0:17:45.14,0:17:48.84,Somepony,,0,0,0,,That kind of behavior is not just unbecoming of a lady,
+Dialogue: 0,0:17:48.84,0:17:51.20,Somepony,,0,0,0,,but, quite frankly, of anypony!
+Dialogue: 0,0:17:51.41,0:17:52.70,Somepony,,0,0,0,,And for that,
+Dialogue: 0,0:17:52.70,0:17:54.49,Somepony,,0,0,0,,you two are hereby…
+Dialogue: 0,0:17:54.49,0:17:56.30,Somepony,,0,0,0,,disqualified.
+Dialogue: 0,0:17:58.86,0:18:00.87,RainbowDash,,0,0,0,,Looks like we win, squirt!
+Dialogue: 0,0:18:06.45,0:18:10.91,AppleBloom,,0,0,0,,I told you I should've just waited until the next Social to win with Applejack.
+Dialogue: 0,0:18:27.56,0:18:30.18,AppleBloom,,0,0,0,,You know I'm not mad, right?
+Dialogue: 0,0:18:30.18,0:18:31.16,BigMac,,0,0,0,,Eeyup.
+Dialogue: 0,0:18:31.73,0:18:34.13,AppleBloom,,0,0,0,,I mean… let's face it.
+Dialogue: 0,0:18:34.13,0:18:36.99,AppleBloom,,0,0,0,,You, dressing up as my cousin Orchard Blossom
+Dialogue: 0,0:18:36.99,0:18:39.98,AppleBloom,,0,0,0,,was a pretty crazy idea in the first place.
+Dialogue: 0,0:18:39.98,0:18:41.10,BigMac,,0,0,0,,Eeyup.
+Dialogue: 0,0:18:41.67,0:18:46.56,AppleBloom,,0,0,0,,And… it's not like you got me disqualified from Social forever or anything.
+Dialogue: 0,0:18:46.56,0:18:49.12,AppleBloom,,0,0,0,,I can participate next time with Applejack.
+Dialogue: 0,0:18:49.12,0:18:50.48,AppleBloom,,0,0,0,,Everything's fine.
+Dialogue: 0,0:18:50.76,0:18:51.63,BigMac,,0,0,0,,Eeyup.
+Dialogue: 0,0:18:53.23,0:18:57.49,AppleBloom,,0,0,0,,I just don't understand why you went so crazy there at the end of the race.
+Dialogue: 0,0:18:57.49,0:19:00.44,AppleBloom,,0,0,0,,I mean, I know you like to win and all, but…
+Dialogue: 0,0:19:00.89,0:19:03.14,AppleBloom,,0,0,0,,You wanna tell me what's going on?
+Dialogue: 0,0:19:03.14,0:19:04.04,BigMac,,0,0,0,,Nope.
+Dialogue: 0,0:19:05.00,0:19:06.17,AppleBloom,,0,0,0,,All right.
+Dialogue: 0,0:19:06.17,0:19:08.34,AppleBloom,,0,0,0,,Well, it's getting late.
+Dialogue: 0,0:19:08.34,0:19:09.36,AppleBloom,,0,0,0,,You coming?
+Dialogue: 0,0:19:09.36,0:19:10.21,BigMac,,0,0,0,,Nope.
+Dialogue: 0,0:19:11.39,0:19:12.32,AppleBloom,,0,0,0,,Okay.
+Dialogue: 0,0:19:12.61,0:19:14.80,AppleBloom,,0,0,0,,See you later, I guess…
+Dialogue: 0,0:19:17.85,0:19:18.80,BigMac,,0,0,0,,Apple Bloom.
+Dialogue: 0,0:19:19.06,0:19:19.75,AppleBloom,,0,0,0,,Yeah?
+Dialogue: 0,0:19:20.58,0:19:23.20,BigMac,,0,0,0,,When you were little, you used to look up to me.
+Dialogue: 0,0:19:23.20,0:19:26.06,BigMac,,0,0,0,,Thought I was a best thing since zap apple jam.
+Dialogue: 0,0:19:26.82,0:19:28.59,BigMac,,0,0,0,,Things are different now.
+Dialogue: 0,0:19:28.59,0:19:31.21,BigMac,,0,0,0,,Applejack's the hero of the Apple family.
+Dialogue: 0,0:19:31.64,0:19:34.07,BigMac,,0,0,0,,Who is rushing off to save Equestria.
+Dialogue: 0,0:19:34.55,0:19:36.24,BigMac,,0,0,0,,And I'm just here on the farm…
+Dialogue: 0,0:19:36.24,0:19:38.71,BigMac,,0,0,0,,Doing chores, helping out the way I can…
+Dialogue: 0,0:19:38.71,0:19:40.78,BigMac,,0,0,0,,Nothing special, nobody is hero…
+Dialogue: 0,0:19:40.78,0:19:42.20,BigMac,,0,0,0,,I guess, I just thought…
+Dialogue: 0,0:19:42.68,0:19:44.33,BigMac,,0,0,0,,Oh, nevermind…
+Dialogue: 0,0:19:44.59,0:19:48.42,BigMac,,0,0,0,,Here I am, about to start blabbering on about my feelings.
+Dialogue: 0,0:19:48.42,0:19:50.13,BigMac,,0,0,0,,You don't want to hear all this.
+Dialogue: 0,0:19:50.13,0:19:51.20,AppleBloom,,0,0,0,,Yes, I do!
+Dialogue: 0,0:19:51.83,0:19:53.91,BigMac,,0,0,0,,I guess, I just thought if I could
+Dialogue: 0,0:19:53.91,0:19:56.28,BigMac,,0,0,0,,fill in for Applejack at the Social,
+Dialogue: 0,0:19:56.28,0:19:58.17,BigMac,,0,0,0,,and get you a blue ribbon, well…
+Dialogue: 0,0:19:58.17,0:20:00.91,BigMac,,0,0,0,,I could be somepony you looked up to again.
+Dialogue: 0,0:20:01.24,0:20:03.12,BigMac,,0,0,0,,Be your hero again.
+Dialogue: 0,0:20:03.48,0:20:05.61,BigMac,,0,0,0,,Even if it was for just a day.
+Dialogue: 0,0:20:06.50,0:20:07.83,BigMac,,0,0,0,,It was foolish.
+Dialogue: 0,0:20:07.83,0:20:09.07,BigMac,,0,0,0,,And I'm ashamed.
+Dialogue: 0,0:20:09.72,0:20:12.57,BigMac,,0,0,0,,Please, I just want to be alone right now.
+Dialogue: 0,0:20:15.54,0:20:18.34,AppleBloom,,0,0,0,,Yeah, well, too bad, you big goof!
+Dialogue: 0,0:20:18.34,0:20:20.45,AppleBloom,,0,0,0,,'Cause I'm not going anywhere!
+Dialogue: 0,0:20:20.45,0:20:24.10,AppleBloom,,0,0,0,,And, I know that you're always gonna be here when I need you.
+Dialogue: 0,0:20:24.64,0:20:25.57,AppleBloom,,0,0,0,,Heck,
+Dialogue: 0,0:20:25.57,0:20:28.52,AppleBloom,,0,0,0,,you'll do a whole obstacle course in high heels
+Dialogue: 0,0:20:28.52,0:20:31.08,AppleBloom,,0,0,0,,if you think it can help me get something I want.
+Dialogue: 0,0:20:31.84,0:20:33.33,AppleBloom,,0,0,0,,You're my big brother.
+Dialogue: 0,0:20:33.33,0:20:36.20,AppleBloom,,0,0,0,,You've always been a hero to me, Big Mac, and…
+Dialogue: 0,0:20:36.20,0:20:38.13,AppleBloom,,0,0,0,,You always will be.
+Dialogue: 0,0:20:38.13,0:20:41.68,AppleBloom,,0,0,0,,I'm real sorry I haven't been letting you know that's how I feel.
+Dialogue: 0,0:20:41.68,0:20:43.92,AppleBloom,,0,0,0,,Guess, both of us have been holding back,
+Dialogue: 0,0:20:43.92,0:20:46.92,AppleBloom,,0,0,0,,when it comes to expressing yourselves, huh?
+Dialogue: 0,0:20:46.92,0:20:47.81,BigMac,,0,0,0,,Eeyup.
+Dialogue: 0,0:20:49.12,0:20:50.38,GrannySmith,,0,0,0,,Big Mac!
+Dialogue: 0,0:20:50.38,0:20:51.63,GrannySmith,,0,0,0,,Apple Bloom!
+Dialogue: 0,0:20:51.63,0:20:52.83,GrannySmith,,0,0,0,,Your sister's home.
+Dialogue: 0,0:20:52.83,0:20:57.00,GrannySmith,,0,0,0,,She says she's got quite a story to tell about her trip to Manehattan.
+Dialogue: 0,0:20:59.82,0:21:01.14,AppleBloom,,0,0,0,,Be there in a bit.
+Dialogue: 0,0:21:01.14,0:21:04.56,AppleBloom,,0,0,0,,I'm spending some quality time with my big brother.
+Dialogue: 0,0:21:06.16,0:21:07.58,AppleBloom,,0,0,0,,Hey, Big Mac.
+Dialogue: 0,0:21:07.58,0:21:08.64,BigMac,,0,0,0,,Eeyup?
+Dialogue: 0,0:21:08.96,0:21:12.52,AppleBloom,,0,0,0,,How do you think cousin Orchard Blossom would describe this sunset?
+Dialogue: 0,0:21:13.86,0:21:14.85,BigMac,,0,0,0,,Why dear,
+Dialogue: 0,0:21:14.85,0:21:18.12,BigMac,,0,0,0,,I do declare, this is the most beautiful sunset
+Dialogue: 0,0:21:18.12,0:21:20.50,BigMac,,0,0,0,,my eyes have ever looked upon.
+Dialogue: 0,0:21:20.50,0:21:22.40,BigMac,,0,0,0,,Though sitting here on this tree roots
+Dialogue: 0,0:21:22.40,0:21:25.41,BigMac,,0,0,0,,is a trifle uncomfortable for my hindquarters.
+Dialogue: 0,0:21:32.07,0:21:34.19,Auto,,0,0,0,,СЧАСТЛИВЫЙ ПОНЕЦ
+Dialogue: 0,0:21:34.19,0:21:36.35,Auto,,0,0,0,,anon2anon\Nsunnysubs.com

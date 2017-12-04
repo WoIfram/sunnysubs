@@ -1,0 +1,455 @@
+﻿[Script Info]
+PlayResX:1920
+PlayResY:1080
+ScaledBorderAndShadow: yes
+ScriptType: v4.00+
+WrapStyle: 0
+YCbCr Matrix: TV.601
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Somepony,Arial,68,&H00FFFFFF,&H000000FF,&H007D7E80,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Default,Arial,68,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Twilight,Arial,68,&H00FFFFFF,&H000000FF,&H0092376D,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Spike,Arial,68,&H00F9FFF9,&H000000FF,&H00209322,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: StarlightGlimmer,Arial,68,&H00F5CEF2,&H000000FF,&H005C0104,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Ember,Arial,68,&H00EDFFAA,&H000000FF,&H0057270F,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,30,30,45,1
+Style: Lyra,Arial,68,&H00F2F6DD,&H000000FF,&H003A6119,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Thorax,Arial,68,&H00FCFCFC,&H000000FF,&H00B1AD09,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:03.33,0:00:04.88,Spike,,0,0,0,,Is the banner even?
+Dialogue: 0,0:00:06.81,0:00:08.27,Spike,,0,0,0,,Are the flowers in place?
+Dialogue: 0,0:00:08.41,0:00:10.27,Spike,,0,0,0,,By which I mean completely out of view.
+Dialogue: 0,0:00:12.71,0:00:14.57,Spike,,0,0,0,,I'm pretty sure dragons don't like flowers.
+Dialogue: 0,0:00:15.55,0:00:18.27,Spike,,0,0,0,,And what about ceremonial dragon fire flame of friendship?
+Dialogue: 0,0:00:18.27,0:00:19.51,Spike,,0,0,0,,Is it still flaming?
+Dialogue: 0,0:00:21.39,0:00:23.19,Twilight,,0,0,0,,Spike, everything looks great,
+Dialogue: 0,0:00:23.23,0:00:25.49,Twilight,,0,0,0,,you're getting yourself worked up for no reason.
+Dialogue: 0,0:00:25.75,0:00:27.23,Spike,,0,0,0,,I have lots of reasons.
+Dialogue: 0,0:00:27.57,0:00:29.13,Spike,,0,0,0,,In fact, I wrote them down.
+Dialogue: 0,0:00:30.19,0:00:32.46,StarlightGlimmer,,0,0,0,,You've been hanging around Twilight for too long.
+Dialogue: 0,0:00:33.01,0:00:34.11,Spike,,0,0,0,,Reason number one:
+Dialogue: 0,0:00:34.15,0:00:36.63,Spike,,0,0,0,,I invited Dragon Lord Ember to Poniville today.
+Dialogue: 0,0:00:36.67,0:00:38.99,Spike,,0,0,0,,Reason two: a Dragon Lord is a dragon.
+Dialogue: 0,0:00:39.13,0:00:42.10,Spike,,0,0,0,,Reason three: she's coming here to learn more about friendship.
+Dialogue: 0,0:00:42.20,0:00:45.48,Twilight,,0,0,0,,According to Ember's letters, the dragons are trying to be friends.
+Dialogue: 0,0:00:45.48,0:00:48.92,Twilight,,0,0,0,,But competing is in their nature and it's leading to more and more fights.
+Dialogue: 0,0:00:48.92,0:00:50.88,Spike,,0,0,0,,Which brings me to the reason number four:
+Dialogue: 0,0:00:51.06,0:00:53.22,Spike,,0,0,0,,The Dragon Lord wants my advice.
+Dialogue: 0,0:00:53.33,0:00:58.03,Spike,,0,0,0,,And, as a new official Equestrian friendship ambassador to the dragons, I can't let her down.
+Dialogue: 0,0:00:58.25,0:01:00.03,Twilight,,0,0,0,,I know you feel a lot of pressure,
+Dialogue: 0,0:01:00.03,0:01:01.63,Twilight,,0,0,0,,but you've got this, Spike.
+Dialogue: 0,0:01:02.72,0:01:03.29,Spike,,0,0,0,,I…
+Dialogue: 0,0:01:03.85,0:01:05.98,Spike,,0,0,0,,I just want things to be perfect.
+Dialogue: 0,0:01:09.05,0:01:09.97,Spike,,0,0,0,,Thorax!
+Dialogue: 0,0:01:10.19,0:01:11.58,Spike,,0,0,0,,You're in Ponyville!
+Dialogue: 0,0:01:11.81,0:01:13.71,Thorax,,0,0,0,,Of course I am, silly.
+Dialogue: 0,0:01:13.71,0:01:14.77,Thorax,,0,0,0,,You invited me.
+Dialogue: 0,0:01:14.77,0:01:17.13,Thorax,,0,0,0,,And I'm not on the one to back out of an invitation.
+Dialogue: 0,0:01:17.15,0:01:18.21,Thorax,,0,0,0,,Hey, Twilight!
+Dialogue: 0,0:01:18.21,0:01:19.05,Thorax,,0,0,0,,Hey, Starlight!
+Dialogue: 0,0:01:19.41,0:01:20.75,StarlightGlimmer,,0,0,0,,Hey…!
+Dialogue: 0,0:01:19.71,0:01:20.59,Twilight,,0,0,0,,Hello!
+Dialogue: 0,0:01:22.41,0:01:25.15,Thorax,,0,0,0,,I can't believe you did all this for me!
+Dialogue: 0,0:01:25.15,0:01:26.43,Thorax,,0,0,0,,Great banner!
+Dialogue: 0,0:01:26.43,0:01:27.73,Thorax,,0,0,0,,Love the stage!
+Dialogue: 0,0:01:27.99,0:01:29.68,Thorax,,0,0,0,,What's this flame thingy?
+Dialogue: 0,0:01:29.73,0:01:31.07,Thorax,,0,0,0,,Oh, it's pretty.
+Dialogue: 0,0:01:32.65,0:01:36.20,Twilight,,0,0,0,,You invited Thorax over to Ponyville on the same day as Ember?
+Dialogue: 0,0:01:36.49,0:01:37.97,Spike,,0,0,0,,Apparently.
+Dialogue: 0,0:01:38.15,0:01:40.15,StarlightGlimmer,,0,0,0,,That doesn't seem like a good idea.
+Dialogue: 0,0:01:40.31,0:01:42.25,StarlightGlimmer,,0,0,0,,How are you gonna entertain them both?
+Dialogue: 0,0:01:42.25,0:01:44.17,Spike,,0,0,0,,I have no idea.
+Dialogue: 0,0:02:25.75,0:02:27.54,Spike,,0,0,0,,I completely forgot!
+Dialogue: 0,0:02:27.92,0:02:31.01,Spike,,0,0,0,,Thorax wrote me and said he needed to talk and I told him to come over.
+Dialogue: 0,0:02:31.01,0:02:33.46,Spike,,0,0,0,,I didn't realize it was the same day I invided Ember!
+Dialogue: 0,0:02:33.46,0:02:34.58,Spike,,0,0,0,,What am I gonna do?
+Dialogue: 0,0:02:35.62,0:02:37.34,StarlightGlimmer,,0,0,0,,Well, maybe they'll like each other.
+Dialogue: 0,0:02:37.60,0:02:38.58,Spike,,0,0,0,,Probably not.
+Dialogue: 0,0:02:38.86,0:02:42.22,Spike,,0,0,0,,Ember is tough, and self-assured, and intimidating,
+Dialogue: 0,0:02:42.32,0:02:43.46,Spike,,0,0,0,,and Thorax is…
+Dialogue: 0,0:02:43.46,0:02:44.26,Thorax,,0,0,0,,Spike!
+Dialogue: 0,0:02:44.26,0:02:46.20,Thorax,,0,0,0,,I'm so glad you invited me.
+Dialogue: 0,0:02:46.20,0:02:49.24,Thorax,,0,0,0,,You're one of my closest, nicest, most caring,
+Dialogue: 0,0:02:49.24,0:02:51.51,Thorax,,0,0,0,,most understanding friends ever!
+Dialogue: 0,0:02:52.64,0:02:54.38,Thorax,,0,0,0,,Is that ice in the shape of a dragon?
+Dialogue: 0,0:02:55.76,0:02:56.82,StarlightGlimmer,,0,0,0,,Yeah, I see your point.
+Dialogue: 0,0:02:56.82,0:02:58.12,StarlightGlimmer,,0,0,0,,They might not get each other.
+Dialogue: 0,0:02:58.28,0:03:00.54,Spike,,0,0,0,,Or worse! They'll hate each other!
+Dialogue: 0,0:03:00.54,0:03:04.32,Spike,,0,0,0,,And if the leader of the changelings and the Dragon Lord get into a fight…
+Dialogue: 0,0:03:04.74,0:03:07.09,Spike,,0,0,0,,I could be responsible for starting a war
+Dialogue: 0,0:03:07.09,0:03:09.90,Spike,,0,0,0,,that could ruin Equestria as we know it!
+Dialogue: 0,0:03:18.54,0:03:20.05,Twilight,,0,0,0,,I'm sure that won't happen.
+Dialogue: 0,0:03:20.20,0:03:21.48,Twilight,,0,0,0,,Now pull it together!
+Dialogue: 0,0:03:22.60,0:03:24.40,Spike,,0,0,0,,So, Thorax…
+Dialogue: 0,0:03:24.84,0:03:26.06,Spike,,0,0,0,,Everything good with you?
+Dialogue: 0,0:03:26.98,0:03:29.24,Thorax,,0,0,0,,Well, honestly, no, not really.
+Dialogue: 0,0:03:29.32,0:03:33.38,Thorax,,0,0,0,,I have indigestion, not sure if it's the new diet or stress,
+Dialogue: 0,0:03:33.38,0:03:34.74,Thorax,,0,0,0,,or maybe it's both.
+Dialogue: 0,0:03:35.11,0:03:35.98,Spike,,0,0,0,,No!
+Dialogue: 0,0:03:36.28,0:03:38.37,Thorax,,0,0,0,,Yeah. It really could be both.
+Dialogue: 0,0:03:38.46,0:03:40.68,Thorax,,0,0,0,,And it might be affecting my sleeping too.
+Dialogue: 0,0:03:40.86,0:03:42.45,Thorax,,0,0,0,,I'm a real tosser and turner in the…
+Dialogue: 0,0:03:42.53,0:03:44.68,Spike,,0,0,0,,Sounds like you really need to unwind.
+Dialogue: 0,0:03:45.48,0:03:48.66,Spike,,0,0,0,,How about a… a trip to the castle?
+Dialogue: 0,0:03:49.02,0:03:50.64,Spike,,0,0,0,,You can't miss that view!
+Dialogue: 0,0:03:50.76,0:03:52.42,Twilight,,0,0,0,,Yes, the castle!
+Dialogue: 0,0:03:52.42,0:03:54.42,Twilight,,0,0,0,,I'll give you a personal tour.
+Dialogue: 0,0:03:57.98,0:03:59.10,Thorax,,0,0,0,,Aren't you coming?
+Dialogue: 0,0:03:59.32,0:04:03.26,Spike,,0,0,0,,Yeah, I just gonna… grab some ice-cream for us and catch up.
+Dialogue: 0,0:04:17.00,0:04:18.88,Spike,,0,0,0,,Dragon Lord Ember!
+Dialogue: 0,0:04:19.44,0:04:21.74,Spike,,0,0,0,,As the official Equestrian friendship ambassador,
+Dialogue: 0,0:04:21.74,0:04:23.74,Spike,,0,0,0,,for the Dragon Lands and for Poniville,
+Dialogue: 0,0:04:23.92,0:04:26.72,Spike,,0,0,0,,I, Spike of Ponyville, welcome you to…
+Dialogue: 0,0:04:27.32,0:04:28.08,Spike,,0,0,0,,…Ponyville.
+Dialogue: 0,0:04:28.72,0:04:30.91,Spike,,0,0,0,,I gotta work on my official speech.
+Dialogue: 0,0:04:31.10,0:04:32.87,Ember,,0,0,0,,Okay, thanks!
+Dialogue: 0,0:04:35.94,0:04:38.04,Ember,,0,0,0,,Right, the hug thing.
+Dialogue: 0,0:04:40.62,0:04:42.42,Ember,,0,0,0,,This place has a lot of colors.
+Dialogue: 0,0:04:42.52,0:04:45.59,Ember,,0,0,0,,In the Dragon Lands everything's just rocks or the color of ash.
+Dialogue: 0,0:04:48.30,0:04:50.06,Ember,,0,0,0,,That's probably why.
+Dialogue: 0,0:04:53.14,0:04:54.18,Ember,,0,0,0,,Hey, Twilight!
+Dialogue: 0,0:04:55.98,0:04:58.10,StarlightGlimmer,,0,0,0,,Actually, I'm Starlight.
+Dialogue: 0,0:04:58.18,0:04:59.27,StarlightGlimmer,,0,0,0,,Starlight Glimmer.
+Dialogue: 0,0:05:00.28,0:05:01.18,StarlightGlimmer,,0,0,0,,Nice to meet you.
+Dialogue: 0,0:05:02.18,0:05:03.46,Ember,,0,0,0,,Oh, sorry.
+Dialogue: 0,0:05:03.58,0:05:06.14,Ember,,0,0,0,,I'm really gonna have to get used to these pony names.
+Dialogue: 0,0:05:06.24,0:05:08.40,Ember,,0,0,0,,Lots of lights and shiny things.
+Dialogue: 0,0:05:09.91,0:05:11.41,Ember,,0,0,0,,So where is Twilight?
+Dialogue: 0,0:05:11.68,0:05:12.70,Spike,,0,0,0,,She is in her castle.
+Dialogue: 0,0:05:13.32,0:05:14.56,Ember,,0,0,0,,We should go visit her then.
+Dialogue: 0,0:05:14.68,0:05:17.42,Ember,,0,0,0,,Part of friendship is saying "hi" to your friends, right?
+Dialogue: 0,0:05:18.16,0:05:19.56,Spike,,0,0,0,,Well, yeah, but…
+Dialogue: 0,0:05:21.76,0:05:23.48,Ember,,0,0,0,,You're making weird noises.
+Dialogue: 0,0:05:23.48,0:05:24.97,Ember,,0,0,0,,Do you have a stomachache?
+Dialogue: 0,0:05:25.88,0:05:28.42,Spike,,0,0,0,,I think I feel one coming on.
+Dialogue: 0,0:05:29.46,0:05:31.26,Ember,,0,0,0,,Well, you know what us dragons say:
+Dialogue: 0,0:05:31.26,0:05:32.54,Ember,,0,0,0,,"Push past the pain."
+Dialogue: 0,0:05:32.66,0:05:33.70,Ember,,0,0,0,,Now let's go.
+Dialogue: 0,0:05:34.52,0:05:36.02,Spike,,0,0,0,,Or we could stay here.
+Dialogue: 0,0:05:36.24,0:05:38.16,Ember,,0,0,0,,Or I could go without you.
+Dialogue: 0,0:05:41.92,0:05:42.73,StarlightGlimmer,,0,0,0,,I like her.
+Dialogue: 0,0:05:49.60,0:05:51.16,Spike,,0,0,0,,Good, they're not here.
+Dialogue: 0,0:05:51.48,0:05:52.46,Ember,,0,0,0,,What was that?
+Dialogue: 0,0:05:53.44,0:05:54.22,Spike,,0,0,0,,I…
+Dialogue: 0,0:05:54.38,0:05:57.28,Spike,,0,0,0,,I said: "It's all clean in here".
+Dialogue: 0,0:05:59.68,0:06:01.88,Spike,,0,0,0,,You must be hungry from your travels.
+Dialogue: 0,0:06:02.18,0:06:06.56,Spike,,0,0,0,,Please, I'd love to present you with an official friendship welcome banquet.
+Dialogue: 0,0:06:15.86,0:06:17.92,Ember,,0,0,0,,So, this is something friends do?
+Dialogue: 0,0:06:18.04,0:06:19.42,Ember,,0,0,0,,I could get used to this.
+Dialogue: 0,0:06:20.86,0:06:23.00,StarlightGlimmer,,0,0,0,,Actually, that's not food.
+Dialogue: 0,0:06:23.13,0:06:24.36,Spike,,0,0,0,,Dragons love gems.
+Dialogue: 0,0:06:24.52,0:06:27.74,StarlightGlimmer,,0,0,0,,Fine, but you're telling Twilight what happened to her wall.
+Dialogue: 0,0:06:31.26,0:06:32.50,Spike,,0,0,0,,Just keep her here.
+Dialogue: 0,0:06:32.50,0:06:33.69,Spike,,0,0,0,,Okay, yeah.
+Dialogue: 0,0:06:34.27,0:06:37.24,Spike,,0,0,0,,Enjoy all the, eh, crystal… things.
+Dialogue: 0,0:06:37.70,0:06:38.64,Ember,,0,0,0,,Where are you going?
+Dialogue: 0,0:06:38.91,0:06:41.38,Ember,,0,0,0,,I thought this was an official friendship banquet.
+Dialogue: 0,0:06:41.68,0:06:44.00,Spike,,0,0,0,,Just got to use a little dragon's room!
+Dialogue: 0,0:06:46.51,0:06:49.69,Twilight,,0,0,0,,So, this is my comfy chair for fictional reads.
+Dialogue: 0,0:06:52.41,0:06:56.04,Twilight,,0,0,0,,This is my studying chair because the hard back keeps me awake.
+Dialogue: 0,0:06:58.60,0:07:01.42,Thorax,,0,0,0,,Oh, Spike! I'm so glad you're here!
+Dialogue: 0,0:07:02.10,0:07:04.90,Thorax,,0,0,0,,This castle visit is getting weird.
+Dialogue: 0,0:07:05.26,0:07:07.59,Thorax,,0,0,0,,Twilight really likes chairs.
+Dialogue: 0,0:07:09.46,0:07:11.57,Thorax,,0,0,0,,Oh, what happened with the ice-cream?
+Dialogue: 0,0:07:11.85,0:07:12.40,Spike,,0,0,0,,What?
+Dialogue: 0,0:07:12.66,0:07:15.04,Spike,,0,0,0,,Oh, right! They ran out!
+Dialogue: 0,0:07:15.39,0:07:18.84,Spike,,0,0,0,,Hey, I'm really sorry, but I gotta borrow Twilight quickly.
+Dialogue: 0,0:07:23.15,0:07:24.17,Spike,,0,0,0,,Be right back!
+Dialogue: 0,0:07:24.17,0:07:26.18,Thorax,,0,0,0,,But we didn't get to talk yet!
+Dialogue: 0,0:07:29.13,0:07:30.05,Spike,,0,0,0,,Ember's here!
+Dialogue: 0,0:07:30.51,0:07:31.28,Twilight,,0,0,0,,I know.
+Dialogue: 0,0:07:31.28,0:07:34.81,Twilight,,0,0,0,,I saw her coming in and had to distract Thorax by showing him chairs.
+Dialogue: 0,0:07:34.81,0:07:37.85,Twilight,,0,0,0,,Why did you bring Ember to the castle of all places?
+Dialogue: 0,0:07:38.08,0:07:39.23,Spike,,0,0,0,,I don't know!
+Dialogue: 0,0:07:39.28,0:07:42.06,Spike,,0,0,0,,Ember was asking for you, Thorax wants to talk with me.
+Dialogue: 0,0:07:42.20,0:07:43.58,Spike,,0,0,0,,We need to switch places.
+Dialogue: 0,0:07:43.58,0:07:45.46,Spike,,0,0,0,,They might be getting suspicious.
+Dialogue: 0,0:07:45.98,0:07:49.17,Twilight,,0,0,0,,All we have to do is make both Thorax and Ember feel special
+Dialogue: 0,0:07:49.17,0:07:51.37,Twilight,,0,0,0,,and keep them apart for a few more hours.
+Dialogue: 0,0:07:51.37,0:07:52.79,Twilight,,0,0,0,,We can do this!
+Dialogue: 0,0:07:55.28,0:07:56.87,Spike,,0,0,0,,What's happening?!
+Dialogue: 0,0:08:00.34,0:08:01.82,Twilight,,0,0,0,,I think it's the map!
+Dialogue: 0,0:08:01.99,0:08:03.88,Twilight,,0,0,0,,It's calling… you?
+Dialogue: 0,0:08:04.24,0:08:07.67,Twilight,,0,0,0,,Apparently, you also have to solve a friendship problem.
+Dialogue: 0,0:08:12.89,0:08:15.09,Spike,,0,0,0,,The map is calling me!?
+Dialogue: 0,0:08:15.98,0:08:17.43,Twilight,,0,0,0,,Amazing!
+Dialogue: 0,0:08:17.63,0:08:20.12,Twilight,,0,0,0,,The map is really reaching out!
+Dialogue: 0,0:08:21.14,0:08:22.69,Twilight,,0,0,0,,Not a good time, I get it.
+Dialogue: 0,0:08:22.95,0:08:24.60,StarlightGlimmer,,0,0,0,,Spike, are you here?
+Dialogue: 0,0:08:24.72,0:08:27.12,StarlightGlimmer,,0,0,0,,Ember is eating all of Twilight's decorations and…
+Dialogue: 0,0:08:27.12,0:08:29.48,StarlightGlimmer,,0,0,0,,Oh, hey, Twilight!
+Dialogue: 0,0:08:31.62,0:08:32.57,StarlightGlimmer,,0,0,0,,Glowing map.
+Dialogue: 0,0:08:34.20,0:08:35.15,StarlightGlimmer,,0,0,0,,Glowing spikes.
+Dialogue: 0,0:08:36.28,0:08:37.21,StarlightGlimmer,,0,0,0,,That's not good.
+Dialogue: 0,0:08:37.21,0:08:38.32,Spike,,0,0,0,,I know!
+Dialogue: 0,0:08:39.78,0:08:42.50,StarlightGlimmer,,0,0,0,,At least your friendship problem is in Ponyville, huh?
+Dialogue: 0,0:08:42.68,0:08:43.47,Spike,,0,0,0,,Okay, okay.
+Dialogue: 0,0:08:43.69,0:08:46.29,Spike,,0,0,0,,To pull this off, I'm gonna need both of you to help.
+Dialogue: 0,0:08:46.64,0:08:48.44,Spike,,0,0,0,,You two need to keep Ember and Thorax separated
+Dialogue: 0,0:08:48.44,0:08:49.87,Spike,,0,0,0,,while I get ice cream.
+Dialogue: 0,0:08:50.24,0:08:52.32,Twilight,,0,0,0,,You mean find the friendship problem.
+Dialogue: 0,0:08:52.32,0:08:53.29,Spike,,0,0,0,,Yes!
+Dialogue: 0,0:08:53.64,0:08:54.90,Spike,,0,0,0,,Go easy on me.
+Dialogue: 0,0:08:54.90,0:08:56.79,Spike,,0,0,0,,I'm under a lot of pressure.
+Dialogue: 0,0:08:58.98,0:09:00.07,Spike,,0,0,0,,Friendship problem?
+Dialogue: 0,0:09:00.35,0:09:02.36,Spike,,0,0,0,,Anypony get a friendship problem here?
+Dialogue: 0,0:09:02.56,0:09:03.96,Spike,,0,0,0,,Any problems to solve?
+Dialogue: 0,0:09:05.52,0:09:06.92,Spike,,0,0,0,,Friendship problems?
+Dialogue: 0,0:09:09.06,0:09:10.14,Spike,,0,0,0,,Frendship problems!
+Dialogue: 0,0:09:11.91,0:09:14.18,Spike,,0,0,0,,Anypony got a friendship problem here?
+Dialogue: 0,0:09:14.33,0:09:15.67,Spike,,0,0,0,,No? Okay.
+Dialogue: 0,0:09:18.04,0:09:21.61,Lyra,,0,0,0,,Well, I think vanilla strawberry cream is overused.
+Dialogue: 0,0:09:22.17,0:09:23.41,Spike,,0,0,0,,Yes, fighting!
+Dialogue: 0,0:09:25.24,0:09:27.71,Spike,,0,0,0,,I mean, what seems to be the problem?
+Dialogue: 0,0:09:30.40,0:09:31.50,Ember,,0,0,0,,I'm stuffed.
+Dialogue: 0,0:09:33.54,0:09:35.19,Twilight,,0,0,0,,Ember, there you are!
+Dialogue: 0,0:09:35.94,0:09:38.87,Ember,,0,0,0,,Okay, right. More pony hugs.
+Dialogue: 0,0:09:39.17,0:09:41.22,Twilight,,0,0,0,,How's your trip to Ponyville so far?
+Dialogue: 0,0:09:41.43,0:09:44.14,Ember,,0,0,0,,Well, I'm certainly learning a lot about friendship.
+Dialogue: 0,0:09:44.14,0:09:48.64,Ember,,0,0,0,,I had no idea it was polite to decorate your walls in your friends' favorite foods.
+Dialogue: 0,0:09:51.43,0:09:52.21,Twilight,,0,0,0,,Oh, my.
+Dialogue: 0,0:09:52.60,0:09:54.33,Ember,,0,0,0,,Where'd Spike and Starlight go?
+Dialogue: 0,0:09:54.33,0:09:56.37,Ember,,0,0,0,,I feel like I'm being avoided.
+Dialogue: 0,0:09:57.72,0:09:58.54,Twilight,,0,0,0,,No,
+Dialogue: 0,0:09:58.87,0:10:02.83,Twilight,,0,0,0,,they're just making sure everything is perfect for your welcome party later.
+Dialogue: 0,0:10:03.12,0:10:05.50,Twilight,,0,0,0,,In the meantime, how about I show you around town?
+Dialogue: 0,0:10:05.70,0:10:06.69,Ember,,0,0,0,,Sounds good.
+Dialogue: 0,0:10:06.69,0:10:10.21,Ember,,0,0,0,,I can't exactly learn about friendship if I don't make new friends.
+Dialogue: 0,0:10:19.65,0:10:20.85,StarlightGlimmer,,0,0,0,,Hey, Thorax,
+Dialogue: 0,0:10:21.74,0:10:25.13,StarlightGlimmer,,0,0,0,,Twilight and Spike have some boring official paperwork to deal with.
+Dialogue: 0,0:10:25.13,0:10:27.40,StarlightGlimmer,,0,0,0,,So, looks like you and I get to hang out.
+Dialogue: 0,0:10:27.40,0:10:28.69,StarlightGlimmer,,0,0,0,,What would you like to do?
+Dialogue: 0,0:10:28.69,0:10:30.41,Thorax,,0,0,0,,But I wanted to talk with Spike.
+Dialogue: 0,0:10:30.58,0:10:32.26,Thorax,,0,0,0,,He said he'd be right back.
+Dialogue: 0,0:10:32.26,0:10:35.44,StarlightGlimmer,,0,0,0,,Oh, you will, but first, how about we grab a bite to eat?
+Dialogue: 0,0:10:35.90,0:10:38.99,Thorax,,0,0,0,,Well, you know now that you said it, I am a little hungry.
+Dialogue: 0,0:10:39.21,0:10:41.04,Thorax,,0,0,0,,Is there a dining room at the castle?
+Dialogue: 0,0:10:41.04,0:10:41.81,StarlightGlimmer,,0,0,0,,No!
+Dialogue: 0,0:10:42.44,0:10:45.82,StarlightGlimmer,,0,0,0,,I mean, yeah, but that's castle food.
+Dialogue: 0,0:10:46.31,0:10:49.01,StarlightGlimmer,,0,0,0,,If you want the good stuff, we gotta go to town.
+Dialogue: 0,0:10:53.10,0:10:57.35,Spike,,0,0,0,,And that's why you should never let cupcake flavors get in the way of your friendship.
+Dialogue: 0,0:10:57.35,0:10:59.92,Lyra,,0,0,0,,Huh. I guess I never thought of it that way.
+Dialogue: 0,0:11:00.31,0:11:01.37,Lyra,,0,0,0,,Thanks, Spike.
+Dialogue: 0,0:11:03.76,0:11:05.63,Spike,,0,0,0,,Oh, come on, glow!
+Dialogue: 0,0:11:05.63,0:11:06.77,Thorax,,0,0,0,,Spike!
+Dialogue: 0,0:11:07.08,0:11:08.23,Thorax,,0,0,0,,There you are!
+Dialogue: 0,0:11:08.56,0:11:10.72,Thorax,,0,0,0,,Done with your boring paperwork, I see.
+Dialogue: 0,0:11:13.70,0:11:14.58,Spike,,0,0,0,,Yep.
+Dialogue: 0,0:11:15.16,0:11:18.15,Spike,,0,0,0,,I am done with whatever Starlight says I was doing.
+Dialogue: 0,0:11:18.36,0:11:20.58,StarlightGlimmer,,0,0,0,,Thorax wanted to get out of the castle.
+Dialogue: 0,0:11:20.58,0:11:24.25,StarlightGlimmer,,0,0,0,,I thought coming to town was a really, really great idea.
+Dialogue: 0,0:11:24.56,0:11:27.16,Thorax,,0,0,0,,Well, maybe now we can talk.
+Dialogue: 0,0:11:28.19,0:11:29.60,Spike,,0,0,0,,Sure.
+Dialogue: 0,0:11:30.42,0:11:31.76,StarlightGlimmer,,0,0,0,,I'll leave you guys to it.
+Dialogue: 0,0:11:32.00,0:11:32.89,Thorax,,0,0,0,,First of all,
+Dialogue: 0,0:11:32.89,0:11:35.30,Thorax,,0,0,0,,I wanna say, thank you for having me over.
+Dialogue: 0,0:11:35.30,0:11:37.13,Thorax,,0,0,0,,I'm in a bit of the leadership pickle
+Dialogue: 0,0:11:37.13,0:11:38.80,Thorax,,0,0,0,,And I could use some advice.
+Dialogue: 0,0:11:38.99,0:11:43.32,Spike,,0,0,0,,Well, I definitely want to help you out as quickly as possible.
+Dialogue: 0,0:11:43.55,0:11:44.51,Thorax,,0,0,0,,Here's my problem.
+Dialogue: 0,0:11:44.64,0:11:48.43,Thorax,,0,0,0,,There's this renegade group of changelings who still feed off of love.
+Dialogue: 0,0:11:48.43,0:11:51.60,Thorax,,0,0,0,,Even though I said, hey, let's not do that anymore,
+Dialogue: 0,0:11:51.60,0:11:55.22,Thorax,,0,0,0,,they say, hey, this is how we've been doing things for hundreds of years…
+Dialogue: 0,0:11:55.22,0:11:56.93,Thorax,,0,0,0,,…it's like they don't want to…
+Dialogue: 0,0:11:56.93,0:11:58.97,Thorax,,0,0,0,,…even though I'm the leader, I ask…
+Dialogue: 0,0:12:08.01,0:12:10.18,Ember,,0,0,0,,Hello! I am Ember!
+Dialogue: 0,0:12:10.33,0:12:13.00,Ember,,0,0,0,,Daughter of Torch, winner of the Gauntlet of fire,
+Dialogue: 0,0:12:13.00,0:12:14.76,Ember,,0,0,0,,and lord of all dragons!
+Dialogue: 0,0:12:19.58,0:12:22.31,Ember,,0,0,0,,Usually when I do this the dragons are eager to meet me.
+Dialogue: 0,0:12:22.56,0:12:25.14,Twilight,,0,0,0,,That's not how ponies make friends.
+Dialogue: 0,0:12:26.68,0:12:27.88,Ember,,0,0,0,,I get it.
+Dialogue: 0,0:12:30.33,0:12:33.31,Ember,,0,0,0,,This is a weird friendship thing you ponies do. Right?
+Dialogue: 0,0:12:41.21,0:12:43.18,StarlightGlimmer,,0,0,0,,You guys are in town too?
+Dialogue: 0,0:12:43.31,0:12:44.26,Ember,,0,0,0,,What are you talking about?
+Dialogue: 0,0:12:44.31,0:12:46.36,Ember,,0,0,0,,You've been with me the whole time.
+Dialogue: 0,0:12:46.53,0:12:48.48,StarlightGlimmer,,0,0,0,,No, I'm Starlight.
+Dialogue: 0,0:12:51.11,0:12:52.31,Ember,,0,0,0,,Ri-i-ight.
+Dialogue: 0,0:12:52.48,0:12:54.56,Ember,,0,0,0,,I'm sorry but you can't blame me.
+Dialogue: 0,0:12:54.71,0:12:57.03,Ember,,0,0,0,,You both look and act so much alike.
+Dialogue: 0,0:12:57.03,0:12:57.76,Twilight,,0,0,0,,What?
+Dialogue: 0,0:12:57.03,0:12:57.76,StarlightGlimmer,,0,0,0,,What?
+Dialogue: 0,0:12:58.61,0:13:01.66,Thorax,,0,0,0,,…and they said to me, you just keep saying the same thing.
+Dialogue: 0,0:13:02.06,0:13:05.13,Thorax,,0,0,0,,You know, I think my leadership problems started in childhood.
+Dialogue: 0,0:13:05.13,0:13:06.22,Thorax,,0,0,0,,I must have been three…
+Dialogue: 0,0:13:06.28,0:13:08.98,Thorax,,0,0,0,,…there is a different story, and you definitely gotta hear it,
+Dialogue: 0,0:13:09.16,0:13:12.09,Thorax,,0,0,0,,but the story about my brother was when I was two,
+Dialogue: 0,0:13:12.22,0:13:13.14,Thorax,,0,0,0,,or was I one?
+Dialogue: 0,0:13:13.53,0:13:15.43,Somepony,,0,0,0,,This is my seat! I saw it first!
+Dialogue: 0,0:13:15.93,0:13:17.81,Somepony,,0,0,0,,Well, I got here first.
+Dialogue: 0,0:13:19.11,0:13:20.98,Spike,,0,0,0,,Thorax, excuse me for a second.
+Dialogue: 0,0:13:24.13,0:13:25.36,Spike,,0,0,0,,Ponies, please.
+Dialogue: 0,0:13:25.61,0:13:30.06,Spike,,0,0,0,,If I may, I think I can help solve this friendship problem.
+Dialogue: 0,0:13:31.83,0:13:33.63,Spike,,0,0,0,,You two should sit together.
+Dialogue: 0,0:13:33.79,0:13:35.21,Spike,,0,0,0,,You both like the same place,
+Dialogue: 0,0:13:35.21,0:13:36.23,Spike,,0,0,0,,you both wanted muffins,
+Dialogue: 0,0:13:36.23,0:13:37.21,Spike,,0,0,0,,you're both ponies!
+Dialogue: 0,0:13:37.46,0:13:39.56,Spike,,0,0,0,,I think if you made a little effort, you'd find…
+Dialogue: 0,0:13:42.16,0:13:43.56,Spike,,0,0,0,,Okay, that has to have done it.
+Dialogue: 0,0:13:43.91,0:13:45.38,Spike,,0,0,0,,Come on, spikes, glow!
+Dialogue: 0,0:13:48.01,0:13:50.53,Thorax,,0,0,0,,Hey, that was a really great advice.
+Dialogue: 0,0:13:50.88,0:13:52.78,Thorax,,0,0,0,,So, what do you think I should do?
+Dialogue: 0,0:13:56.23,0:13:59.46,Spike,,0,0,0,,Actually, I need a minute. Alone.
+Dialogue: 0,0:13:59.56,0:14:01.80,Spike,,0,0,0,,To really come up with great advice.
+Dialogue: 0,0:14:02.71,0:14:03.56,Spike,,0,0,0,,I'll be right back.
+Dialogue: 0,0:14:04.16,0:14:04.98,Thorax,,0,0,0,,Great.
+Dialogue: 0,0:14:05.18,0:14:07.66,Thorax,,0,0,0,,No problem, leave me again.
+Dialogue: 0,0:14:07.93,0:14:08.98,Thorax,,0,0,0,,It's fine.
+Dialogue: 0,0:14:09.96,0:14:14.41,Ember,,0,0,0,,I'm just saying, you're both purple ponies with purple hair.
+Dialogue: 0,0:14:15.26,0:14:18.36,Ember,,0,0,0,,You both have cutiemarks with sparkly things.
+Dialogue: 0,0:14:19.51,0:14:21.58,StarlightGlimmer,,0,0,0,,Mine is more of a glimmer…
+Dialogue: 0,0:14:22.08,0:14:23.71,Ember,,0,0,0,,How is that different?
+Dialogue: 0,0:14:24.16,0:14:25.70,Ember,,0,0,0,,Oh, good, Spike.
+Dialogue: 0,0:14:26.01,0:14:28.06,Ember,,0,0,0,,Can you please tell these two I'm right?
+Dialogue: 0,0:14:28.36,0:14:29.93,Ember,,0,0,0,,They look very similar.
+Dialogue: 0,0:14:30.68,0:14:33.03,Spike,,0,0,0,,You know, one thing friends do is
+Dialogue: 0,0:14:33.18,0:14:36.18,Spike,,0,0,0,,Let some thing going it's upsetting somepony else.
+Dialogue: 0,0:14:36.26,0:14:37.43,Ember,,0,0,0,,But I'm right.
+Dialogue: 0,0:14:37.52,0:14:40.56,Ember,,0,0,0,,Besides, who are you to be telling me about friendship?
+Dialogue: 0,0:14:40.56,0:14:42.57,Ember,,0,0,0,,I've barely seen you all day.
+Dialogue: 0,0:14:43.56,0:14:45.46,Spike,,0,0,0,,I've seen you.
+Dialogue: 0,0:14:45.76,0:14:47.51,Ember,,0,0,0,,Are you calling me a liar?!
+Dialogue: 0,0:14:49.18,0:14:51.93,Thorax,,0,0,0,,Hey! No one yells at my friend!
+Dialogue: 0,0:14:58.18,0:15:00.04,Ember,,0,0,0,,Spike! Get away from the bear!
+Dialogue: 0,0:15:00.31,0:15:03.51,Twilight,,0,0,0,,Actually the bear is a changeling, and he's quite gentle.
+Dialogue: 0,0:15:03.83,0:15:04.91,Thorax,,0,0,0,,Not anymore!
+Dialogue: 0,0:15:16.16,0:15:18.13,Spike,,0,0,0,,My worst fears are happening!
+Dialogue: 0,0:15:25.16,0:15:26.47,Spike,,0,0,0,,Nooo!
+Dialogue: 0,0:15:27.32,0:15:28.40,Thorax,,0,0,0,,Back away, Spike.
+Dialogue: 0,0:15:28.46,0:15:31.35,Thorax,,0,0,0,,I'm not gonna let this dragon harm a scale on your back.
+Dialogue: 0,0:15:31.62,0:15:32.57,Ember,,0,0,0,,You back away.
+Dialogue: 0,0:15:32.72,0:15:34.62,Ember,,0,0,0,,I'm not gonna let you harm him!
+Dialogue: 0,0:15:35.06,0:15:38.37,Ember,,0,0,0,,Wait. Did you say you're not gonna let me harm Spike?
+Dialogue: 0,0:15:38.50,0:15:39.20,Thorax,,0,0,0,,Yeah!
+Dialogue: 0,0:15:39.52,0:15:41.17,Ember,,0,0,0,,But that's what I'm doing.
+Dialogue: 0,0:15:41.85,0:15:42.60,Thorax,,0,0,0,,What?
+Dialogue: 0,0:15:43.00,0:15:44.25,Ember,,0,0,0,,Yeah. What?
+Dialogue: 0,0:15:45.60,0:15:47.50,Spike,,0,0,0,,Equestria as we know it is over!
+Dialogue: 0,0:15:47.62,0:15:50.55,Spike,,0,0,0,,The war that hit changelings against dragons is about to begin!
+Dialogue: 0,0:15:50.70,0:15:51.93,Spike,,0,0,0,,And it's all my fault!
+Dialogue: 0,0:15:52.25,0:15:54.87,Spike,,0,0,0,,My title of Equestria's friendship ambassador is a lie!
+Dialogue: 0,0:15:55.45,0:15:58.07,Spike,,0,0,0,,Oh, hey, you guys aren't fighting?
+Dialogue: 0,0:15:58.22,0:15:59.72,Ember,,0,0,0,,Why would we be fighting?
+Dialogue: 0,0:15:59.92,0:16:04.37,Spike,,0,0,0,,Because I accidentally invited you both over to Ponyville in the same day?
+Dialogue: 0,0:16:05.23,0:16:06.40,Ember,,0,0,0,,So what?
+Dialogue: 0,0:16:05.23,0:16:06.40,Thorax,,0,0,0,,So what?
+Dialogue: 0,0:16:07.03,0:16:08.34,Spike,,0,0,0,,So, I…
+Dialogue: 0,0:16:08.66,0:16:12.52,Spike,,0,0,0,,Was trying to keep you apart because I didn't think you'd get along.
+Dialogue: 0,0:16:13.80,0:16:15.75,Ember,,0,0,0,,Oh, I get it.
+Dialogue: 0,0:16:15.85,0:16:18.50,Ember,,0,0,0,,You thought he wouldn't like me just because I am dragon
+Dialogue: 0,0:16:18.50,0:16:20.17,Ember,,0,0,0,,and I am bad at friendship?
+Dialogue: 0,0:16:20.72,0:16:22.42,Spike,,0,0,0,,No, no! Of course not!
+Dialogue: 0,0:16:22.42,0:16:25.15,Spike,,0,0,0,,But. Wait. Isn't that why you're here?
+Dialogue: 0,0:16:26.05,0:16:29.72,Ember,,0,0,0,,I can say I'm bad at friendship. You can't say it about me!
+Dialogue: 0,0:16:29.72,0:16:30.44,Ember,,0,0,0,,You know what?
+Dialogue: 0,0:16:30.50,0:16:31.95,Ember,,0,0,0,,I don't want to talk about it.
+Dialogue: 0,0:16:32.33,0:16:33.52,Spike,,0,0,0,,Wait, please!
+Dialogue: 0,0:16:34.80,0:16:35.77,Spike,,0,0,0,,I'm sorry.
+Dialogue: 0,0:16:36.72,0:16:38.15,Thorax,,0,0,0,,No, no. It's cool.
+Dialogue: 0,0:16:38.25,0:16:42.22,Thorax,,0,0,0,,You thought I would be too soft and someone like Ember would never respect me.
+Dialogue: 0,0:16:42.29,0:16:44.10,Thorax,,0,0,0,,Just like my own changelings.
+Dialogue: 0,0:16:44.21,0:16:45.50,Spike,,0,0,0,,No, that's not it!
+Dialogue: 0,0:16:45.63,0:16:46.52,Spike,,0,0,0,,Thorax, wait!
+Dialogue: 0,0:16:47.47,0:16:50.45,Spike,,0,0,0,,Oh no. What have I done.
+Dialogue: 0,0:16:59.37,0:17:01.27,Ember,,0,0,0,,Why are you still here?
+Dialogue: 0,0:17:02.92,0:17:05.40,Thorax,,0,0,0,,Because I'm having trouble leading my pack
+Dialogue: 0,0:17:05.50,0:17:07.45,Thorax,,0,0,0,,So I don't really wanna go home
+Dialogue: 0,0:17:08.40,0:17:10.30,Ember,,0,0,0,,Wait, you're in charge?
+Dialogue: 0,0:17:12.20,0:17:13.70,Ember,,0,0,0,,You need to be more assertive.
+Dialogue: 0,0:17:14.07,0:17:15.77,Thorax,,0,0,0,,So that's my problem.
+Dialogue: 0,0:17:15.97,0:17:17.12,Thorax,,0,0,0,,I don't know how.
+Dialogue: 0,0:17:17.22,0:17:20.52,Thorax,,0,0,0,,I tried asking them to please follow my directions.
+Dialogue: 0,0:17:20.60,0:17:22.65,Thorax,,0,0,0,,I even offered a prize, and then…
+Dialogue: 0,0:17:23.18,0:17:24.05,Ember,,0,0,0,,Stop talking!
+Dialogue: 0,0:17:26.07,0:17:27.22,Ember,,0,0,0,,That's how you do it.
+Dialogue: 0,0:17:29.15,0:17:30.52,Thorax,,0,0,0,,That just gave me chills
+Dialogue: 0,0:17:30.65,0:17:32.05,Ember,,0,0,0,,I know you have it in you.
+Dialogue: 0,0:17:32.17,0:17:34.53,Ember,,0,0,0,,You turned into a bear to defend Spike
+Dialogue: 0,0:17:34.87,0:17:37.62,Thorax,,0,0,0,,I guess I can be tough when I'm defending my friends but
+Dialogue: 0,0:17:37.85,0:17:39.75,Thorax,,0,0,0,,when I'm just enforcing my rules
+Dialogue: 0,0:17:40.42,0:17:42.22,Thorax,,0,0,0,,I feel unsure of myself.
+Dialogue: 0,0:17:42.32,0:17:44.37,Ember,,0,0,0,,There's nothing to be unsure off.
+Dialogue: 0,0:17:44.50,0:17:46.29,Ember,,0,0,0,,You are the leader for a reason.
+Dialogue: 0,0:17:46.60,0:17:48.81,Ember,,0,0,0,,Make a decision and let it be known
+Dialogue: 0,0:17:48.81,0:17:50.09,Ember,,0,0,0,,that the decision is final.
+Dialogue: 0,0:17:50.54,0:17:52.81,Ember,,0,0,0,,And if that doesn't work turn into a bear.
+Dialogue: 0,0:17:54.32,0:17:55.47,Thorax,,0,0,0,,That's good advice.
+Dialogue: 0,0:17:55.82,0:17:56.75,Ember,,0,0,0,,I know it is.
+Dialogue: 0,0:17:57.40,0:17:58.85,Thorax,,0,0,0,,So, what's your deal?
+Dialogue: 0,0:17:59.12,0:18:00.97,Thorax,,0,0,0,,Why do you think you're so bad at friendship?
+Dialogue: 0,0:18:01.13,0:18:03.00,Ember,,0,0,0,,I don't want to talk about it.
+Dialogue: 0,0:18:03.13,0:18:04.63,Thorax,,0,0,0,,Oh, you have to.
+Dialogue: 0,0:18:04.71,0:18:07.35,Thorax,,0,0,0,,How else are you gonna solve your problems?
+Dialogue: 0,0:18:08.72,0:18:11.55,Ember,,0,0,0,,Through feats of strength and fire duels, of course.
+Dialogue: 0,0:18:17.69,0:18:19.06,Thorax,,0,0,0,,How does that help?
+Dialogue: 0,0:18:19.48,0:18:24.43,Ember,,0,0,0,,Crushing another dragon in competition establishes my dominance and makes me feel great.
+Dialogue: 0,0:18:25.32,0:18:28.22,Thorax,,0,0,0,,Right, but… how do you think they feel?
+Dialogue: 0,0:18:28.22,0:18:29.94,Ember,,0,0,0,,Humiliated! Ashamed!
+Dialogue: 0,0:18:29.94,0:18:33.77,Ember,,0,0,0,,They probably want to run away and bury themselves under a rock and…
+Dialogue: 0,0:18:34.05,0:18:35.48,Ember,,0,0,0,,Never come out.
+Dialogue: 0,0:18:35.48,0:18:37.01,Ember,,0,0,0,,They're probably sad,
+Dialogue: 0,0:18:37.31,0:18:38.34,Ember,,0,0,0,,kind of low,
+Dialogue: 0,0:18:38.74,0:18:40.11,Ember,,0,0,0,,definitely not happy.
+Dialogue: 0,0:18:40.54,0:18:43.74,Thorax,,0,0,0,,That's because that kind of competition can divide you.
+Dialogue: 0,0:18:43.74,0:18:46.10,Thorax,,0,0,0,,And it doesn't get to the heart of the issue.
+Dialogue: 0,0:18:46.10,0:18:48.56,Thorax,,0,0,0,,Talking about your feelings does.
+Dialogue: 0,0:18:52.05,0:18:53.91,Ember,,0,0,0,,I think I'm allergic to feelings.
+Dialogue: 0,0:18:53.91,0:18:57.81,Thorax,,0,0,0,,You know, you don't have to be sappy or huggy-feely about it.
+Dialogue: 0,0:18:57.81,0:19:00.61,Thorax,,0,0,0,,But you should let your friends know how you feel.
+Dialogue: 0,0:19:01.68,0:19:03.34,Ember,,0,0,0,,I know where we can start.
+Dialogue: 0,0:19:04.20,0:19:04.79,Thorax,,0,0,0,,Where?
+Dialogue: 0,0:19:05.36,0:19:07.15,Thorax,,0,0,0,,Oh, Spike.
+Dialogue: 0,0:19:07.57,0:19:08.36,Thorax,,0,0,0,,I got there.
+Dialogue: 0,0:19:11.19,0:19:12.65,Spike,,0,0,0,,I think they're gone.
+Dialogue: 0,0:19:12.65,0:19:15.37,Spike,,0,0,0,,They probably never want to see me again.
+Dialogue: 0,0:19:15.76,0:19:17.73,StarlightGlimmer,,0,0,0,,Or… They want to see you now.
+Dialogue: 0,0:19:19.35,0:19:20.43,Ember,,0,0,0,,Guess what, Spike.
+Dialogue: 0,0:19:21.09,0:19:23.29,Spike,,0,0,0,,I know. I'm so sorry.
+Dialogue: 0,0:19:23.29,0:19:24.97,Ember,,0,0,0,,Let me talk about this!
+Dialogue: 0,0:19:25.44,0:19:26.24,Ember,,0,0,0,,I…
+Dialogue: 0,0:19:26.90,0:19:27.88,Ember,,0,0,0,,feel…
+Dialogue: 0,0:19:29.34,0:19:30.34,Ember,,0,0,0,,mad.
+Dialogue: 0,0:19:31.28,0:19:32.91,Thorax,,0,0,0,,Okay…
+Dialogue: 0,0:19:32.91,0:19:34.72,Thorax,,0,0,0,,That's a good first attempt.
+Dialogue: 0,0:19:34.72,0:19:37.65,Thorax,,0,0,0,,Now, maybe try to be more… specific?
+Dialogue: 0,0:19:41.42,0:19:42.58,Ember,,0,0,0,,I'm…
+Dialogue: 0,0:19:43.65,0:19:45.06,Ember,,0,0,0,,upset!
+Dialogue: 0,0:19:45.06,0:19:46.54,Spike,,0,0,0,,You have every right to be.
+Dialogue: 0,0:19:46.54,0:19:47.79,Ember,,0,0,0,,I know I do!
+Dialogue: 0,0:19:48.48,0:19:50.75,Ember,,0,0,0,,And I know I need to tell you how I feel
+Dialogue: 0,0:19:50.75,0:19:52.60,Ember,,0,0,0,,because my friend, Thorax
+Dialogue: 0,0:19:52.60,0:19:54.60,Ember,,0,0,0,,said it would make me feel better.
+Dialogue: 0,0:19:54.60,0:19:55.79,Ember,,0,0,0,,And it does.
+Dialogue: 0,0:19:55.94,0:19:56.51,Thorax,,0,0,0,,Yeah!
+Dialogue: 0,0:19:56.61,0:19:59.63,Thorax,,0,0,0,,And I have no problem telling you what you did was wrong
+Dialogue: 0,0:19:59.63,0:20:01.43,Thorax,,0,0,0,,because my friend Ember
+Dialogue: 0,0:20:01.43,0:20:03.74,Thorax,,0,0,0,,is helping me be more assertive.
+Dialogue: 0,0:20:04.07,0:20:05.27,Spike,,0,0,0,,Wow.
+Dialogue: 0,0:20:05.73,0:20:06.67,Ember,,0,0,0,,Nice!
+Dialogue: 0,0:20:08.97,0:20:10.94,Spike,,0,0,0,,You guys should be mad at me.
+Dialogue: 0,0:20:10.94,0:20:13.19,Spike,,0,0,0,,I was so worried about how it could go wrong
+Dialogue: 0,0:20:13.31,0:20:15.98,Spike,,0,0,0,,I didn't even think about how it could go right!
+Dialogue: 0,0:20:16.57,0:20:18.19,Spike,,0,0,0,,Can you forgive me?
+Dialogue: 0,0:20:19.05,0:20:23.12,Ember,,0,0,0,,I really do feel better, so yeah, I'm good.
+Dialogue: 0,0:20:24.11,0:20:24.87,Thorax,,0,0,0,,Me too.
+Dialogue: 0,0:20:30.23,0:20:31.16,Ember,,0,0,0,,Again?
+Dialogue: 0,0:20:33.66,0:20:36.59,Spike,,0,0,0,,No way! It's finally happening!
+Dialogue: 0,0:20:36.59,0:20:38.21,Spike,,0,0,0,,I solved the friendship problem!
+Dialogue: 0,0:20:38.21,0:20:40.45,StarlightGlimmer,,0,0,0,,Actually, you created a friendship problem
+Dialogue: 0,0:20:40.45,0:20:41.93,StarlightGlimmer,,0,0,0,,by not trusting your friends.
+Dialogue: 0,0:20:41.93,0:20:44.88,Spike,,0,0,0,,Yeah, but then I solved it by learning my lesson!
+Dialogue: 0,0:20:45.50,0:20:48.68,Spike,,0,0,0,,I should have told my two friends about each other immediately.
+Dialogue: 0,0:20:48.68,0:20:50.77,Spike,,0,0,0,,Instead of assuming they wouldn't get along.
+Dialogue: 0,0:20:50.86,0:20:52.07,Twilight,,0,0,0,,Good job, Spike.
+Dialogue: 0,0:20:52.48,0:20:54.73,Ember,,0,0,0,,Is this another part of pony friendship
+Dialogue: 0,0:20:54.73,0:20:56.96,Ember,,0,0,0,,telling each other what you learned all the time?
+Dialogue: 0,0:20:58.45,0:20:59.57,StarlightGlimmer,,0,0,0,,Yeah, pretty much.
+Dialogue: 0,0:20:59.57,0:21:00.25,Spike,,0,0,0,,Yep.
+Dialogue: 0,0:21:03.12,0:21:08.16,Spike,,0,0,0,,So, as a show of unity, I present the dragon fire flame of friendship
+Dialogue: 0,0:21:08.31,0:21:12.63,Spike,,0,0,0,,to both Dragon Lord Ember and Thorax, leader of the changeling pack!
+Dialogue: 0,0:21:12.73,0:21:16.37,Spike,,0,0,0,,May the flame of friendship burn for eternity!
+Dialogue: 0,0:21:26.49,0:21:29.30,Ember,,0,0,0,,You should have more things made of rocks.
+Dialogue: 0,0:21:33.52,0:21:36.02,Default,,0,0,0,,SCHASTLIVY PONEC
+Dialogue: 0,0:21:36.02,0:21:39.15,Default,,0,0,0,,anon2anon\Nsunnysubs.com

@@ -1,0 +1,424 @@
+﻿[Script Info]
+PlayResX:1920
+PlayResY:1080
+ScaledBorderAndShadow: yes
+ScriptType: v4.00+
+WrapStyle: 0
+YCbCr Matrix: TV.601
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: AppleBloom,Arial,68,&H00C0FAF4,&H000000FF,&H006F00FF,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: AppleJack,Arial,68,&H00FFFFFF,&H000000FF,&H00005AFF,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: CherryBerry,Arial,68,&H00D8B4F0,&H000000FF,&H004C1AA1,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: CoconutCream,Arial,68,&H00F3F4EB,&H000000FF,&H00E899E3,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Default,Arial,68,&H00FFFFFF,&H000000FF,&H007D7E80,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: FlutterShy,Arial,68,&H00D2F9FF,&H000000FF,&H009542D6,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: GlassesStallion,Arial,68,&H00B6BB83,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: HoityToity,Arial,68,&H00F1D8D1,&H000000FF,&H005F473B,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: PinkiePie,Arial,68,&H00FFFFFF,&H000000FF,&H009300E8,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: RainbowDash,Arial,68,&H00FFFFFF,&H000000FF,&H00D29B1E,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Rarity,Arial,68,&H00FFFBF0,&H000000FF,&H00690050,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Sassaflash,Arial,68,&H00ECF1C3,&H000000FF,&H0058B3B2,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Somepony,Arial,68,&H00FFFFFF,&H000000FF,&H007D7E80,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: SomeponyBlue,Arial,68,&H00F0D0CD,&H000000FF,&H00AF6866,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: SomeponyBluishWhite,Arial,68,&H00FFE2D8,&H000000FF,&H00333333,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: SomeponyLightPink,Arial,68,&H00B6B2FE,&H000000FF,&H00262663,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: SomeponyOrange,Arial,68,&H0058B2FE,&H000000FF,&H00333333,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: SomeponyPaleYellow,Arial,68,&H00B6EFF2,&H000000FF,&H00764424,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: SomeponyPinky,Arial,68,&H00FFFFFF,&H000000FF,&H00E899E3,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: SomeponyYellow,Arial,68,&H0098FFFE,&H000000FF,&H00333333,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: StarlightGlimmer,Arial,68,&H00F5CEF2,&H000000FF,&H005C0104,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: ToolaRoola,Arial,68,&H00E6D3F2,&H000000FF,&H00A466DB,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Twilight,Arial,68,&H00FFFFFF,&H000000FF,&H0092376D,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+
+[Events]
+Dialogue: 0,0:00:07.04,0:00:10.45,ToolaRoola,,0,0,0,,Sorry, Princess Twilight, that was meant for her.
+Dialogue: 0,0:00:12.55,0:00:14.35,ToolaRoola,,0,0,0,,Incoming!
+Dialogue: 0,0:00:19.05,0:00:22.35,Twilight,,0,0,0,,Toola Rula, Coconut Cream, what are you doing?
+Dialogue: 0,0:00:22.75,0:00:25.48,CoconutCream,,0,0,0,,That was meant for my ex-friend.
+Dialogue: 0,0:00:25.75,0:00:29.60,ToolaRoola,,0,0,0,,I'm not your ex-friend, you're my ex-friend.
+Dialogue: 0,0:00:34.13,0:00:35.70,Twilight,,0,0,0,,Both of you stop!
+Dialogue: 0,0:00:38.05,0:00:43.60,Twilight,,0,0,0,,So you see: friendship isn't always easy, but there's no doubt it's worth fighting for.
+Dialogue: 0,0:00:48.10,0:00:49.38,Twilight,,0,0,0,,That sounds familiar.
+Dialogue: 0,0:00:55.80,0:00:56.20,Twilight,,0,0,0,,No…
+Dialogue: 0,0:01:03.40,0:01:04.90,Twilight,,0,0,0,,Aha, here it is.
+Dialogue: 0,0:01:06.58,0:01:07.73,StarlightGlimmer,,0,0,0,,What is that?
+Dialogue: 0,0:01:08.10,0:01:10.85,Twilight,,0,0,0,,Come on, Starlight, don't judge a book by its cover.
+Dialogue: 0,0:01:10.98,0:01:13.85,Twilight,,0,0,0,,This is the friendship journal my friends and I used to keep.
+Dialogue: 0,0:01:13.95,0:01:16.63,Twilight,,0,0,0,,It's filled with all the things we've learned like:
+Dialogue: 0,0:01:16.85,0:01:21.05,Twilight,,0,0,0,,"Friendship isn't always easy, but there's no doubt it's worth fighting for."
+Dialogue: 0,0:01:24.55,0:01:27.83,StarlightGlimmer,,0,0,0,,I'll judge a book by its cover just this once.
+Dialogue: 0,0:02:10.70,0:02:12.07,Twilight,,0,0,0,,Thanks for coming, everypony.
+Dialogue: 0,0:02:12.35,0:02:14.05,Twilight,,0,0,0,,I've got a surprise for you.
+Dialogue: 0,0:02:14.15,0:02:15.40,FlutterShy,,0,0,0,,What is it, Twilight?
+Dialogue: 0,0:02:15.62,0:02:17.22,FlutterShy,,0,0,0,,Do I need to prepare myself?
+Dialogue: 0,0:02:17.75,0:02:19.17,Twilight,,0,0,0,,It's this!
+Dialogue: 0,0:02:20.20,0:02:21.25,Rarity,,0,0,0,,What is that thing?
+Dialogue: 0,0:02:21.45,0:02:22.85,Rarity,,0,0,0,,Why is it so smelly?
+Dialogue: 0,0:02:23.22,0:02:24.60,PinkiePie,,0,0,0,,Wait a minute…
+Dialogue: 0,0:02:25.85,0:02:27.37,PinkiePie,,0,0,0,,Is this our old friendship journal?
+Dialogue: 0,0:02:27.45,0:02:29.37,PinkiePie,,0,0,0,,I haven't seen this thing in forever!
+Dialogue: 0,0:02:30.85,0:02:33.17,AppleJack,,0,0,0,,It's lookin' a little… overripe.
+Dialogue: 0,0:02:33.75,0:02:34.75,RainbowDash,,0,0,0,,I'll say.
+Dialogue: 0,0:02:36.97,0:02:39.87,RainbowDash,,0,0,0,,There's a smashed apple in Applejack's lessons.
+Dialogue: 0,0:02:42.82,0:02:44.90,RainbowDash,,0,0,0,,Fluttershy's lessons are so small,
+Dialogue: 0,0:02:44.90,0:02:46.55,RainbowDash,,0,0,0,,you can barely read them.
+Dialogue: 0,0:02:46.92,0:02:49.82,FlutterShy,,0,0,0,,I… wanted to leave room for all of you.
+Dialogue: 0,0:02:54.15,0:02:56.50,RainbowDash,,0,0,0,,I don't even know what this is.
+Dialogue: 0,0:02:57.57,0:03:00.25,Rarity,,0,0,0,,It is called calligraphy, darling.
+Dialogue: 0,0:03:00.47,0:03:03.72,Rarity,,0,0,0,,If you're going to make words, at least make them fabulous!
+Dialogue: 0,0:03:07.00,0:03:10.95,AppleJack,,0,0,0,,Looks like you got a little aggressive with your friendship lessons, Rainbow Dash.
+Dialogue: 0,0:03:11.32,0:03:12.27,RainbowDash,,0,0,0,,What can I say?
+Dialogue: 0,0:03:12.52,0:03:15.00,RainbowDash,,0,0,0,,When I learn something, I learn it hard.
+Dialogue: 0,0:03:17.32,0:03:19.15,RainbowDash,,0,0,0,,I found Pinkie's page.
+Dialogue: 0,0:03:20.10,0:03:22.55,PinkiePie,,0,0,0,,Well, I am surprised!
+Dialogue: 0,0:03:22.80,0:03:24.82,Twilight,,0,0,0,,That wasn't the only surprise.
+Dialogue: 0,0:03:40.45,0:03:43.17,Twilight,,0,0,0,,Starlight and I decided to make one for each of you!
+Dialogue: 0,0:03:43.30,0:03:44.70,AppleJack,,0,0,0,,That's amazing!
+Dialogue: 0,0:03:44.95,0:03:46.20,AppleJack,,0,0,0,,A perfect copy!
+Dialogue: 0,0:03:46.37,0:03:50.00,StarlightGlimmer,,0,0,0,,I learned the spell years ago, when I needed to make copies of a certain…
+Dialogue: 0,0:03:52.57,0:03:53.77,StarlightGlimmer,,0,0,0,,manifesto.
+Dialogue: 0,0:03:56.07,0:03:57.97,Rarity,,0,0,0,,Even better than a perfect copy!
+Dialogue: 0,0:03:58.82,0:04:00.97,FlutterShy,,0,0,0,,I've forgotten all about this lesson.
+Dialogue: 0,0:04:02.90,0:04:04.10,RainbowDash,,0,0,0,,Remember this one?
+Dialogue: 0,0:04:04.35,0:04:05.85,RainbowDash,,0,0,0,,For when I helped Daring Do?
+Dialogue: 0,0:04:06.15,0:04:10.20,RainbowDash,,0,0,0,,"Never underestimate the power of friends who always got your back!"
+Dialogue: 0,0:04:10.47,0:04:11.97,PinkiePie,,0,0,0,,Oh, Cheese Sandwich!
+Dialogue: 0,0:04:12.22,0:04:12.92,PinkiePie,,0,0,0,,Party cannon!
+Dialogue: 0,0:04:13.37,0:04:14.72,PinkiePie,,0,0,0,,Birthiversary!
+Dialogue: 0,0:04:15.05,0:04:16.87,StarlightGlimmer,,0,0,0,,After Twilight remembered the journal,
+Dialogue: 0,0:04:16.95,0:04:19.27,StarlightGlimmer,,0,0,0,,I had so much fun reading all the stuff you've all learned,
+Dialogue: 0,0:04:19.27,0:04:21.12,StarlightGlimmer,,0,0,0,,I just had to have my own copy.
+Dialogue: 0,0:04:21.45,0:04:25.10,Twilight,,0,0,0,,And that brings me to the second part of the surprise, my idea.
+Dialogue: 0,0:04:25.35,0:04:29.27,Twilight,,0,0,0,,How would you girls feel about making our journal available for everypony?
+Dialogue: 0,0:04:29.45,0:04:33.82,Twilight,,0,0,0,,If we can get these lessons into other ponies' hooves, maybe they'll benefit from them?
+Dialogue: 0,0:04:34.12,0:04:36.20,FlutterShy,,0,0,0,,Well, I think, that's a great idea!
+Dialogue: 0,0:04:36.52,0:04:37.45,PinkiePie,,0,0,0,,I'm in!
+Dialogue: 0,0:04:39.17,0:04:40.95,AppleJack,,0,0,0,,We always said we wanted to.
+Dialogue: 0,0:04:41.15,0:04:42.55,Rarity,,0,0,0,,Sounds fabulous.
+Dialogue: 0,0:04:44.80,0:04:45.92,RainbowDash,,0,0,0,,I'm awesome.
+Dialogue: 0,0:04:47.52,0:04:49.15,RainbowDash,,0,0,0,,Oh, yeah… good idea.
+Dialogue: 0,0:05:23.92,0:05:26.52,ToolaRoola,,0,0,0,,No, I don't want to play with you anymore!
+Dialogue: 0,0:05:27.05,0:05:27.77,CoconutCream,,0,0,0,,Why not?!
+Dialogue: 0,0:05:27.97,0:05:29.90,CoconutCream,,0,0,0,,You love playing hopscotch!
+Dialogue: 0,0:05:30.47,0:05:33.97,ToolaRoola,,0,0,0,,No, you do, because you always win!
+Dialogue: 0,0:05:34.42,0:05:35.15,Twilight,,0,0,0,,Hey, girls.
+Dialogue: 0,0:05:35.35,0:05:36.57,Twilight,,0,0,0,,Couldn't help, but overhear.
+Dialogue: 0,0:05:36.80,0:05:38.27,Twilight,,0,0,0,,You might wanna take a breather.
+Dialogue: 0,0:05:38.27,0:05:41.17,Twilight,,0,0,0,,Maybe read Rainbow Dash's chapter on Rainbow Falls?
+Dialogue: 0,0:05:41.17,0:05:42.05,Twilight,,0,0,0,,It might help.
+Dialogue: 0,0:05:42.97,0:05:44.35,Somepony,,0,0,0,,Sure, Princess.
+Dialogue: 0,0:05:45.02,0:05:46.02,AppleBloom,,0,0,0,,Thanks, Twilight!
+Dialogue: 0,0:05:46.47,0:05:49.35,AppleBloom,,0,0,0,,The Friendship Journal's making us super-popular!
+Dialogue: 0,0:05:50.82,0:05:53.63,AppleBloom,,0,0,0,,We were thinking of putting together a cutiemark summer camp,
+Dialogue: 0,0:05:53.69,0:05:56.67,AppleBloom,,0,0,0,,now everypony's definitely gonna sign up for it!
+Dialogue: 0,0:05:57.05,0:05:58.40,AppleBloom,,0,0,0,,This is gonna be awesome!
+Dialogue: 0,0:06:00.94,0:06:03.52,StarlightGlimmer,,0,0,0,,A cutiemark camp is a great idea.
+Dialogue: 0,0:06:03.72,0:06:07.36,Twilight,,0,0,0,,Yeah, but the purpose of the journal isn't supposed to be marketing.
+Dialogue: 0,0:06:09.47,0:06:12.91,Twilight,,0,0,0,,I just hope those foals actually learn something from our lessons.
+Dialogue: 0,0:06:12.91,0:06:13.80,StarlightGlimmer,,0,0,0,,They will.
+Dialogue: 0,0:06:13.80,0:06:16.20,StarlightGlimmer,,0,0,0,,I'm sure ponies all across Equestria will…
+Dialogue: 0,0:06:20.96,0:06:23.58,Twilight,,0,0,0,,Hello, can I… help you?
+Dialogue: 0,0:06:23.58,0:06:28.24,SomeponyBlue,,0,0,0,,We're here all away from Fillydelphia because we got copies of your friendship journal.
+Dialogue: 0,0:06:28.30,0:06:30.56,Twilight,,0,0,0,,Wow, how wonderful.
+Dialogue: 0,0:06:30.56,0:06:31.39,Twilight,,0,0,0,,What was your favorite friendship…
+Dialogue: 0,0:06:31.45,0:06:32.99,SomeponyBlue,,0,0,0,,Will you sign them?!
+Dialogue: 0,0:06:35.12,0:06:36.74,Twilight,,0,0,0,,I guess so.
+Dialogue: 0,0:06:37.25,0:06:39.79,Twilight,,0,0,0,,So, what do you think of the lessons?
+Dialogue: 0,0:06:39.87,0:06:41.99,SomeponyBlue,,0,0,0,,Oh, we haven't read them, these are keepsakes.
+Dialogue: 0,0:06:41.99,0:06:44.14,SomeponyBlue,,0,0,0,,We've got to keep them in mint condition.
+Dialogue: 0,0:06:47.53,0:06:49.33,SomeponyPaleYellow,,0,0,0,,Wow, that was worth the trip.
+Dialogue: 0,0:06:54.59,0:07:00.32,StarlightGlimmer,,0,0,0,,Don't worry, Twilight, I'm sure lots of other ponies are being inspired to be better friends.
+Dialogue: 0,0:07:00.32,0:07:03.75,HoityToity,,0,0,0,,Well, I, for one, found the journal terribly illuminating.
+Dialogue: 0,0:07:04.88,0:07:08.76,SomeponyPinky,,0,0,0,,I agree, I am seeing sides of these ponies I didn't know were there
+Dialogue: 0,0:07:08.86,0:07:10.93,SomeponyPinky,,0,0,0,,I only wish they'd left Rarity out.
+Dialogue: 0,0:07:10.93,0:07:13.90,SomeponyPinky,,0,0,0,,She clearly doesn't belong in that book with the rest of them.
+Dialogue: 0,0:07:13.90,0:07:16.97,HoityToity,,0,0,0,,Oh, I kno-ow. Who does she think she is?
+Dialogue: 0,0:07:16.97,0:07:20.29,HoityToity,,0,0,0,,Certainly she did a fine job setting up the Ponyville Day celebration,
+Dialogue: 0,0:07:20.29,0:07:23.50,HoityToity,,0,0,0,,but does she really believe it was a success just because of her?
+Dialogue: 0,0:07:24.37,0:07:26.18,HoityToity,,0,0,0,,The nerve!
+Dialogue: 0,0:07:30.11,0:07:32.23,Twilight,,0,0,0,,But that's not what she was saying!
+Dialogue: 0,0:07:32.28,0:07:33.69,Twilight,,0,0,0,,Rarity!
+Dialogue: 0,0:07:42.14,0:07:43.29,Twilight,,0,0,0,,Oh, poor Rarity.
+Dialogue: 0,0:07:43.30,0:07:46.26,Twilight,,0,0,0,,She overheard all the mean things those ponies were saying.
+Dialogue: 0,0:07:46.26,0:07:48.00,Twilight,,0,0,0,,She must be devastated.
+Dialogue: 0,0:07:48.00,0:07:49.33,Twilight,,0,0,0,,I'm going after her.
+Dialogue: 0,0:07:49.33,0:07:50.04,StarlightGlimmer,,0,0,0,,Go ahead.
+Dialogue: 0,0:07:50.04,0:07:53.13,StarlightGlimmer,,0,0,0,,I am gonna have a chat with these two.
+Dialogue: 0,0:07:57.19,0:07:58.50,Twilight,,0,0,0,,Rarity, wait!
+Dialogue: 0,0:07:59.49,0:08:00.15,PinkiePie,,0,0,0,,Twilight!
+Dialogue: 0,0:08:00.15,0:08:01.11,PinkiePie,,0,0,0,,Isn't it amazing?
+Dialogue: 0,0:08:01.11,0:08:03.47,PinkiePie,,0,0,0,,Our journals are everywhere!
+Dialogue: 0,0:08:03.47,0:08:04.48,Twilight,,0,0,0,,Pinkie, I've got to…
+Dialogue: 0,0:08:04.48,0:08:08.33,PinkiePie,,0,0,0,,Ponies keep stopping by to tell me my entries are hilarious!
+Dialogue: 0,0:08:11.57,0:08:16.18,PinkiePie,,0,0,0,,I've even had somepony come all the way from Las Pegasus to say how much he liked my lessons!
+Dialogue: 0,0:08:16.18,0:08:20.04,Twilight,,0,0,0,,I'm so glad to hear some ponies are being inspired by the journal.
+Dialogue: 0,0:08:20.04,0:08:20.81,CherryBerry,,0,0,0,,Hey, look!
+Dialogue: 0,0:08:20.81,0:08:21.81,CherryBerry,,0,0,0,,There's Pinkie Pie!
+Dialogue: 0,0:08:21.81,0:08:23.33,CherryBerry,,0,0,0,,The funny one!
+Dialogue: 0,0:08:25.39,0:08:27.98,PinkiePie,,0,0,0,,Giggly feedback is the best kind!
+Dialogue: 0,0:08:29.45,0:08:32.35,Twilight,,0,0,0,,Well, at least you're getting a positive reaction.
+Dialogue: 0,0:08:32.35,0:08:33.44,Twilight,,0,0,0,,I just saw Rarity.
+Dialogue: 0,0:08:33.44,0:08:36.55,Twilight,,0,0,0,,I'm afraid this whole journal thing really upset her.
+Dialogue: 0,0:08:37.49,0:08:38.63,PinkiePie,,0,0,0,,That's too bad.
+Dialogue: 0,0:08:41.76,0:08:43.94,PinkiePie,,0,0,0,,Wait, that wasn't even funny!
+Dialogue: 0,0:08:45.42,0:08:49.18,Twilight,,0,0,0,,Okay, well, I guess I'll catch you later.
+Dialogue: 0,0:08:54.39,0:08:56.07,PinkiePie,,0,0,0,,Yeah, bye, Twilight!
+Dialogue: 0,0:09:01.01,0:09:02.42,Sassaflash,,0,0,0,,Classic Pinkie.
+Dialogue: 0,0:09:02.42,0:09:04.25,Sassaflash,,0,0,0,,She is even funnier in real life.
+Dialogue: 0,0:09:04.25,0:09:06.54,PinkiePie,,0,0,0,,You've known me for years!
+Dialogue: 0,0:09:13.24,0:09:15.42,RainbowDash,,0,0,0,,Maybe it's time to call it a day?
+Dialogue: 0,0:09:16.19,0:09:18.32,SomeponyPaleYellow,,0,0,0,,I ripped out all the Twilight Sparkle lessons
+Dialogue: 0,0:09:18.33,0:09:20.54,SomeponyPaleYellow,,0,0,0,,'cause they were getting in the way of the good ones.
+Dialogue: 0,0:09:20.96,0:09:22.89,Twilight,,0,0,0,,What do you mean, you've skipped the lessons?
+Dialogue: 0,0:09:22.89,0:09:25.40,Twilight,,0,0,0,,We've all had valuable experiences.
+Dialogue: 0,0:09:25.43,0:09:27.40,RainbowDash,,0,0,0,,Hey, here is a great idea!
+Dialogue: 0,0:09:27.48,0:09:30.32,RainbowDash,,0,0,0,,Why don't you guys talk to Twilight for a while.
+Dialogue: 0,0:09:30.32,0:09:36.21,RainbowDash,,0,0,0,,So I can get back to things like working and napping and… well, pretty much anything else.
+Dialogue: 0,0:09:36.28,0:09:39.01,SomeponyPaleYellow,,0,0,0,,We don't want to hear her boring lessons.
+Dialogue: 0,0:09:39.01,0:09:42.18,SomeponyPaleYellow,,0,0,0,,Come on, tell us again about when you met Daring Do!
+Dialogue: 0,0:09:44.18,0:09:45.20,RainbowDash,,0,0,0,,Again?
+Dialogue: 0,0:09:45.40,0:09:47.08,RainbowDash,,0,0,0,,Haven't we already covered that one…
+Dialogue: 0,0:09:47.16,0:09:48.60,RainbowDash,,0,0,0,,a couple dozen times?
+Dialogue: 0,0:09:48.94,0:09:50.53,SomeponyPaleYellow,,0,0,0,,We can't get enough of it!
+Dialogue: 0,0:09:50.53,0:09:53.02,SomeponyPaleYellow,,0,0,0,,Come on, you don't want to disappoint your fans!
+Dialogue: 0,0:09:56.15,0:09:58.01,RainbowDash,,0,0,0,,It's just that I…
+Dialogue: 0,0:09:58.06,0:10:00.96,RainbowDash,,0,0,0,,…really need to get these stormclouds back in their…
+Dialogue: 0,0:10:01.45,0:10:02.32,RainbowDash,,0,0,0,,…pens!
+Dialogue: 0,0:10:02.35,0:10:03.17,SomeponyPaleYellow,,0,0,0,,Oh, cool!
+Dialogue: 0,0:10:03.17,0:10:05.89,SomeponyPaleYellow,,0,0,0,,We'll come along, you can tell us the story there.
+Dialogue: 0,0:10:06.25,0:10:07.42,Somepony,,0,0,0,,Rainbow Dash!
+Dialogue: 0,0:10:07.70,0:10:08.80,Somepony,,0,0,0,,Rainbow Dash!
+Dialogue: 0,0:10:09.17,0:10:10.35,Somepony,,0,0,0,,Rainbow Dash!
+Dialogue: 0,0:10:14.45,0:10:16.15,Twilight,,0,0,0,,What's going on now?!
+Dialogue: 0,0:10:19.96,0:10:21.07,FlutterShy,,0,0,0,,Please!
+Dialogue: 0,0:10:21.07,0:10:23.00,FlutterShy,,0,0,0,,Just leave me alone!
+Dialogue: 0,0:10:23.95,0:10:24.63,Somepony,,0,0,0,,Am I right?
+Dialogue: 0,0:10:24.63,0:10:26.46,Twilight,,0,0,0,,Fluttershy, what's wrong?!
+Dialogue: 0,0:10:26.46,0:10:28.28,GlassesStallion,,0,0,0,,We want answers!
+Dialogue: 0,0:10:28.52,0:10:30.59,SomeponyYellow,,0,0,0,,Yeah, we're entitled to know!
+Dialogue: 0,0:10:30.65,0:10:32.36,Twilight,,0,0,0,,What is it, everypony?!
+Dialogue: 0,0:10:32.36,0:10:35.64,SomeponyYellow,,0,0,0,,We wanna know why Fluttershy keeps learning the same thing over and over again.
+Dialogue: 0,0:10:35.64,0:10:37.45,SomeponyYellow,,0,0,0,,Be assertive already!
+Dialogue: 0,0:10:37.45,0:10:39.50,SomeponyPaleYellow,,0,0,0,,Even I've learned more than she has!
+Dialogue: 0,0:10:39.67,0:10:41.65,SomeponyPaleYellow,,0,0,0,,Why can't I be in the book?
+Dialogue: 0,0:10:41.65,0:10:42.04,StarlightGlimmer,,0,0,0,,What?!
+Dialogue: 0,0:10:42.34,0:10:43.30,StarlightGlimmer,,0,0,0,,Really?
+Dialogue: 0,0:10:43.30,0:10:46.98,StarlightGlimmer,,0,0,0,,Are you attacking my friend because you wanna be in a book?!
+Dialogue: 0,0:10:46.98,0:10:48.02,FlutterShy,,0,0,0,,It's okay.
+Dialogue: 0,0:10:48.02,0:10:49.52,FlutterShy,,0,0,0,,I got this, girls.
+Dialogue: 0,0:10:50.52,0:10:51.48,FlutterShy,,0,0,0,,Listen up!
+Dialogue: 0,0:10:51.48,0:10:53.13,FlutterShy,,0,0,0,,I am more assertive!
+Dialogue: 0,0:10:53.13,0:10:55.64,FlutterShy,,0,0,0,,And, yes, it took me a while to get there.
+Dialogue: 0,0:10:55.64,0:11:00.76,FlutterShy,,0,0,0,,But can you honestly say that you can learn something one time and completely change who you are?
+Dialogue: 0,0:11:01.06,0:11:02.98,FlutterShy,,0,0,0,,I didn't think so!
+Dialogue: 0,0:11:02.98,0:11:07.19,GlassesStallion,,0,0,0,,Wow, you're way different from the Fluttershy in the book.
+Dialogue: 0,0:11:08.06,0:11:10.00,GlassesStallion,,0,0,0,,I don't know how I feel about that.
+Dialogue: 0,0:11:15.43,0:11:20.01,Twilight,,0,0,0,,It feels like everypony in Equestria is missing the friendship part of the Friendship Journals!
+Dialogue: 0,0:11:23.91,0:11:26.29,Twilight,,0,0,0,,Rarity, are you alright?!
+Dialogue: 0,0:11:28.42,0:11:29.88,Twilight,,0,0,0,,What are you doing?!
+Dialogue: 0,0:11:30.10,0:11:32.02,Rarity,,0,0,0,,I'm creating a gown, darling!
+Dialogue: 0,0:11:33.10,0:11:34.16,Twilight,,0,0,0,,For what?
+Dialogue: 0,0:11:34.30,0:11:35.00,Rarity,,0,0,0,,I don't know!
+Dialogue: 0,0:11:35.02,0:11:36.24,Rarity,,0,0,0,,I'm stress-sewing!
+Dialogue: 0,0:11:37.74,0:11:38.90,Twilight,,0,0,0,,Stress-sewing?
+Dialogue: 0,0:11:39.04,0:11:44.74,Rarity,,0,0,0,,When I overheard those two at the cafe, I suddenly understood why I've been getting cancellations for days!
+Dialogue: 0,0:11:44.79,0:11:48.26,StarlightGlimmer,,0,0,0,,What? Why are ponies canceling their orders?!
+Dialogue: 0,0:11:48.40,0:11:51.06,Rarity,,0,0,0,,Because nopony likes me anymore!
+Dialogue: 0,0:11:51.06,0:11:52.82,Rarity,,0,0,0,,They're boycotting me!
+Dialogue: 0,0:11:59.81,0:12:04.51,Twilight,,0,0,0,,I'm sure if I go out there and talk to those ponies, they'll see that they're being unreasonable.
+Dialogue: 0,0:12:05.44,0:12:08.13,AppleJack,,0,0,0,,I need a hundred blankets and I need 'em now!
+Dialogue: 0,0:12:08.13,0:12:09.73,AppleJack,,0,0,0,,Sorry, Twilight.
+Dialogue: 0,0:12:10.63,0:12:13.33,Rarity,,0,0,0,,Right away, pony who still likes me!
+Dialogue: 0,0:12:13.75,0:12:15.72,AppleJack,,0,0,0,,I don't need nothing fancy.
+Dialogue: 0,0:12:16.50,0:12:18.63,Twilight,,0,0,0,,What's the matter, Applejack?
+Dialogue: 0,0:12:18.64,0:12:20.23,AppleJack,,0,0,0,,I'm popular, Twilight.
+Dialogue: 0,0:12:20.23,0:12:23.11,AppleJack,,0,0,0,,I'm popular and I don't like it one bit!
+Dialogue: 0,0:12:25.04,0:12:27.87,StarlightGlimmer,,0,0,0,,You go ahead, I'll stay here.
+Dialogue: 0,0:12:55.53,0:12:58.48,Twilight,,0,0,0,,Applejack, who are all these ponies?
+Dialogue: 0,0:12:58.48,0:13:01.27,AppleJack,,0,0,0,,They call themselves the Sweet Apple Admirers.
+Dialogue: 0,0:13:01.29,0:13:03.15,AppleJack,,0,0,0,,They say they read my journal entries
+Dialogue: 0,0:13:03.15,0:13:05.16,AppleJack,,0,0,0,,and they felt like a part of the family.
+Dialogue: 0,0:13:05.16,0:13:08.48,AppleJack,,0,0,0,,And now they actually wanna become a part of the family!
+Dialogue: 0,0:13:10.58,0:13:12.30,Twilight,,0,0,0,,Your journal entries?
+Dialogue: 0,0:13:12.91,0:13:14.37,AppleJack,,0,0,0,,Yeah, you know, all the stuff about
+Dialogue: 0,0:13:14.37,0:13:16.72,AppleJack,,0,0,0,,how friends are like family and whatnot.
+Dialogue: 0,0:13:16.72,0:13:17.94,Twilight,,0,0,0,,Can't you get rid of them?
+Dialogue: 0,0:13:17.94,0:13:20.28,AppleJack,,0,0,0,,And kick out my own family?
+Dialogue: 0,0:13:21.33,0:13:24.18,AppleJack,,0,0,0,,Granny Smith, hang on, let me help!
+Dialogue: 0,0:13:25.62,0:13:27.19,SomeponyLightPink,,0,0,0,,There she is!
+Dialogue: 0,0:13:32.54,0:13:35.67,Twilight,,0,0,0,,I wish we'd never released that journal.
+Dialogue: 0,0:13:42.04,0:13:43.60,StarlightGlimmer,,0,0,0,,There you are. Okay.
+Dialogue: 0,0:13:43.60,0:13:46.89,StarlightGlimmer,,0,0,0,,I just left Rarity, I think she's doing better…
+Dialogue: 0,0:13:46.93,0:13:49.81,StarlightGlimmer,,0,0,0,,Oh boy. Window-staring, huh?
+Dialogue: 0,0:13:49.88,0:13:52.34,StarlightGlimmer,,0,0,0,,Was it that bad at Sweet Apple Acres?
+Dialogue: 0,0:13:52.34,0:13:53.67,Twilight,,0,0,0,,It's bad everywhere!
+Dialogue: 0,0:13:53.67,0:13:55.18,Twilight,,0,0,0,,I thought I was doing something good,
+Dialogue: 0,0:13:55.18,0:13:56.64,Twilight,,0,0,0,,I thought I was helping!
+Dialogue: 0,0:13:56.64,0:13:59.14,Twilight,,0,0,0,,How could our friendship journals have led to so much…
+Dialogue: 0,0:13:59.14,0:14:00.78,Twilight,,0,0,0,,anti-friendship?
+Dialogue: 0,0:14:00.78,0:14:03.19,StarlightGlimmer,,0,0,0,,Oh, Twilight, it's not your fault.
+Dialogue: 0,0:14:03.28,0:14:04.76,Twilight,,0,0,0,,Of course it's my fault.
+Dialogue: 0,0:14:04.80,0:14:07.10,Twilight,,0,0,0,,If I hadn't had that big idea to make copies,
+Dialogue: 0,0:14:07.10,0:14:08.36,Twilight,,0,0,0,,none of this would be happening!
+Dialogue: 0,0:14:08.58,0:14:11.54,Twilight,,0,0,0,,I'm afraid I made life awful for my friends!
+Dialogue: 0,0:14:11.62,0:14:14.18,StarlightGlimmer,,0,0,0,,I really think you're being too hard on yourself.
+Dialogue: 0,0:14:14.38,0:14:15.36,Twilight,,0,0,0,,Am I?
+Dialogue: 0,0:14:28.28,0:14:29.80,AppleJack,,0,0,0,,I didn't know where else to go.
+Dialogue: 0,0:14:30.08,0:14:32.96,AppleJack,,0,0,0,,I've got so much cooking and cleaning and family-ing to do.
+Dialogue: 0,0:14:32.96,0:14:35.20,AppleJack,,0,0,0,,I ain't got time for anything else!
+Dialogue: 0,0:14:35.80,0:14:38.48,PinkiePie,,0,0,0,,At least ponies aren't laughing every time you talk.
+Dialogue: 0,0:14:38.72,0:14:41.14,PinkiePie,,0,0,0,,Not even I want to be funny all the time!
+Dialogue: 0,0:14:41.38,0:14:46.40,PinkiePie,,0,0,0,,I'm telling you: my days of hilariousityness-ness are over!
+Dialogue: 0,0:14:46.88,0:14:48.92,RainbowDash,,0,0,0,,You think you've got problems?
+Dialogue: 0,0:14:49.02,0:14:50.72,RainbowDash,,0,0,0,,I know I'm awesome, but…
+Dialogue: 0,0:14:50.90,0:14:52.84,RainbowDash,,0,0,0,,I can't even go to the bathroom without
+Dialogue: 0,0:14:52.84,0:14:55.72,RainbowDash,,0,0,0,,somepony trying to tell me how cool I am.
+Dialogue: 0,0:14:56.90,0:14:57.82,RainbowDash,,0,0,0,,Rarity?
+Dialogue: 0,0:14:57.92,0:14:59.12,RainbowDash,,0,0,0,,What are you wearing?
+Dialogue: 0,0:14:59.36,0:15:00.62,Rarity,,0,0,0,,My emotions, darling!
+Dialogue: 0,0:15:00.62,0:15:02.06,Rarity,,0,0,0,,Stress-couture!
+Dialogue: 0,0:15:02.62,0:15:04.24,FlutterShy,,0,0,0,,I don't know what I'm gonna do
+Dialogue: 0,0:15:04.38,0:15:07.38,FlutterShy,,0,0,0,,if I have to defend myself one more time!
+Dialogue: 0,0:15:10.90,0:15:11.67,Rarity,,0,0,0,,Sorry, darling.
+Dialogue: 0,0:15:11.78,0:15:12.70,Rarity,,0,0,0,,Force of habit.
+Dialogue: 0,0:15:20.38,0:15:24.42,StarlightGlimmer,,0,0,0,,Okay, so, maybe they are having a hard time with it.
+Dialogue: 0,0:15:24.42,0:15:26.30,StarlightGlimmer,,0,0,0,,That doesn't mean you did anything wrong!
+Dialogue: 0,0:15:26.46,0:15:27.46,Twilight,,0,0,0,,Yes I did!
+Dialogue: 0,0:15:27.54,0:15:29.82,Twilight,,0,0,0,,Releasing the journal was my idea
+Dialogue: 0,0:15:30.02,0:15:32.80,Twilight,,0,0,0,,and it backfired in ways I could never have imagined.
+Dialogue: 0,0:15:33.20,0:15:36.20,StarlightGlimmer,,0,0,0,,It's not your fault, it's everypony else's!
+Dialogue: 0,0:15:36.20,0:15:38.74,StarlightGlimmer,,0,0,0,,You're just focusing on the wrong things and…
+Dialogue: 0,0:15:39.74,0:15:41.30,StarlightGlimmer,,0,0,0,,Wait here. I've got an idea.
+Dialogue: 0,0:15:42.72,0:15:46.08,Twilight,,0,0,0,,I can't wait any longer. I've got to fix this.
+Dialogue: 0,0:15:50.40,0:15:52.36,Twilight,,0,0,0,,Everypony, please, stop!
+Dialogue: 0,0:15:55.12,0:15:55.96,SomeponyPaleYellow,,0,0,0,,Princess Twilight?
+Dialogue: 0,0:15:56.04,0:15:57.24,SomeponyPaleYellow,,0,0,0,,I'm with "The Canterlot Chronicle".
+Dialogue: 0,0:15:57.24,0:15:59.12,SomeponyPaleYellow,,0,0,0,,Quick question: what would you say to ponies
+Dialogue: 0,0:15:59.12,0:16:01.46,SomeponyPaleYellow,,0,0,0,,who wonder why did you move to Ponyville in the first place?
+Dialogue: 0,0:16:01.76,0:16:03.74,Twilight,,0,0,0,,I moved here to learn about friendship.
+Dialogue: 0,0:16:03.90,0:16:05.94,Twilight,,0,0,0,,That's why the journal even exists.
+Dialogue: 0,0:16:07.50,0:16:09.74,Twilight,,0,0,0,,It took some time for me to get a hang of it.
+Dialogue: 0,0:16:10.02,0:16:12.48,Twilight,,0,0,0,,But it was each of this ponies standing next to me
+Dialogue: 0,0:16:12.48,0:16:14.68,Twilight,,0,0,0,,who taught me the lessons in those journals.
+Dialogue: 0,0:16:14.96,0:16:20.58,Twilight,,0,0,0,,Applejack, Pinkie Pie, Rainbow Dash, Rarity and Fluttershy too.
+Dialogue: 0,0:16:20.92,0:16:22.55,Twilight,,0,0,0,,Then it was all of you.
+Dialogue: 0,0:16:22.76,0:16:24.18,Twilight,,0,0,0,,I've learned so much from…
+Dialogue: 0,0:16:24.18,0:16:26.56,SomeponyPaleYellow,,0,0,0,,What I mean is: some ponies would argue
+Dialogue: 0,0:16:26.56,0:16:29.62,SomeponyPaleYellow,,0,0,0,,that it doesn't seem believable that the six of you would be friends.
+Dialogue: 0,0:16:29.82,0:16:31.14,Twilight,,0,0,0,,Believable?
+Dialogue: 0,0:16:31.26,0:16:32.16,SomeponyPaleYellow,,0,0,0,,Well sure.
+Dialogue: 0,0:16:32.16,0:16:33.66,SomeponyPaleYellow,,0,0,0,,I read this journal cover to cover,
+Dialogue: 0,0:16:33.66,0:16:36.24,SomeponyPaleYellow,,0,0,0,,and I'll have to say your character would be much more interesting
+Dialogue: 0,0:16:36.44,0:16:38.24,SomeponyPaleYellow,,0,0,0,,if she'd stayed in Canterlot!
+Dialogue: 0,0:16:38.40,0:16:39.70,Twilight,,0,0,0,,My character?
+Dialogue: 0,0:16:39.88,0:16:41.40,Twilight,,0,0,0,,We are real ponies!
+Dialogue: 0,0:16:41.48,0:16:44.90,Twilight,,0,0,0,,This journal is the record of the things that actually happened to us!
+Dialogue: 0,0:16:45.10,0:16:46.29,Twilight,,0,0,0,,We made mistakes.
+Dialogue: 0,0:16:46.35,0:16:47.56,Twilight,,0,0,0,,And we learned from them.
+Dialogue: 0,0:16:47.86,0:16:49.11,HoityToity,,0,0,0,,What about Rarity?
+Dialogue: 0,0:16:49.26,0:16:52.46,HoityToity,,0,0,0,,Are we really supposed to be believe she learned anything she wrote in there?
+Dialogue: 0,0:16:52.56,0:16:54.88,SomeponyPaleYellow,,0,0,0,,That's why you ought to be team Dash!
+Dialogue: 0,0:16:54.88,0:16:57.28,SomeponyPaleYellow,,0,0,0,,She's the only one who didn't really need to learn anything
+Dialogue: 0,0:16:57.36,0:16:59.46,SomeponyPaleYellow,,0,0,0,,because she was already so cool!
+Dialogue: 0,0:16:59.72,0:17:02.38,SomeponyBluishWhite,,0,0,0,,Twilight was better before she got wings!
+Dialogue: 0,0:17:02.70,0:17:05.03,SomeponyYellow,,0,0,0,,Fluttershy is just so painfully shy.
+Dialogue: 0,0:17:05.03,0:17:07.30,SomeponyYellow,,0,0,0,,It's hard to relate I mean c'mon.
+Dialogue: 0,0:17:11.30,0:17:12.62,Twilight,,0,0,0,,Wait a minute everypony.
+Dialogue: 0,0:17:12.96,0:17:16.34,SomeponyOrange,,0,0,0,,Are Pinkie Pie and Applejack related or what!
+Dialogue: 0,0:17:22.56,0:17:23.66,Twilight,,0,0,0,,Listen to me!
+Dialogue: 0,0:17:23.90,0:17:25.96,Twilight,,0,0,0,,Listen to me!
+Dialogue: 0,0:17:28.26,0:17:30.40,Twilight,,0,0,0,,I never claimed to be perfect.
+Dialogue: 0,0:17:30.40,0:17:32.66,Twilight,,0,0,0,,My mistakes are all written in ink.
+Dialogue: 0,0:17:33.30,0:17:35.68,Twilight,,0,0,0,,None of us claimed to be perfect,
+Dialogue: 0,0:17:35.68,0:17:38.18,Twilight,,0,0,0,,And it's sad if that's what you all think.
+Dialogue: 0,0:17:38.38,0:17:40.66,Twilight,,0,0,0,,Our flaws helped to make us special,
+Dialogue: 0,0:17:41.04,0:17:43.58,Twilight,,0,0,0,,They bond us and keep us strong.
+Dialogue: 0,0:17:43.74,0:17:46.02,Twilight,,0,0,0,,Our flaws are what brought us together,
+Dialogue: 0,0:17:46.16,0:17:49.34,Twilight,,0,0,0,,So stop acting like something's wrong!
+Dialogue: 0,0:17:49.34,0:17:52.10,Somepony,,0,0,0,,We're not flawless,
+Dialogue: 0,0:17:52.34,0:17:54.00,Somepony,,0,0,0,,We're a work in progress,
+Dialogue: 0,0:17:54.00,0:17:55.04,Somepony,,0,0,0,,We've got dents
+Dialogue: 0,0:17:55.04,0:17:56.54,Somepony,,0,0,0,,And we've got quirks,
+Dialogue: 0,0:17:56.54,0:17:57.78,Somepony,,0,0,0,,But it's our flaws
+Dialogue: 0,0:17:57.78,0:17:59.34,Somepony,,0,0,0,,That make us work.
+Dialogue: 0,0:17:59.34,0:18:00.00,Somepony,,0,0,0,,Yeah!
+Dialogue: 0,0:18:00.00,0:18:02.78,Somepony,,0,0,0,,We're not flawless
+Dialogue: 0,0:18:02.98,0:18:04.64,Somepony,,0,0,0,,We're a work in progress,
+Dialogue: 0,0:18:04.64,0:18:07.18,Somepony,,0,0,0,,So tell me what flaws you've got, too,
+Dialogue: 0,0:18:07.76,0:18:11.08,Somepony,,0,0,0,,'Cause I still like what's flawed about you.
+Dialogue: 0,0:18:11.08,0:18:13.02,RainbowDash,,0,0,0,,They say I'm a big shot,
+Dialogue: 0,0:18:13.02,0:18:15.48,RainbowDash,,0,0,0,,That my ego's the size of a whale,
+Dialogue: 0,0:18:15.74,0:18:18.22,RainbowDash,,0,0,0,,My confidence comes off as cocky,
+Dialogue: 0,0:18:18.34,0:18:20.74,RainbowDash,,0,0,0,,But it gives me the courage to fail.
+Dialogue: 0,0:18:20.90,0:18:23.96,Rarity,,0,0,0,,Sure I can be your drama queen
+Dialogue: 0,0:18:23.96,0:18:25.92,Rarity,,0,0,0,,A bit stuck-up, it's true.
+Dialogue: 0,0:18:26.34,0:18:29.24,AppleJack,,0,0,0,,And I can be too eager to please,
+Dialogue: 0,0:18:29.24,0:18:31.68,AppleJack,,0,0,0,,There's such thing as being too honest, too,
+Dialogue: 0,0:18:31.68,0:18:32.02,AppleJack,,0,0,0,,Cause…
+Dialogue: 0,0:18:32.02,0:18:34.72,Somepony,,0,0,0,,We're not flawless,
+Dialogue: 0,0:18:34.96,0:18:36.68,Somepony,,0,0,0,,We're a work in progress,
+Dialogue: 0,0:18:36.68,0:18:37.80,Somepony,,0,0,0,,We've got dents
+Dialogue: 0,0:18:37.80,0:18:39.20,Somepony,,0,0,0,,And we've got quirks,
+Dialogue: 0,0:18:39.20,0:18:40.30,Somepony,,0,0,0,,But it's our flaws
+Dialogue: 0,0:18:40.34,0:18:41.86,Somepony,,0,0,0,,That make us work.
+Dialogue: 0,0:18:42.00,0:18:42.72,Somepony,,0,0,0,,Yeah!
+Dialogue: 0,0:18:42.72,0:18:45.42,Somepony,,0,0,0,,We're not flawless
+Dialogue: 0,0:18:45.74,0:18:47.24,Somepony,,0,0,0,,We're a work in progress,
+Dialogue: 0,0:18:47.24,0:18:49.90,Somepony,,0,0,0,,So tell me what flaws you got, too,
+Dialogue: 0,0:18:50.52,0:18:53.18,Somepony,,0,0,0,,'Cause i still like was what about you.
+Dialogue: 0,0:18:53.62,0:18:56.34,PinkiePie,,0,0,0,,Ponies think I'm all bubbles and laughter,
+Dialogue: 0,0:18:56.34,0:18:58.12,PinkiePie,,0,0,0,,That I don't seem sincere.
+Dialogue: 0,0:18:58.22,0:19:00.68,PinkiePie,,0,0,0,,I might joke around a little too much,
+Dialogue: 0,0:19:00.68,0:19:03.36,PinkiePie,,0,0,0,,But I'm just so happy you're here.
+Dialogue: 0,0:19:03.80,0:19:06.30,FlutterShy,,0,0,0,,It took me a while to be confident,
+Dialogue: 0,0:19:06.44,0:19:08.48,FlutterShy,,0,0,0,,To really come out from my shell.
+Dialogue: 0,0:19:09.10,0:19:11.64,Twilight,,0,0,0,,But nopony has to be perfect,
+Dialogue: 0,0:19:11.70,0:19:13.74,Twilight,,0,0,0,,By now don't you know us so well,
+Dialogue: 0,0:19:13.82,0:19:14.78,Twilight,,0,0,0,,Because yeah…
+Dialogue: 0,0:19:14.78,0:19:17.50,Somepony,,0,0,0,,We're not flawless,
+Dialogue: 0,0:19:17.68,0:19:19.42,Somepony,,0,0,0,,We're a work in progress,
+Dialogue: 0,0:19:19.42,0:19:20.40,Somepony,,0,0,0,,We've got dents
+Dialogue: 0,0:19:20.40,0:19:21.84,Somepony,,0,0,0,,And we've got quirks,
+Dialogue: 0,0:19:21.84,0:19:23.10,Somepony,,0,0,0,,But it's our flaws
+Dialogue: 0,0:19:23.10,0:19:24.54,Somepony,,0,0,0,,That make us work.
+Dialogue: 0,0:19:24.72,0:19:25.30,Somepony,,0,0,0,,Yeah!
+Dialogue: 0,0:19:25.34,0:19:28.34,Somepony,,0,0,0,,We're not flawless,
+Dialogue: 0,0:19:28.34,0:19:29.96,Somepony,,0,0,0,,We're a work in progress,
+Dialogue: 0,0:19:29.96,0:19:32.48,Somepony,,0,0,0,,So tell me what flaws you got, too,
+Dialogue: 0,0:19:32.48,0:19:33.28,PinkiePie,,0,0,0,,…you got, too.
+Dialogue: 0,0:19:33.28,0:19:36.42,Somepony,,0,0,0,,'Cause I still like what's flawed about you.
+Dialogue: 0,0:19:43.12,0:19:44.64,Twilight,,0,0,0,,So you see everypony?
+Dialogue: 0,0:19:44.78,0:19:46.92,Twilight,,0,0,0,,None of us ever claimed to be perfect.
+Dialogue: 0,0:19:47.10,0:19:50.38,Twilight,,0,0,0,,Without our flaws there wouldn't be any friendship lessons to learn.
+Dialogue: 0,0:19:51.02,0:19:52.36,Twilight,,0,0,0,,Without our flaws…
+Dialogue: 0,0:19:52.56,0:19:55.14,Twilight,,0,0,0,,there probably wouldn't be any friendships at all.
+Dialogue: 0,0:20:07.06,0:20:09.34,RainbowDash,,0,0,0,,So, that just happened.
+Dialogue: 0,0:20:09.34,0:20:13.44,StarlightGlimmer,,0,0,0,,Girls, I found two ponies who have something, I think, you should hear.
+Dialogue: 0,0:20:14.70,0:20:16.75,ToolaRoola,,0,0,0,,We just wanna to say thank you.
+Dialogue: 0,0:20:16.88,0:20:18.10,ToolaRoola,,0,0,0,,To all of you!
+Dialogue: 0,0:20:18.60,0:20:21.12,CoconutCream,,0,0,0,,Yeah. Our friendship… Well…
+Dialogue: 0,0:20:21.20,0:20:23.62,CoconutCream,,0,0,0,,we were having trouble until you write your journal.
+Dialogue: 0,0:20:23.62,0:20:26.90,CoconutCream,,0,0,0,,It showed us that friends can go through all sorts of tough times
+Dialogue: 0,0:20:26.90,0:20:29.06,CoconutCream,,0,0,0,,and come through stronger than before.
+Dialogue: 0,0:20:29.20,0:20:31.70,ToolaRoola,,0,0,0,,It's made us better friends than we've ever been.
+Dialogue: 0,0:20:32.14,0:20:33.10,Twilight,,0,0,0,,Really?
+Dialogue: 0,0:20:36.16,0:20:38.96,Twilight,,0,0,0,,I can't tell you how much it means to hear that.
+Dialogue: 0,0:20:39.34,0:20:40.82,Twilight,,0,0,0,,Thank you for telling us.
+Dialogue: 0,0:20:41.02,0:20:42.70,Twilight,,0,0,0,,We've had a tough couple of days.
+Dialogue: 0,0:20:42.70,0:20:44.90,Twilight,,0,0,0,,But knowing we've helped fillies like you…
+Dialogue: 0,0:20:45.18,0:20:47.86,AppleJack,,0,0,0,,It makes everything we'd been through worth it.
+Dialogue: 0,0:20:48.06,0:20:49.34,Rarity,,0,0,0,,Absolutely!
+Dialogue: 0,0:20:49.34,0:20:52.58,Rarity,,0,0,0,,Fans come and go, friendship is forever.
+Dialogue: 0,0:20:52.72,0:20:56.22,RainbowDash,,0,0,0,,There are worse things than not being able to do anything
+Dialogue: 0,0:20:56.22,0:20:57.82,RainbowDash,,0,0,0,,without being told I'm awesome.
+Dialogue: 0,0:20:58.20,0:21:01.02,FlutterShy,,0,0,0,,And we can't change the way other ponies think about us,
+Dialogue: 0,0:21:01.30,0:21:03.74,FlutterShy,,0,0,0,,but we can change how we let it affect us.
+Dialogue: 0,0:21:03.90,0:21:06.28,PinkiePie,,0,0,0,,Or how we don't let it affect us!
+Dialogue: 0,0:21:08.60,0:21:10.50,PinkiePie,,0,0,0,,Go ahead: laugh!
+Dialogue: 0,0:21:20.74,0:21:23.52,AppleJack,,0,0,0,,Reckon we still have to deal with them, don't we?
+Dialogue: 0,0:21:27.84,0:21:29.92,Twilight,,0,0,0,,Stay in the friendship moment, Applejack,
+Dialogue: 0,0:21:30.04,0:21:31.74,Twilight,,0,0,0,,They can wait a little longer.
+Dialogue: 0,0:21:34.08,0:21:36.98,Default,,0,0,0,,SCHASTLIVY PONEC
+Dialogue: 0,0:21:36.98,0:21:43.18,Default,,0,0,0,,anon2anon\Nsunnysubs.com

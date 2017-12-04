@@ -1,0 +1,403 @@
+﻿[Script Info]
+PlayResX: 1920
+PlayResY: 1080
+ScaledBorderAndShadow: yes
+ScriptType: v4.00+
+WrapStyle: 0
+YCbCr Matrix: TV.601
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: AppleBloom,Arial,68,&H00C0FAF4,&H000000FF,&H006F00FF,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: AppleJack,Arial,68,&H00FFFFFF,&H000000FF,&H00005AFF,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: BigMac,Arial,68,&H00C2E1FF,&H00001FFF,&H000000DE,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: BrightMac,Arial,68,&H0099E4EC,&H000000FF,&H003441E2,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: BurntOak,Arial,68,&H00A1ABB5,&H000000FF,&H00545A61,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Buttercup,Arial,68,&H00B5DEF7,&H000000FF,&H000F6BB2,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Default,Arial,68,&H00FFFFFF,&H000000FF,&H007D7E80,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: GoldieDelicious,Arial,68,&H00E3ECF0,&H000000FF,&H002B90C4,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: GrandPear,Arial,68,&H0067CBED,&H000000FF,&H00265787,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: GrannySmith,Arial,68,&H00FFFFFF,&H000000FF,&H0000A37B,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Mayor,Arial,68,&H0073AEC2,&H000000FF,&H002C2C2C,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: MrsCake,Arial,68,&H00F2E195,&H000000FF,&H00885DDC,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Somepony,Arial,68,&H00FFFFFF,&H000000FF,&H007D7E80,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:17.40,0:00:18.20,AppleBloom,,0,0,0,,Thank you!
+Dialogue: 0,0:00:18.32,0:00:19.40,AppleBloom,,0,0,0,,You must be new.
+Dialogue: 0,0:00:19.64,0:00:20.44,AppleBloom,,0,0,0,,I'm Apple Bloom.
+Dialogue: 0,0:00:20.78,0:00:22.76,GrandPear,,0,0,0,,I'm Grand Pear.
+Dialogue: 0,0:00:23.14,0:00:24.56,AppleBloom,,0,0,0,,Welcome to Ponyville!
+Dialogue: 0,0:00:24.76,0:00:27.00,Somepony,,0,0,0,,You mean welcome back to Ponyville.
+Dialogue: 0,0:00:27.06,0:00:32.44,Somepony,,0,0,0,,Grand Pear was originally from here, before he opened his famous pear jam store in Vanhoover.
+Dialogue: 0,0:00:32.64,0:00:33.38,AppleBloom,,0,0,0,,Really?
+Dialogue: 0,0:00:33.38,0:00:34.58,AppleBloom,,0,0,0,,Why did you move back?
+Dialogue: 0,0:00:34.66,0:00:39.34,GrandPear,,0,0,0,,I… well, I needed a change of pace.
+Dialogue: 0,0:00:41.82,0:00:43.24,AppleBloom,,0,0,0,,This is delicious!
+Dialogue: 0,0:00:44.90,0:00:48.08,AppleBloom,,0,0,0,,I can't believe I've gone my whole life without ever having this.
+Dialogue: 0,0:00:48.08,0:00:49.46,GrandPear,,0,0,0,,Glad you liked it.
+Dialogue: 0,0:00:49.66,0:00:50.72,AppleBloom,,0,0,0,,How much?
+Dialogue: 0,0:00:51.34,0:00:52.26,GrandPear,,0,0,0,,Nah.
+Dialogue: 0,0:00:52.74,0:00:55.32,AppleBloom,,0,0,0,,Wow, thanks mister Grand Pear, sir.
+Dialogue: 0,0:00:56.12,0:00:57.78,AppleBloom,,0,0,0,,It was really nice meetin' you!
+Dialogue: 0,0:01:06.00,0:01:07.40,AppleJack,,0,0,0,,Glad you're back, sugarcube.
+Dialogue: 0,0:01:07.56,0:01:09.54,AppleJack,,0,0,0,,Just in time for breakfast for dinner.
+Dialogue: 0,0:01:10.40,0:01:14.26,AppleBloom,,0,0,0,,I got a perfect topper for flapjacks at the market today.
+Dialogue: 0,0:01:15.94,0:01:17.46,AppleJack,,0,0,0,,Pear jam?!
+Dialogue: 0,0:01:17.74,0:01:19.30,AppleJack,,0,0,0,,What were you thinking?!
+Dialogue: 0,0:01:21.72,0:01:23.28,AppleJack,,0,0,0,,Quick, hide it!
+Dialogue: 0,0:02:08.20,0:02:09.52,AppleBloom,,0,0,0,,What's the big deal?
+Dialogue: 0,0:02:09.74,0:02:11.54,AppleBloom,,0,0,0,,It's just pear jam.
+Dialogue: 0,0:02:11.54,0:02:16.36,AppleJack,,0,0,0,,The big deal is that there is a long-standing feud between the Apples and the Pears!
+Dialogue: 0,0:02:16.78,0:02:17.64,BigMac,,0,0,0,,Eeyup!
+Dialogue: 0,0:02:18.38,0:02:19.24,AppleBloom,,0,0,0,,Why?
+Dialogue: 0,0:02:19.50,0:02:20.58,AppleJack,,0,0,0,,Why?!
+Dialogue: 0,0:02:20.92,0:02:24.10,AppleJack,,0,0,0,,Well, uh, a-actually, I-I'm not really sure.
+Dialogue: 0,0:02:24.10,0:02:25.82,AppleJack,,0,0,0,,You have any idea, Big Mac?
+Dialogue: 0,0:02:27.30,0:02:27.92,BigMac,,0,0,0,,Nope.
+Dialogue: 0,0:02:28.46,0:02:30.28,AppleBloom,,0,0,0,,Then I guess we should ask granny?
+Dialogue: 0,0:02:30.28,0:02:31.58,GrannySmith,,0,0,0,,Ask me what?
+Dialogue: 0,0:02:33.98,0:02:36.10,AppleJack,,0,0,0,,What goes better with Apple fritter flapjacks?
+Dialogue: 0,0:02:36.18,0:02:37.94,AppleJack,,0,0,0,,Caramel syrup or praline?
+Dialogue: 0,0:02:38.40,0:02:39.60,GrannySmith,,0,0,0,,Praline.
+Dialogue: 0,0:02:41.82,0:02:44.00,GrannySmith,,0,0,0,,That smells great, Applejack.
+Dialogue: 0,0:02:44.00,0:02:46.00,GrannySmith,,0,0,0,,I'm gonna wash up for supper.
+Dialogue: 0,0:02:46.24,0:02:47.64,GrannySmith,,0,0,0,,Be right back!
+Dialogue: 0,0:02:49.60,0:02:50.62,AppleJack,,0,0,0,,Listen, sugarcube.
+Dialogue: 0,0:02:50.62,0:02:53.82,AppleJack,,0,0,0,,Any time Big Mac and I ever ask Granny about the feud,
+Dialogue: 0,0:02:53.82,0:02:57.08,AppleJack,,0,0,0,,or the Pears, she'd get so upset she couldn't talk!
+Dialogue: 0,0:02:57.26,0:02:58.72,AppleJack,,0,0,0,,Best not bring it up.
+Dialogue: 0,0:03:00.18,0:03:03.66,AppleBloom,,0,0,0,,Okay, but, that Grand Pear was really nice to me,
+Dialogue: 0,0:03:03.72,0:03:05.02,AppleBloom,,0,0,0,,even though I'm an Apple.
+Dialogue: 0,0:03:05.02,0:03:06.84,AppleBloom,,0,0,0,,I wonder what happened.
+Dialogue: 0,0:03:06.88,0:03:07.66,AppleJack,,0,0,0,,Me too.
+Dialogue: 0,0:03:08.00,0:03:10.80,AppleJack,,0,0,0,,But, if we can't ask Granny, I don't know who…
+Dialogue: 0,0:03:11.36,0:03:13.02,AppleJack,,0,0,0,,We can ask Goldie Delicious!
+Dialogue: 0,0:03:13.32,0:03:16.64,AppleJack,,0,0,0,,If any pony knows about the feud, it's the family historian.
+Dialogue: 0,0:03:17.16,0:03:17.82,AppleBloom,,0,0,0,,I'm in.
+Dialogue: 0,0:03:17.98,0:03:19.22,AppleBloom,,0,0,0,,What do you say, Big Mac?
+Dialogue: 0,0:03:19.34,0:03:21.10,AppleBloom,,0,0,0,,Sibling trip first thing tomorrow?
+Dialogue: 0,0:03:21.60,0:03:22.58,BigMac,,0,0,0,,Eeyup.
+Dialogue: 0,0:03:36.94,0:03:39.62,GoldieDelicious,,0,0,0,,Now, that's how you make an entrance!
+Dialogue: 0,0:03:39.68,0:03:41.04,GoldieDelicious,,0,0,0,,Or is it an exit?
+Dialogue: 0,0:03:41.86,0:03:44.54,GoldieDelicious,,0,0,0,,Well, anyway, it's wonderful to see you three.
+Dialogue: 0,0:03:44.54,0:03:46.84,GoldieDelicious,,0,0,0,,To what do I owe the pleasure?
+Dialogue: 0,0:03:47.44,0:03:50.78,AppleJack,,0,0,0,,Well, Goldie, we were hoping you could tell us about the…
+Dialogue: 0,0:03:51.22,0:03:53.46,AppleJack,,0,0,0,,feud. With the Apples and the Pears.
+Dialogue: 0,0:03:54.98,0:03:55.82,GoldieDelicious,,0,0,0,,Oh dear.
+Dialogue: 0,0:03:56.08,0:03:58.04,GoldieDelicious,,0,0,0,,Well, does Granny Smith know you are here?
+Dialogue: 0,0:03:58.54,0:03:59.38,AppleBloom,,0,0,0,,No, ma'am.
+Dialogue: 0,0:03:59.52,0:04:03.18,AppleBloom,,0,0,0,,But, I run into Grand Pear yesterday, and he was really nice.
+Dialogue: 0,0:04:03.37,0:04:05.72,AppleBloom,,0,0,0,,Maybe the feud was a misunderstandin' or somethin',
+Dialogue: 0,0:04:05.72,0:04:06.99,AppleBloom,,0,0,0,,and we can fix it?
+Dialogue: 0,0:04:08.01,0:04:10.87,GoldieDelicious,,0,0,0,,Well, I don't know about that, little one,
+Dialogue: 0,0:04:10.87,0:04:14.88,GoldieDelicious,,0,0,0,,but if it's a story you're after, I suppose you have a right to know.
+Dialogue: 0,0:04:15.13,0:04:17.62,GoldieDelicious,,0,0,0,,Let's see… I got a stack of books here someplace…
+Dialogue: 0,0:04:18.70,0:04:21.30,GoldieDelicious,,0,0,0,,"Apple family history volume
+Dialogue: 0,0:04:22.51,0:04:24.84,GoldieDelicious,,0,0,0,,Here we are: "Feud with the bears".
+Dialogue: 0,0:04:25.35,0:04:26.36,GoldieDelicious,,0,0,0,,I mean "Pears".
+Dialogue: 0,0:04:26.47,0:04:28.45,GoldieDelicious,,0,0,0,,My eyes ain't what they used to be.
+Dialogue: 0,0:04:29.06,0:04:30.82,GoldieDelicious,,0,0,0,,A long time ago…
+Dialogue: 0,0:04:30.96,0:04:34.42,GoldieDelicious,,0,0,0,,Sweet Apple Acres wasn't the only farm in Ponyville.
+Dialogue: 0,0:04:34.54,0:04:37.77,GoldieDelicious,,0,0,0,,In fact, it was another one just right next door.
+Dialogue: 0,0:04:39.82,0:04:41.22,GrannySmith,,0,0,0,,Come and get your apples!
+Dialogue: 0,0:04:41.40,0:04:45.66,GrannySmith,,0,0,0,,Nothin' sweeter than bitin' into a crisp apple on a beautiful fall day!
+Dialogue: 0,0:04:45.66,0:04:49.10,GrandPear,,0,0,0,,Unless of course you could bite into a juicy pear.
+Dialogue: 0,0:04:50.25,0:04:54.92,GrannySmith,,0,0,0,,Please. Pears are just what happens when you ain't no good at farmin' apples.
+Dialogue: 0,0:04:55.12,0:04:57.49,GrandPear,,0,0,0,,Pears are nature's candy.
+Dialogue: 0,0:04:57.49,0:04:59.60,GrandPear,,0,0,0,,Apples are… sour.
+Dialogue: 0,0:04:59.96,0:05:01.96,GrandPear,,0,0,0,,Like the expression on your face right now.
+Dialogue: 0,0:05:02.68,0:05:04.21,GoldieDelicious,,0,0,0,,And so it went.
+Dialogue: 0,0:05:04.34,0:05:07.26,GoldieDelicious,,0,0,0,,Granny and Grand Pear were always at each other:
+Dialogue: 0,0:05:07.26,0:05:10.62,GoldieDelicious,,0,0,0,,who was the best farmer or who took better care of their trees.
+Dialogue: 0,0:05:10.62,0:05:13.34,GoldieDelicious,,0,0,0,,If Granny read to her trees at night.
+Dialogue: 0,0:05:13.68,0:05:18.16,GrannySmith,,0,0,0,,"And then the little tree reached his branches up to the moon,
+Dialogue: 0,0:05:18.27,0:05:20.90,GrannySmith,,0,0,0,,and the moon said: "Good night".
+Dialogue: 0,0:05:22.51,0:05:26.11,GoldieDelicious,,0,0,0,,Why then, Grand Pear had special blankets made for his trees
+Dialogue: 0,0:05:26.11,0:05:28.14,GoldieDelicious,,0,0,0,,so they wouldn't get cold.
+Dialogue: 0,0:05:28.45,0:05:29.46,GrandPear,,0,0,0,,Good night, trees.
+Dialogue: 0,0:05:30.59,0:05:31.77,GrandPear,,0,0,0,,I've got you covered.
+Dialogue: 0,0:05:41.71,0:05:45.95,GoldieDelicious,,0,0,0,,In fact, all the Apples and the Pears were rivals to the core!
+Dialogue: 0,0:05:49.11,0:05:51.65,GoldieDelicious,,0,0,0,,The only Apple and Pear who ever got along were…
+Dialogue: 0,0:05:51.80,0:05:54.33,GoldieDelicious,,0,0,0,,Bright Macintosh and Pear Butter.
+Dialogue: 0,0:05:57.59,0:05:59.20,BrightMac,,0,0,0,,I'm not supposed to talk to you.
+Dialogue: 0,0:06:00.31,0:06:02.35,Buttercup,,0,0,0,,I'm not supposed to talk to you either.
+Dialogue: 0,0:06:03.02,0:06:07.69,BrightMac,,0,0,0,,My mom says if you hold a buttercup under your chin it'll make your chin glow.
+Dialogue: 0,0:06:07.69,0:06:09.22,BrightMac,,0,0,0,,But it doesn't work on me.
+Dialogue: 0,0:06:09.22,0:06:09.82,BrightMac,,0,0,0,,See?
+Dialogue: 0,0:06:11.54,0:06:13.37,Buttercup,,0,0,0,,Does it work on me?
+Dialogue: 0,0:06:14.89,0:06:16.69,BrightMac,,0,0,0,,It sure does, Buttercup.
+Dialogue: 0,0:06:17.54,0:06:19.87,Buttercup,,0,0,0,,Buttercup? I like that name.
+Dialogue: 0,0:06:21.24,0:06:22.79,AppleJack,,0,0,0,,Wait an apple pickin' minute.
+Dialogue: 0,0:06:23.12,0:06:27.22,AppleJack,,0,0,0,,Bright Mac and Buttercup? Those are our parents' names!
+Dialogue: 0,0:06:27.44,0:06:30.27,GoldieDelicious,,0,0,0,,Of course Buttercup was just the nickname your father gave your mother.
+Dialogue: 0,0:06:30.37,0:06:33.64,GoldieDelicious,,0,0,0,,Pear Butter – well, that was her given name.
+Dialogue: 0,0:06:34.04,0:06:36.94,AppleJack,,0,0,0,,Are you sayin' our mother was a… Pear?!
+Dialogue: 0,0:06:41.48,0:06:44.18,BigMac,,0,0,0,,So, we are half-Pear?
+Dialogue: 0,0:06:44.23,0:06:46.18,AppleJack,,0,0,0,,I can't believe it.
+Dialogue: 0,0:06:46.35,0:06:47.53,AppleJack,,0,0,0,,How did we not know?
+Dialogue: 0,0:06:47.53,0:06:50.93,GoldieDelicious,,0,0,0,,Well… nopony called your mother Pear Butter.
+Dialogue: 0,0:06:51.70,0:06:53.28,GoldieDelicious,,0,0,0,,And her cutie mark was a preserved jar,
+Dialogue: 0,0:06:53.28,0:06:55.13,GoldieDelicious,,0,0,0,,but pear butter don't look too much different from apple butter.
+Dialogue: 0,0:06:55.13,0:06:56.60,GoldieDelicious,,0,0,0,,So, no clues there.
+Dialogue: 0,0:06:57.80,0:07:00.85,AppleJack,,0,0,0,,Is there anything else you can tell us about them?
+Dialogue: 0,0:07:01.48,0:07:04.00,GoldieDelicious,,0,0,0,,I know they loved each other very much.
+Dialogue: 0,0:07:04.03,0:07:10.75,GoldieDelicious,,0,0,0,,They had that magical, star-kissed, other-side-of-a-rainbow kind of love.
+Dialogue: 0,0:07:10.95,0:07:12.78,GoldieDelicious,,0,0,0,,You couldn't be around them too long and…
+Dialogue: 0,0:07:12.88,0:07:15.58,GoldieDelicious,,0,0,0,,and not feel a little bit lighter than air yourself.
+Dialogue: 0,0:07:16.98,0:07:18.03,AppleBloom,,0,0,0,,Anything else?
+Dialogue: 0,0:07:19.55,0:07:22.55,GoldieDelicious,,0,0,0,,I'd need volume one hundred and thirty eight for that.
+Dialogue: 0,0:07:24.60,0:07:25.95,GoldieDelicious,,0,0,0,,I'm sure I could wrangle it.
+Dialogue: 0,0:07:25.95,0:07:27.75,GoldieDelicious,,0,0,0,,In a couple of days.
+Dialogue: 0,0:07:28.78,0:07:30.05,AppleJack,,0,0,0,,That's alright, Goldie
+Dialogue: 0,0:07:30.05,0:07:31.68,AppleJack,,0,0,0,,it was nice just to hear…
+Dialogue: 0,0:07:32.80,0:07:34.33,GoldieDelicious,,0,0,0,,I just remembered something:
+Dialogue: 0,0:07:34.40,0:07:39.35,GoldieDelicious,,0,0,0,,Your dad and his buddy Burnt Oak would get in all kinds of trouble together as colts
+Dialogue: 0,0:07:39.73,0:07:40.78,AppleJack,,0,0,0,,Burnt Oak?
+Dialogue: 0,0:07:41.20,0:07:42.90,AppleJack,,0,0,0,,The firewood sales pony?
+Dialogue: 0,0:07:42.93,0:07:44.65,AppleJack,,0,0,0,,I haven't seen him in ages.
+Dialogue: 0,0:07:44.98,0:07:47.65,GoldieDelicious,,0,0,0,,He and your dad were thick as thieves back in a day.
+Dialogue: 0,0:07:47.65,0:07:49.08,GoldieDelicious,,0,0,0,,You all shoud talk to him.
+Dialogue: 0,0:07:55.65,0:07:57.95,BurntOak,,0,0,0,,Well-well, if it isn't the Apples.
+Dialogue: 0,0:07:58.30,0:07:59.83,BurntOak,,0,0,0,,What can I do for you?
+Dialogue: 0,0:07:59.83,0:08:01.73,BurntOak,,0,0,0,,I know you are not here for firewood,
+Dialogue: 0,0:08:01.73,0:08:04.78,BurntOak,,0,0,0,,You got more trees than anypony in Ponyville.
+Dialogue: 0,0:08:05.28,0:08:07.40,AppleJack,,0,0,0,,You're right, we're not here for that.
+Dialogue: 0,0:08:08.48,0:08:10.43,BurntOak,,0,0,0,,Come to ask about your dad?
+Dialogue: 0,0:08:11.53,0:08:12.33,BigMac,,0,0,0,,Eeyup.
+Dialogue: 0,0:08:13.45,0:08:14.73,BurntOak,,0,0,0,,I wondered if you might.
+Dialogue: 0,0:08:14.98,0:08:15.93,BurntOak,,0,0,0,,Hoped you would.
+Dialogue: 0,0:08:16.05,0:08:17.63,BurntOak,,0,0,0,,It's nice to talk about him.
+Dialogue: 0,0:08:19.45,0:08:22.28,BurntOak,,0,0,0,,We had a lot of laughs, in fact, this one time…
+Dialogue: 0,0:08:22.80,0:08:25.43,BurntOak,,0,0,0,,…we were racing to see who could till the fastest
+Dialogue: 0,0:08:25.48,0:08:27.98,BurntOak,,0,0,0,,and Bright Mac was leaving me in the dust
+Dialogue: 0,0:08:27.98,0:08:31.85,BurntOak,,0,0,0,,he would've won too if he wasn't so… distracted.
+Dialogue: 0,0:08:46.53,0:08:48.90,GrandPear,,0,0,0,,Pear Butter, what did you do?
+Dialogue: 0,0:08:49.65,0:08:50.90,Buttercup,,0,0,0,,I'm not sure.
+Dialogue: 0,0:08:55.05,0:08:56.45,BrightMac,,0,0,0,,She didn't do it, sir.
+Dialogue: 0,0:08:58.55,0:08:59.88,GrandPear,,0,0,0,,Excuse me?
+Dialogue: 0,0:09:00.80,0:09:01.80,BrightMac,,0,0,0,,Water silo.
+Dialogue: 0,0:09:02.40,0:09:03.65,BrightMac,,0,0,0,,It was my fault.
+Dialogue: 0,0:09:07.35,0:09:09.23,GrandPear,,0,0,0,,You owe me a new silo, boy.
+Dialogue: 0,0:09:09.55,0:09:11.83,GrandPear,,0,0,0,,And you, come with me.
+Dialogue: 0,0:09:13.25,0:09:17.58,GrandPear,,0,0,0,,No daughter of mine is gonna make goo-goo eyes at an Apple.
+Dialogue: 0,0:09:25.33,0:09:28.45,BurntOak,,0,0,0,,Grand Pear never would've known it was your father's fault.
+Dialogue: 0,0:09:28.98,0:09:32.93,BurntOak,,0,0,0,,But there was no way he'd let your mother take the blame for something he did.
+Dialogue: 0,0:09:33.03,0:09:35.05,AppleBloom,,0,0,0,,So, dad was super honest!
+Dialogue: 0,0:09:35.05,0:09:37.83,AppleBloom,,0,0,0,,Apple doesn't fall far from a tree, huh, Applejack?
+Dialogue: 0,0:09:39.03,0:09:41.43,BurntOak,,0,0,0,,Your dad worked the apple farm all day
+Dialogue: 0,0:09:41.43,0:09:45.18,BurntOak,,0,0,0,,and then headed over to the Pears on his breaks to fix the water silo.
+Dialogue: 0,0:09:45.18,0:09:46.88,BurntOak,,0,0,0,,I didn't see him for weeks!
+Dialogue: 0,0:09:46.88,0:09:47.97,BurntOak,,0,0,0,,Not that he minded.
+Dialogue: 0,0:09:48.10,0:09:50.43,BurntOak,,0,0,0,,Gave him a chance to get to know your mom.
+Dialogue: 0,0:09:50.78,0:09:52.40,AppleBloom,,0,0,0,,Did you know our mom too?
+Dialogue: 0,0:09:52.45,0:09:54.90,BurntOak,,0,0,0,,Buttercup was a real peach of a pear.
+Dialogue: 0,0:09:54.90,0:09:57.93,BurntOak,,0,0,0,,But if you want to know more about her, you should ask Mrs. Cake.
+Dialogue: 0,0:09:59.03,0:10:00.10,AppleJack,,0,0,0,,Mrs. Cake?
+Dialogue: 0,0:10:00.10,0:10:03.23,BurntOak,,0,0,0,,She and your mom were inseparable when they were fillies.
+Dialogue: 0,0:10:03.51,0:10:04.51,AppleJack,,0,0,0,,Then let's go.
+Dialogue: 0,0:10:04.51,0:10:05.53,AppleJack,,0,0,0,,Thanks, Burnt Oak.
+Dialogue: 0,0:10:09.75,0:10:12.50,BigMac,,0,0,0,,Would it be okay if we stopped by again sometime
+Dialogue: 0,0:10:12.68,0:10:14.03,BigMac,,0,0,0,,to hear more stories?
+Dialogue: 0,0:10:14.28,0:10:16.03,BurntOak,,0,0,0,,I liked that very much.
+Dialogue: 0,0:10:22.33,0:10:24.85,MrsCake,,0,0,0,,Well cinnamon sugar on toast!
+Dialogue: 0,0:10:24.85,0:10:27.43,MrsCake,,0,0,0,,All three apple siblings!
+Dialogue: 0,0:10:27.58,0:10:28.60,AppleJack,,0,0,0,,Hi Missis Cake.
+Dialogue: 0,0:10:28.60,0:10:31.10,AppleJack,,0,0,0,,We heard you and our ma used to be real good friends.
+Dialogue: 0,0:10:31.10,0:10:33.98,AppleJack,,0,0,0,,And we were hoping you could tell us a bit about her.
+Dialogue: 0,0:10:33.98,0:10:35.85,MrsCake,,0,0,0,,I would love to.
+Dialogue: 0,0:10:36.05,0:10:38.30,MrsCake,,0,0,0,,I never knew the right time to bring it up.
+Dialogue: 0,0:10:38.30,0:10:40.08,MrsCake,,0,0,0,,But I'm so glad you came
+Dialogue: 0,0:10:41.03,0:10:41.83,MrsCake,,0,0,0,,For starters…
+Dialogue: 0,0:10:41.83,0:10:46.68,MrsCake,,0,0,0,,Did you all know that it was your mom who convinced me to pursue baking?
+Dialogue: 0,0:10:47.10,0:10:49.13,AppleJack,,0,0,0,,But isn't your name Missis Cake?
+Dialogue: 0,0:10:49.73,0:10:50.85,MrsCake,,0,0,0,,Not always.
+Dialogue: 0,0:10:51.05,0:10:53.50,MrsCake,,0,0,0,,Back when I was Chiffon Swirl
+Dialogue: 0,0:10:53.55,0:10:56.48,MrsCake,,0,0,0,,I had no idea what I was supposed to do.
+Dialogue: 0,0:10:56.75,0:10:59.18,MrsCake,,0,0,0,,But one day your mom brought me some
+Dialogue: 0,0:10:59.18,0:11:02.38,MrsCake,,0,0,0,,Candied pears, eggs, flowers, sugar and vanilla
+Dialogue: 0,0:11:02.45,0:11:04.50,MrsCake,,0,0,0,,And told me to just be creative.
+Dialogue: 0,0:11:04.50,0:11:07.58,MrsCake,,0,0,0,,Next thing I knew I was whipping up pear upside-down cake.
+Dialogue: 0,0:11:07.75,0:11:09.45,MrsCake,,0,0,0,,And I got my cutie mark!
+Dialogue: 0,0:11:09.75,0:11:12.23,MrsCake,,0,0,0,,It was like she knew what I was supposed to do
+Dialogue: 0,0:11:12.23,0:11:13.83,MrsCake,,0,0,0,,long before I did.
+Dialogue: 0,0:11:14.05,0:11:16.45,AppleJack,,0,0,0,,Just like you sugarcube or rather,
+Dialogue: 0,0:11:16.75,0:11:17.95,AppleJack,,0,0,0,,you just like her.
+Dialogue: 0,0:11:18.05,0:11:20.53,MrsCake,,0,0,0,,That was the first of many cakes for me.
+Dialogue: 0,0:11:20.75,0:11:23.33,MrsCake,,0,0,0,,And Buttercup was with me through that all.
+Dialogue: 0,0:11:23.90,0:11:25.78,MrsCake,,0,0,0,,She'd be my taste tester,
+Dialogue: 0,0:11:27.98,0:11:29.60,MrsCake,,0,0,0,,help with the decorating
+Dialogue: 0,0:11:33.03,0:11:34.93,MrsCake,,0,0,0,,and prepared new ingredients
+Dialogue: 0,0:11:36.70,0:11:39.58,MrsCake,,0,0,0,,Over the years I perfected my recipes
+Dialogue: 0,0:11:40.88,0:11:43.53,MrsCake,,0,0,0,,Your mom did so much for me.
+Dialogue: 0,0:11:43.63,0:11:46.80,MrsCake,,0,0,0,,One day I wanna to surprise her with a cake.
+Dialogue: 0,0:12:11.80,0:12:13.50,Buttercup,,0,0,0,,Oh, it just you.
+Dialogue: 0,0:12:14.03,0:12:17.90,MrsCake,,0,0,0,,Sorry, I just bought you a little something to say thank you.
+Dialogue: 0,0:12:18.08,0:12:20.25,MrsCake,,0,0,0,,But I see you're busy
+Dialogue: 0,0:12:22.80,0:12:24.45,Buttercup,,0,0,0,,Promise you won't say anything?
+Dialogue: 0,0:12:31.63,0:12:34.30,GrannySmith,,0,0,0,,What in tarnation are you doing Bright Mac?!
+Dialogue: 0,0:12:34.58,0:12:37.83,GrannySmith,,0,0,0,,We do not fraternize with Pears!
+Dialogue: 0,0:12:43.20,0:12:45.13,MrsCake,,0,0,0,,You and Bright Mac?
+Dialogue: 0,0:12:45.73,0:12:48.55,MrsCake,,0,0,0,,I wouldn't have believe it if I hadn't seen it with my own eyes.
+Dialogue: 0,0:12:48.78,0:12:50.75,MrsCake,,0,0,0,,Your families hate each other.
+Dialogue: 0,0:12:51.03,0:12:53.05,Buttercup,,0,0,0,,I can't help it, we just sorta.
+Dialogue: 0,0:12:53.23,0:12:54.50,Buttercup,,0,0,0,,happened.
+Dialogue: 0,0:12:54.78,0:12:57.93,MrsCake,,0,0,0,,Then Pear Butter told me the sweetest love story
+Dialogue: 0,0:12:57.93,0:12:59.63,MrsCake,,0,0,0,,I have ever heard.
+Dialogue: 0,0:13:01.78,0:13:06.90,BrightMac,,0,0,0,,Happy one hundred thirty one thousand four hundred and fifty six hours anniversary darling.
+Dialogue: 0,0:13:08.23,0:13:08.83,Buttercup,,0,0,0,,What?
+Dialogue: 0,0:13:09.53,0:13:11.63,Buttercup,,0,0,0,,That's way longer than we been together.
+Dialogue: 0,0:13:11.93,0:13:12.85,BrightMac,,0,0,0,,I know.
+Dialogue: 0,0:13:12.85,0:13:16.53,BrightMac,,0,0,0,,But it's the anniversary of the first time I called you Buttercup.
+Dialogue: 0,0:13:18.25,0:13:20.53,BrightMac,,0,0,0,,It's okay if you didn't get me anything.
+Dialogue: 0,0:13:22.63,0:13:24.65,Buttercup,,0,0,0,,Actually, I did
+Dialogue: 0,0:13:25.23,0:13:27.53,BrightMac,,0,0,0,,A guitar? For me? But…
+Dialogue: 0,0:13:28.33,0:13:29.85,BrightMac,,0,0,0,,I don't know how to play.
+Dialogue: 0,0:13:29.85,0:13:30.98,Buttercup,,0,0,0,,Quiet, you!
+Dialogue: 0,0:13:38.23,0:13:41.60,Buttercup,,0,0,0,,We're far apart in every way,
+Dialogue: 0,0:13:41.78,0:13:45.13,Buttercup,,0,0,0,,But you're the best part of my day.
+Dialogue: 0,0:13:45.30,0:13:49.05,Buttercup,,0,0,0,,And sure as I breathe the air
+Dialogue: 0,0:13:49.10,0:13:52.33,Buttercup,,0,0,0,,I know we are the perfect pair
+Dialogue: 0,0:13:52.33,0:13:58.63,Buttercup,,0,0,0,,On a prickly path that goes on for miles
+Dialogue: 0,0:13:59.45,0:14:06.43,Buttercup,,0,0,0,,But it worth it just to see you smile.
+Dialogue: 0,0:14:06.83,0:14:10.55,Buttercup,,0,0,0,,And I can not be pulled apart
+Dialogue: 0,0:14:10.55,0:14:14.03,Buttercup,,0,0,0,,From the hold you have in my heart
+Dialogue: 0,0:14:14.03,0:14:18.53,Buttercup,,0,0,0,,And even if the world tells us it's wrong
+Dialogue: 0,0:14:18.53,0:14:21.95,Buttercup,,0,0,0,,You're in my head like a catchy song.
+Dialogue: 0,0:14:21.95,0:14:23.98,BrightMac,,0,0,0,,Wow… it's just… wow!
+Dialogue: 0,0:14:23.98,0:14:25.00,Buttercup,,0,0,0,,Do you like it?
+Dialogue: 0,0:14:25.00,0:14:26.15,Buttercup,,0,0,0,,Be honest now.
+Dialogue: 0,0:14:26.15,0:14:28.23,BrightMac,,0,0,0,,It's the best gift you've could've given me.
+Dialogue: 0,0:14:28.23,0:14:31.68,Buttercup,,0,0,0,,The seasons change and leaves may fall
+Dialogue: 0,0:14:31.68,0:14:35.30,Buttercup,,0,0,0,,But I'll be with you through them all.
+Dialogue: 0,0:14:35.30,0:14:42.10,Buttercup,,0,0,0,,And rain or shine — you always be mine
+Dialogue: 0,0:14:42.28,0:14:49.18,Buttercup,,0,0,0,,On a prickly path that goes on for miles
+Dialogue: 0,0:14:49.23,0:14:57.33,Buttercup,,0,0,0,,You're the only one who makes it all worthwhile.
+Dialogue: 0,0:14:57.38,0:15:00.95,Buttercup,,0,0,0,,And you should not blame me too
+Dialogue: 0,0:15:00.95,0:15:05.35,Buttercup,,0,0,0,,If I can't help falling in love with you…
+Dialogue: 0,0:15:07.88,0:15:09.53,BrightMac,,0,0,0,,Hey, no fair!
+Dialogue: 0,0:15:09.53,0:15:12.05,BrightMac,,0,0,0,,I was gonna tell you the same thing.
+Dialogue: 0,0:15:12.05,0:15:14.00,Buttercup,,0,0,0,,You're just mad that I beat you to it.
+Dialogue: 0,0:15:15.63,0:15:16.60,BrightMac,,0,0,0,,I'm telling you,
+Dialogue: 0,0:15:16.60,0:15:19.00,BrightMac,,0,0,0,,I was gonna pull you up, cover you eyes,
+Dialogue: 0,0:15:19.60,0:15:20.80,BrightMac,,0,0,0,,Lead you over here
+Dialogue: 0,0:15:22.95,0:15:24.10,BrightMac,,0,0,0,,And say "Surprise!"
+Dialogue: 0,0:15:27.88,0:15:28.85,BrightMac,,0,0,0,,And then you'd say
+Dialogue: 0,0:15:29.20,0:15:31.33,BrightMac,,0,0,0,,Oh, Bright Mac I love it!
+Dialogue: 0,0:15:31.35,0:15:32.13,BrightMac,,0,0,0,,And then I'd say
+Dialogue: 0,0:15:32.63,0:15:33.83,BrightMac,,0,0,0,,I love you.
+Dialogue: 0,0:15:34.25,0:15:35.83,BrightMac,,0,0,0,,Too bad it didn't work out though.
+Dialogue: 0,0:15:35.83,0:15:36.60,Buttercup,,0,0,0,,Eyeup.
+Dialogue: 0,0:15:36.60,0:15:37.70,Buttercup,,0,0,0,,Too bad
+Dialogue: 0,0:15:40.63,0:15:42.58,GrandPear,,0,0,0,,The Pears are moving.
+Dialogue: 0,0:15:48.24,0:15:49.94,AppleJack,,0,0,0,,I mean I figured the Pears move,
+Dialogue: 0,0:15:49.94,0:15:52.31,AppleJack,,0,0,0,,but I didn't know all that stuff happened before
+Dialogue: 0,0:15:52.31,0:15:54.24,AppleJack,,0,0,0,,with Granny and Grand Pear.
+Dialogue: 0,0:15:54.24,0:15:56.54,AppleBloom,,0,0,0,,It must've been really hard with on our parents
+Dialogue: 0,0:15:56.69,0:15:57.81,MrsCake,,0,0,0,,Oh it was.
+Dialogue: 0,0:15:59.29,0:16:00.39,Buttercup,,0,0,0,,We are moving?
+Dialogue: 0,0:16:00.46,0:16:01.96,Buttercup,,0,0,0,,To Vanhoover?
+Dialogue: 0,0:16:02.04,0:16:03.71,Buttercup,,0,0,0,,But that so far!
+Dialogue: 0,0:16:04.05,0:16:05.79,GrandPear,,0,0,0,,It's what's best.
+Dialogue: 0,0:16:05.79,0:16:08.19,GrandPear,,0,0,0,,There is acres of untouched land
+Dialogue: 0,0:16:08.19,0:16:10.29,GrandPear,,0,0,0,,and a warehouse to make our jams.
+Dialogue: 0,0:16:10.29,0:16:12.29,GrandPear,,0,0,0,,We'll get to expand our business
+Dialogue: 0,0:16:12.57,0:16:16.17,GrandPear,,0,0,0,,and get away from those gosh-darned Apples.
+Dialogue: 0,0:16:16.45,0:16:18.81,MrsCake,,0,0,0,,Pearbutter was devastated.
+Dialogue: 0,0:16:18.89,0:16:20.81,MrsCake,,0,0,0,,But seeing no way out of it,
+Dialogue: 0,0:16:20.85,0:16:23.05,MrsCake,,0,0,0,,she did what she had to do.
+Dialogue: 0,0:16:23.39,0:16:25.05,BrightMac,,0,0,0,,So, that's it?
+Dialogue: 0,0:16:25.09,0:16:26.85,Buttercup,,0,0,0,,What do you want me to do, Bright Mac?
+Dialogue: 0,0:16:26.85,0:16:27.91,Buttercup,,0,0,0,,We're moving.
+Dialogue: 0,0:16:27.91,0:16:31.43,Buttercup,,0,0,0,,I love you but I have to stay with my family.
+Dialogue: 0,0:16:31.65,0:16:37.03,MrsCake,,0,0,0,,Then Bright Mac did the most romantic thing I ever seen anypony do.
+Dialogue: 0,0:16:37.57,0:16:39.65,BigMac,,0,0,0,,Tell us! Tell us!
+Dialogue: 0,0:16:37.57,0:16:39.65,AppleJack,,0,0,0,,What?! What did he do?!
+Dialogue: 0,0:16:39.85,0:16:43.17,MrsCake,,0,0,0,,We are gonna need one more pony to tell that story.
+Dialogue: 0,0:16:43.71,0:16:45.77,AppleBloom,,0,0,0,,Mayor Mare, you know our parents?
+Dialogue: 0,0:16:46.21,0:16:48.07,Mayor,,0,0,0,,Not as well as Missis Cake,
+Dialogue: 0,0:16:48.07,0:16:50.37,Mayor,,0,0,0,,but I did play a part in their love story.
+Dialogue: 0,0:16:50.37,0:16:52.49,Mayor,,0,0,0,,The night before the Pear family moved,
+Dialogue: 0,0:16:52.73,0:16:57.81,Mayor,,0,0,0,,Bright Mac asked me to meet him at the edge of Sweet Apple Acres.
+Dialogue: 0,0:17:03.53,0:17:05.91,BrightMac,,0,0,0,,I don't wanna be apart from you, ever.
+Dialogue: 0,0:17:05.97,0:17:09.33,BrightMac,,0,0,0,,I'm not sure what we'll do, but I'm sure of us.
+Dialogue: 0,0:17:09.33,0:17:11.97,BrightMac,,0,0,0,,So sure that I'd marry you today.
+Dialogue: 0,0:17:13.43,0:17:14.79,Buttercup,,0,0,0,,I would too.
+Dialogue: 0,0:17:16.27,0:17:19.23,Mayor,,0,0,0,,I think that's my cue.
+Dialogue: 0,0:17:19.23,0:17:23.29,Mayor,,0,0,0,,I had the honor of officiating your parents' secret wedding,
+Dialogue: 0,0:17:23.29,0:17:25.43,Mayor,,0,0,0,,and it was perfect.
+Dialogue: 0,0:17:25.83,0:17:29.47,Mayor,,0,0,0,,Bright Mac knew Buttercup wouldn't want a big splash.
+Dialogue: 0,0:17:29.47,0:17:32.23,AppleBloom,,0,0,0,,Reminds me a somepony else I know.
+Dialogue: 0,0:17:32.55,0:17:33.51,BrightMac,,0,0,0,,Eyeup.
+Dialogue: 0,0:17:33.61,0:17:37.83,Mayor,,0,0,0,,So they had a special way to seal their vows.
+Dialogue: 0,0:17:38.67,0:17:39.87,Mayor,,0,0,0,,I now pronounce you…
+Dialogue: 0,0:17:39.87,0:17:41.05,GrannySmith,,0,0,0,,What is going on?
+Dialogue: 0,0:17:41.13,0:17:43.13,GrannySmith,,0,0,0,,What's with all these hay'n candels?
+Dialogue: 0,0:17:43.17,0:17:45.31,GrandPear,,0,0,0,,Pearbutter where are ya?
+Dialogue: 0,0:17:45.31,0:17:47.31,GrandPear,,0,0,0,,You supposed to be packing.
+Dialogue: 0,0:17:47.57,0:17:50.03,GrandPear,,0,0,0,,What are you two doing?
+Dialogue: 0,0:17:52.47,0:17:54.33,BrightMac,,0,0,0,,Mom, Grand Pear,
+Dialogue: 0,0:17:54.47,0:17:56.21,BrightMac,,0,0,0,,Buttercup And I in love.
+Dialogue: 0,0:17:56.27,0:17:57.79,Somepony,,0,0,0,,What?
+Dialogue: 0,0:17:57.79,0:18:00.49,Buttercup,,0,0,0,,And we'll be married as soon as Mayor Mare says…
+Dialogue: 0,0:18:00.49,0:18:03.71,Mayor,,0,0,0,,Oh, and now pronounce you husband and wife.
+Dialogue: 0,0:18:03.71,0:18:06.07,Buttercup,,0,0,0,,Doesn't that feel nice?
+Dialogue: 0,0:18:08.47,0:18:10.71,GrannySmith,,0,0,0,,What are you talkin' about, "married"?!
+Dialogue: 0,0:18:10.71,0:18:12.47,GrannySmith,,0,0,0,,You two can't be marry!
+Dialogue: 0,0:18:12.47,0:18:14.21,GrandPear,,0,0,0,,Finally something we can agree on.
+Dialogue: 0,0:18:14.21,0:18:16.45,GrandPear,,0,0,0,,Pear Butter, enough of this nonsence.
+Dialogue: 0,0:18:16.45,0:18:21.17,GrandPear,,0,0,0,,We're movin', and you gotta stick with your family.
+Dialogue: 0,0:18:21.93,0:18:25.45,Buttercup,,0,0,0,,But… the Apples are my family now too.
+Dialogue: 0,0:18:29.63,0:18:31.01,GrandPear,,0,0,0,,You can't be serious.
+Dialogue: 0,0:18:31.37,0:18:34.31,GrandPear,,0,0,0,,Are you chosing to be an Apple?
+Dialogue: 0,0:18:34.35,0:18:36.81,GrandPear,,0,0,0,,Over being a Pear?
+Dialogue: 0,0:18:37.21,0:18:39.01,Buttercup,,0,0,0,,Are you making me choose?
+Dialogue: 0,0:18:40.35,0:18:42.51,GrandPear,,0,0,0,,Yes, I am.
+Dialogue: 0,0:18:44.33,0:18:47.09,Buttercup,,0,0,0,,Then, yeah. I guess I am.
+Dialogue: 0,0:18:50.49,0:18:51.75,GrandPear,,0,0,0,,Fine!
+Dialogue: 0,0:18:57.85,0:19:01.77,AppleJack,,0,0,0,,I can't believe Grand Pear just up and left Ma like that.
+Dialogue: 0,0:19:01.81,0:19:04.97,AppleJack,,0,0,0,,No wonder Granny never told us about any of this.
+Dialogue: 0,0:19:05.15,0:19:07.27,MrsCake,,0,0,0,,These things are never easy.
+Dialogue: 0,0:19:07.27,0:19:09.67,Mayor,,0,0,0,,And it's hard to know when it is a good time.
+Dialogue: 0,0:19:10.19,0:19:12.89,AppleJack,,0,0,0,,It seems to me that now's as good a time as any.
+Dialogue: 0,0:19:12.95,0:19:16.11,AppleBloom,,0,0,0,,To talk to both our grandparents.
+Dialogue: 0,0:19:20.99,0:19:23.29,AppleBloom,,0,0,0,,Excuse me, Grand Pear?
+Dialogue: 0,0:19:23.71,0:19:26.27,AppleJack,,0,0,0,,I'm Applejack, and this is Big Macintosh.
+Dialogue: 0,0:19:26.31,0:19:28.33,AppleJack,,0,0,0,,But, you already know who we are, don't ya?
+Dialogue: 0,0:19:29.05,0:19:30.41,GrandPear,,0,0,0,,Sure do.
+Dialogue: 0,0:19:30.85,0:19:34.27,AppleBloom,,0,0,0,,Did you really move to Ponyville just for a change of pace?
+Dialogue: 0,0:19:34.73,0:19:35.89,GrandPear,,0,0,0,,No.
+Dialogue: 0,0:19:36.19,0:19:40.17,AppleBloom,,0,0,0,,Then, you came here because you're sorry and you wanna get to know us too?
+Dialogue: 0,0:19:41.05,0:19:48.63,GrandPear,,0,0,0,,I'm… so sorry, I-I-I was just so angry and… well, I-I never…
+Dialogue: 0,0:19:48.63,0:19:50.47,AppleBloom,,0,0,0,,It's in the past, Grand Pear.
+Dialogue: 0,0:19:53.15,0:19:55.55,AppleBloom,,0,0,0,,Can I call you grandparent, Pear?
+Dialogue: 0,0:19:55.55,0:19:57.39,GrandPear,,0,0,0,,Sure can.
+Dialogue: 0,0:19:59.05,0:20:00.73,GrannySmith,,0,0,0,,Now where'd you all get to?
+Dialogue: 0,0:20:01.03,0:20:03.47,GrannySmith,,0,0,0,,I ain't seen hide or hair of ya's all day.
+Dialogue: 0,0:20:03.87,0:20:07.29,AppleJack,,0,0,0,,We've been all over. Learnin' about our parents.
+Dialogue: 0,0:20:07.59,0:20:09.29,GrannySmith,,0,0,0,,Y-You have?
+Dialogue: 0,0:20:09.53,0:20:12.03,AppleJack,,0,0,0,,And our grandfather.
+Dialogue: 0,0:20:15.33,0:20:18.77,GrannySmith,,0,0,0,,So, you're back, hu-uh?
+Dialogue: 0,0:20:19.05,0:20:20.35,GrandPear,,0,0,0,,Sure I am.
+Dialogue: 0,0:20:21.23,0:20:23.27,GrandPear,,0,0,0,,Never should have left.
+Dialogue: 0,0:20:23.53,0:20:26.45,AppleBloom,,0,0,0,,Findin' you and learnin' all about Mom and Dad,
+Dialogue: 0,0:20:26.49,0:20:29.63,AppleBloom,,0,0,0,,I feel like I found a piece of me I don't even know was missing.
+Dialogue: 0,0:20:29.93,0:20:33.71,AppleJack,,0,0,0,,Hearing their story makes me feel closer to them somehow.
+Dialogue: 0,0:20:34.03,0:20:38.03,GrannySmith,,0,0,0,,I'm sorry, I should have told you all about them sooner.
+Dialogue: 0,0:20:38.03,0:20:39.95,GrandPear,,0,0,0,,And I should have been here.
+Dialogue: 0,0:20:40.93,0:20:42.13,GrandPear,,0,0,0,,I can't believe:
+Dialogue: 0,0:20:42.13,0:20:45.97,GrandPear,,0,0,0,,I let a silly feud keep me from my family.
+Dialogue: 0,0:20:45.97,0:20:47.77,AppleJack,,0,0,0,,Nothing's keeping you from us now.
+Dialogue: 0,0:20:47.91,0:20:49.79,AppleJack,,0,0,0,,Let's not miss anything else.
+Dialogue: 0,0:20:50.29,0:20:52.31,GrannySmith,,0,0,0,,Applejack is right:
+Dialogue: 0,0:20:52.37,0:20:55.01,GrannySmith,,0,0,0,,welcome back, crinkly old pear.
+Dialogue: 0,0:20:56.85,0:20:59.27,GrandPear,,0,0,0,,Thanks, you crabapple.
+Dialogue: 0,0:20:59.27,0:21:02.35,AppleBloom,,0,0,0,,Now, when we are together, there is something we wanna show you.
+Dialogue: 0,0:21:02.35,0:21:05.69,AppleBloom,,0,0,0,,Mom and dad left us something to remember them back. Come on!
+Dialogue: 0,0:21:14.31,0:21:16.51,GrannySmith,,0,0,0,,It's beautiful.
+Dialogue: 0,0:21:16.51,0:21:19.59,GrandPear,,0,0,0,,It's impossible.
+Dialogue: 0,0:21:20.89,0:21:22.77,AppleJack,,0,0,0,,If anything's gonna make it through,
+Dialogue: 0,0:21:22.77,0:21:25.19,AppleJack,,0,0,0,,it's apples and pears.
+Dialogue: 0,0:21:32.83,0:21:35.83,Default,,0,0,0,,SCHASTLIVY PONEC
+Dialogue: 0,0:21:35.83,0:21:43.71,Default,,0,0,0,,anon2anon\Nsunnysubs.com

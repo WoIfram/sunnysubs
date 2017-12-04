@@ -1,0 +1,453 @@
+﻿[Script Info]
+PlayResX:1920
+PlayResY:1080
+ScaledBorderAndShadow: yes
+ScriptType: v4.00+
+WrapStyle: 0
+YCbCr Matrix: TV.601
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: BlueishGreenChangeling,Arial,68,&H00B2E789,&H000000FF,&H00655B44,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Chrysalis,Arial,68,&H00CEBF4E,&H000000FF,&H00121F0B,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: CyanChangeling,Arial,68,&H00D3ED80,&H000000FF,&H003142AA,&H003142AA,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Default,Arial,68,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: GreenChangeling,Arial,68,&H0095E789,&H000000FF,&H00655B44,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: OldLadyChangeling,Arial,68,&H007DC774,&H000000FF,&H00655B44,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Pharynx,Arial,68,&H004217AE,&H000000FF,&H00121F0B,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Somepony,Arial,68,&H00FFFFFF,&H000000FF,&H007D7E80,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: SomeponyYellow,Arial,68,&H0098FFFE,&H000000FF,&H00333333,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: StarlightGlimmer,Arial,68,&H00F5CEF2,&H000000FF,&H005C0104,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Thorax,Arial,68,&H00FCFCFC,&H000000FF,&H00B1AD09,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Trixie,Arial,68,&H00FAEFDA,&H000000FF,&H00674303,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:04.21,0:00:07.07,StarlightGlimmer,,0,0,0,,Ha! Straight to the changeling hive.
+Dialogue: 0,0:00:07.07,0:00:08.58,StarlightGlimmer,,0,0,0,,I told you I could do it.
+Dialogue: 0,0:00:08.58,0:00:11.32,Trixie,,0,0,0,,Well, not exactly "straight", Starlight.
+Dialogue: 0,0:00:11.32,0:00:15.33,Trixie,,0,0,0,,We've been popping all around Equestria and we still have to walk.
+Dialogue: 0,0:00:15.72,0:00:17.35,StarlightGlimmer,,0,0,0,,It's like twelve steps away.
+Dialogue: 0,0:00:17.35,0:00:19.15,StarlightGlimmer,,0,0,0,,Before Chrysalis' throne was destroyed,
+Dialogue: 0,0:00:19.15,0:00:23.01,StarlightGlimmer,,0,0,0,,the closest magic would've gotten us was way over there.
+Dialogue: 0,0:00:26.11,0:00:28.66,StarlightGlimmer,,0,0,0,,On a scale of one to ten, how happy do you think
+Dialogue: 0,0:00:28.66,0:00:31.40,StarlightGlimmer,,0,0,0,,Thorax is gonna be about our surprise visit?
+Dialogue: 0,0:00:31.40,0:00:33.01,Trixie,,0,0,0,,Definitely ten.
+Dialogue: 0,0:00:33.01,0:00:38.75,Trixie,,0,0,0,,I mean, who wouldn't be happy at the chance to marvel at the overwhelming talent that is:
+Dialogue: 0,0:00:38.75,0:00:43.22,Trixie,,0,0,0,,The Great and Powerful Trixie!
+Dialogue: 0,0:00:43.22,0:00:47.21,StarlightGlimmer,,0,0,0,,Trixie, we're coming to offer Thorax encouragement and support.
+Dialogue: 0,0:00:47.21,0:00:50.68,StarlightGlimmer,,0,0,0,,His letters makes it seem like the responsibilities of being the changeling leader
+Dialogue: 0,0:00:50.68,0:00:52.66,StarlightGlimmer,,0,0,0,,are a little overwhelming.
+Dialogue: 0,0:00:52.66,0:00:53.83,Trixie,,0,0,0,,Yea, I know.
+Dialogue: 0,0:00:53.83,0:00:55.57,Trixie,,0,0,0,,That's basically what I said.
+Dialogue: 0,0:00:55.57,0:00:58.49,StarlightGlimmer,,0,0,0,,He's dealing with the wants and needs of his subjects.
+Dialogue: 0,0:00:58.49,0:01:02.79,StarlightGlimmer,,0,0,0,,Redesigning the hive, dread maulwurf wreaking havoc outside…
+Dialogue: 0,0:01:02.79,0:01:04.92,Trixie,,0,0,0,,It does sound like a lot, but…
+Dialogue: 0,0:01:04.92,0:01:06.89,Trixie,,0,0,0,,Are you sure that last thing is real?
+Dialogue: 0,0:01:06.89,0:01:08.18,StarlightGlimmer,,0,0,0,,Dread maulwurf?
+Dialogue: 0,0:01:08.18,0:01:09.28,StarlightGlimmer,,0,0,0,,Sure it is.
+Dialogue: 0,0:01:09.28,0:01:14.60,StarlightGlimmer,,0,0,0,,Thorax said it's like half-bear, half-mole, half-raging pile of claws!
+Dialogue: 0,0:01:14.60,0:01:17.81,StarlightGlimmer,,0,0,0,,But now that the changelings don't feed on the love of everything around them,
+Dialogue: 0,0:01:17.81,0:01:19.58,StarlightGlimmer,,0,0,0,,plants are starting to grow back.
+Dialogue: 0,0:01:19.65,0:01:21.52,StarlightGlimmer,,0,0,0,,But this maulwurf keeps eating 'em up.
+Dialogue: 0,0:01:21.81,0:01:24.23,Trixie,,0,0,0,,Maulwurf, uh-huh.
+Dialogue: 0,0:01:24.40,0:01:25.95,Trixie,,0,0,0,,You're just trying to scare me.
+Dialogue: 0,0:01:25.95,0:01:27.25,Trixie,,0,0,0,,But it won't work.
+Dialogue: 0,0:01:27.25,0:01:30.53,Trixie,,0,0,0,,Because not only am I The Great and Powerful,
+Dialogue: 0,0:01:30.53,0:01:34.71,Trixie,,0,0,0,,I am also the Unscareable Trixie!
+Dialogue: 0,0:01:39.41,0:01:44.91,Trixie,,0,0,0,,Please tell me Thorax also mentioned a terrifying looking changeling who greets visitors but is actually nice?
+Dialogue: 0,0:01:44.91,0:01:46.01,StarlightGlimmer,,0,0,0,,Nope.
+Dialogue: 0,0:01:46.01,0:01:47.78,Pharynx,,0,0,0,,And I'm not nice.
+Dialogue: 0,0:01:53.84,0:01:56.35,Trixie,,0,0,0,,Starlight, you got us here. I'll take us home.
+Dialogue: 0,0:01:58.48,0:02:00.37,Trixie,,0,0,0,,Deportation spell go!
+Dialogue: 0,0:02:01.25,0:02:02.22,Trixie,,0,0,0,,Did I save us?
+Dialogue: 0,0:02:02.22,0:02:02.82,StarlightGlimmer,,0,0,0,,Nope.
+Dialogue: 0,0:02:48.40,0:02:49.58,Trixie,,0,0,0,,What are you waiting for?
+Dialogue: 0,0:02:49.58,0:02:51.68,Trixie,,0,0,0,,Use some magic to get us out of here!
+Dialogue: 0,0:02:51.84,0:02:54.18,StarlightGlimmer,,0,0,0,,Calm down, Unsearchable Trixie.
+Dialogue: 0,0:02:54.48,0:02:56.30,StarlightGlimmer,,0,0,0,,We have to find out what's going on.
+Dialogue: 0,0:02:56.30,0:02:57.72,StarlightGlimmer,,0,0,0,,Thorax might need our help!
+Dialogue: 0,0:02:57.72,0:02:59.00,Trixie,,0,0,0,,We need our help!
+Dialogue: 0,0:02:59.00,0:03:00.42,Trixie,,0,0,0,,Deportation spell go!
+Dialogue: 0,0:03:01.08,0:03:02.74,Trixie,,0,0,0,,Deportation spell go!
+Dialogue: 0,0:03:03.48,0:03:04.90,Trixie,,0,0,0,,Deportation spell…
+Dialogue: 0,0:03:05.38,0:03:06.96,StarlightGlimmer,,0,0,0,,Why do you keep doing that?
+Dialogue: 0,0:03:07.00,0:03:08.30,StarlightGlimmer,,0,0,0,,You know it doesn't work that way.
+Dialogue: 0,0:03:08.30,0:03:09.08,Trixie,,0,0,0,,I know!
+Dialogue: 0,0:03:09.08,0:03:10.50,Trixie,,0,0,0,,But this is my process.
+Dialogue: 0,0:03:11.42,0:03:13.74,Pharynx,,0,0,0,,I captured these trespassers.
+Dialogue: 0,0:03:13.74,0:03:14.82,Thorax,,0,0,0,,Starlight!
+Dialogue: 0,0:03:15.24,0:03:16.22,Thorax,,0,0,0,,Trixie!
+Dialogue: 0,0:03:16.22,0:03:17.38,Thorax,,0,0,0,,It's okay, Pharynx.
+Dialogue: 0,0:03:17.38,0:03:18.54,Thorax,,0,0,0,,You can let them go.
+Dialogue: 0,0:03:18.74,0:03:20.92,Pharynx,,0,0,0,,But they were lurking on our grounds!
+Dialogue: 0,0:03:20.92,0:03:23.90,Pharynx,,0,0,0,,In the old days, I would've already feasted on their love.
+Dialogue: 0,0:03:24.06,0:03:27.94,Thorax,,0,0,0,,Well, that's why they're called the "old days", because they're old.
+Dialogue: 0,0:03:27.94,0:03:30.06,Thorax,,0,0,0,,We don't do that anymore.
+Dialogue: 0,0:03:33.80,0:03:35.64,Pharynx,,0,0,0,,I liked the old days better.
+Dialogue: 0,0:03:37.56,0:03:39.18,Thorax,,0,0,0,,What are you two doing here?
+Dialogue: 0,0:03:39.18,0:03:40.95,StarlightGlimmer,,0,0,0,,We wanted to surprise you.
+Dialogue: 0,0:03:41.06,0:03:42.86,StarlightGlimmer,,0,0,0,,Surprise?…!
+Dialogue: 0,0:03:43.14,0:03:45.56,Thorax,,0,0,0,,Well, it's great to see you.
+Dialogue: 0,0:03:45.56,0:03:47.96,Thorax,,0,0,0,,I'm sorry about the welcome committee.
+Dialogue: 0,0:03:50.44,0:03:52.85,StarlightGlimmer,,0,0,0,,I thought Ember helped you get more assertive,
+Dialogue: 0,0:03:52.85,0:03:56.22,StarlightGlimmer,,0,0,0,,so you could deal with all the renegade changelings who didn't want to change?
+Dialogue: 0,0:03:56.22,0:03:57.54,Thorax,,0,0,0,,Oh, she did!
+Dialogue: 0,0:03:57.54,0:03:58.58,Thorax,,0,0,0,,Really helpful.
+Dialogue: 0,0:03:58.58,0:04:01.26,Thorax,,0,0,0,,I was able to convince all of them to change,
+Dialogue: 0,0:04:01.28,0:04:02.84,Thorax,,0,0,0,,except one of them.
+Dialogue: 0,0:04:02.85,0:04:04.21,Thorax,,0,0,0,,My brother.
+Dialogue: 0,0:04:04.21,0:04:05.50,StarlightGlimmer,,0,0,0,,Your brother?
+Dialogue: 0,0:04:05.50,0:04:06.18,Thorax,,0,0,0,,Yup.
+Dialogue: 0,0:04:06.18,0:04:08.40,Thorax,,0,0,0,,Pharynx is my elder brood mate.
+Dialogue: 0,0:04:11.41,0:04:13.11,StarlightGlimmer,,0,0,0,,Oh, yea.
+Dialogue: 0,0:04:13.11,0:04:15.28,StarlightGlimmer,,0,0,0,,You guys have the same…
+Dialogue: 0,0:04:15.74,0:04:16.72,StarlightGlimmer,,0,0,0,,eye shape?
+Dialogue: 0,0:04:17.30,0:04:19.09,Pharynx,,0,0,0,,What a ridiculous comparison.
+Dialogue: 0,0:04:19.09,0:04:20.56,Pharynx,,0,0,0,,We are nothing alike.
+Dialogue: 0,0:04:22.73,0:04:24.27,Thorax,,0,0,0,,Stop doing that!
+Dialogue: 0,0:04:24.27,0:04:26.42,Pharynx,,0,0,0,,The hive looked better with holes.
+Dialogue: 0,0:04:31.55,0:04:33.87,Thorax,,0,0,0,,Well, how about I show you the rest of the hive,
+Dialogue: 0,0:04:33.87,0:04:36.01,Thorax,,0,0,0,,where it's less loud and bang?
+Dialogue: 0,0:04:38.24,0:04:41.32,Thorax,,0,0,0,,There been a lot of changes since you were here last.
+Dialogue: 0,0:04:41.32,0:04:43.40,Thorax,,0,0,0,,I'm trying to some new activities,
+Dialogue: 0,0:04:43.40,0:04:46.33,Thorax,,0,0,0,,since the only thing we did before was hunting patrol.
+Dialogue: 0,0:04:46.33,0:04:47.57,Thorax,,0,0,0,,There's theater.
+Dialogue: 0,0:04:48.44,0:04:49.69,Thorax,,0,0,0,,Swing dancing.
+Dialogue: 0,0:04:51.20,0:04:53.92,Thorax,,0,0,0,,A once-a-week potluck lunch.
+Dialogue: 0,0:04:54.46,0:04:58.24,Thorax,,0,0,0,,And who can change shape and organize craft time?
+Dialogue: 0,0:04:59.12,0:05:00.37,Thorax,,0,0,0,,This guy.
+Dialogue: 0,0:05:00.37,0:05:02.45,StarlightGlimmer,,0,0,0,,I'm really impressed, Thorax.
+Dialogue: 0,0:05:02.45,0:05:04.04,StarlightGlimmer,,0,0,0,,The hive, all the activities?
+Dialogue: 0,0:05:04.59,0:05:06.02,OldLadyChangeling,,0,0,0,,He did it again.
+Dialogue: 0,0:05:06.02,0:05:09.24,OldLadyChangeling,,0,0,0,,Pharynx dumped an entire can of black paint on me.
+Dialogue: 0,0:05:09.24,0:05:13.18,OldLadyChangeling,,0,0,0,,He said my fuchsia color wasn't intimidating to our enemies.
+Dialogue: 0,0:05:13.18,0:05:14.60,OldLadyChangeling,,0,0,0,,What enemies?!
+Dialogue: 0,0:05:14.60,0:05:16.68,Thorax,,0,0,0,,I am so sorry.
+Dialogue: 0,0:05:16.68,0:05:18.04,Thorax,,0,0,0,,I promise I'll talk to him.
+Dialogue: 0,0:05:18.04,0:05:20.14,OldLadyChangeling,,0,0,0,,You're the ruler of the hive, Thorax.
+Dialogue: 0,0:05:20.14,0:05:22.94,OldLadyChangeling,,0,0,0,,You need to do more than talk.
+Dialogue: 0,0:05:23.41,0:05:26.94,Trixie,,0,0,0,,Well, maybe not everything here is amazing.
+Dialogue: 0,0:05:26.94,0:05:30.21,StarlightGlimmer,,0,0,0,,Seriously, Thorax, what is up with your brother?
+Dialogue: 0,0:05:31.74,0:05:34.08,Thorax,,0,0,0,,Pharynx used to be a head of patrol.
+Dialogue: 0,0:05:34.08,0:05:36.60,Thorax,,0,0,0,,But now we're peaceful, and there's no need to patrol,
+Dialogue: 0,0:05:36.60,0:05:40.66,Thorax,,0,0,0,,so he just stalks around the hive making everyone miserable.
+Dialogue: 0,0:05:40.66,0:05:42.36,Thorax,,0,0,0,,The other changelings are sick of it,
+Dialogue: 0,0:05:42.36,0:05:45.28,Thorax,,0,0,0,,and if I can't get him to accept love and friendship,
+Dialogue: 0,0:05:45.28,0:05:46.98,Thorax,,0,0,0,,and change like the rest of us?
+Dialogue: 0,0:05:46.98,0:05:49.44,Thorax,,0,0,0,,Everything I've done here is at risk.
+Dialogue: 0,0:05:55.46,0:05:58.58,StarlightGlimmer,,0,0,0,,We know a thing or two about what it's like to be outsiders.
+Dialogue: 0,0:05:58.58,0:06:00.21,StarlightGlimmer,,0,0,0,,Maybe we could talk to him for you.
+Dialogue: 0,0:06:00.21,0:06:02.03,Thorax,,0,0,0,,Do you really think you could help?
+Dialogue: 0,0:06:02.03,0:06:05.93,Trixie,,0,0,0,,Thorax, if there's anypony who can help your brother, it's me.
+Dialogue: 0,0:06:06.25,0:06:10.28,Trixie,,0,0,0,,And with Starlight helping, it might take slightly longer,
+Dialogue: 0,0:06:10.28,0:06:12.28,Trixie,,0,0,0,,but I guarantee you we can do it.
+Dialogue: 0,0:06:14.45,0:06:18.48,GreenChangeling,,0,0,0,,Thorax, we are ready to start work on the trail of plants to lead the maulwurf away.
+Dialogue: 0,0:06:18.48,0:06:20.28,Thorax,,0,0,0,,Oh, I have to head outside.
+Dialogue: 0,0:06:20.28,0:06:22.15,Thorax,,0,0,0,,You are sure you're okay handling Pharynx?
+Dialogue: 0,0:06:22.40,0:06:23.43,StarlightGlimmer,,0,0,0,,Absolutely.
+Dialogue: 0,0:06:30.35,0:06:33.33,Trixie,,0,0,0,,Yeah, we totally got this.
+Dialogue: 0,0:06:42.11,0:06:44.16,Trixie,,0,0,0,,So, how do you wanna play this?
+Dialogue: 0,0:06:44.16,0:06:46.48,Trixie,,0,0,0,,I'm thinking "good pony, bad pony".
+Dialogue: 0,0:06:46.66,0:06:48.78,Trixie,,0,0,0,,You yell and blast him with magic,
+Dialogue: 0,0:06:48.93,0:06:53.06,Trixie,,0,0,0,,while my natural charisma will convince him that…
+Dialogue: 0,0:06:53.41,0:06:54.33,Trixie,,0,0,0,,Starlight?
+Dialogue: 0,0:06:55.08,0:06:57.26,StarlightGlimmer,,0,0,0,,Hey, Pharynx!
+Dialogue: 0,0:06:57.56,0:07:01.16,StarlightGlimmer,,0,0,0,,I know when we first met it didn't go so well.
+Dialogue: 0,0:07:01.16,0:07:02.23,Pharynx,,0,0,0,,I put you in the bag.
+Dialogue: 0,0:07:02.23,0:07:03.48,Pharynx,,0,0,0,,I thought it went great.
+Dialogue: 0,0:07:04.53,0:07:05.28,StarlightGlimmer,,0,0,0,,Right.
+Dialogue: 0,0:07:06.21,0:07:09.58,StarlightGlimmer,,0,0,0,,So… not a big fan of the vines, huh?
+Dialogue: 0,0:07:09.93,0:07:12.43,Pharynx,,0,0,0,,They're a safety hazard and enemy could hide in them,
+Dialogue: 0,0:07:12.43,0:07:13.91,Pharynx,,0,0,0,,or use them as weapons.
+Dialogue: 0,0:07:13.98,0:07:15.38,Pharynx,,0,0,0,,I don't even know why they're here.
+Dialogue: 0,0:07:15.38,0:07:17.06,StarlightGlimmer,,0,0,0,,Because they are pretty…?
+Dialogue: 0,0:07:17.28,0:07:18.28,Pharynx,,0,0,0,,That's ridiculous.
+Dialogue: 0,0:07:18.83,0:07:21.76,StarlightGlimmer,,0,0,0,,Oh, totally. We get you.
+Dialogue: 0,0:07:22.01,0:07:26.43,StarlightGlimmer,,0,0,0,,But… maybe, don't express how you feel by destroying them?
+Dialogue: 0,0:07:26.66,0:07:28.43,Pharynx,,0,0,0,,I don't take advice from ponies.
+Dialogue: 0,0:07:28.43,0:07:31.21,Pharynx,,0,0,0,,The only thing I take from you is breakfast.
+Dialogue: 0,0:07:31.43,0:07:32.83,Pharynx,,0,0,0,,At least I used to.
+Dialogue: 0,0:07:33.01,0:07:35.26,Trixie,,0,0,0,,You know, you're a lot like us.
+Dialogue: 0,0:07:35.26,0:07:36.03,Pharynx,,0,0,0,,Doubt it.
+Dialogue: 0,0:07:37.43,0:07:38.53,Trixie,,0,0,0,,It's true!
+Dialogue: 0,0:07:38.63,0:07:40.73,Trixie,,0,0,0,,Do you know who Twilight Sparkle is?
+Dialogue: 0,0:07:40.86,0:07:41.33,Pharynx,,0,0,0,,No.
+Dialogue: 0,0:07:41.43,0:07:46.33,Trixie,,0,0,0,,Well, she's the most well-light, studious, do-goodiest pony in Equestria.
+Dialogue: 0,0:07:46.93,0:07:48.08,Pharynx,,0,0,0,,She sounds awful.
+Dialogue: 0,0:07:48.43,0:07:50.08,Trixie,,0,0,0,,Oh, you'd hate her. I used to.
+Dialogue: 0,0:07:50.13,0:07:52.31,Trixie,,0,0,0,,She made me unsure about my place in the world,
+Dialogue: 0,0:07:52.31,0:07:54.33,Trixie,,0,0,0,,which lead me to act out against her.
+Dialogue: 0,0:07:54.53,0:07:58.46,StarlightGlimmer,,0,0,0,,And I used to be a dictator, who ran a village with an iron hoof.
+Dialogue: 0,0:07:58.58,0:07:59.21,Pharynx,,0,0,0,,Really?
+Dialogue: 0,0:08:00.56,0:08:02.97,Pharynx,,0,0,0,,Maybe you two do understand me.
+Dialogue: 0,0:08:02.97,0:08:04.57,StarlightGlimmer,,0,0,0,,Yes, we do!
+Dialogue: 0,0:08:04.61,0:08:08.33,StarlightGlimmer,,0,0,0,,But now, Trixie has come to terms with being the second best…
+Dialogue: 0,0:08:08.49,0:08:11.41,StarlightGlimmer,,0,0,0,,And I no longer control ponies against their will!
+Dialogue: 0,0:08:11.57,0:08:14.43,StarlightGlimmer,,0,0,0,,And our lives are so much better for it.
+Dialogue: 0,0:08:15.09,0:08:18.27,Pharynx,,0,0,0,,Wow, so you're both losers.
+Dialogue: 0,0:08:18.27,0:08:21.67,Pharynx,,0,0,0,,Stay away from me or I'll do to you what I did to the vines!
+Dialogue: 0,0:08:23.53,0:08:28.05,Thorax,,0,0,0,,Well, operation "lead maulwurf away" is coming along.
+Dialogue: 0,0:08:28.29,0:08:29.73,Thorax,,0,0,0,,How did it go with Pharynx?
+Dialogue: 0,0:08:30.33,0:08:31.81,StarlightGlimmer,,0,0,0,,Your brother is…
+Dialogue: 0,0:08:32.73,0:08:33.71,StarlightGlimmer,,0,0,0,,challenging.
+Dialogue: 0,0:08:33.77,0:08:35.41,Thorax,,0,0,0,,Oh, that bad, huh…?
+Dialogue: 0,0:08:35.41,0:08:36.65,StarlightGlimmer,,0,0,0,,It wasn't great.
+Dialogue: 0,0:08:36.85,0:08:38.09,Thorax,,0,0,0,,You wanna talk it out?
+Dialogue: 0,0:08:38.15,0:08:41.13,Thorax,,0,0,0,,You can come with me to the… Feelings Forum.
+Dialogue: 0,0:08:41.27,0:08:42.89,Trixie,,0,0,0,,The feel like what now?
+Dialogue: 0,0:08:43.23,0:08:46.63,Thorax,,0,0,0,,Oh, it's a place for changelings to express their feelings,
+Dialogue: 0,0:08:46.63,0:08:49.69,Thorax,,0,0,0,,so we all gain a better understanding of each other.
+Dialogue: 0,0:08:49.85,0:08:52.23,Thorax,,0,0,0,,It's really helped bring the hive closer together.
+Dialogue: 0,0:08:54.67,0:08:57.27,GreenChangeling,,0,0,0,,Sometimes I feel like I'm a blue changeling,
+Dialogue: 0,0:08:57.29,0:08:59.87,GreenChangeling,,0,0,0,,sometimes I feel like I'm a purple changeling,
+Dialogue: 0,0:08:59.95,0:09:02.43,GreenChangeling,,0,0,0,,but here I am, a green one.
+Dialogue: 0,0:09:02.49,0:09:04.87,OldLadyChangeling,,0,0,0,,You can be anything you want to be.
+Dialogue: 0,0:09:04.97,0:09:07.43,OldLadyChangeling,,0,0,0,,Be blue one day and purple the next.
+Dialogue: 0,0:09:07.43,0:09:09.65,OldLadyChangeling,,0,0,0,,Be both on the same day.
+Dialogue: 0,0:09:09.85,0:09:12.27,GreenChangeling,,0,0,0,,But then I feel like I'll be living a lie!
+Dialogue: 0,0:09:12.33,0:09:16.53,OldLadyChangeling,,0,0,0,,It's very brave of you to share something so personal.
+Dialogue: 0,0:09:16.53,0:09:19.73,OldLadyChangeling,,0,0,0,,Does anyone else have similar concerns?
+Dialogue: 0,0:09:19.87,0:09:24.97,SomeponyYellow,,0,0,0,,I used to, but a craft time has given me such a creative outlet, I feel great now.
+Dialogue: 0,0:09:25.59,0:09:27.03,CyanChangeling,,0,0,0,,Everyone loves craft time.
+Dialogue: 0,0:09:29.29,0:09:32.51,SomeponyYellow,,0,0,0,,Well, everyone except for you-know-who.
+Dialogue: 0,0:09:32.59,0:09:33.17,CyanChangeling,,0,0,0,,Yeah.
+Dialogue: 0,0:09:33.17,0:09:36.17,CyanChangeling,,0,0,0,,You-know-who spent all his craft time making spears.
+Dialogue: 0,0:09:37.17,0:09:39.39,SomeponyYellow,,0,0,0,,He's scary and intimidating.
+Dialogue: 0,0:09:39.55,0:09:41.87,SomeponyYellow,,0,0,0,,You-know-who makes me uncomfortable.
+Dialogue: 0,0:09:41.99,0:09:44.11,GreenChangeling,,0,0,0,,He makes us all uncomfortable.
+Dialogue: 0,0:09:44.17,0:09:45.65,Thorax,,0,0,0,,Everyone, please!
+Dialogue: 0,0:09:45.85,0:09:48.95,Thorax,,0,0,0,,I understand Pharynx can be challenging at times…
+Dialogue: 0,0:09:48.95,0:09:50.23,SomeponyYellow,,0,0,0,,That's an understatement.
+Dialogue: 0,0:09:50.23,0:09:52.31,SomeponyYellow,,0,0,0,,He lined the hallway with thorns!
+Dialogue: 0,0:09:52.31,0:09:55.51,GreenChangeling,,0,0,0,,He teaches little changelings to growl and hiss!
+Dialogue: 0,0:09:55.51,0:09:57.39,BlueishGreenChangeling,,0,0,0,,My soup is too hot!
+Dialogue: 0,0:09:59.21,0:09:59.85,BlueishGreenChangeling,,0,0,0,,What?!
+Dialogue: 0,0:09:59.97,0:10:02.49,BlueishGreenChangeling,,0,0,0,,I thought the Feelings Forum was for sharing our problems.
+Dialogue: 0,0:10:02.57,0:10:08.15,Pharynx,,0,0,0,,It sounds like your lame Feelings Forum is for talking about me behind my back!
+Dialogue: 0,0:10:08.29,0:10:13.07,OldLadyChangeling,,0,0,0,,The Feelings Forum is for talking about anything that's bothering you.
+Dialogue: 0,0:10:13.07,0:10:16.23,OldLadyChangeling,,0,0,0,,Is there something you'd like to share, Pharynx?
+Dialogue: 0,0:10:16.35,0:10:17.69,Pharynx,,0,0,0,,Actually, there is.
+Dialogue: 0,0:10:17.87,0:10:20.73,Pharynx,,0,0,0,,The changelings used to be a fearsome swarm.
+Dialogue: 0,0:10:20.73,0:10:23.73,Pharynx,,0,0,0,,Now we sit around talking about our feelings so much
+Dialogue: 0,0:10:23.73,0:10:27.37,Pharynx,,0,0,0,,you can't even stop the maulwurf from eating all your pretty plants.
+Dialogue: 0,0:10:27.71,0:10:29.87,Pharynx,,0,0,0,,I could've sent that thing packing before,
+Dialogue: 0,0:10:29.87,0:10:34.37,Pharynx,,0,0,0,,but I guess now we'll just try to lead it away and hope that keeps us safe.
+Dialogue: 0,0:10:35.39,0:10:37.75,CyanChangeling,,0,0,0,,I, I don't feel safe with him around!
+Dialogue: 0,0:10:37.75,0:10:39.83,GreenChangeling,,0,0,0,,I'd feel safer if he were gone!
+Dialogue: 0,0:10:40.03,0:10:41.33,Thorax,,0,0,0,,I can't do that.
+Dialogue: 0,0:10:41.33,0:10:43.43,Somepony,,0,0,0,,We want him banished!
+Dialogue: 0,0:10:47.59,0:10:49.33,BlueishGreenChangeling,,0,0,0,,Hey! The soup's cooled down.
+Dialogue: 0,0:10:49.37,0:10:51.85,BlueishGreenChangeling,,0,0,0,,This Feelings Forum is great for solving problems.
+Dialogue: 0,0:10:53.37,0:10:55.51,OldLadyChangeling,,0,0,0,,Everyone, please,
+Dialogue: 0,0:10:55.60,0:10:57.67,OldLadyChangeling,,0,0,0,,if you are interrupting each other,
+Dialogue: 0,0:10:57.67,0:11:00.19,OldLadyChangeling,,0,0,0,,we are not affirming each other.
+Dialogue: 0,0:11:03.23,0:11:04.15,OldLadyChangeling,,0,0,0,,That's it!
+Dialogue: 0,0:11:04.15,0:11:06.23,OldLadyChangeling,,0,0,0,,Feelings Forum is over!
+Dialogue: 0,0:11:14.29,0:11:15.19,StarlightGlimmer,,0,0,0,,I…
+Dialogue: 0,0:11:16.83,0:11:18.81,StarlightGlimmer,,0,0,0,,I wanna say something.
+Dialogue: 0,0:11:18.81,0:11:22.31,StarlightGlimmer,,0,0,0,,But that goes against everything I've been taught as Twilight's pupil.
+Dialogue: 0,0:11:22.39,0:11:25.23,Trixie,,0,0,0,,Oh, then, by all means, say it.
+Dialogue: 0,0:11:26.97,0:11:29.65,StarlightGlimmer,,0,0,0,,I think Pharynx is a lost cause.
+Dialogue: 0,0:11:30.45,0:11:33.17,Trixie,,0,0,0,,I'm all for second chances, third even,
+Dialogue: 0,0:11:33.31,0:11:36.17,Trixie,,0,0,0,,but he just seems like a bad bug.
+Dialogue: 0,0:11:36.31,0:11:38.65,StarlightGlimmer,,0,0,0,,And Thorax has a duty to the whole hive!
+Dialogue: 0,0:11:38.65,0:11:40.13,StarlightGlimmer,,0,0,0,,Not just to his brother.
+Dialogue: 0,0:11:40.29,0:11:41.93,Trixie,,0,0,0,,If he keeps sticking up for Pharynx,
+Dialogue: 0,0:11:41.97,0:11:44.87,Trixie,,0,0,0,,the hive might decide they don't want Thorax as their leader!
+Dialogue: 0,0:11:45.03,0:11:47.71,StarlightGlimmer,,0,0,0,,I think, he might have to kick Pharynx out.
+Dialogue: 0,0:11:47.71,0:11:50.23,StarlightGlimmer,,0,0,0,,But I don't want to be the one who tells Thorax that.
+Dialogue: 0,0:11:50.49,0:11:52.05,Trixie,,0,0,0,,Me neither.
+Dialogue: 0,0:11:52.23,0:11:55.19,Trixie,,0,0,0,,But somepony probably should.
+Dialogue: 0,0:11:56.47,0:11:57.89,Trixie,,0,0,0,,I nominate you!
+Dialogue: 0,0:12:04.93,0:12:05.81,StarlightGlimmer,,0,0,0,,Thorax.
+Dialogue: 0,0:12:05.81,0:12:07.89,StarlightGlimmer,,0,0,0,,We have something to tell you.
+Dialogue: 0,0:12:08.29,0:12:10.30,Thorax,,0,0,0,,It's about Pharynx, isn't it?
+Dialogue: 0,0:12:11.97,0:12:14.13,Trixie,,0,0,0,,Maybe…
+Dialogue: 0,0:12:14.53,0:12:18.13,Thorax,,0,0,0,,Look, I know he's an aggressive warrior type, but when I was little
+Dialogue: 0,0:12:18.13,0:12:20.70,Thorax,,0,0,0,,every young changeling wanted to be like that.
+Dialogue: 0,0:12:28.36,0:12:30.84,Thorax,,0,0,0,,Every young changeling, except me.
+Dialogue: 0,0:12:31.25,0:12:33.78,Thorax,,0,0,0,,The others would pick on me for not wanting to fight.
+Dialogue: 0,0:12:33.78,0:12:37.62,Chrysalis,,0,0,0,,Look at the little grub playing with his dollies.
+Dialogue: 0,0:12:41.45,0:12:44.33,Pharynx,,0,0,0,,Step away from my brother.
+Dialogue: 0,0:12:45.72,0:12:47.83,Thorax,,0,0,0,,But Pharynx never let them hurt me.
+Dialogue: 0,0:12:48.60,0:12:51.10,Chrysalis,,0,0,0,,We were just complimenting his dollies.
+Dialogue: 0,0:12:59.73,0:13:01.07,Thorax,,0,0,0,,Thanks, Pharynx.
+Dialogue: 0,0:13:02.19,0:13:03.51,Pharynx,,0,0,0,,Why are you hit yourself?
+Dialogue: 0,0:13:03.51,0:13:04.62,Pharynx,,0,0,0,,Stop hitting yourself!
+Dialogue: 0,0:13:04.62,0:13:05.75,Pharynx,,0,0,0,,Why are you hitting yourself?
+Dialogue: 0,0:13:07.15,0:13:08.87,Thorax,,0,0,0,,Cut it out, Pharynx.
+Dialogue: 0,0:13:09.52,0:13:10.72,Pharynx,,0,0,0,,They're right you know.
+Dialogue: 0,0:13:10.72,0:13:12.36,Pharynx,,0,0,0,,You need to have tougher skin.
+Dialogue: 0,0:13:15.78,0:13:18.63,Trixie,,0,0,0,,That was a really sweet story.
+Dialogue: 0,0:13:19.09,0:13:20.26,Trixie,,0,0,0,,Until the end.
+Dialogue: 0,0:13:20.93,0:13:22.51,Thorax,,0,0,0,,I know Pharynx loved me.
+Dialogue: 0,0:13:22.86,0:13:24.13,Thorax,,0,0,0,,In his own way.
+Dialogue: 0,0:13:24.13,0:13:25.94,Thorax,,0,0,0,,And I know there's still good at him.
+Dialogue: 0,0:13:25.94,0:13:27.79,Thorax,,0,0,0,,That's why I keep sticking up for him.
+Dialogue: 0,0:13:28.02,0:13:30.37,Thorax,,0,0,0,,Anyway, what did you want to talk to me about?
+Dialogue: 0,0:13:30.76,0:13:31.46,Trixie,,0,0,0,,Me?
+Dialogue: 0,0:13:32.21,0:13:33.56,Trixie,,0,0,0,,No… But…
+Dialogue: 0,0:13:33.56,0:13:35.77,Trixie,,0,0,0,,Starlight has something she…
+Dialogue: 0,0:13:36.14,0:13:37.64,StarlightGlimmer,,0,0,0,,Actually, Thorax…
+Dialogue: 0,0:13:38.42,0:13:39.33,StarlightGlimmer,,0,0,0,,Nevermind.
+Dialogue: 0,0:13:39.57,0:13:42.17,StarlightGlimmer,,0,0,0,,Come on, Trixie. We've got a… thing to do.
+Dialogue: 0,0:13:44.19,0:13:45.91,Trixie,,0,0,0,,What are you doing?
+Dialogue: 0,0:13:45.91,0:13:47.14,Trixie,,0,0,0,,I thought we agreed
+Dialogue: 0,0:13:47.14,0:13:50.41,Trixie,,0,0,0,,you tell Thorax he had to kick his brother out of the hive.
+Dialogue: 0,0:13:50.41,0:13:52.03,StarlightGlimmer,,0,0,0,,Maybe we don't have to.
+Dialogue: 0,0:13:52.03,0:13:53.95,StarlightGlimmer,,0,0,0,,Get Pharynx and meet me at the hive entrance.
+Dialogue: 0,0:13:53.95,0:13:55.30,StarlightGlimmer,,0,0,0,,I'll explain everything.
+Dialogue: 0,0:13:56.50,0:13:59.97,Trixie,,0,0,0,,And how am I supposed to know where Pharynx is?
+Dialogue: 0,0:13:59.97,0:14:01.19,GreenChangeling,,0,0,0,,I just saw Pharynx.
+Dialogue: 0,0:14:02.31,0:14:03.64,Trixie,,0,0,0,,Well, that was easy.
+Dialogue: 0,0:14:11.06,0:14:13.97,StarlightGlimmer,,0,0,0,,We'll just use one problem to solve another.
+Dialogue: 0,0:14:13.97,0:14:16.60,StarlightGlimmer,,0,0,0,,I switched the trail of plants around to lure the maulwurf here.
+Dialogue: 0,0:14:16.60,0:14:20.46,StarlightGlimmer,,0,0,0,,The changelings may not able to stop it anymore, but Pharynx certainly can.
+Dialogue: 0,0:14:20.46,0:14:23.75,StarlightGlimmer,,0,0,0,,When it attacks he'll save his brother showing everypony his good side.
+Dialogue: 0,0:14:23.75,0:14:24.95,StarlightGlimmer,,0,0,0,,The others will accept him
+Dialogue: 0,0:14:24.95,0:14:29.01,StarlightGlimmer,,0,0,0,,and Pharynx will finally let love and friendship into his life and transform!
+Dialogue: 0,0:14:29.68,0:14:30.52,Trixie,,0,0,0,,Wow.
+Dialogue: 0,0:14:30.79,0:14:32.80,StarlightGlimmer,,0,0,0,,I know, right? Great idea.
+Dialogue: 0,0:14:34.24,0:14:35.21,StarlightGlimmer,,0,0,0,,Where's Pharynx?
+Dialogue: 0,0:14:35.36,0:14:36.32,Trixie,,0,0,0,,He's gone.
+Dialogue: 0,0:14:36.49,0:14:39.15,StarlightGlimmer,,0,0,0,,Gone like gone to the throne room?
+Dialogue: 0,0:14:39.15,0:14:40.47,Trixie,,0,0,0,,Gone like gone.
+Dialogue: 0,0:14:40.47,0:14:43.70,Trixie,,0,0,0,,One of the changelings said Pharynx left the hive for good.
+Dialogue: 0,0:14:47.29,0:14:50.27,StarlightGlimmer,,0,0,0,,Then who's gonna stop the dread maulwurf I'm leading here?
+Dialogue: 0,0:14:59.12,0:15:00.54,StarlightGlimmer,,0,0,0,,Thorax, there you are.
+Dialogue: 0,0:15:00.63,0:15:01.80,StarlightGlimmer,,0,0,0,,Pharynx is missing.
+Dialogue: 0,0:15:04.40,0:15:06.00,Trixie,,0,0,0,,Wait for it…
+Dialogue: 0,0:15:06.43,0:15:08.99,StarlightGlimmer,,0,0,0,,And the dread maulwurf is coming this way!
+Dialogue: 0,0:15:10.96,0:15:12.13,Trixie,,0,0,0,,Told ya.
+Dialogue: 0,0:15:12.40,0:15:14.16,Thorax,,0,0,0,,That doesn't make any sense.
+Dialogue: 0,0:15:14.16,0:15:17.41,Thorax,,0,0,0,,The trail of plants should've lead the dread maulwurf away.
+Dialogue: 0,0:15:18.25,0:15:22.32,StarlightGlimmer,,0,0,0,,I might have re-laid them to lead it back toward the hive.
+Dialogue: 0,0:15:22.56,0:15:24.04,Thorax,,0,0,0,,Why would you do that?
+Dialogue: 0,0:15:24.04,0:15:26.15,StarlightGlimmer,,0,0,0,,I thought if Pharynx saw you were in danger
+Dialogue: 0,0:15:26.15,0:15:29.09,StarlightGlimmer,,0,0,0,,the loving and caring side of him would come out when he protected you.
+Dialogue: 0,0:15:29.09,0:15:30.48,Thorax,,0,0,0,,But instead he's out there alone
+Dialogue: 0,0:15:30.48,0:15:33.11,Thorax,,0,0,0,,somewhere between us and that rampaging monster?
+Dialogue: 0,0:15:33.11,0:15:34.43,Thorax,,0,0,0,,I have to save him.
+Dialogue: 0,0:15:34.59,0:15:35.57,StarlightGlimmer,,0,0,0,,I'm coming with you.
+Dialogue: 0,0:15:36.14,0:15:37.54,Thorax,,0,0,0,,Of course you are.
+Dialogue: 0,0:15:37.54,0:15:39.00,Thorax,,0,0,0,,This is all your fault.
+Dialogue: 0,0:15:40.25,0:15:42.52,Trixie,,0,0,0,,Don't be too hard on Starlight.
+Dialogue: 0,0:15:42.52,0:15:44.78,Trixie,,0,0,0,,Her heart was in the right place.
+Dialogue: 0,0:15:44.78,0:15:45.94,Thorax,,0,0,0,,You're coming too.
+Dialogue: 0,0:15:46.26,0:15:47.20,Trixie,,0,0,0,,Oh, right.
+Dialogue: 0,0:15:47.20,0:15:49.77,Trixie,,0,0,0,,I mean I was gonna volunteer anyway.
+Dialogue: 0,0:15:50.27,0:15:51.63,Thorax,,0,0,0,,Who else is coming?
+Dialogue: 0,0:15:55.19,0:15:55.84,Thorax,,0,0,0,,Fine.
+Dialogue: 0,0:15:57.84,0:16:00.85,StarlightGlimmer,,0,0,0,,Oh sure, you can all stay here.
+Dialogue: 0,0:16:00.85,0:16:04.19,StarlightGlimmer,,0,0,0,,Not help Pharynx and he won't bother you anymore.
+Dialogue: 0,0:16:04.19,0:16:05.82,StarlightGlimmer,,0,0,0,,It's your choice.
+Dialogue: 0,0:16:05.82,0:16:08.52,StarlightGlimmer,,0,0,0,,But remember when you didn't have a choice,
+Dialogue: 0,0:16:08.52,0:16:11.15,StarlightGlimmer,,0,0,0,,when you were forced to obey Chrysalis,
+Dialogue: 0,0:16:11.15,0:16:15.41,StarlightGlimmer,,0,0,0,,you might to been unstoppable but you weren't free to choose.
+Dialogue: 0,0:16:15.41,0:16:17.12,StarlightGlimmer,,0,0,0,,And now you are.
+Dialogue: 0,0:16:17.12,0:16:19.21,StarlightGlimmer,,0,0,0,,Because of Thorax.
+Dialogue: 0,0:16:19.21,0:16:21.41,StarlightGlimmer,,0,0,0,,Well, it's his brother out there.
+Dialogue: 0,0:16:21.41,0:16:25.65,StarlightGlimmer,,0,0,0,,And now it's your chance to prove you're just as strong embracing love
+Dialogue: 0,0:16:25.65,0:16:27.52,StarlightGlimmer,,0,0,0,,as you were feeding on it!
+Dialogue: 0,0:16:27.52,0:16:31.85,StarlightGlimmer,,0,0,0,,Now it's your chance to show what changelings can really be.
+Dialogue: 0,0:16:31.85,0:16:33.55,StarlightGlimmer,,0,0,0,,Not because you have to!
+Dialogue: 0,0:16:33.55,0:16:36.59,Trixie,,0,0,0,,But because you choose to!
+Dialogue: 0,0:16:37.62,0:16:41.89,Trixie,,0,0,0,,That was an amazingly epic speech, Starlight.
+Dialogue: 0,0:16:41.89,0:16:45.75,Trixie,,0,0,0,,I just can't believe not a single changeling was moved by it.
+Dialogue: 0,0:16:45.75,0:16:47.21,Thorax,,0,0,0,,I can't blame them.
+Dialogue: 0,0:16:47.36,0:16:50.51,Thorax,,0,0,0,,If he wasn't my brother I don't think I'd be here.
+Dialogue: 0,0:16:50.51,0:16:53.27,Thorax,,0,0,0,,We're gonna have to face the maulwurf by ourselves.
+Dialogue: 0,0:16:53.27,0:16:57.20,StarlightGlimmer,,0,0,0,,Maybe it will be long gone and we'll find Pharynx out here alone.
+Dialogue: 0,0:17:01.12,0:17:02.22,StarlightGlimmer,,0,0,0,,Or maybe not.
+Dialogue: 0,0:17:15.14,0:17:16.05,Thorax,,0,0,0,,Pharynx!
+Dialogue: 0,0:17:16.25,0:17:17.67,Pharynx,,0,0,0,,What are you doing here?
+Dialogue: 0,0:17:17.67,0:17:19.25,Thorax,,0,0,0,,I'm here to save you.
+Dialogue: 0,0:17:20.43,0:17:21.30,Pharynx,,0,0,0,,Get outta here!
+Dialogue: 0,0:17:21.75,0:17:22.85,Pharynx,,0,0,0,,Let me handle this.
+Dialogue: 0,0:17:23.23,0:17:25.04,StarlightGlimmer,,0,0,0,,We're not leaving you!
+Dialogue: 0,0:17:35.41,0:17:40.20,Thorax,,0,0,0,,I may have forgotten the mention in my letters that maulwurfs have really thick hides.
+Dialogue: 0,0:17:45.22,0:17:47.18,StarlightGlimmer,,0,0,0,,I thought you said you can beat this thing.
+Dialogue: 0,0:17:47.18,0:17:49.28,Pharynx,,0,0,0,,Yeah, with the rest of the swarm.
+Dialogue: 0,0:17:49.28,0:17:50.42,Pharynx,,0,0,0,,Not alone!
+Dialogue: 0,0:17:50.91,0:17:52.91,Somepony,,0,0,0,,Good thing you're not alone!
+Dialogue: 0,0:17:56.45,0:17:58.74,Trixie,,0,0,0,,I told you it was an epic speech.
+Dialogue: 0,0:18:13.48,0:18:14.63,Thorax,,0,0,0,,It's no use.
+Dialogue: 0,0:18:14.63,0:18:16.63,Thorax,,0,0,0,,We out of practice and it's too tough.
+Dialogue: 0,0:18:21.47,0:18:22.82,Trixie,,0,0,0,,And strong.
+Dialogue: 0,0:18:22.82,0:18:25.38,Trixie,,0,0,0,,Too bad we can't get it into fighting itself!
+Dialogue: 0,0:18:25.38,0:18:26.55,Pharynx,,0,0,0,,That's it!
+Dialogue: 0,0:18:26.55,0:18:29.83,Pharynx,,0,0,0,,Thorax, remember when we were young and I made you hit yourself?
+Dialogue: 0,0:18:30.19,0:18:33.27,Thorax,,0,0,0,,Now it's not the time to make fun of me, Pharynx.
+Dialogue: 0,0:18:33.58,0:18:35.44,Thorax,,0,0,0,,…Oh, right!
+Dialogue: 0,0:18:35.73,0:18:36.79,Thorax,,0,0,0,,Of course!
+Dialogue: 0,0:18:39.67,0:18:40.92,Pharynx,,0,0,0,,Why are you hitting yourself?
+Dialogue: 0,0:18:41.06,0:18:42.30,Pharynx,,0,0,0,,Why are you hitting yourself?
+Dialogue: 0,0:18:42.53,0:18:44.18,Pharynx,,0,0,0,,Why are you hitting yourself?
+Dialogue: 0,0:18:44.56,0:18:46.79,Thorax,,0,0,0,,Yeah, maulwurf, why are you hitting yourself?
+Dialogue: 0,0:18:48.36,0:18:50.74,Thorax,,0,0,0,,Why are you hitting yourself? Huh? Huh? Huh?
+Dialogue: 0,0:18:56.12,0:18:58.00,Trixie,,0,0,0,,Oh, that's look like it hurts.
+Dialogue: 0,0:19:02.27,0:19:03.11,StarlightGlimmer,,0,0,0,,We did it.
+Dialogue: 0,0:19:03.24,0:19:04.17,StarlightGlimmer,,0,0,0,,It's gone!
+Dialogue: 0,0:19:08.08,0:19:09.68,Thorax,,0,0,0,,What were you doing out here?
+Dialogue: 0,0:19:09.68,0:19:10.51,Pharynx,,0,0,0,,Leaving.
+Dialogue: 0,0:19:10.51,0:19:11.94,Pharynx,,0,0,0,,I'm done with all of you.
+Dialogue: 0,0:19:13.08,0:19:16.35,Thorax,,0,0,0,,Oh! It's just… why bother fighting the maulwurf then?
+Dialogue: 0,0:19:16.35,0:19:17.99,Thorax,,0,0,0,,You could have left it alone.
+Dialogue: 0,0:19:17.99,0:19:20.07,Pharynx,,0,0,0,,Well, I couldn't just let it attack you.
+Dialogue: 0,0:19:20.61,0:19:23.40,Thorax,,0,0,0,,But I thought you're done with us and you didn't care.
+Dialogue: 0,0:19:23.62,0:19:24.85,Pharynx,,0,0,0,,I never said that.
+Dialogue: 0,0:19:24.85,0:19:27.27,Pharynx,,0,0,0,,The hive is the thing I care about most.
+Dialogue: 0,0:19:27.54,0:19:29.17,Thorax,,0,0,0,,Well, you surely don't act like it.
+Dialogue: 0,0:19:29.17,0:19:33.00,Pharynx,,0,0,0,,Well, I'm sorry if I don't get excited about pretty flowers
+Dialogue: 0,0:19:33.00,0:19:34.62,Pharynx,,0,0,0,,and feeling circles and…
+Dialogue: 0,0:19:34.62,0:19:36.25,Thorax,,0,0,0,,It's a feelings forum.
+Dialogue: 0,0:19:36.74,0:19:38.53,Pharynx,,0,0,0,,Whatever. It doesn't matter.
+Dialogue: 0,0:19:38.78,0:19:40.76,Pharynx,,0,0,0,,Even if I do care about the hive I…
+Dialogue: 0,0:19:40.76,0:19:43.11,Pharynx,,0,0,0,,obviously don't have a place there anymore.
+Dialogue: 0,0:19:43.37,0:19:44.87,SomeponyYellow,,0,0,0,,Actually, you do.
+Dialogue: 0,0:19:45.13,0:19:46.72,SomeponyYellow,,0,0,0,,Because we've been wrong,
+Dialogue: 0,0:19:46.72,0:19:49.78,SomeponyYellow,,0,0,0,,the hive maybe a gentler and nicer place.
+Dialogue: 0,0:19:49.78,0:19:52.98,CyanChangeling,,0,0,0,,But that doesn't mean we don't have to defend ourselves…
+Dialogue: 0,0:19:53.20,0:19:54.08,CyanChangeling,,0,0,0,,Clearly.
+Dialogue: 0,0:19:54.49,0:19:56.54,Thorax,,0,0,0,,And who better to help us do that
+Dialogue: 0,0:19:56.54,0:19:59.70,Thorax,,0,0,0,,than the only changeling who never stop protecting us?
+Dialogue: 0,0:20:03.37,0:20:05.60,Pharynx,,0,0,0,,You all want me to stay?
+Dialogue: 0,0:20:05.87,0:20:08.46,Thorax,,0,0,0,,Unless you still want to leave the hive.
+Dialogue: 0,0:20:09.10,0:20:10.31,Pharynx,,0,0,0,,Why would I want that?
+Dialogue: 0,0:20:10.31,0:20:11.68,Pharynx,,0,0,0,,I love the hive.
+Dialogue: 0,0:20:26.11,0:20:27.27,Trixie,,0,0,0,,He did it!
+Dialogue: 0,0:20:27.27,0:20:29.09,Trixie,,0,0,0,,He transformed.
+Dialogue: 0,0:20:29.53,0:20:31.80,StarlightGlimmer,,0,0,0,,I always knew you had it in you.
+Dialogue: 0,0:20:31.80,0:20:32.60,Pharynx,,0,0,0,,Really?
+Dialogue: 0,0:20:32.60,0:20:34.57,Pharynx,,0,0,0,,Because I thought you said I was a lost cause
+Dialogue: 0,0:20:34.57,0:20:36.84,Pharynx,,0,0,0,,and you were going to tell Thorax he should kick me out.
+Dialogue: 0,0:20:37.93,0:20:40.21,Trixie,,0,0,0,,Oh, Starlight!
+Dialogue: 0,0:20:40.21,0:20:42.39,Trixie,,0,0,0,,How could you say that?
+Dialogue: 0,0:20:43.03,0:20:43.59,StarlightGlimmer,,0,0,0,,What?
+Dialogue: 0,0:20:43.59,0:20:44.26,StarlightGlimmer,,0,0,0,,That's…
+Dialogue: 0,0:20:44.68,0:20:45.59,StarlightGlimmer,,0,0,0,,I mean…
+Dialogue: 0,0:20:45.59,0:20:46.60,StarlightGlimmer,,0,0,0,,But you…
+Dialogue: 0,0:20:47.21,0:20:50.21,Thorax,,0,0,0,,Lucky for us, you weren't a lost cause.
+Dialogue: 0,0:20:50.21,0:20:51.48,Pharynx,,0,0,0,,Lucky for me,
+Dialogue: 0,0:20:51.48,0:20:52.99,Pharynx,,0,0,0,,you didn't give up on me.
+Dialogue: 0,0:20:56.73,0:20:58.51,Trixie,,0,0,0,,So…
+Dialogue: 0,0:20:58.51,0:21:00.97,Trixie,,0,0,0,,glad everything worked out.
+Dialogue: 0,0:21:00.97,0:21:01.77,Thorax,,0,0,0,,Yeah.
+Dialogue: 0,0:21:01.77,0:21:05.25,Thorax,,0,0,0,,Let's talk about how you not only let the maulwurf to the hive,
+Dialogue: 0,0:21:05.25,0:21:07.70,Thorax,,0,0,0,,but also drove my brother away from it.
+Dialogue: 0,0:21:08.50,0:21:11.58,StarlightGlimmer,,0,0,0,,I am so sorry about that.
+Dialogue: 0,0:21:11.58,0:21:15.11,StarlightGlimmer,,0,0,0,,But I would like to point out that my admittedly terrible plan
+Dialogue: 0,0:21:15.11,0:21:17.68,StarlightGlimmer,,0,0,0,,did bring everything together in the end.
+Dialogue: 0,0:21:18.00,0:21:18.49,Pharynx,,0,0,0,,Hey.
+Dialogue: 0,0:21:18.49,0:21:19.89,Pharynx,,0,0,0,,Do you guys want to hear the story
+Dialogue: 0,0:21:19.89,0:21:22.14,Pharynx,,0,0,0,,about how I used to make Thorax hit himself?
+Dialogue: 0,0:21:22.14,0:21:24.14,StarlightGlimmer,,0,0,0,,Absolutely yes. Right now.
+Dialogue: 0,0:21:24.45,0:21:25.35,Pharynx,,0,0,0,,Well.
+Dialogue: 0,0:21:25.35,0:21:26.42,Pharynx,,0,0,0,,When we were young,
+Dialogue: 0,0:21:26.42,0:21:28.83,Pharynx,,0,0,0,,every changeling wanted to be a warrior.
+Dialogue: 0,0:21:28.83,0:21:30.30,Pharynx,,0,0,0,,Except with Thorax.
+Dialogue: 0,0:21:30.30,0:21:31.85,Pharynx,,0,0,0,,He was a little wimp.
+Dialogue: 0,0:21:31.85,0:21:33.01,Pharynx,,0,0,0,,I had to protect…
+Dialogue: 0,0:21:34.01,0:21:37.71,Default,,0,0,0,,SCHASTLIVY PONEC
+Dialogue: 0,0:21:37.71,0:21:41.41,Default,,0,0,0,,anon2anon\Nsunnysubs.com

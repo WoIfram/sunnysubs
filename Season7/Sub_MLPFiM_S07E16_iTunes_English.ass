@@ -1,0 +1,358 @@
+﻿[Script Info]
+PlayResX:1920
+PlayResY:1080
+ScaledBorderAndShadow: yes
+ScriptType: v4.00+
+WrapStyle: 0
+YCbCr Matrix: TV.601
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: AppleBloom,Arial,68,&H00C0FAF4,&H000000FF,&H006F00FF,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: AppleJack,Arial,68,&H00FFFFFF,&H000000FF,&H00005AFF,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Default,Arial,68,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: PrincessCadence,Arial,68,&H00D7F8FE,&H000000FF,&H00B0327F,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: RainbowDash,Arial,68,&H00FFFFFF,&H000000FF,&H00D29B1E,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Rarity,Arial,68,&H00FFFBF0,&H000000FF,&H00690050,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Scootaloo,Arial,68,&H00A0DAFF,&H000000FF,&H007800A0,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Somepony,Arial,68,&H00FFFFFF,&H000000FF,&H007D7E80,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: SomeponyBluishWhite,Arial,68,&H00FFE2D8,&H000000FF,&H00333333,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: SomeponyLightCyan,Arial,68,&H00FBFFB0,&H000000FF,&H00333333,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: SomeponyYellow,Arial,68,&H0098FFFE,&H000000FF,&H00333333,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: SweetieBelle,Arial,68,&H00E8F0FF,&H000000FF,&H00752A5E,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:05.37,0:00:06.76,AppleJack,,0,0,0,,Get over here!
+Dialogue: 0,0:00:12.38,0:00:13.98,AppleJack,,0,0,0,,Tents are looking good.
+Dialogue: 0,0:00:13.98,0:00:15.49,AppleJack,,0,0,0,,And we've made good time today.
+Dialogue: 0,0:00:15.49,0:00:18.49,AppleJack,,0,0,0,,At this rate we will be at Winsome Falls by tomorrow.
+Dialogue: 0,0:00:18.49,0:00:23.22,AppleBloom,,0,0,0,,We should do the annual big sister / little sister camping trip every weekend.
+Dialogue: 0,0:00:23.22,0:00:25.15,AppleJack,,0,0,0,,Then it wouldn't be annual.
+Dialogue: 0,0:00:25.15,0:00:26.77,AppleJack,,0,0,0,,And if we did it every weekend,
+Dialogue: 0,0:00:26.77,0:00:28.90,AppleJack,,0,0,0,,it probably wouldn't be as special.
+Dialogue: 0,0:00:28.90,0:00:32.13,AppleBloom,,0,0,0,,But, the more we do it, the better we get at camping.
+Dialogue: 0,0:00:32.13,0:00:33.78,AppleBloom,,0,0,0,,Remember the first time we came here
+Dialogue: 0,0:00:33.78,0:00:36.05,AppleBloom,,0,0,0,,and Rarity had that ginormous tent?
+Dialogue: 0,0:00:36.05,0:00:37.23,Rarity,,0,0,0,,I heard that.
+Dialogue: 0,0:00:37.89,0:00:41.38,Rarity,,0,0,0,,I've got much better at "roughing it", haven't I?
+Dialogue: 0,0:00:42.22,0:00:42.85,SweetieBelle,,0,0,0,,Yep.
+Dialogue: 0,0:00:42.85,0:00:45.76,SweetieBelle,,0,0,0,,This time you only packed three suitcases.
+Dialogue: 0,0:00:47.17,0:00:48.80,Rarity,,0,0,0,,I know what you're thinking.
+Dialogue: 0,0:00:48.80,0:00:51.92,Rarity,,0,0,0,,But I promise, I only brought the essentials.
+Dialogue: 0,0:00:51.92,0:00:53.80,AppleJack,,0,0,0,,Like those light thingies?
+Dialogue: 0,0:00:54.58,0:00:58.04,Rarity,,0,0,0,,Of course. What is life if you can't make it beautiful?
+Dialogue: 0,0:01:03.64,0:01:06.06,RainbowDash,,0,0,0,,These berries look good enough to eat.
+Dialogue: 0,0:01:07.03,0:01:07.92,Scootaloo,,0,0,0,,Don't!!!
+Dialogue: 0,0:01:08.28,0:01:11.22,Scootaloo,,0,0,0,,According to my book, they are extremely poisonous!
+Dialogue: 0,0:01:19.70,0:01:20.51,RainbowDash,,0,0,0,,What?
+Dialogue: 0,0:01:20.77,0:01:21.84,Scootaloo,,0,0,0,,I heard something,
+Dialogue: 0,0:01:21.84,0:01:23.16,Scootaloo,,0,0,0,,I stepped on something,
+Dialogue: 0,0:01:23.16,0:01:25.60,Scootaloo,,0,0,0,,And I saw that cre-e-epy cave.
+Dialogue: 0,0:01:26.00,0:01:28.69,Scootaloo,,0,0,0,,I guess I still get a little bit scared out here.
+Dialogue: 0,0:01:28.69,0:01:30.86,Scootaloo,,0,0,0,,Even after the last camping trip.
+Dialogue: 0,0:01:30.86,0:01:32.30,RainbowDash,,0,0,0,,Don't worry kid,
+Dialogue: 0,0:01:32.30,0:01:35.24,RainbowDash,,0,0,0,,you got a big sister this time.
+Dialogue: 0,0:01:38.87,0:01:40.39,AppleBloom,,0,0,0,,This looks amazing!
+Dialogue: 0,0:01:41.09,0:01:46.08,SweetieBelle,,0,0,0,,This is gonna be the best\Nbig sister-slash-little sister camping trip ever!
+Dialogue: 0,0:02:45.39,0:02:46.62,Scootaloo,,0,0,0,,What are these things?
+Dialogue: 0,0:02:48.17,0:02:49.61,AppleJack,,0,0,0,,Flyders!
+Dialogue: 0,0:02:49.71,0:02:51.75,AppleJack,,0,0,0,,Everypony, run for cover!
+Dialogue: 0,0:02:51.75,0:02:53.17,AppleJack,,0,0,0,,Don't get stuck in their…
+Dialogue: 0,0:02:53.84,0:02:54.54,AppleJack,,0,0,0,,web.
+Dialogue: 0,0:02:57.00,0:02:57.99,SweetieBelle,,0,0,0,,Now what?
+Dialogue: 0,0:02:58.12,0:02:59.65,RainbowDash,,0,0,0,,Follow me, everypony!
+Dialogue: 0,0:03:05.92,0:03:08.03,Scootaloo,,0,0,0,,Not the scary cave!
+Dialogue: 0,0:03:11.53,0:03:14.02,Scootaloo,,0,0,0,,Where did those terrible bugs come from?
+Dialogue: 0,0:03:14.30,0:03:16.04,Scootaloo,,0,0,0,,And why did they destroy our camp?
+Dialogue: 0,0:03:16.53,0:03:18.75,AppleJack,,0,0,0,,Flyders are from the Luna Bay area.
+Dialogue: 0,0:03:18.75,0:03:21.04,AppleJack,,0,0,0,,Never seen 'em this far east though.
+Dialogue: 0,0:03:21.04,0:03:22.77,AppleJack,,0,0,0,,Probably attracted to the food.
+Dialogue: 0,0:03:22.91,0:03:24.61,AppleJack,,0,0,0,,Best wait here until they're gone.
+Dialogue: 0,0:03:24.61,0:03:26.08,AppleBloom,,0,0,0,,Oh, apple rot.
+Dialogue: 0,0:03:26.24,0:03:28.08,AppleBloom,,0,0,0,,What are we supposed to do now?
+Dialogue: 0,0:03:28.08,0:03:31.13,AppleBloom,,0,0,0,,We had games to play and marshmallows to roast at camp.
+Dialogue: 0,0:03:31.13,0:03:32.82,AppleBloom,,0,0,0,,And here we got nothin'.
+Dialogue: 0,0:03:33.60,0:03:35.26,Rarity,,0,0,0,,That's not entirely true,
+Dialogue: 0,0:03:35.68,0:03:36.94,Rarity,,0,0,0,,we have each other.
+Dialogue: 0,0:03:37.52,0:03:38.48,AppleJack,,0,0,0,,That's right.
+Dialogue: 0,0:03:38.70,0:03:40.09,AppleJack,,0,0,0,,And if you girls want to,
+Dialogue: 0,0:03:40.09,0:03:42.74,AppleJack,,0,0,0,,maybe we could tell some stories to pass the time.
+Dialogue: 0,0:03:42.97,0:03:44.52,RainbowDash,,0,0,0,,You want stories?
+Dialogue: 0,0:03:44.52,0:03:46.48,RainbowDash,,0,0,0,,I've got a ton of stories.
+Dialogue: 0,0:03:46.72,0:03:47.88,RainbowDash,,0,0,0,,Spoiler alert:
+Dialogue: 0,0:03:47.88,0:03:50.73,RainbowDash,,0,0,0,,they are all about me and how awesome I am.
+Dialogue: 0,0:03:51.10,0:03:54.11,AppleJack,,0,0,0,,I was thinking more like campfire stories.
+Dialogue: 0,0:03:54.11,0:03:56.46,AppleBloom,,0,0,0,,But we don't even have a campfire.
+Dialogue: 0,0:03:56.59,0:03:57.57,RainbowDash,,0,0,0,,I got this.
+Dialogue: 0,0:04:00.38,0:04:01.41,AppleJack,,0,0,0,,That was brave.
+Dialogue: 0,0:04:03.58,0:04:04.72,RainbowDash,,0,0,0,,It was no biggy.
+Dialogue: 0,0:04:07.08,0:04:10.81,Scootaloo,,0,0,0,,We aren't gonna tell scary stories like our last camping trip, are we?
+Dialogue: 0,0:04:11.32,0:04:13.71,Scootaloo,,0,0,0,,It's bad enough just being in here!
+Dialogue: 0,0:04:13.87,0:04:15.18,AppleJack,,0,0,0,,Don't worry, Scootaloo.
+Dialogue: 0,0:04:15.18,0:04:18.56,AppleJack,,0,0,0,,I was gonna tell you mine and Applebloom's favorite legend.
+Dialogue: 0,0:04:18.67,0:04:20.25,AppleBloom,,0,0,0,,Oh, you mean Rockhoof?
+Dialogue: 0,0:04:20.25,0:04:21.34,AppleBloom,,0,0,0,,I love that one!
+Dialogue: 0,0:04:21.75,0:04:23.11,AppleBloom,,0,0,0,,He was so strong and when he…
+Dialogue: 0,0:04:23.11,0:04:23.96,SweetieBelle,,0,0,0,,Applebloom!
+Dialogue: 0,0:04:24.53,0:04:26.01,SweetieBelle,,0,0,0,,We haven't heard it yet!
+Dialogue: 0,0:04:26.01,0:04:27.07,AppleBloom,,0,0,0,,Oh, okay.
+Dialogue: 0,0:04:27.21,0:04:28.54,AppleBloom,,0,0,0,,But it's so good!
+Dialogue: 0,0:04:28.84,0:04:30.02,AppleJack,,0,0,0,,Well, it's true.
+Dialogue: 0,0:04:30.24,0:04:33.49,AppleJack,,0,0,0,,Rockhoof was known far and wide for his incredible strength.
+Dialogue: 0,0:04:33.80,0:04:35.58,AppleJack,,0,0,0,,But he didn't start out that way.
+Dialogue: 0,0:04:35.80,0:04:38.91,AppleJack,,0,0,0,,You see, Rockhoof was a tiny little fella,
+Dialogue: 0,0:04:38.91,0:04:40.02,AppleJack,,0,0,0,,the son of a farmer.
+Dialogue: 0,0:04:40.02,0:04:41.16,AppleBloom,,0,0,0,,Just like us!
+Dialogue: 0,0:04:44.07,0:04:48.62,AppleJack,,0,0,0,,They lived in a village that sat at the foot of the gigantic volcano.
+Dialogue: 0,0:04:51.29,0:04:54.69,AppleJack,,0,0,0,,And the village was protected by an elite group of guard ponies
+Dialogue: 0,0:04:54.69,0:04:56.22,AppleJack,,0,0,0,,called the Mighty Helm.
+Dialogue: 0,0:05:01.08,0:05:04.98,AppleJack,,0,0,0,,Young Rockhoof wanted nothing more than to be part of the Mighty Helm.
+Dialogue: 0,0:05:11.43,0:05:15.62,AppleJack,,0,0,0,,But he was told he was too scrawny and weak to protect the village.
+Dialogue: 0,0:05:22.60,0:05:25.53,AppleJack,,0,0,0,,But Rockhoof wouldn't take no for an answer.
+Dialogue: 0,0:05:29.88,0:05:32.26,AppleJack,,0,0,0,,Then, one fateful day
+Dialogue: 0,0:05:32.74,0:05:34.96,AppleJack,,0,0,0,,the volcano erupted!
+Dialogue: 0,0:05:39.72,0:05:41.34,AppleBloom,,0,0,0,,This is my favorite part!
+Dialogue: 0,0:05:41.34,0:05:42.95,Somepony,,0,0,0,,What happened next?
+Dialogue: 0,0:05:44.41,0:05:47.55,AppleJack,,0,0,0,,The molten lava poured down the side of the volcano.
+Dialogue: 0,0:05:49.46,0:05:54.32,AppleJack,,0,0,0,,And try as they might, the Mighty Helm couldn't figure out the way to save the village.
+Dialogue: 0,0:05:55.00,0:05:56.44,AppleJack,,0,0,0,,They had to evacuate!
+Dialogue: 0,0:05:56.76,0:05:59.64,AppleJack,,0,0,0,,But the village ponies didn't want to leave their homes.
+Dialogue: 0,0:06:00.85,0:06:02.88,AppleJack,,0,0,0,,They spent their entire lives there.
+Dialogue: 0,0:06:02.88,0:06:04.52,AppleJack,,0,0,0,,They had nowhere else to go.
+Dialogue: 0,0:06:08.24,0:06:11.76,AppleJack,,0,0,0,,So Rockhoof decided to do something crazy.
+Dialogue: 0,0:06:16.91,0:06:19.80,AppleJack,,0,0,0,,He thought, if he could divert the flow of the lava,
+Dialogue: 0,0:06:19.80,0:06:22.15,AppleJack,,0,0,0,,he might be able to save his village.
+Dialogue: 0,0:06:22.78,0:06:25.25,AppleJack,,0,0,0,,He started diggin' a trench.
+Dialogue: 0,0:06:25.25,0:06:26.50,SweetieBelle,,0,0,0,,Wait a minute.
+Dialogue: 0,0:06:26.92,0:06:28.16,SweetieBelle,,0,0,0,,All by himself?
+Dialogue: 0,0:06:28.67,0:06:31.83,RainbowDash,,0,0,0,,It'd be impossible for one pony to dig a trench
+Dialogue: 0,0:06:31.83,0:06:33.85,RainbowDash,,0,0,0,,fast enough to stop the lava.
+Dialogue: 0,0:06:33.85,0:06:35.87,RainbowDash,,0,0,0,,I mean, even I couldn't do that.
+Dialogue: 0,0:06:38.08,0:06:42.24,AppleJack,,0,0,0,,Good thing Rockhoof didn't believe in the word impossible.
+Dialogue: 0,0:06:43.37,0:06:44.88,AppleJack,,0,0,0,,He continued to work,
+Dialogue: 0,0:06:44.88,0:06:46.84,AppleJack,,0,0,0,,knowing the odds were against him,
+Dialogue: 0,0:06:46.84,0:06:48.85,AppleJack,,0,0,0,,but determined to push through.
+Dialogue: 0,0:06:50.92,0:06:53.72,AppleJack,,0,0,0,,Then somethin' magical happened.
+Dialogue: 0,0:06:58.99,0:07:01.64,AppleJack,,0,0,0,,Rockhoof got visibly stronger.
+Dialogue: 0,0:07:02.06,0:07:04.23,AppleJack,,0,0,0,,But the lava was gettin' closer.
+Dialogue: 0,0:07:25.61,0:07:29.96,AppleJack,,0,0,0,,Through his extraordinary determination and sheer force of will
+Dialogue: 0,0:07:30.22,0:07:33.90,AppleJack,,0,0,0,,Rockhoof more than earned his place in the Mighty Helm.
+Dialogue: 0,0:07:37.96,0:07:39.80,RainbowDash,,0,0,0,,Good story, Applejack.
+Dialogue: 0,0:07:39.97,0:07:41.66,RainbowDash,,0,0,0,,Even if it wasn't about me.
+Dialogue: 0,0:07:42.95,0:07:46.61,AppleBloom,,0,0,0,,I love that story no matter how many times I hear it.
+Dialogue: 0,0:07:46.61,0:07:48.89,Rarity,,0,0,0,,Why don't we see if it's safe to head back to camp?
+Dialogue: 0,0:07:48.89,0:07:50.44,SweetieBelle,,0,0,0,,E-eh, girls?
+Dialogue: 0,0:07:50.94,0:07:53.15,SweetieBelle,,0,0,0,,There is no camp to go back to.
+Dialogue: 0,0:08:04.25,0:08:06.86,SweetieBelle,,0,0,0,,All our hard work is ruined.
+Dialogue: 0,0:08:10.12,0:08:11.52,Rarity,,0,0,0,,There, there, Sweetie Belle.
+Dialogue: 0,0:08:11.52,0:08:12.93,Rarity,,0,0,0,,Not to worry.
+Dialogue: 0,0:08:12.93,0:08:13.85,SweetieBelle,,0,0,0,,How?
+Dialogue: 0,0:08:13.85,0:08:16.85,SweetieBelle,,0,0,0,,Our camp was so pretty and this cave is so…
+Dialogue: 0,0:08:17.52,0:08:18.57,SweetieBelle,,0,0,0,,not.
+Dialogue: 0,0:08:19.36,0:08:21.91,Rarity,,0,0,0,,Oh no-no-no-no-no. Not true.
+Dialogue: 0,0:08:21.91,0:08:23.73,Rarity,,0,0,0,,There's beauty in everything!
+Dialogue: 0,0:08:23.73,0:08:26.50,Rarity,,0,0,0,,Even these blah rocks aren't really blah.
+Dialogue: 0,0:08:26.50,0:08:29.63,Rarity,,0,0,0,,If you look closely, you can see flakes of gold in them.
+Dialogue: 0,0:08:29.63,0:08:32.77,Rarity,,0,0,0,,And the way the firelight dances on the cave wall,
+Dialogue: 0,0:08:32.77,0:08:35.88,Rarity,,0,0,0,,shadow and light… oh, so gorgeous.
+Dialogue: 0,0:08:37.59,0:08:41.90,Rarity,,0,0,0,,Sweetie Belle, have I ever told you about my favorite legend?
+Dialogue: 0,0:08:42.15,0:08:44.28,SweetieBelle,,0,0,0,,No! I didn't know you had one.
+Dialogue: 0,0:08:44.41,0:08:46.91,Rarity,,0,0,0,,Her name was Mistmane.
+Dialogue: 0,0:08:46.97,0:08:48.28,RainbowDash,,0,0,0,,Mistmane?
+Dialogue: 0,0:08:48.75,0:08:52.20,RainbowDash,,0,0,0,,Isn't she the old wrinkly sorceress with the flower?
+Dialogue: 0,0:08:52.20,0:08:55.04,Rarity,,0,0,0,,Yes, but did you know,
+Dialogue: 0,0:08:55.04,0:08:59.79,Rarity,,0,0,0,,she used to be the most beautiful unicorn in all the land?
+Dialogue: 0,0:09:00.43,0:09:01.05,RainbowDash,,0,0,0,,No.
+Dialogue: 0,0:09:01.53,0:09:03.36,Somepony,,0,0,0,,So what happened to her?
+Dialogue: 0,0:09:03.44,0:09:07.97,Rarity,,0,0,0,,Well, Mistmane was a very promising young sorceress.
+Dialogue: 0,0:09:08.65,0:09:12.94,Rarity,,0,0,0,,She was as talented as she was beautiful and kind.
+Dialogue: 0,0:09:12.94,0:09:15.09,Rarity,,0,0,0,,Everypony loved her and missed her
+Dialogue: 0,0:09:15.09,0:09:17.58,Rarity,,0,0,0,,when she was sent to the finest magic school.
+Dialogue: 0,0:09:24.02,0:09:25.25,Rarity,,0,0,0,,While she was gone,
+Dialogue: 0,0:09:25.25,0:09:29.32,Rarity,,0,0,0,,she was delighted to find out that her best friend, Sable Spirit,
+Dialogue: 0,0:09:29.32,0:09:31.36,Rarity,,0,0,0,,was crowned empress.
+Dialogue: 0,0:09:31.36,0:09:35.28,Rarity,,0,0,0,,She couldn't wait to return home once she finished her studies.
+Dialogue: 0,0:09:35.51,0:09:40.10,Rarity,,0,0,0,,But once she arrived, she was devastated by what she saw.
+Dialogue: 0,0:09:44.94,0:09:46.88,PrincessCadence,,0,0,0,,What happened here?
+Dialogue: 0,0:09:46.88,0:09:48.20,SomeponyLightCyan,,0,0,0,,The Empress happened.
+Dialogue: 0,0:09:48.87,0:09:52.24,SomeponyLightCyan,,0,0,0,,She makes everypony work day and night on her palace.
+Dialogue: 0,0:09:52.36,0:09:54.91,SomeponyLightCyan,,0,0,0,,We don't have time to take care of anything else.
+Dialogue: 0,0:09:54.91,0:09:57.27,PrincessCadence,,0,0,0,,But that can't be, I know her!
+Dialogue: 0,0:09:57.27,0:09:59.38,PrincessCadence,,0,0,0,,She would never do this.
+Dialogue: 0,0:10:00.07,0:10:02.99,Rarity,,0,0,0,,But there was no denying what was in front of her.
+Dialogue: 0,0:10:10.57,0:10:15.27,Rarity,,0,0,0,,Sable Spirit took everything that was beautiful away from anypony else.
+Dialogue: 0,0:10:15.68,0:10:19.36,Rarity,,0,0,0,,Mistmane was sure there had to be some explanation.
+Dialogue: 0,0:10:21.07,0:10:22.75,SweetieBelle,,0,0,0,,I'd assume there was too,
+Dialogue: 0,0:10:22.75,0:10:25.87,SweetieBelle,,0,0,0,,if somepony told me either one of you two had gone evil.
+Dialogue: 0,0:10:25.87,0:10:27.67,Scootaloo,,0,0,0,,Yeah, I'd never believe it.
+Dialogue: 0,0:10:27.96,0:10:28.89,AppleBloom,,0,0,0,,I don't know,
+Dialogue: 0,0:10:28.89,0:10:31.57,AppleBloom,,0,0,0,,I've seen the way you two get when you miss breakfast.
+Dialogue: 0,0:10:32.82,0:10:35.39,AppleBloom,,0,0,0,,Just kidding, but I'd want answers too.
+Dialogue: 0,0:10:35.72,0:10:37.47,Rarity,,0,0,0,,So did Mistmane.
+Dialogue: 0,0:10:37.47,0:10:39.55,Rarity,,0,0,0,,She went to confront her friend.
+Dialogue: 0,0:10:44.61,0:10:46.73,PrincessCadence,,0,0,0,,Sable, is that you?
+Dialogue: 0,0:10:46.95,0:10:50.41,Somepony,,0,0,0,,Don't tell me you don't recognize your old friend.
+Dialogue: 0,0:10:50.41,0:10:51.29,PrincessCadence,,0,0,0,,I don't.
+Dialogue: 0,0:10:51.29,0:10:54.12,PrincessCadence,,0,0,0,,My friend would never work our families and friends to the bone
+Dialogue: 0,0:10:54.12,0:10:56.51,PrincessCadence,,0,0,0,,for something as silly as a palace.
+Dialogue: 0,0:10:56.51,0:10:57.53,Somepony,,0,0,0,,Silly?
+Dialogue: 0,0:10:57.81,0:11:00.48,Somepony,,0,0,0,,My palace is a beacon of beauty!
+Dialogue: 0,0:11:00.48,0:11:04.28,Somepony,,0,0,0,,Anypony who passes will be in awe of its majesty!
+Dialogue: 0,0:11:04.51,0:11:09.19,PrincessCadence,,0,0,0,,What good is a pretty palace if it just hides the misery of its ponies.
+Dialogue: 0,0:11:09.52,0:11:11.44,Somepony,,0,0,0,,Beauty is everything.
+Dialogue: 0,0:11:11.93,0:11:13.78,Somepony,,0,0,0,,You taught me that.
+Dialogue: 0,0:11:13.78,0:11:14.53,PrincessCadence,,0,0,0,,What?
+Dialogue: 0,0:11:14.78,0:11:16.67,Somepony,,0,0,0,,You were always the pretty one.
+Dialogue: 0,0:11:16.67,0:11:19.21,Somepony,,0,0,0,,You got to go to the best magic school.
+Dialogue: 0,0:11:19.21,0:11:20.98,Somepony,,0,0,0,,Everypony missed you.
+Dialogue: 0,0:11:20.98,0:11:22.78,Somepony,,0,0,0,,Everypony loved you!
+Dialogue: 0,0:11:22.78,0:11:25.00,Somepony,,0,0,0,,I admit I was jealous.
+Dialogue: 0,0:11:25.00,0:11:28.92,Somepony,,0,0,0,,So I tried to perform a spell that would make me beautiful.
+Dialogue: 0,0:11:29.96,0:11:31.92,Somepony,,0,0,0,,You can see how that went.
+Dialogue: 0,0:11:32.89,0:11:35.37,Somepony,,0,0,0,,I found if I couldn't have beauty,
+Dialogue: 0,0:11:35.37,0:11:36.71,Somepony,,0,0,0,,I would take it.
+Dialogue: 0,0:11:36.71,0:11:39.37,Somepony,,0,0,0,,I wasn't chosen to be Empress, you know.
+Dialogue: 0,0:11:39.37,0:11:41.11,Somepony,,0,0,0,,I took it!
+Dialogue: 0,0:11:41.11,0:11:44.79,Somepony,,0,0,0,,Just like I'm going to take everything else.
+Dialogue: 0,0:11:45.23,0:11:47.12,PrincessCadence,,0,0,0,,I can't let you do that.
+Dialogue: 0,0:11:48.38,0:11:49.77,Somepony,,0,0,0,,Let me?
+Dialogue: 0,0:12:30.60,0:12:33.15,Rarity,,0,0,0,,Everypony thought Sable Spirit was defeated
+Dialogue: 0,0:12:33.15,0:12:34.59,Rarity,,0,0,0,,and that was that.
+Dialogue: 0,0:12:34.67,0:12:37.99,Rarity,,0,0,0,,But Mistmane knew, there was more she could do to help.
+Dialogue: 0,0:12:40.44,0:12:41.95,Rarity,,0,0,0,,Beauty isn't everything.
+Dialogue: 0,0:12:42.10,0:12:46.14,Rarity,,0,0,0,,But Mistmane knew that it does have the power to make ponies smile.
+Dialogue: 0,0:12:50.71,0:12:55.60,Rarity,,0,0,0,,She made a huge sacrifice to bring that smile back to her friends and family's faces.
+Dialogue: 0,0:12:57.71,0:12:59.93,Rarity,,0,0,0,,Including Sable Spirit's.
+Dialogue: 0,0:13:05.84,0:13:07.67,Somepony,,0,0,0,,You did this for me?
+Dialogue: 0,0:13:07.67,0:13:11.21,Somepony,,0,0,0,,Even after I was so cruel?
+Dialogue: 0,0:13:11.51,0:13:13.68,Rarity,,0,0,0,,Sable Spirit was so touched
+Dialogue: 0,0:13:13.68,0:13:17.05,Rarity,,0,0,0,,that she vowed to be more like her friend in the ways that mattered.
+Dialogue: 0,0:13:17.05,0:13:20.82,Rarity,,0,0,0,,From then on, she ruled with kindness and compassion.
+Dialogue: 0,0:13:32.85,0:13:35.50,Rarity,,0,0,0,,Even though she gave away her physical beauty,
+Dialogue: 0,0:13:35.50,0:13:39.64,Rarity,,0,0,0,,she dedicated her life to spreading beauty all over Equestria.
+Dialogue: 0,0:13:41.35,0:13:44.20,Rarity,,0,0,0,,Anytime you go out of your way to brighten somepony's day,
+Dialogue: 0,0:13:44.20,0:13:46.92,Rarity,,0,0,0,,by doing something like giving them flowers,
+Dialogue: 0,0:13:46.92,0:13:49.62,Rarity,,0,0,0,,you're following in the footsteps of Mistmane.
+Dialogue: 0,0:13:52.80,0:13:55.58,SweetieBelle,,0,0,0,,I think she's my favorite legend, too.
+Dialogue: 0,0:14:03.98,0:14:06.19,RainbowDash,,0,0,0,,These flyders won't qiut.
+Dialogue: 0,0:14:06.19,0:14:08.01,RainbowDash,,0,0,0,,What do they want from us now?
+Dialogue: 0,0:14:08.01,0:14:11.38,AppleJack,,0,0,0,,Well, like it or not, we're food too.
+Dialogue: 0,0:14:11.38,0:14:13.30,SweetieBelle,,0,0,0,,And I've got the bites to prove it.
+Dialogue: 0,0:14:13.30,0:14:14.44,Scootaloo,,0,0,0,,What are we gonna do?!
+Dialogue: 0,0:14:14.44,0:14:16.22,Scootaloo,,0,0,0,,They are almost here!
+Dialogue: 0,0:14:22.50,0:14:23.43,RainbowDash,,0,0,0,,What?
+Dialogue: 0,0:14:23.43,0:14:25.56,RainbowDash,,0,0,0,,Now those bugs can't get in.
+Dialogue: 0,0:14:27.50,0:14:30.30,Scootaloo,,0,0,0,,And we can't get out!
+Dialogue: 0,0:14:37.41,0:14:39.60,AppleJack,,0,0,0,,Let's all just stay calm.
+Dialogue: 0,0:14:39.60,0:14:41.40,AppleJack,,0,0,0,,Let me relight this fire.
+Dialogue: 0,0:14:44.40,0:14:47.21,Rarity,,0,0,0,,We just have to wait until the swarm moves on.
+Dialogue: 0,0:14:47.21,0:14:48.82,Rarity,,0,0,0,,Then we'll think of a way out.
+Dialogue: 0,0:14:48.82,0:14:50.18,Scootaloo,,0,0,0,,How long will that be?!
+Dialogue: 0,0:14:50.18,0:14:52.42,Scootaloo,,0,0,0,,Don't bears live in caves?!
+Dialogue: 0,0:14:54.75,0:14:57.64,RainbowDash,,0,0,0,,Scootaloo, you are focusing on the wrong things.
+Dialogue: 0,0:14:57.64,0:14:58.86,Scootaloo,,0,0,0,,You have a plan?!
+Dialogue: 0,0:14:58.86,0:15:01.44,RainbowDash,,0,0,0,,Close, I have a story.
+Dialogue: 0,0:15:02.24,0:15:03.17,AppleJack,,0,0,0,,Let me guess,
+Dialogue: 0,0:15:03.17,0:15:04.28,AppleJack,,0,0,0,,it's about you?
+Dialogue: 0,0:15:04.80,0:15:06.25,RainbowDash,,0,0,0,,Practically.
+Dialogue: 0,0:15:06.25,0:15:08.31,RainbowDash,,0,0,0,,It's about my favourite legend:
+Dialogue: 0,0:15:08.31,0:15:10.37,RainbowDash,,0,0,0,,Flash Magnus.
+Dialogue: 0,0:15:10.78,0:15:13.18,AppleBloom,,0,0,0,,Wasn't he the pony who took on the dragons?
+Dialogue: 0,0:15:13.18,0:15:14.10,Scootaloo,,0,0,0,,Dragons?
+Dialogue: 0,0:15:14.10,0:15:16.46,Scootaloo,,0,0,0,,Big scary mean ones or like Spike?
+Dialogue: 0,0:15:16.46,0:15:20.95,RainbowDash,,0,0,0,,Oh these were definitely the big scary mean kind.
+Dialogue: 0,0:15:23.74,0:15:25.53,RainbowDash,,0,0,0,,But not too scary.
+Dialogue: 0,0:15:25.98,0:15:27.88,RainbowDash,,0,0,0,,You can sit closer to me if you want.
+Dialogue: 0,0:15:29.91,0:15:31.75,RainbowDash,,0,0,0,,A long time ago,
+Dialogue: 0,0:15:31.75,0:15:34.84,RainbowDash,,0,0,0,,before the Wonderbolts were even founded,
+Dialogue: 0,0:15:34.84,0:15:39.05,RainbowDash,,0,0,0,,Flash Magnus was a lowly cadet in the royal legion.
+Dialogue: 0,0:15:44.24,0:15:47.11,RainbowDash,,0,0,0,,And the legion needed to fly over the Dragon Lands
+Dialogue: 0,0:15:47.11,0:15:49.81,RainbowDash,,0,0,0,,to get to their comrades on the other side.
+Dialogue: 0,0:15:49.81,0:15:52.14,RainbowDash,,0,0,0,,But as they got closer to the dragons,
+Dialogue: 0,0:15:53.35,0:15:54.96,RainbowDash,,0,0,0,,the dragons attacked!
+Dialogue: 0,0:15:55.74,0:15:58.17,Scootaloo,,0,0,0,,You said this wasn't too scary.
+Dialogue: 0,0:15:58.17,0:16:00.58,RainbowDash,,0,0,0,,Scoo-loo if u just ang n ere.
+Dialogue: 0,0:16:00.58,0:16:01.33,Scootaloo,,0,0,0,,What?
+Dialogue: 0,0:16:02.97,0:16:05.95,RainbowDash,,0,0,0,,I said, if you just hang in there,
+Dialogue: 0,0:16:05.95,0:16:08.08,RainbowDash,,0,0,0,,I promise you'll like the ending.
+Dialogue: 0,0:16:08.08,0:16:09.88,RainbowDash,,0,0,0,,So, like I was saying,
+Dialogue: 0,0:16:09.88,0:16:14.89,RainbowDash,,0,0,0,,Flash Magnus and the Royal Legion tried to get past the dragons.
+Dialogue: 0,0:16:14.89,0:16:17.11,RainbowDash,,0,0,0,,But the dragons wouldn't let them.
+Dialogue: 0,0:16:18.75,0:16:20.17,SomeponyBluishWhite,,0,0,0,,Everypony!
+Dialogue: 0,0:16:20.48,0:16:22.00,SomeponyBluishWhite,,0,0,0,,Retreat!
+Dialogue: 0,0:16:24.90,0:16:29.28,RainbowDash,,0,0,0,,Flash Magnus and a few other cadets were separated from the battalion.
+Dialogue: 0,0:16:31.59,0:16:32.90,RainbowDash,,0,0,0,,He managed to get away,
+Dialogue: 0,0:16:32.90,0:16:36.73,RainbowDash,,0,0,0,,but the dragons captured his friends and took them back to their lair!
+Dialogue: 0,0:16:52.04,0:16:55.02,SomeponyYellow,,0,0,0,,Commander, we need to save our captured comrades.
+Dialogue: 0,0:16:55.02,0:16:57.48,SomeponyBluishWhite,,0,0,0,,I appreciate your loyalty, Flash Magnus,
+Dialogue: 0,0:16:57.48,0:17:00.60,SomeponyBluishWhite,,0,0,0,,but getting past those dragons is going to be impossible!
+Dialogue: 0,0:17:00.60,0:17:01.97,SomeponyBluishWhite,,0,0,0,,Nothing will work.
+Dialogue: 0,0:17:03.72,0:17:05.29,AppleBloom,,0,0,0,,The commander was right.
+Dialogue: 0,0:17:05.29,0:17:07.13,AppleBloom,,0,0,0,,You can't outfight dragons.
+Dialogue: 0,0:17:07.55,0:17:10.52,RainbowDash,,0,0,0,,But you can outthink them.
+Dialogue: 0,0:17:13.91,0:17:15.32,SomeponyYellow,,0,0,0,,Commander Ironhead,
+Dialogue: 0,0:17:15.91,0:17:18.22,SomeponyYellow,,0,0,0,,I'm pretty sure I can outfly dragons.
+Dialogue: 0,0:17:18.22,0:17:20.05,SomeponyYellow,,0,0,0,,If I can lure them into chasing me,
+Dialogue: 0,0:17:20.05,0:17:24.41,SomeponyYellow,,0,0,0,,you can all sneak into the lair and retrieve our friends before they get back.
+Dialogue: 0,0:17:24.66,0:17:28.08,SomeponyBluishWhite,,0,0,0,,Are you really willing to take that chance, soldier?
+Dialogue: 0,0:17:28.08,0:17:29.80,SomeponyYellow,,0,0,0,,I am, sir.
+Dialogue: 0,0:17:31.04,0:17:33.44,SomeponyBluishWhite,,0,0,0,,It's a very brave thing you're doing.
+Dialogue: 0,0:17:33.44,0:17:35.73,SomeponyBluishWhite,,0,0,0,,You'll need all the help you can get.
+Dialogue: 0,0:17:38.84,0:17:40.98,SomeponyYellow,,0,0,0,,Is this Netitus?
+Dialogue: 0,0:17:40.98,0:17:43.32,SomeponyYellow,,0,0,0,,The fireproof shield?
+Dialogue: 0,0:17:43.32,0:17:47.14,SomeponyBluishWhite,,0,0,0,,It has protected legion heroes for generations and, today,
+Dialogue: 0,0:17:47.14,0:17:50.95,SomeponyBluishWhite,,0,0,0,,I can't think of a worthier flyer for Netitus to protect.
+Dialogue: 0,0:17:51.77,0:17:53.35,SomeponyBluishWhite,,0,0,0,,Good luck, soldier.
+Dialogue: 0,0:17:59.36,0:18:02.07,SomeponyYellow,,0,0,0,,Hey, come and get me, firebreath!
+Dialogue: 0,0:18:02.07,0:18:03.59,SomeponyYellow,,0,0,0,,If you can!
+Dialogue: 0,0:18:03.59,0:18:04.55,SomeponyYellow,,0,0,0,,Hey! Hey!
+Dialogue: 0,0:18:04.55,0:18:05.56,SomeponyYellow,,0,0,0,,Come and get me!
+Dialogue: 0,0:18:05.56,0:18:07.29,SomeponyYellow,,0,0,0,,Hey, I'm over here!
+Dialogue: 0,0:18:12.96,0:18:15.85,RainbowDash,,0,0,0,,While Flash Magnus bravely flew for his life,
+Dialogue: 0,0:18:15.85,0:18:19.20,RainbowDash,,0,0,0,,Commander Ironhead was able to get his soldiers back.
+Dialogue: 0,0:18:22.99,0:18:25.51,RainbowDash,,0,0,0,,Flash Magnus flew like the wind.
+Dialogue: 0,0:18:28.12,0:18:29.96,RainbowDash,,0,0,0,,Faster than the dragons!
+Dialogue: 0,0:18:34.82,0:18:37.65,RainbowDash,,0,0,0,,But he knew he couldn't do this forever.
+Dialogue: 0,0:18:39.10,0:18:41.50,RainbowDash,,0,0,0,,Luckily, he had a plan.
+Dialogue: 0,0:18:53.88,0:18:58.44,RainbowDash,,0,0,0,,He led the dragons straight into a storm that the legion had planted.
+Dialogue: 0,0:19:00.74,0:19:04.64,RainbowDash,,0,0,0,,One taste of the lightning, and the dragons retreated.
+Dialogue: 0,0:19:13.29,0:19:16.18,RainbowDash,,0,0,0,,Flash Magnus's plan worked.
+Dialogue: 0,0:19:27.15,0:19:29.68,Scootaloo,,0,0,0,,Wow, I did like that ending.
+Dialogue: 0,0:19:29.68,0:19:30.67,RainbowDash,,0,0,0,,Told ya!
+Dialogue: 0,0:19:30.67,0:19:34.58,RainbowDash,,0,0,0,,He always inspired me to be my brave and awesome self.
+Dialogue: 0,0:19:35.52,0:19:38.18,AppleJack,,0,0,0,,Yeah, I guess he kinda reminds me of you.
+Dialogue: 0,0:19:38.64,0:19:40.75,RainbowDash,,0,0,0,,You guess? Come on!
+Dialogue: 0,0:19:40.75,0:19:42.50,RainbowDash,,0,0,0,,I'm just like him!
+Dialogue: 0,0:19:46.91,0:19:48.50,AppleJack,,0,0,0,,Hey, do you hear that?
+Dialogue: 0,0:19:48.99,0:19:51.40,AppleBloom,,0,0,0,,Oh, I don't hear anything.
+Dialogue: 0,0:19:51.40,0:19:52.63,AppleJack,,0,0,0,,Exactly!
+Dialogue: 0,0:19:52.63,0:19:54.98,AppleJack,,0,0,0,,Those gosh-darned flyders are gone!
+Dialogue: 0,0:19:54.98,0:19:56.52,AppleJack,,0,0,0,,We can get out.
+Dialogue: 0,0:20:00.66,0:20:01.93,Rarity,,0,0,0,,Or not.
+Dialogue: 0,0:20:01.93,0:20:05.09,AppleJack,,0,0,0,,We are gonna have to see if we can get out the other way.
+Dialogue: 0,0:20:05.54,0:20:08.97,Scootaloo,,0,0,0,,You mean, go further into the dark spooky cave?
+Dialogue: 0,0:20:09.18,0:20:11.76,RainbowDash,,0,0,0,,Scootaloo, just remember the story.
+Dialogue: 0,0:20:12.00,0:20:15.14,RainbowDash,,0,0,0,,Gotta be brave like me and Flash Magnus, okay?
+Dialogue: 0,0:20:21.17,0:20:22.32,RainbowDash,,0,0,0,,I hear water!
+Dialogue: 0,0:20:22.32,0:20:24.12,Rarity,,0,0,0,,And if there's flowing water, then…
+Dialogue: 0,0:20:24.12,0:20:26.11,AppleJack,,0,0,0,,It might lead to the way out!
+Dialogue: 0,0:20:28.66,0:20:30.39,Rarity,,0,0,0,,Okay, on three…
+Dialogue: 0,0:20:30.92,0:20:32.41,Rarity,,0,0,0,,One, two…
+Dialogue: 0,0:20:32.82,0:20:34.07,Somepony,,0,0,0,,Three!
+Dialogue: 0,0:20:45.94,0:20:47.10,AppleJack,,0,0,0,,Well, what d'ya know.
+Dialogue: 0,0:20:47.14,0:20:50.44,AppleJack,,0,0,0,,We found ourselves a shortcut to Winsome Falls!
+Dialogue: 0,0:20:50.76,0:20:53.88,Scootaloo,,0,0,0,,Oh, it's never looked so beautiful.
+Dialogue: 0,0:20:54.18,0:20:55.62,Rarity,,0,0,0,,Well, almost.
+Dialogue: 0,0:20:59.96,0:21:03.12,AppleJack,,0,0,0,,We sure are sorry that our camping trip wasn't what we hoped it would be.
+Dialogue: 0,0:21:03.25,0:21:06.06,AppleBloom,,0,0,0,,Are you kidding? This trip is awesome!
+Dialogue: 0,0:21:06.90,0:21:07.72,Rarity,,0,0,0,,It is?
+Dialogue: 0,0:21:08.23,0:21:12.03,SweetieBelle,,0,0,0,,We got to hear legendary stories, and go on an adventure.
+Dialogue: 0,0:21:12.24,0:21:14.40,AppleJack,,0,0,0,,Wait, you three wanna stay?
+Dialogue: 0,0:21:14.49,0:21:16.24,Somepony,,0,0,0,,Of course we do!
+Dialogue: 0,0:21:17.02,0:21:20.32,SweetieBelle,,0,0,0,,We could turn those trees into a nice little shelter!
+Dialogue: 0,0:21:20.42,0:21:23.22,AppleBloom,,0,0,0,,We can get you some big logs and branches to help build it!
+Dialogue: 0,0:21:23.42,0:21:26.63,Scootaloo,,0,0,0,,And I bet we can find some more berries! Come on!
+Dialogue: 0,0:21:27.18,0:21:30.47,Scootaloo,,0,0,0,,I can't wait to see what happens next year!
+Dialogue: 0,0:21:33.94,0:21:36.68,Default,,0,0,0,,SCHASTLIVY PONEC
+Dialogue: 0,0:21:36.82,0:21:40.98,Default,,0,0,0,,anon2anon\Nsunnysubs.com
