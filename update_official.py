@@ -44,6 +44,8 @@ except:
     exit(67)
 
 log('Downloading links')
+if not os.path.isdir(OFFICIAL_ARCHIVE):
+    os.mkdir(OFFICIAL_ARCHIVE)
 failed_hrefs = []
 for link in dom_tree.find_all('a'):
     try:
