@@ -5,385 +5,435 @@ ScaledBorderAndShadow: yes
 YCbCr Matrix: TV.601
 PlayResX: 1920
 PlayResY: 1080
+Title: MLP:FiM Season 2 Episode 3 'Lesson Zero'
+Original Translation: anon2anon
+Original Editing: anon2anon
+Original Timing: anon2anon
+Script Updated By: 13.03.2018
+Update Details: v2.0 Release
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Arial,68,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,4.5,4.5,2,30,30,45,1
-Style: Twilight,Arial,68,&H00FFFFFF,&H000000FF,&H00AE568C,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
-Style: RainbowDash,Arial,68,&H00FFFFFF,&H000000FF,&H00D29B1E,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
-Style: AppleJack,Arial,68,&H00FFFFFF,&H000000FF,&H00005AFF,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
-Style: PinkiePie,Arial,68,&H00FFFFFF,&H000000FF,&H009300E8,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
-Style: FlutterShy,Arial,68,&H00D2F9FF,&H000000FF,&H009542D6,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
-Style: Rarity,Arial,68,&H00FFFBF0,&H000000FF,&H00690050,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
-Style: Celestia,Arial,68,&H00FBF8FD,&H000000FF,&H00D177CB,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
-Style: Spike,Arial,68,&H00F9FFF9,&H000000FF,&H00209322,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
-Style: Somepony,Arial,68,&H00FFFFFF,&H000000FF,&H007D7E80,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
-Style: Scootaloo,Arial,68,&H00A0DAFF,&H000000FF,&H007800A0,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
-Style: SweetieBelle,Arial,68,&H00E8F0FF,&H000000FF,&H00752A5E,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
-Style: MrsCake,Arial,68,&H00F2E195,&H000000FF,&H00885DDC,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
-Style: BigMac,Arial,68,&H00C2E1FF,&H00001FFF,&H000000DE,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
-Style: Mayor,Arial,68,&H0073AEC2,&H000000FF,&H002C2C2C,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Default,Arial,68,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
 Style: AppleBloom,Arial,68,&H00C0FAF4,&H000000FF,&H006F00FF,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: AppleJack,Arial,68,&H00FFFFFF,&H000000FF,&H00005AFF,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: BigMac,Arial,68,&H00C2E1FF,&H00001FFF,&H000000DE,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Celestia,Arial,68,&H00FBF8FD,&H000000FF,&H00DA2ACC,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: FlutterShy,Arial,68,&H00D2F9FF,&H000000FF,&H009542D6,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Mayor,Arial,68,&H0073AEC2,&H000000FF,&H002C2C2C,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: MrsCake,Arial,68,&H00F2E195,&H000000FF,&H00885DDC,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: PinkiePie,Arial,68,&H00FFFFFF,&H000000FF,&H009300E8,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: RainbowDash,Arial,68,&H00FFFFFF,&H000000FF,&H00D29B1E,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Rarity,Arial,68,&H00FFFBF0,&H000000FF,&H00690050,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Scootaloo,Arial,68,&H00A0DAFF,&H000000FF,&H007800A0,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Somepony,Arial,68,&H00FFFFFF,&H000000FF,&H007D7E80,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Spike,Arial,68,&H00F9FFF9,&H000000FF,&H00209322,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: SweetieBelle,Arial,68,&H00E8F0FF,&H000000FF,&H00752A5E,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Twilight,Arial,68,&H00FFFFFF,&H000000FF,&H0092376D,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:07.21,0:00:07.77,Twilight,,0,0,0,,Quill.
-Dialogue: 0,0:00:08.53,0:00:09.45,Spike,,0,0,0,,Check.
-Dialogue: 0,0:00:10.61,0:00:11.47,Twilight,,0,0,0,,Parchment.
-Dialogue: 0,0:00:11.47,0:00:12.20,Spike,,0,0,0,,Check.
-Dialogue: 0,0:00:12.21,0:00:13.03,Twilight,,0,0,0,,Extra ink.
-Dialogue: 0,0:00:13.03,0:00:13.55,Spike,,0,0,0,,Check.
-Dialogue: 0,0:00:13.55,0:00:14.96,Twilight,,0,0,0,,Extra-extra ink.
-Dialogue: 0,0:00:14.96,0:00:15.89,Spike,,0,0,0,,Check.
-Dialogue: 0,0:00:16.19,0:00:17.85,Twilight,,0,0,0,,Is that everything on the checklist?
-Dialogue: 0,0:00:17.85,0:00:18.77,Spike,,0,0,0,,Yep!
-Dialogue: 0,0:00:18.77,0:00:19.18,Twilight,,0,0,0,,Great.
-Dialogue: 0,0:00:19.18,0:00:22.52,Twilight,,0,0,0,,Now that we've completed the checklist\Nof things we need to create a checklist…
-Dialogue: 0,0:00:22.52,0:00:25.98,Twilight,,0,0,0,,…we can make my checklist of the things\NI have to get done by the end of the day.
-Dialogue: 0,0:00:26.21,0:00:27.27,Twilight,,0,0,0,,Ready?
-Dialogue: 0,0:00:27.43,0:00:28.46,Spike,,0,0,0,,Ready!
-Dialogue: 0,0:00:28.46,0:00:32.83,Twilight,,0,0,0,,Item 1: Create checklist of the things\NI have to accomplish by the end of the day.
-Dialogue: 0,0:01:18.92,0:01:19.95,Twilight,,0,0,0,,How are we doing, Spike?
-Dialogue: 0,0:01:20.20,0:01:21.34,Spike,,0,0,0,,Let's see…
-Dialogue: 0,0:01:21.34,0:01:23.13,Spike,,0,0,0,,We've already dropped off\Nyour cape at the cleaner's…
-Dialogue: 0,0:01:23.13,0:01:25.13,Spike,,0,0,0,,…returned the blackboard\Nyou borrowed from Cheerilee…
-Dialogue: 0,0:01:25.13,0:01:27.57,Spike,,0,0,0,,…ordered new parchment and quills\Nfrom the stationery shop…
-Dialogue: 0,0:01:27.63,0:01:31.06,Twilight,,0,0,0,,Hmm… Seems like we just placed\Nan order for those a few days ago.
-Dialogue: 0,0:01:32.40,0:01:35.15,Spike,,0,0,0,,Can imagine why we go\Nthrough so many of them.
-Dialogue: 0,0:01:35.37,0:01:38.21,Twilight,,0,0,0,,Sounds like we're ahead\Nof schedule. What's next?
-Dialogue: 0,0:01:38.67,0:01:40.21,Spike,,0,0,0,,Cupcakes!
-Dialogue: 0,0:01:44.46,0:01:46.51,Twilight,,0,0,0,,Uh, I only ordered twelve.
-Dialogue: 0,0:01:46.51,0:01:47.94,MrsCake,,0,0,0,,Oh, I know, dear.
-Dialogue: 0,0:01:47.94,0:01:51.55,MrsCake,,0,0,0,,But I had an extra, so I though\NI'd make it a baker's dozen.
-Dialogue: 0,0:01:53.59,0:01:55.36,Twilight,,0,0,0,,Oh, that was very thoughtful of you.
-Dialogue: 0,0:01:55.36,0:01:57.88,Twilight,,0,0,0,,It's just some of the icing\Nfrom the extra cupcake…
-Dialogue: 0,0:01:57.88,0:02:00.77,Twilight,,0,0,0,,…is getting all over\Nthe one next to it. See?
-Dialogue: 0,0:02:02.45,0:02:04.17,MrsCake,,0,0,0,,Oh! Sure.
-Dialogue: 0,0:02:04.17,0:02:06.53,Twilight,,0,0,0,,It's just that I'm planning on\Nsharing these at a picnic later…
-Dialogue: 0,0:02:06.53,0:02:10.09,Twilight,,0,0,0,,…and I don't want anypony to feel like\Nsomepony else is getting more icing.
-Dialogue: 0,0:02:10.86,0:02:13.79,MrsCake,,0,0,0,,Oh… no, of course not.
-Dialogue: 0,0:02:14.48,0:02:15.41,Twilight,,0,0,0,,Not to worry.
-Dialogue: 0,0:02:15.45,0:02:17.64,Twilight,,0,0,0,,I'll just move some of this one to…
-Dialogue: 0,0:02:18.02,0:02:20.98,Twilight,,0,0,0,,Hmm… I think I may have\Nscooped too much.
-Dialogue: 0,0:02:21.10,0:02:23.25,Twilight,,0,0,0,,Oops! Now those two have more.
-Dialogue: 0,0:02:23.48,0:02:25.18,Twilight,,0,0,0,,Let's just try this again.
-Dialogue: 0,0:02:27.37,0:02:29.74,Twilight,,0,0,0,,Hmm… No, that won't do.
-Dialogue: 0,0:02:30.02,0:02:33.06,Twilight,,0,0,0,,Let me just… hmm…\Nput some here, then…
-Dialogue: 0,0:02:33.11,0:02:37.40,Twilight,,0,0,0,,No, that's not right. A little more\Non this one, a little bit… wait…
-Dialogue: 0,0:02:37.40,0:02:42.07,Twilight,,0,0,0,,I'll just… Ooh, a little bit\Nhere… here… and…
-Dialogue: 0,0:02:42.23,0:02:43.29,Twilight,,0,0,0,,Perfect!
-Dialogue: 0,0:02:44.29,0:02:46.79,MrsCake,,0,0,0,,Hmm, oh yes. Much better.
-Dialogue: 0,0:02:46.79,0:02:49.58,Twilight,,0,0,0,,Okay! Time to tackle\Nthe next item on our…
-Dialogue: 0,0:02:49.58,0:02:50.70,Twilight,,0,0,0,,Oops!
-Dialogue: 0,0:02:50.70,0:02:54.58,Twilight,,0,0,0,,Looks like we're gonna have to add\N"Give a baby dragon a bath" to our list.
-Dialogue: 0,0:02:58.40,0:03:02.02,Twilight,,0,0,0,,Very efficient! And a little bit gross.
-Dialogue: 0,0:03:03.58,0:03:04.85,Spike,,0,0,0,,Looks like that's everything.
-Dialogue: 0,0:03:05.04,0:03:06.76,Twilight,,0,0,0,,Almost everything.
-Dialogue: 0,0:03:06.77,0:03:10.28,Spike,,0,0,0,,"Triple-check checklist to make sure\Nwe didn't miss anything…"
-Dialogue: 0,0:03:10.29,0:03:12.70,Spike,,0,0,0,,"…when the double-checked\Nthe checklist".
-Dialogue: 0,0:03:12.77,0:03:14.40,Spike,,0,0,0,,Uh, check.
-Dialogue: 0,0:03:15.40,0:03:19.73,Spike,,0,0,0,,I've been holding that quill so long\NI've got a claw cramp.
-Dialogue: 0,0:03:20.84,0:03:24.23,Spike,,0,0,0,,Good thing we don't have anything\Nto report to Princess Celestia this week.
-Dialogue: 0,0:03:24.23,0:03:26.26,Spike,,0,0,0,,I don't think I can write another word.
-Dialogue: 0,0:03:26.42,0:03:29.35,Twilight,,0,0,0,,We haven't sent a letter\Nto Princess Celestia this week?!
-Dialogue: 0,0:03:29.35,0:03:30.96,Spike,,0,0,0,,Why? Is that bad?
-Dialogue: 0,0:03:30.96,0:03:33.30,Twilight,,0,0,0,,Bad?! BAD?! Of course it's bad!
-Dialogue: 0,0:03:33.31,0:03:35.91,Twilight,,0,0,0,,I'm supposed to send Princess\NCelestia a letter every week…
-Dialogue: 0,0:03:35.91,0:03:38.02,Twilight,,0,0,0,,…telling her about a lesson\NI've learned about friendship!
-Dialogue: 0,0:03:38.02,0:03:40.40,Twilight,,0,0,0,,Not every other week.\NNot every ten days.
-Dialogue: 0,0:03:40.40,0:03:42.73,Twilight,,0,0,0,,Every! Single! Week!
-Dialogue: 0,0:03:44.18,0:03:46.60,Twilight,,0,0,0,,Where's my calendar?!\NWhere's my calendar?!
-Dialogue: 0,0:03:46.60,0:03:49.00,Spike,,0,0,0,,Where it always is?
-Dialogue: 0,0:03:49.87,0:03:51.88,Twilight,,0,0,0,,When did we send the last one?
-Dialogue: 0,0:03:52.05,0:03:54.12,Spike,,0,0,0,,Last Tuesday?
-Dialogue: 0,0:03:54.28,0:03:56.45,Twilight,,0,0,0,,And today is…
-Dialogue: 0,0:03:56.98,0:03:57.96,Spike,,0,0,0,,Tuesday?
-Dialogue: 0,0:03:59.16,0:04:00.92,Twilight,,0,0,0,,Nonononononono…
-Dialogue: 0,0:04:02.46,0:04:04.91,Twilight,,0,0,0,,If I don't send her a letter\Nby sundown, I'll be…
-Dialogue: 0,0:04:05.73,0:04:07.78,Twilight,,0,0,0,,TARDY!!!
-Dialogue: 0,0:04:08.70,0:04:09.86,Spike,,0,0,0,,What's that now?
-Dialogue: 0,0:04:09.86,0:04:12.89,Twilight,,0,0,0,,Tar-dy, Spike. Late! I'll be late!
-Dialogue: 0,0:04:13.09,0:04:16.70,Twilight,,0,0,0,,Oh, how could I've let this happen?\NI'm usually so organized.
-Dialogue: 0,0:04:16.70,0:04:18.69,Twilight,,0,0,0,,I've never been late for an assignment.
-Dialogue: 0,0:04:18.69,0:04:21.55,Spike,,0,0,0,,Oh, please! You're the most\Nstudious student ever.
-Dialogue: 0,0:04:21.55,0:04:24.99,Spike,,0,0,0,,I'm sure the princess will forgive you\Nif you miss one little deadline.
-Dialogue: 0,0:04:24.99,0:04:27.09,Twilight,,0,0,0,,I'm afraid to take that chance, Spike.
-Dialogue: 0,0:04:27.10,0:04:30.16,Twilight,,0,0,0,,This is the ruler of all of Equestria\Nwe're talking about.
-Dialogue: 0,0:04:30.16,0:04:32.62,Twilight,,0,0,0,,The pony who holds\Nmy fate in her hooves.
-Dialogue: 0,0:04:33.80,0:04:35.18,Twilight,,0,0,0,,What if she doesn't forgive me?
-Dialogue: 0,0:04:35.19,0:04:36.93,Spike,,0,0,0,,Yeah, I don't think she…
-Dialogue: 0,0:04:36.93,0:04:38.31,Twilight,,0,0,0,,What if instead she starts thinking…
-Dialogue: 0,0:04:38.31,0:04:40.96,Twilight,,0,0,0,,…I'm not taking my studies\Non friendship seriously?
-Dialogue: 0,0:04:40.97,0:04:41.60,Spike,,0,0,0,,Why would she…
-Dialogue: 0,0:04:41.61,0:04:44.23,Twilight,,0,0,0,,What if she makes me come back to\NCanterlot and puts me back in school…
-Dialogue: 0,0:04:44.23,0:04:47.88,Twilight,,0,0,0,,…and makes me *prove* I've been\Ntaking them seriously by giving me a task?
-Dialogue: 0,0:04:48.06,0:04:49.80,Twilight,,0,0,0,,What if I don't pass?!
-Dialogue: 0,0:04:49.84,0:04:51.38,Spike,,0,0,0,,But why wouldn't you pass…
-Dialogue: 0,0:04:51.38,0:04:52.97,Twilight,,0,0,0,,She's my teacher!
-Dialogue: 0,0:04:52.97,0:04:55.77,Twilight,,0,0,0,,Do you know what teachers do\Nto students who don't pass?
-Dialogue: 0,0:04:56.77,0:04:59.00,Twilight,,0,0,0,,THEY SEND THEM BACK A GRADE!
-Dialogue: 0,0:04:59.01,0:05:00.64,Twilight,,0,0,0,,But she won't just send me back a grade.
-Dialogue: 0,0:05:00.65,0:05:02.38,Twilight,,0,0,0,,She'll send me back to…
-Dialogue: 0,0:05:02.93,0:05:04.96,Twilight,,0,0,0,,…magic kindergarten.
-Dialogue: 0,0:05:11.92,0:05:13.09,Spike,,0,0,0,,Twilight.
-Dialogue: 0,0:05:13.87,0:05:15.15,Spike,,0,0,0,,Twilight!
-Dialogue: 0,0:05:15.66,0:05:18.62,Spike,,0,0,0,,That is the most ridiculous\Nthing I've ever heard!
-Dialogue: 0,0:05:18.63,0:05:21.57,Spike,,0,0,0,,You're not gonna be sent back\Nto magic kindergarten.
-Dialogue: 0,0:05:21.57,0:05:24.59,Twilight,,0,0,0,,You're right. I have no reason to worry.
-Dialogue: 0,0:05:24.69,0:05:26.89,Twilight,,0,0,0,,Because I'm going to solve\Na friend's problem…
-Dialogue: 0,0:05:26.89,0:05:30.49,Twilight,,0,0,0,,…and get that letter to Princess\NCelestia before sundown!
-Dialogue: 0,0:05:31.30,0:05:32.70,Twilight,,0,0,0,,So…
-Dialogue: 0,0:05:32.78,0:05:35.06,Twilight,,0,0,0,,Got any problems, troubles, conundrums\Nor any other sort of issues…
-Dialogue: 0,0:05:35.06,0:05:38.66,Twilight,,0,0,0,,…major or minor, that I as a good\Nfriend could help you solve?
-Dialogue: 0,0:05:44.09,0:05:45.46,Spike,,0,0,0,,I got nothin'.
-Dialogue: 0,0:05:47.14,0:05:50.69,Twilight,,0,0,0,,Then it looks like I'm gonna have to\Nfind somepony who does.
-Dialogue: 0,0:05:52.28,0:05:54.18,Spike,,0,0,0,,This won't end well.
-Dialogue: 0,0:05:58.83,0:06:00.13,Twilight,,0,0,0,,You've got this, Twilight.
-Dialogue: 0,0:06:00.13,0:06:03.59,Twilight,,0,0,0,,You still have plenty of time to\Nget that letter to Princess Celestia.
-Dialogue: 0,0:06:03.59,0:06:07.27,Twilight,,0,0,0,,Has to be somepony around here\Nwho needs the help of a good friend.
-Dialogue: 0,0:06:08.67,0:06:09.95,Twilight,,0,0,0,,Rarity!
-Dialogue: 0,0:06:13.37,0:06:16.51,Twilight,,0,0,0,,Don't worry, Rarity! I'm here!
-Dialogue: 0,0:06:16.62,0:06:19.11,Rarity,,0,0,0,,Why me?
-Dialogue: 0,0:06:19.11,0:06:22.09,Rarity,,0,0,0,,WHY, WHY, WHY?!
-Dialogue: 0,0:06:22.10,0:06:24.57,Rarity,,0,0,0,,Of all the worst things\Nthat could happen…
-Dialogue: 0,0:06:24.57,0:06:28.58,Rarity,,0,0,0,,…this is the! Worst! Possible! Thing!
-Dialogue: 0,0:06:30.35,0:06:32.58,Twilight,,0,0,0,,What's happened?! Are you all right?
-Dialogue: 0,0:06:33.04,0:06:36.57,Rarity,,0,0,0,,I've lost my diamond\Nencrusted purple ribbon!
-Dialogue: 0,0:06:36.58,0:06:39.26,Rarity,,0,0,0,,I have searched HIGH!\NAnd I have searched low.
-Dialogue: 0,0:06:39.26,0:06:40.97,Rarity,,0,0,0,,LOW AND HIGH!\NHigh and low.
-Dialogue: 0,0:06:41.75,0:06:43.52,Rarity,,0,0,0,,But I can't find it anywhere!
-Dialogue: 0,0:06:44.10,0:06:46.57,Rarity,,0,0,0,,ANYWHERE!
-Dialogue: 0,0:06:47.10,0:06:51.42,Rarity,,0,0,0,,How can I possibly finish\Nmy latest creation if I can't find it?
-Dialogue: 0,0:06:51.62,0:06:55.25,Twilight,,0,0,0,,Never fear, Rarity. As your friend\NI'll do my best to help you fi…
-Dialogue: 0,0:06:55.25,0:06:56.63,Rarity,,0,0,0,,Oh, there it is.
-Dialogue: 0,0:06:56.63,0:06:59.50,Rarity,,0,0,0,,Isn't it always just\Nthe last place you look.
-Dialogue: 0,0:07:00.66,0:07:04.42,Twilight,,0,0,0,,So you just lost your ribbon…
-Dialogue: 0,0:07:06.19,0:07:08.22,Twilight,,0,0,0,,…but now you've found it.
-Dialogue: 0,0:07:08.23,0:07:09.21,Rarity,,0,0,0,,Yeah.
-Dialogue: 0,0:07:09.21,0:07:11.69,Twilight,,0,0,0,,And nothing else is bothering you?
-Dialogue: 0,0:07:11.69,0:07:15.32,Twilight,,0,0,0,,Nothing that I as a good friend\Ncould help you with?
-Dialogue: 0,0:07:17.14,0:07:19.17,Rarity,,0,0,0,,There is one thing.
-Dialogue: 0,0:07:19.28,0:07:20.57,Twilight,,0,0,0,,YES?!
-Dialogue: 0,0:07:20.57,0:07:22.88,Rarity,,0,0,0,,I think I've left my measuring tape\Nunder the fabric over there.
-Dialogue: 0,0:07:22.88,0:07:24.55,Rarity,,0,0,0,,Could you get that for me?
-Dialogue: 0,0:07:27.05,0:07:29.37,Twilight,,0,0,0,,Measuring tape. Sure.
-Dialogue: 0,0:07:29.70,0:07:32.26,Rarity,,0,0,0,,Twilight. Is there something bother…
-Dialogue: 0,0:07:33.09,0:07:34.41,Rarity,,0,0,0,,Twilight.
-Dialogue: 0,0:07:38.69,0:07:41.52,Twilight,,0,0,0,,No need to panic.\NRarity is just one pony.
-Dialogue: 0,0:07:41.53,0:07:43.90,Twilight,,0,0,0,,I'm sure one of my other\Nfriends will need me.
-Dialogue: 0,0:08:01.61,0:08:03.72,Twilight,,0,0,0,,What in the world…
-Dialogue: 0,0:08:04.57,0:08:07.17,Twilight,,0,0,0,,Rainbow must be angry with Applejack!
-Dialogue: 0,0:08:07.17,0:08:10.63,Twilight,,0,0,0,,She must hate her guts. Oh, wonderful!
-Dialogue: 0,0:08:11.21,0:08:13.41,Twilight,,0,0,0,,Rainbow Dash! Stop!
-Dialogue: 0,0:08:14.58,0:08:18.98,Twilight,,0,0,0,,Listen, Rainbow. I know you're upset\Nwith Applejack, but don't worry.
-Dialogue: 0,0:08:18.98,0:08:21.18,Twilight,,0,0,0,,Whatever it is that has\Ncome between you two…
-Dialogue: 0,0:08:21.18,0:08:25.98,Twilight,,0,0,0,,…I'm sure that I as a good friend\Ncan help you resolve your problems.
-Dialogue: 0,0:08:27.19,0:08:29.51,RainbowDash,,0,0,0,,Uh, what are you talking about?
-Dialogue: 0,0:08:29.57,0:08:31.41,Twilight,,0,0,0,,Oh, Rainbow Dash.
-Dialogue: 0,0:08:31.41,0:08:33.56,Twilight,,0,0,0,,You don't have to hide\Nyour feelings from me.
-Dialogue: 0,0:08:33.56,0:08:36.39,Twilight,,0,0,0,,I can tell you two must\Nhave had a terrible fight.
-Dialogue: 0,0:08:36.71,0:08:41.25,Twilight,,0,0,0,,Now, why don't you tell me all\Nabout your issues with Applejack?
-Dialogue: 0,0:08:41.25,0:08:43.44,RainbowDash,,0,0,0,,I don't have any issues with Applejack.
-Dialogue: 0,0:08:43.44,0:08:46.93,Twilight,,0,0,0,,You don't? Then why are you\Ndestroying her property?
-Dialogue: 0,0:08:46.93,0:08:48.46,RainbowDash,,0,0,0,,Because she asked me to.
-Dialogue: 0,0:08:48.46,0:08:49.83,RainbowDash,,0,0,0,,Right, Applejack?
-Dialogue: 0,0:08:49.83,0:08:51.02,AppleJack,,0,0,0,,Yes, ma'am.
-Dialogue: 0,0:08:51.02,0:08:54.55,AppleJack,,0,0,0,,I wanted to put up a new barn, but\Nthis one's gotta come down first.
-Dialogue: 0,0:08:55.03,0:08:56.49,AppleJack,,0,0,0,,Now get back to it, RD.
-Dialogue: 0,0:08:56.79,0:08:58.66,RainbowDash,,0,0,0,,You got it, boss!
-Dialogue: 0,0:08:59.03,0:09:00.78,AppleJack,,0,0,0,,I'd take cover if I were you.
-Dialogue: 0,0:09:26.65,0:09:29.22,Twilight,,0,0,0,,I can't believe I've\Nwasted all that time.
-Dialogue: 0,0:09:29.22,0:09:31.05,Twilight,,0,0,0,,I should have just come here first.
-Dialogue: 0,0:09:31.05,0:09:33.84,Twilight,,0,0,0,,Fluttershy always has some fear\Nshe's trying to get over.
-Dialogue: 0,0:09:34.04,0:09:36.96,Twilight,,0,0,0,,As a good friend\NI'll be able to help her.
-Dialogue: 0,0:09:49.18,0:09:50.29,Twilight,,0,0,0,,Fluttershy?!
-Dialogue: 0,0:09:58.02,0:09:59.51,Twilight,,0,0,0,,How can this be happening?!
-Dialogue: 0,0:09:59.51,0:10:03.04,Twilight,,0,0,0,,Of all the days she had to stop being such\Na scaredy-pony she had to pick today?!
-Dialogue: 0,0:10:03.04,0:10:05.32,Twilight,,0,0,0,,What am I going to do?
-Dialogue: 0,0:10:06.19,0:10:08.53,FlutterShy,,0,0,0,,You really should have\Ncome to me sooner.
-Dialogue: 0,0:10:08.53,0:10:12.03,FlutterShy,,0,0,0,,You were carrying so much\Ntension in that shoulder.
-Dialogue: 0,0:10:15.93,0:10:19.85,Twilight,,0,0,0,,It's fine. It'll all be fine.\NToday isn't over yet.
-Dialogue: 0,0:10:19.85,0:10:21.40,Twilight,,0,0,0,,But it will be over soon!
-Dialogue: 0,0:10:23.77,0:10:27.70,Twilight,,0,0,0,,It'll be all over! My time in Ponyville,\Nmy advanced studies…
-Dialogue: 0,0:10:27.70,0:10:31.04,Twilight,,0,0,0,,No, no. You're a good student.\NYou can do this.
-Dialogue: 0,0:10:31.53,0:10:33.31,Twilight,,0,0,0,,Oh! But what if I can't?
-Dialogue: 0,0:10:33.32,0:10:35.43,Twilight,,0,0,0,,You can! You just\Nhave to keep it together.
-Dialogue: 0,0:10:35.44,0:10:37.19,Twilight,,0,0,0,,Keep! It! Together!
-Dialogue: 0,0:10:37.88,0:10:40.49,Spike,,0,0,0,,Are you talking to… yourself?
-Dialogue: 0,0:10:41.66,0:10:42.74,Spike,,0,0,0,,Twilight?
-Dialogue: 0,0:10:51.68,0:10:53.11,Spike,,0,0,0,,SNAP OUT OF IT!
-Dialogue: 0,0:10:53.78,0:10:54.66,Twilight,,0,0,0,,Huh?
-Dialogue: 0,0:10:54.96,0:10:56.37,Spike,,0,0,0,,Are you okay?
-Dialogue: 0,0:10:59.54,0:11:01.41,Spike,,0,0,0,,Twilight, I'm really worried.
-Dialogue: 0,0:11:01.41,0:11:03.70,Spike,,0,0,0,,I mean this letter thing\Nis really getting to you.
-Dialogue: 0,0:11:03.70,0:11:04.54,Spike,,0,0,0,,Here.
-Dialogue: 0,0:11:04.54,0:11:07.84,Spike,,0,0,0,,You've been so anxious all day that\Nyou've completely forgot about the picnic.
-Dialogue: 0,0:11:07.84,0:11:10.13,Spike,,0,0,0,,Why don't you just relax\Nand go hang out with…
-Dialogue: 0,0:11:10.13,0:11:11.22,Twilight,,0,0,0,,The picnic!
-Dialogue: 0,0:11:12.14,0:11:14.15,Twilight,,0,0,0,,I should go see my friends!
-Dialogue: 0,0:11:14.15,0:11:16.47,Spike,,0,0,0,,I'm glad you've come to your senses.
-Dialogue: 0,0:11:25.05,0:11:28.18,Rarity,,0,0,0,,Please tell me I did not forget the plates.
-Dialogue: 0,0:11:28.30,0:11:30.40,Rarity,,0,0,0,,I did! I totally forgot them!
-Dialogue: 0,0:11:30.81,0:11:33.49,Rarity,,0,0,0,,Of all the worst things\Nthat could happen, this is…
-Dialogue: 0,0:11:33.50,0:11:36.85,Rarity,,0,0,0,,The! Worst! Possible! Thing!
-Dialogue: 0,0:11:37.64,0:11:41.61,Rarity,,0,0,0,,Why, why, why!
-Dialogue: 0,0:11:43.73,0:11:44.69,Rarity,,0,0,0,,What?
-Dialogue: 0,0:11:44.69,0:11:47.34,Rarity,,0,0,0,,You didn't expect me to\Nlay on the grass, did you?
-Dialogue: 0,0:11:56.12,0:11:57.32,AppleJack,,0,0,0,,You all right, hun?
+Dialogue: 0,0:00:07.21,0:00:07.68,Twilight,,0,0,0,,Quill.
+Dialogue: 0,0:00:08.53,0:00:09.20,Spike,,0,0,0,,Check.
+Dialogue: 0,0:00:10.61,0:00:11.40,Twilight,,0,0,0,,Parchment.
+Dialogue: 0,0:00:11.47,0:00:12.07,Spike,,0,0,0,,Check.
+Dialogue: 0,0:00:12.17,0:00:12.94,Twilight,,0,0,0,,Extra ink.
+Dialogue: 0,0:00:13.08,0:00:13.51,Spike,,0,0,0,,Check.
+Dialogue: 0,0:00:13.64,0:00:14.88,Twilight,,0,0,0,,Extra-extra ink.
+Dialogue: 0,0:00:15.07,0:00:15.70,Spike,,0,0,0,,Check.
+Dialogue: 0,0:00:16.29,0:00:17.89,Twilight,,0,0,0,,Is that everything on the checklist?
+Dialogue: 0,0:00:17.98,0:00:18.51,Spike,,0,0,0,,Yep!
+Dialogue: 0,0:00:18.73,0:00:19.18,Twilight,,0,0,0,,Great.
+Dialogue: 0,0:00:19.26,0:00:22.52,Twilight,,0,0,0,,Now that we've completed the checklist of things we need to create a checklist,
+Dialogue: 0,0:00:22.67,0:00:25.98,Twilight,,0,0,0,,we can make my checklist of the things I have to get done by the end of the day.
+Dialogue: 0,0:00:26.55,0:00:27.14,Twilight,,0,0,0,,Ready?
+Dialogue: 0,0:00:27.65,0:00:28.31,Spike,,0,0,0,,Ready!
+Dialogue: 0,0:00:28.74,0:00:29.45,Twilight,,0,0,0,,Item
+Dialogue: 0,0:00:29.70,0:00:32.52,Twilight,,0,0,0,,Create checklist of the things I have to accomplish by the end of the day.
+Dialogue: 0,0:01:19.15,0:01:20.10,Twilight,,0,0,0,,How are we doing, Spike?
+Dialogue: 0,0:01:20.47,0:01:21.34,Spike,,0,0,0,,Let's see…
+Dialogue: 0,0:01:21.42,0:01:23.38,Spike,,0,0,0,,We've already dropped off your cape at the cleaner's…
+Dialogue: 0,0:01:23.44,0:01:25.29,Spike,,0,0,0,,…returned the blackboard you borrowed from Cheerilee…
+Dialogue: 0,0:01:25.30,0:01:27.48,Spike,,0,0,0,,…ordered new parchment and quills from the stationery shop…
+Dialogue: 0,0:01:28.34,0:01:31.20,Twilight,,0,0,0,,Seems like we just placed an order for those a few days ago.
+Dialogue: 0,0:01:32.68,0:01:35.00,Spike,,0,0,0,,Can't imagine why we go through so many of them.
+Dialogue: 0,0:01:35.54,0:01:37.04,Twilight,,0,0,0,,Sounds like we're ahead of schedule.
+Dialogue: 0,0:01:37.16,0:01:37.99,Twilight,,0,0,0,,What's next?
+Dialogue: 0,0:01:38.96,0:01:39.94,Spike,,0,0,0,,Cupcakes!
+Dialogue: 0,0:01:44.73,0:01:46.34,Twilight,,0,0,0,,I only ordered twelve.
+Dialogue: 0,0:01:46.70,0:01:48.06,MrsCake,,0,0,0,,Oh, I know, dear.
+Dialogue: 0,0:01:48.22,0:01:51.67,MrsCake,,0,0,0,,But I had an extra, so I thought I'd make it a baker's dozen.
+Dialogue: 0,0:01:53.86,0:01:55.52,Twilight,,0,0,0,,Oh, that was very thoughtful of you.
+Dialogue: 0,0:01:55.80,0:01:58.20,Twilight,,0,0,0,,It's just some of the icing from the extra cupcake
+Dialogue: 0,0:01:58.22,0:02:00.06,Twilight,,0,0,0,,is getting all over the one next to it.
+Dialogue: 0,0:02:00.30,0:02:00.76,Twilight,,0,0,0,,See?
+Dialogue: 0,0:02:02.57,0:02:03.14,MrsCake,,0,0,0,,Oh!
+Dialogue: 0,0:02:03.45,0:02:04.12,MrsCake,,0,0,0,,Sure.
+Dialogue: 0,0:02:04.30,0:02:06.78,Twilight,,0,0,0,,It's just that I'm planning on sharing these at a picnic later
+Dialogue: 0,0:02:06.79,0:02:09.79,Twilight,,0,0,0,,and I don't want anypony to feel like somepony else is getting more icing.
+Dialogue: 0,0:02:11.09,0:02:13.64,MrsCake,,0,0,0,,Oh… no, of course not.
+Dialogue: 0,0:02:14.72,0:02:15.41,Twilight,,0,0,0,,Not to worry.
+Dialogue: 0,0:02:15.79,0:02:17.78,Twilight,,0,0,0,,I'll just move some of this one to…
+Dialogue: 0,0:02:19.06,0:02:20.95,Twilight,,0,0,0,,I think I may have scooped too much.
+Dialogue: 0,0:02:21.27,0:02:23.25,Twilight,,0,0,0,,Oops! Now those two have more.
+Dialogue: 0,0:02:23.72,0:02:25.09,Twilight,,0,0,0,,Let's just try this again.
+Dialogue: 0,0:02:28.36,0:02:29.74,Twilight,,0,0,0,,No, that won't do.
+Dialogue: 0,0:02:30.17,0:02:30.95,Twilight,,0,0,0,,Let me just…
+Dialogue: 0,0:02:31.52,0:02:32.95,Twilight,,0,0,0,,…put some here, and…
+Dialogue: 0,0:02:33.29,0:02:34.38,Twilight,,0,0,0,,No, that's not right.
+Dialogue: 0,0:02:34.87,0:02:36.10,Twilight,,0,0,0,,A little more on this one…
+Dialogue: 0,0:02:36.26,0:02:37.40,Twilight,,0,0,0,,…a little bit… and wait...
+Dialogue: 0,0:02:37.68,0:02:38.25,Twilight,,0,0,0,,I'll just…
+Dialogue: 0,0:02:38.61,0:02:39.87,Twilight,,0,0,0,,Ooh, a little bit here…
+Dialogue: 0,0:02:40.28,0:02:41.11,Twilight,,0,0,0,,…and here…
+Dialogue: 0,0:02:41.48,0:02:41.99,Twilight,,0,0,0,,…and…
+Dialogue: 0,0:02:42.57,0:02:43.06,Twilight,,0,0,0,,Perfect!
+Dialogue: 0,0:02:44.55,0:02:46.60,MrsCake,,0,0,0,,Hmm, oh, yes. Much better.
+Dialogue: 0,0:02:46.98,0:02:49.58,Twilight,,0,0,0,,Okay! Time to tackle the next item on our…
+Dialogue: 0,0:02:49.88,0:02:50.52,Twilight,,0,0,0,,Oops!
+Dialogue: 0,0:02:50.88,0:02:54.35,Twilight,,0,0,0,,Looks like we're gonna have to add "Give a baby dragon a bath" to our list.
+Dialogue: 0,0:02:58.58,0:02:59.94,Twilight,,0,0,0,,Very efficient!
+Dialogue: 0,0:03:00.36,0:03:01.94,Twilight,,0,0,0,,And a little bit gross.
+Dialogue: 0,0:03:03.74,0:03:04.85,Spike,,0,0,0,,Looks like that's everything.
+Dialogue: 0,0:03:05.29,0:03:06.58,Twilight,,0,0,0,,Almost everything.
+Dialogue: 0,0:03:07.03,0:03:10.34,Spike,,0,0,0,,"Triple-check checklist to make sure we didn't miss anything
+Dialogue: 0,0:03:10.43,0:03:12.53,Spike,,0,0,0,,when we double-checked the checklist."
+Dialogue: 0,0:03:13.61,0:03:14.06,Spike,,0,0,0,,Check.
+Dialogue: 0,0:03:15.66,0:03:19.48,Spike,,0,0,0,,I've been holding that quill so long, I've got a claw cramp.
+Dialogue: 0,0:03:20.84,0:03:24.23,Spike,,0,0,0,,Well, good thing we don't have anything to report to Princess Celestia this week.
+Dialogue: 0,0:03:24.51,0:03:26.10,Spike,,0,0,0,,I don't think I could write another word.
+Dialogue: 0,0:03:26.42,0:03:29.23,Twilight,,0,0,0,,We haven't sent a letter to Princess Celestia this week?!
+Dialogue: 0,0:03:29.44,0:03:29.90,Spike,,0,0,0,,Why?
+Dialogue: 0,0:03:30.08,0:03:30.86,Spike,,0,0,0,,Is that bad?
+Dialogue: 0,0:03:31.07,0:03:31.72,Twilight,,0,0,0,,Bad?!
+Dialogue: 0,0:03:31.89,0:03:32.36,Twilight,,0,0,0,,BAD?!
+Dialogue: 0,0:03:32.38,0:03:33.31,Twilight,,0,0,0,,Of course it's bad!
+Dialogue: 0,0:03:33.60,0:03:36.06,Twilight,,0,0,0,,I'm supposed to send Princess Celestia a letter every week
+Dialogue: 0,0:03:36.12,0:03:38.09,Twilight,,0,0,0,,telling her about a lesson I've learned about friendship!
+Dialogue: 0,0:03:38.33,0:03:39.41,Twilight,,0,0,0,,Not every other week.
+Dialogue: 0,0:03:39.43,0:03:40.48,Twilight,,0,0,0,,Not every ten days.
+Dialogue: 0,0:03:40.68,0:03:42.45,Twilight,,0,0,0,,Every! Single! Week!
+Dialogue: 0,0:03:44.42,0:03:46.44,Twilight,,0,0,0,,Where's my calendar?! Where's my calendar?!
+Dialogue: 0,0:03:47.08,0:03:48.60,Spike,,0,0,0,,Where it… always is?
+Dialogue: 0,0:03:49.99,0:03:51.71,Twilight,,0,0,0,,When did we send the last one?
+Dialogue: 0,0:03:52.22,0:03:54.02,Spike,,0,0,0,,Last… Tuesday?
+Dialogue: 0,0:03:54.47,0:03:56.24,Twilight,,0,0,0,,And today is…
+Dialogue: 0,0:03:57.10,0:03:57.79,Spike,,0,0,0,,Tuesday?
+Dialogue: 0,0:03:59.40,0:04:00.92,Twilight,,0,0,0,,No-no-no-no-no-no-no-no…
+Dialogue: 0,0:04:02.64,0:04:04.61,Twilight,,0,0,0,,If I don't send her a letter by sundown, I'll be…
+Dialogue: 0,0:04:06.02,0:04:07.50,Twilight,,0,0,0,,TARDY!!!
+Dialogue: 0,0:04:08.79,0:04:09.74,Spike,,0,0,0,,What's that now?
+Dialogue: 0,0:04:10.08,0:04:11.64,Twilight,,0,0,0,,Tar-dy, Spike.
+Dialogue: 0,0:04:11.77,0:04:13.09,Twilight,,0,0,0,,Late! I'll be late!
+Dialogue: 0,0:04:13.27,0:04:15.10,Twilight,,0,0,0,,Oh, how could I've let this happen?
+Dialogue: 0,0:04:15.30,0:04:16.88,Twilight,,0,0,0,,I'm usually so organized.
+Dialogue: 0,0:04:17.04,0:04:18.78,Twilight,,0,0,0,,I've never been late for an assignment.
+Dialogue: 0,0:04:18.90,0:04:19.97,Spike,,0,0,0,,Oh, please!
+Dialogue: 0,0:04:20.17,0:04:21.69,Spike,,0,0,0,,You're the most studious student ever!
+Dialogue: 0,0:04:21.73,0:04:24.99,Spike,,0,0,0,,I'm sure the Princess will forgive you if you miss one little deadline.
+Dialogue: 0,0:04:25.23,0:04:26.98,Twilight,,0,0,0,,I'm afraid to take that chance, Spike.
+Dialogue: 0,0:04:27.47,0:04:30.16,Twilight,,0,0,0,,This is the ruler of all of Equestria we're talking about.
+Dialogue: 0,0:04:30.40,0:04:32.50,Twilight,,0,0,0,,The pony who holds my fate in her hooves.
+Dialogue: 0,0:04:33.98,0:04:35.12,Twilight,,0,0,0,,What if she doesn't forgive me?
+Dialogue: 0,0:04:35.44,0:04:36.93,Spike,,0,0,0,,Yeah, I don't think she…
+Dialogue: 0,0:04:37.22,0:04:38.66,Twilight,,0,0,0,,What if instead she starts thinking
+Dialogue: 0,0:04:38.67,0:04:40.96,Twilight,,0,0,0,,I'm not taking my studies on friendship seriously?
+Dialogue: 0,0:04:41.08,0:04:41.78,Spike,,0,0,0,,Why would she…
+Dialogue: 0,0:04:41.79,0:04:44.42,Twilight,,0,0,0,,What if she makes me come back to Canterlot and puts me back in school
+Dialogue: 0,0:04:44.42,0:04:47.75,Twilight,,0,0,0,,and makes me *prove* I've been taking them seriously by giving me a test?
+Dialogue: 0,0:04:48.35,0:04:49.74,Twilight,,0,0,0,,What if I don't pass?!
+Dialogue: 0,0:04:50.06,0:04:51.44,Spike,,0,0,0,,But why wouldn't you pass…
+Dialogue: 0,0:04:51.44,0:04:52.71,Twilight,,0,0,0,,She's my teacher!
+Dialogue: 0,0:04:52.94,0:04:55.67,Twilight,,0,0,0,,Do you know what teachers do to students who don't pass?
+Dialogue: 0,0:04:56.89,0:04:58.89,Twilight,,0,0,0,,THEY SEND THEM BACK A GRADE!
+Dialogue: 0,0:04:59.26,0:05:00.64,Twilight,,0,0,0,,But she won't just send me back a grade.
+Dialogue: 0,0:05:00.95,0:05:02.28,Twilight,,0,0,0,,She'll send me back to…
+Dialogue: 0,0:05:03.20,0:05:04.74,Twilight,,0,0,0,,…magic kindergarten.
+Dialogue: 0,0:05:12.01,0:05:12.83,Spike,,0,0,0,,Twilight.
+Dialogue: 0,0:05:14.08,0:05:14.87,Spike,,0,0,0,,Twilight!
+Dialogue: 0,0:05:15.80,0:05:18.48,Spike,,0,0,0,,That is the most ridiculous thing I've ever heard!
+Dialogue: 0,0:05:18.74,0:05:21.43,Spike,,0,0,0,,You're not gonna be sent back to magic kindergarten.
+Dialogue: 0,0:05:21.80,0:05:22.44,Twilight,,0,0,0,,You're right.
+Dialogue: 0,0:05:22.88,0:05:24.44,Twilight,,0,0,0,,I have no reason to worry.
+Dialogue: 0,0:05:25.14,0:05:27.08,Twilight,,0,0,0,,Because I'm going to solve a friend's problem
+Dialogue: 0,0:05:27.09,0:05:30.10,Twilight,,0,0,0,,and get that letter to Princess Celestia before sundown!
+Dialogue: 0,0:05:31.39,0:05:32.58,Twilight,,0,0,0,,So…
+Dialogue: 0,0:05:32.98,0:05:35.23,Twilight,,0,0,0,,Got any problems, troubles, conundrums or any other sort of issues
+Dialogue: 0,0:05:35.23,0:05:38.28,Twilight,,0,0,0,,major or minor, that I as a good friend could help you solve?
+Dialogue: 0,0:05:44.36,0:05:45.06,Spike,,0,0,0,,I got nothin'.
+Dialogue: 0,0:05:47.34,0:05:50.55,Twilight,,0,0,0,,Then it looks like I'm gonna have to find somepony who does.
+Dialogue: 0,0:05:52.42,0:05:53.90,Spike,,0,0,0,,This won't end well.
+Dialogue: 0,0:05:59.02,0:06:00.13,Twilight,,0,0,0,,You've got this, Twilight.
+Dialogue: 0,0:06:00.33,0:06:03.59,Twilight,,0,0,0,,You still have plenty of time to get that letter to Princess Celestia.
+Dialogue: 0,0:06:03.81,0:06:07.15,Twilight,,0,0,0,,Has to be somepony around here who needs the help of a good friend.
+Dialogue: 0,0:06:08.84,0:06:09.68,Twilight,,0,0,0,,Rarity!
+Dialogue: 0,0:06:13.62,0:06:14.87,Twilight,,0,0,0,,Don't worry, Rarity!
+Dialogue: 0,0:06:15.24,0:06:16.33,Twilight,,0,0,0,,I'm here!
+Dialogue: 0,0:06:16.72,0:06:17.87,Rarity,,0,0,0,,Why me?
+Dialogue: 0,0:06:19.24,0:06:22.09,Rarity,,0,0,0,,WHY, WHY, WHY?!
+Dialogue: 0,0:06:22.50,0:06:25.22,Rarity,,0,0,0,,Of all the worst things that could happen, this is…
+Dialogue: 0,0:06:25.26,0:06:28.13,Rarity,,0,0,0,,The! Worst! Possible! Thing!
+Dialogue: 0,0:06:30.54,0:06:31.40,Twilight,,0,0,0,,What's happened?!
+Dialogue: 0,0:06:31.62,0:06:32.56,Twilight,,0,0,0,,Are you alright?
+Dialogue: 0,0:06:33.23,0:06:36.40,Rarity,,0,0,0,,I've lost my diamond-encrusted purple ribbon!
+Dialogue: 0,0:06:36.75,0:06:38.03,Rarity,,0,0,0,,I have searched HIGH!
+Dialogue: 0,0:06:38.28,0:06:39.41,Rarity,,0,0,0,,And I have searched low.
+Dialogue: 0,0:06:39.42,0:06:40.14,Rarity,,0,0,0,,LOW AND HIGH!
+Dialogue: 0,0:06:40.18,0:06:40.94,Rarity,,0,0,0,,High and low.
+Dialogue: 0,0:06:41.88,0:06:43.33,Rarity,,0,0,0,,But I can't find it anywhere!
+Dialogue: 0,0:06:44.28,0:06:46.26,Rarity,,0,0,0,,ANYWHERE!
+Dialogue: 0,0:06:47.38,0:06:51.26,Rarity,,0,0,0,,How can I possibly finish my latest creation if I can't find it?
+Dialogue: 0,0:06:51.87,0:06:53.06,Twilight,,0,0,0,,Never fear, Rarity.
+Dialogue: 0,0:06:53.26,0:06:55.50,Twilight,,0,0,0,,As your friend\NI'll do my best to help you fi…
+Dialogue: 0,0:06:55.50,0:06:56.63,Rarity,,0,0,0,,Oh, there it is.
+Dialogue: 0,0:06:56.84,0:06:59.34,Rarity,,0,0,0,,Isn't it always just the last place you look.
+Dialogue: 0,0:07:00.97,0:07:04.28,Twilight,,0,0,0,,So you just lost your ribbon…
+Dialogue: 0,0:07:06.43,0:07:08.06,Twilight,,0,0,0,,…but now you've found it.
+Dialogue: 0,0:07:08.53,0:07:08.91,Rarity,,0,0,0,,Yeah.
+Dialogue: 0,0:07:09.40,0:07:11.53,Twilight,,0,0,0,,And nothing else is bothering you?
+Dialogue: 0,0:07:11.99,0:07:14.85,Twilight,,0,0,0,,Nothing that I as a good friend could help you with?
+Dialogue: 0,0:07:17.34,0:07:18.86,Rarity,,0,0,0,,There is one thing.
+Dialogue: 0,0:07:19.42,0:07:20.20,Twilight,,0,0,0,,YES?!
+Dialogue: 0,0:07:20.72,0:07:23.07,Rarity,,0,0,0,,I think I've left my measuring tape under the fabric over there.
+Dialogue: 0,0:07:23.09,0:07:24.32,Rarity,,0,0,0,,Could you get that for me?
+Dialogue: 0,0:07:27.19,0:07:28.21,Twilight,,0,0,0,,Measuring tape.
+Dialogue: 0,0:07:28.60,0:07:29.14,Twilight,,0,0,0,,Sure.
+Dialogue: 0,0:07:29.98,0:07:32.03,Rarity,,0,0,0,,Twilight. Is there something bother…
+Dialogue: 0,0:07:33.23,0:07:33.96,Rarity,,0,0,0,,Twilight.
+Dialogue: 0,0:07:38.82,0:07:39.76,Twilight,,0,0,0,,No need to panic.
+Dialogue: 0,0:07:39.92,0:07:41.53,Twilight,,0,0,0,,Rarity is just one pony.
+Dialogue: 0,0:07:41.68,0:07:43.93,Twilight,,0,0,0,,I'm sure one of my other friends will need me.
+Dialogue: 0,0:08:01.88,0:08:03.41,Twilight,,0,0,0,,What in the world…
+Dialogue: 0,0:08:04.90,0:08:07.02,Twilight,,0,0,0,,Rainbow must be angry with Applejack!
+Dialogue: 0,0:08:07.29,0:08:09.06,Twilight,,0,0,0,,She must hate her guts!
+Dialogue: 0,0:08:09.39,0:08:10.28,Twilight,,0,0,0,,Oh, wonderful!
+Dialogue: 0,0:08:11.52,0:08:13.10,Twilight,,0,0,0,,Rainbow Dash! Stop!
+Dialogue: 0,0:08:14.77,0:08:15.96,Twilight,,0,0,0,,Listen, Rainbow.
+Dialogue: 0,0:08:16.04,0:08:18.70,Twilight,,0,0,0,,I know you're upset with Applejack, but don't worry.
+Dialogue: 0,0:08:18.98,0:08:21.18,Twilight,,0,0,0,,Whatever it is that has come between you two,
+Dialogue: 0,0:08:21.31,0:08:25.56,Twilight,,0,0,0,,I'm sure that I as a good friend can help you resolve your problems.
+Dialogue: 0,0:08:27.40,0:08:29.16,RainbowDash,,0,0,0,,Uh, what are you talking about?
+Dialogue: 0,0:08:29.76,0:08:31.12,Twilight,,0,0,0,,Oh, Rainbow Dash.
+Dialogue: 0,0:08:31.48,0:08:33.40,Twilight,,0,0,0,,You don't have to hide your feelings from me.
+Dialogue: 0,0:08:33.80,0:08:36.12,Twilight,,0,0,0,,I can tell you two must have had a terrible fight.
+Dialogue: 0,0:08:36.71,0:08:41.11,Twilight,,0,0,0,,Now, why don't you tell me all about your issues with Applejack.
+Dialogue: 0,0:08:41.50,0:08:43.39,RainbowDash,,0,0,0,,I don't have any issues with Applejack.
+Dialogue: 0,0:08:43.70,0:08:44.36,Twilight,,0,0,0,,You don't?
+Dialogue: 0,0:08:44.58,0:08:46.73,Twilight,,0,0,0,,Then why are you destroying her property?
+Dialogue: 0,0:08:47.01,0:08:48.39,RainbowDash,,0,0,0,,Because she asked me to.
+Dialogue: 0,0:08:48.76,0:08:49.69,RainbowDash,,0,0,0,,Right, Applejack?
+Dialogue: 0,0:08:49.92,0:08:50.94,AppleJack,,0,0,0,,Yes, ma'am.
+Dialogue: 0,0:08:51.14,0:08:54.38,AppleJack,,0,0,0,,I wanted to put up a new barn, but this one's gotta come down first.
+Dialogue: 0,0:08:55.08,0:08:56.49,AppleJack,,0,0,0,,Now get back to it, RD.
+Dialogue: 0,0:08:56.94,0:08:58.28,RainbowDash,,0,0,0,,You got it, boss!
+Dialogue: 0,0:08:59.26,0:09:00.59,AppleJack,,0,0,0,,I'd take cover if I were you.
+Dialogue: 0,0:09:26.76,0:09:29.14,Twilight,,0,0,0,,I can't believe I've wasted all that time.
+Dialogue: 0,0:09:29.39,0:09:30.95,Twilight,,0,0,0,,I should have just come here first.
+Dialogue: 0,0:09:31.26,0:09:34.25,Twilight,,0,0,0,,Fluttershy always has some fear she's trying to get over.
+Dialogue: 0,0:09:34.26,0:09:36.82,Twilight,,0,0,0,,As a good friend I'll be able to help her.
+Dialogue: 0,0:09:49.44,0:09:50.24,Twilight,,0,0,0,,Fluttershy?!
+Dialogue: 0,0:09:58.18,0:09:59.40,Twilight,,0,0,0,,How can this be happening?!
+Dialogue: 0,0:09:59.61,0:10:02.87,Twilight,,0,0,0,,Of all the days she had to stop being such a scaredy-pony she had to pick today?!
+Dialogue: 0,0:10:03.15,0:10:05.01,Twilight,,0,0,0,,What am I going to do?
+Dialogue: 0,0:10:06.33,0:10:08.53,FlutterShy,,0,0,0,,You really should have come to me sooner.
+Dialogue: 0,0:10:08.71,0:10:12.03,FlutterShy,,0,0,0,,You were carrying so much tension in that shoulder.
+Dialogue: 0,0:10:16.12,0:10:18.56,Twilight,,0,0,0,,It's fine. It'll all be fine.
+Dialogue: 0,0:10:18.70,0:10:19.76,Twilight,,0,0,0,,The day isn't over yet.
+Dialogue: 0,0:10:19.90,0:10:21.40,Twilight,,0,0,0,,But it will be over soon!
+Dialogue: 0,0:10:23.98,0:10:25.08,Twilight,,0,0,0,,It'll be all over!
+Dialogue: 0,0:10:25.13,0:10:27.64,Twilight,,0,0,0,,My time in Ponyville, my advanced studies!
+Dialogue: 0,0:10:27.80,0:10:29.39,Twilight,,0,0,0,,No, no. You're a good student.
+Dialogue: 0,0:10:29.48,0:10:30.73,Twilight,,0,0,0,,You can do this.
+Dialogue: 0,0:10:31.53,0:10:33.12,Twilight,,0,0,0,,Oh! But what if I can't?
+Dialogue: 0,0:10:33.26,0:10:35.29,Twilight,,0,0,0,,You can! You just have to keep it together!
+Dialogue: 0,0:10:35.53,0:10:36.88,Twilight,,0,0,0,,Keep! It! Together!
+Dialogue: 0,0:10:38.00,0:10:40.23,Spike,,0,0,0,,Are you talking to… yourself?
+Dialogue: 0,0:10:41.80,0:10:42.63,Spike,,0,0,0,,Twilight?
+Dialogue: 0,0:10:51.88,0:10:53.11,Spike,,0,0,0,,Snap out of it!
+Dialogue: 0,0:10:55.16,0:10:56.11,Spike,,0,0,0,,Are you okay?
+Dialogue: 0,0:10:59.79,0:11:01.41,Spike,,0,0,0,,Twilight, I'm really worried.
+Dialogue: 0,0:11:01.59,0:11:03.60,Spike,,0,0,0,,I mean this letter thing is really getting to you.
+Dialogue: 0,0:11:03.89,0:11:04.54,Spike,,0,0,0,,Here.
+Dialogue: 0,0:11:04.68,0:11:07.74,Spike,,0,0,0,,You've been so anxious all day that you've completely forgot about the picnic.
+Dialogue: 0,0:11:08.32,0:11:10.29,Spike,,0,0,0,,Why don't you just relax and go hang out with…
+Dialogue: 0,0:11:10.30,0:11:11.02,Twilight,,0,0,0,,The picnic!
+Dialogue: 0,0:11:12.26,0:11:14.15,Twilight,,0,0,0,,I should go see my friends!
+Dialogue: 0,0:11:14.42,0:11:15.98,Spike,,0,0,0,,I'm glad you've come to your senses.
+Dialogue: 0,0:11:25.12,0:11:28.01,Rarity,,0,0,0,,Please tell me I did not forget the plates.
+Dialogue: 0,0:11:28.37,0:11:28.94,Rarity,,0,0,0,,I did!
+Dialogue: 0,0:11:29.22,0:11:30.48,Rarity,,0,0,0,,I totally forgot them!
+Dialogue: 0,0:11:30.92,0:11:33.49,Rarity,,0,0,0,,Of all the worst things that could happen, this is…
+Dialogue: 0,0:11:33.86,0:11:36.69,Rarity,,0,0,0,,The! Worst! Possible! Thing!
+Dialogue: 0,0:11:37.80,0:11:41.07,Rarity,,0,0,0,,Why, why, why!
+Dialogue: 0,0:11:43.94,0:11:44.50,Rarity,,0,0,0,,What?
+Dialogue: 0,0:11:44.86,0:11:47.03,Rarity,,0,0,0,,You didn't expect me to lay on the grass, did you?
+Dialogue: 0,0:11:56.25,0:11:57.24,AppleJack,,0,0,0,,You all right, hun?
 Dialogue: 0,0:11:57.32,0:11:57.99,Twilight,,0,0,0,,NO!
-Dialogue: 0,0:11:57.99,0:11:59.70,Twilight,,0,0,0,,I am not all right.
-Dialogue: 0,0:12:02.33,0:12:03.90,Twilight,,0,0,0,,It's just terrible.
-Dialogue: 0,0:12:04.39,0:12:05.37,Somepony,,0,0,0,,Yes?
-Dialogue: 0,0:12:05.37,0:12:06.95,Twilight,,0,0,0,,Simply awful.
-Dialogue: 0,0:12:07.25,0:12:08.45,Somepony,,0,0,0,,Yes?
-Dialogue: 0,0:12:08.45,0:12:10.22,Twilight,,0,0,0,,It's the most terrific trouble\NI've ever been in…
-Dialogue: 0,0:12:10.22,0:12:13.18,Twilight,,0,0,0,,…and I really, really,\Nreally need your help!
-Dialogue: 0,0:12:13.68,0:12:14.83,Somepony,,0,0,0,,YES?
-Dialogue: 0,0:12:14.83,0:12:17.88,Twilight,,0,0,0,,My letter to Princess Celestia\Nis almost overdue.
-Dialogue: 0,0:12:17.88,0:12:20.85,Twilight,,0,0,0,,And I haven't learned\Nanything about friendship!
-Dialogue: 0,0:12:22.83,0:12:26.05,FlutterShy,,0,0,0,,Oh, thank goodness. I thought\Nsomething really awful had happened.
-Dialogue: 0,0:12:28.55,0:12:30.57,Twilight,,0,0,0,,Something awful HAS happened!
-Dialogue: 0,0:12:31.49,0:12:34.77,Twilight,,0,0,0,,If I don't turn in the letter\Non time, I'll be tardy!
-Dialogue: 0,0:12:35.29,0:12:37.03,Twilight,,0,0,0,,TAAARDY!
-Dialogue: 0,0:12:41.37,0:12:42.70,AppleJack,,0,0,0,,No offense, sugar cube…
-Dialogue: 0,0:12:42.70,0:12:46.24,AppleJack,,0,0,0,,…but it looks like somepony's gettin'\Nthemselves all worked up over nothin'.
-Dialogue: 0,0:12:46.59,0:12:49.35,Twilight,,0,0,0,,This is not nothing.\NThis is everything!
-Dialogue: 0,0:12:49.35,0:12:53.04,Twilight,,0,0,0,,I need you guys to help me find somepony\Nwith a problem I can fix before sundown.
-Dialogue: 0,0:12:53.04,0:12:55.68,Twilight,,0,0,0,,MY WHOLE LIFE DEPENDS ON IT!
-Dialogue: 0,0:12:56.45,0:12:59.23,PinkiePie,,0,0,0,,Oh, Twilight. You're such a crackup.
-Dialogue: 0,0:13:00.67,0:13:01.82,AppleJack,,0,0,0,,Come on, now.
-Dialogue: 0,0:13:02.05,0:13:04.12,AppleJack,,0,0,0,,Have a seat and stop\Nsweatin' small stuff.
-Dialogue: 0,0:13:07.93,0:13:11.26,FlutterShy,,0,0,0,,Wow. I've never seen\NTwilight so upset before.
-Dialogue: 0,0:13:11.26,0:13:14.10,Rarity,,0,0,0,,Ugh, what a drama queen.
-Dialogue: 0,0:13:15.43,0:13:17.33,Rarity,,0,0,0,,Relatively speaking.
-Dialogue: 0,0:13:21.50,0:13:22.79,Twilight,,0,0,0,,Clock is ticking, Twilight.
-Dialogue: 0,0:13:23.10,0:13:25.21,Twilight,,0,0,0,,Clock… is… ticking!
-Dialogue: 0,0:13:26.82,0:13:28.08,Twilight,,0,0,0,,Keep it together.
-Dialogue: 0,0:13:28.87,0:13:31.39,Twilight,,0,0,0,,If I can't find a friendship problem…
-Dialogue: 0,0:13:32.19,0:13:34.28,Twilight,,0,0,0,,…I'll *make* a friendship problem!
-Dialogue: 0,0:13:52.90,0:13:54.75,Twilight,,0,0,0,,Hi, girls!
-Dialogue: 0,0:13:55.73,0:13:57.98,AppleBloom,,0,0,0,,Oh. Hi, Twilight. How's it goi..
-Dialogue: 0,0:13:57.98,0:14:00.26,Twilight,,0,0,0,,Great! Just great!
-Dialogue: 0,0:14:00.66,0:14:02.66,Twilight,,0,0,0,,You three look like\Nyou're doing great too!
-Dialogue: 0,0:14:02.66,0:14:04.35,Twilight,,0,0,0,,Looks like three good\Nfriends who obviously…
-Dialogue: 0,0:14:04.35,0:14:07.48,Twilight,,0,0,0,,…don't need the help\Nof another good friend!
-Dialogue: 0,0:14:09.06,0:14:11.12,Twilight,,0,0,0,,This is Smarty Pants.
-Dialogue: 0,0:14:11.13,0:14:12.95,Twilight,,0,0,0,,She was mine when I was your age.
-Dialogue: 0,0:14:12.95,0:14:15.35,Twilight,,0,0,0,,And now I want to give her to you!
-Dialogue: 0,0:14:17.01,0:14:19.64,Scootaloo,,0,0,0,,Uh… She's… great!
-Dialogue: 0,0:14:19.64,0:14:22.19,AppleBloom,,0,0,0,,Yeah… Great.
-Dialogue: 0,0:14:22.19,0:14:26.40,SweetieBelle,,0,0,0,,I really like her… mane?
-Dialogue: 0,0:14:26.40,0:14:29.92,Twilight,,0,0,0,,She even comes with\Nher own notebook and quill.
-Dialogue: 0,0:14:29.92,0:14:33.21,Twilight,,0,0,0,,For when you want to pretend\Nshe's doing her homework.
-Dialogue: 0,0:14:33.88,0:14:37.01,Scootaloo,,0,0,0,,That's, um… great.
-Dialogue: 0,0:14:37.01,0:14:39.70,AppleBloom,,0,0,0,,Yeah… Great.
-Dialogue: 0,0:14:41.21,0:14:44.51,SweetieBelle,,0,0,0,,I really like her… mane?
-Dialogue: 0,0:14:44.61,0:14:47.03,Twilight,,0,0,0,,I just hope the fact that\Nthere are three of you…
-Dialogue: 0,0:14:47.03,0:14:49.79,Twilight,,0,0,0,,…and only one of her\Ndoesn't become a problem.
-Dialogue: 0,0:14:49.79,0:14:53.21,Twilight,,0,0,0,,I'd hate to cause a rift\Nbetween such good friends!
-Dialogue: 0,0:14:54.44,0:14:56.12,Twilight,,0,0,0,,So who wants to play with her first?
-Dialogue: 0,0:14:56.68,0:14:59.05,AppleBloom,,0,0,0,,Uh… You should play\Nwith her first, Sweetie Belle.
-Dialogue: 0,0:14:59.05,0:15:01.41,AppleBloom,,0,0,0,,You know, cause you\Nlike her mane so much.
-Dialogue: 0,0:15:01.80,0:15:03.13,SweetieBelle,,0,0,0,,Nononononono.
-Dialogue: 0,0:15:03.13,0:15:06.44,SweetieBelle,,0,0,0,,I think Scootaloo should\Nget to play with her first.
-Dialogue: 0,0:15:06.45,0:15:09.60,Scootaloo,,0,0,0,,I'd love to, but, um…\NYou take her, Apple Bloom.
-Dialogue: 0,0:15:10.49,0:15:13.16,AppleBloom,,0,0,0,,Applejack says it's important to share.
-Dialogue: 0,0:15:14.05,0:15:16.71,Twilight,,0,0,0,,I got to think of something.\NThinkthinkthink, Twilight, think!
-Dialogue: 0,0:15:17.35,0:15:18.53,Twilight,,0,0,0,,That's it!
-Dialogue: 0,0:15:18.98,0:15:21.69,Twilight,,0,0,0,,Ooh, you're going to like Smarty Pants.
-Dialogue: 0,0:15:21.69,0:15:24.32,Twilight,,0,0,0,,And you're going to like her\Nmore than anything.
-Dialogue: 0,0:15:33.21,0:15:34.60,Scootaloo,,0,0,0,,I want it.
-Dialogue: 0,0:15:34.60,0:15:36.53,AppleBloom,,0,0,0,,I need it.
-Dialogue: 0,0:15:36.53,0:15:38.79,SweetieBelle,,0,0,0,,I really like her mane!
-Dialogue: 0,0:15:41.50,0:15:44.26,Twilight,,0,0,0,,The "want it, need it" spell.\NWorks every time.
-Dialogue: 0,0:15:44.63,0:15:46.73,Twilight,,0,0,0,,Okay, okay. Let's break it up.
-Dialogue: 0,0:15:46.73,0:15:49.27,Twilight,,0,0,0,,I think you can all see that\Nthere is an important lesson…
-Dialogue: 0,0:15:49.27,0:15:50.74,Twilight,,0,0,0,,…to be learned here about…
-Dialogue: 0,0:15:52.27,0:15:54.82,Twilight,,0,0,0,,Come on, girls. We're all friends here, right?
-Dialogue: 0,0:15:54.92,0:15:56.56,Twilight,,0,0,0,,Don't you think you have to share?
-Dialogue: 0,0:15:57.39,0:15:58.64,AppleBloom,,0,0,0,,No way!
-Dialogue: 0,0:16:05.37,0:16:07.62,Twilight,,0,0,0,,Big McIntosh! Thank goodness!
-Dialogue: 0,0:16:07.62,0:16:10.56,Twilight,,0,0,0,,You gotta help me get that\Ndoll away from those girls.
-Dialogue: 0,0:16:10.78,0:16:12.47,BigMac,,0,0,0,,Eeyup.
-Dialogue: 0,0:16:19.43,0:16:23.25,Twilight,,0,0,0,,Thank you so much. Now if\Nyou could just give her to me…
-Dialogue: 0,0:16:23.76,0:16:25.13,BigMac,,0,0,0,,Nnnope.
-Dialogue: 0,0:16:26.42,0:16:27.51,Twilight,,0,0,0,,Oh no!
-Dialogue: 0,0:16:27.51,0:16:28.67,AppleBloom,,0,0,0,,Give her back!
-Dialogue: 0,0:16:32.03,0:16:33.50,Mayor,,0,0,0,,What's all the commotion about?
-Dialogue: 0,0:16:33.50,0:16:35.10,Somepony,,0,0,0,,They're fighting over that doll!
-Dialogue: 0,0:16:35.10,0:16:38.03,Somepony,,0,0,0,,That incredible, amazing doll!
-Dialogue: 0,0:16:40.00,0:16:42.77,Twilight,,0,0,0,,Can't get a clear shot…
-Dialogue: 0,0:16:47.70,0:16:48.74,Mayor,,0,0,0,,Give me!
-Dialogue: 0,0:16:53.15,0:16:54.45,BigMac,,0,0,0,,Nnnope.
-Dialogue: 0,0:16:56.15,0:16:57.84,Twilight,,0,0,0,,Oh, what have I done?!
-Dialogue: 0,0:17:04.36,0:17:05.75,AppleJack,,0,0,0,,Y'all hear that?
-Dialogue: 0,0:17:08.55,0:17:12.30,AppleJack,,0,0,0,,What in the name of all things\Noats 'n apples is goin' on here?
-Dialogue: 0,0:17:19.96,0:17:21.04,Twilight,,0,0,0,,DON'T LOOK AT IT!
-Dialogue: 0,0:17:21.04,0:17:22.44,Rarity,,0,0,0,,Don't look at what?
-Dialogue: 0,0:17:22.44,0:17:23.93,Twilight,,0,0,0,,My Smarty Pants doll.
-Dialogue: 0,0:17:23.93,0:17:27.02,Twilight,,0,0,0,,I enchanted her and now\Neverypony is fighting over her.
-Dialogue: 0,0:17:27.72,0:17:29.90,FlutterShy,,0,0,0,,Why would you enchant your doll?
-Dialogue: 0,0:17:29.91,0:17:31.28,Twilight,,0,0,0,,Oh, I had to do something!
-Dialogue: 0,0:17:31.29,0:17:33.49,Twilight,,0,0,0,,I had nothing to report to Princess Celestia.
-Dialogue: 0,0:17:33.49,0:17:36.85,Twilight,,0,0,0,,I thought if I couldn't find\Na problem, I'd make a problem.
-Dialogue: 0,0:17:36.85,0:17:38.78,Twilight,,0,0,0,,The day is almost over!
-Dialogue: 0,0:17:39.14,0:17:40.58,AppleJack,,0,0,0,,Not almost.
-Dialogue: 0,0:17:46.88,0:17:48.75,Celestia,,0,0,0,,Twilight Sparkle!
-Dialogue: 0,0:17:51.76,0:17:53.52,AppleJack,,0,0,0,,Whoa, Nelly.
-Dialogue: 0,0:18:23.31,0:18:25.68,Celestia,,0,0,0,,Meet me in the library.
-Dialogue: 0,0:18:27.75,0:18:30.89,Twilight,,0,0,0,,Goodbye, girls. If you care to visit…
-Dialogue: 0,0:18:31.39,0:18:35.43,Twilight,,0,0,0,,…I'll be in magic kindergarten\Nback in Canterlot.
-Dialogue: 0,0:18:37.18,0:18:39.02,FlutterShy,,0,0,0,,Magic kindergarten?
-Dialogue: 0,0:18:39.02,0:18:40.33,RainbowDash,,0,0,0,,Canterlot?
-Dialogue: 0,0:18:40.85,0:18:43.41,PinkiePie,,0,0,0,,We're never gonna see Twilight again!
-Dialogue: 0,0:18:43.92,0:18:45.80,AppleJack,,0,0,0,,What are we gonna do, y'all?
-Dialogue: 0,0:18:45.84,0:18:48.55,Rarity,,0,0,0,,Of all the worst things\Nthat could happen…
-Dialogue: 0,0:18:48.74,0:18:52.81,Rarity,,0,0,0,,…this is the! Worst! Possible! Thing!
-Dialogue: 0,0:18:56.52,0:18:59.41,Rarity,,0,0,0,,What? I really mean it this time.
-Dialogue: 0,0:19:00.66,0:19:05.05,Twilight,,0,0,0,,But… But… I'm supposed to send you\Na letter about friendship every week.
-Dialogue: 0,0:19:05.28,0:19:06.58,Twilight,,0,0,0,,I missed the deadline.
-Dialogue: 0,0:19:06.59,0:19:10.27,Twilight,,0,0,0,,I'm a bad student. I'm tardy!
-Dialogue: 0,0:19:10.39,0:19:12.97,Celestia,,0,0,0,,You are a wonderful student, Twilight.
-Dialogue: 0,0:19:12.97,0:19:15.78,Celestia,,0,0,0,,I don't have to get a letter\Nevery week to know that.
-Dialogue: 0,0:19:16.18,0:19:17.19,Twilight,,0,0,0,,Really?
-Dialogue: 0,0:19:19.79,0:19:20.53,RainbowDash,,0,0,0,,WAIT!
-Dialogue: 0,0:19:20.53,0:19:21.85,PinkiePie,,0,0,0,,You can't punish her!
-Dialogue: 0,0:19:21.85,0:19:23.25,AppleJack,,0,0,0,,It wasn't her fault!
-Dialogue: 0,0:19:23.25,0:19:24.46,Celestia,,0,0,0,,I'm listening.
-Dialogue: 0,0:19:24.46,0:19:27.20,FlutterShy,,0,0,0,,Please, your highness.\NWe all saw that Twilight was upset.
-Dialogue: 0,0:19:27.20,0:19:29.36,RainbowDash,,0,0,0,,But we thought that the thing\Nshe was worrying about…
-Dialogue: 0,0:19:29.36,0:19:31.23,RainbowDash,,0,0,0,,…wasn't worth worrying about.
-Dialogue: 0,0:19:31.23,0:19:33.12,AppleJack,,0,0,0,,So when she ran out all worked up…
-Dialogue: 0,0:19:33.13,0:19:35.37,AppleJack,,0,0,0,,…not a single one of us\Ntried to stop her.
-Dialogue: 0,0:19:35.37,0:19:37.92,Rarity,,0,0,0,,As Twilight's good friends,\Nwe should have taken…
-Dialogue: 0,0:19:37.92,0:19:40.59,Rarity,,0,0,0,,…her feelings seriously\Nand been there for her.
-Dialogue: 0,0:19:40.59,0:19:42.40,FlutterShy,,0,0,0,,Please don't take her away from us…
-Dialogue: 0,0:19:42.41,0:19:45.21,FlutterShy,,0,0,0,,…just because we were\Ntoo insensitive to help her.
-Dialogue: 0,0:19:47.75,0:19:51.01,Celestia,,0,0,0,,Looks like you all learned\Na pretty valuable lesson today.
-Dialogue: 0,0:19:53.60,0:19:58.25,Celestia,,0,0,0,,Very well. I'll forget Twilight's\Npunishment on one condition.
-Dialogue: 0,0:20:01.13,0:20:03.00,Celestia,,0,0,0,,From this day forth\NI would like you all…
-Dialogue: 0,0:20:03.00,0:20:06.16,Celestia,,0,0,0,,…to report to me your findings\Non the magic of friendship.
-Dialogue: 0,0:20:06.16,0:20:09.21,Celestia,,0,0,0,,When and only when you happen to discover them.
-Dialogue: 0,0:20:13.29,0:20:15.22,Twilight,,0,0,0,,Princess Celestia! Wait!
-Dialogue: 0,0:20:15.22,0:20:17.24,Twilight,,0,0,0,,How did you know I was in trouble?
-Dialogue: 0,0:20:17.34,0:20:18.86,Celestia,,0,0,0,,Your friend Spike made me aware…
-Dialogue: 0,0:20:18.86,0:20:21.24,Celestia,,0,0,0,,…that you were letting\Nyour fears get the best of you.
-Dialogue: 0,0:20:21.24,0:20:24.31,Celestia,,0,0,0,,I commend him for taking\Nyour feelings seriously.
-Dialogue: 0,0:20:24.53,0:20:28.18,Celestia,,0,0,0,,Now, if you will all excuse me,\NI must return to Canterlot.
-Dialogue: 0,0:20:28.60,0:20:30.63,Celestia,,0,0,0,,I'm expecting some mail.
-Dialogue: 0,0:20:34.90,0:20:38.21,AppleJack,,0,0,0,,Y'all heard the princess.\NSpike, take a letter.
-Dialogue: 0,0:20:44.52,0:20:47.25,AppleJack,,0,0,0,,"Dear Princess Celestia.\NWe're writin' to you…"
-Dialogue: 0,0:20:47.25,0:20:50.17,AppleJack,,0,0,0,,"…because today we all learned\Na little somethin' about friendship."
-Dialogue: 0,0:20:50.17,0:20:53.37,FlutterShy,,0,0,0,,"We learned that you should take\Nyour friends' worries seriously."
-Dialogue: 0,0:20:53.37,0:20:56.41,RainbowDash,,0,0,0,,"Even if you don't think that\Nshe has anything to worry about."
-Dialogue: 0,0:20:56.41,0:20:59.65,Rarity,,0,0,0,,"And that you shouldn't let\Nyour worries turn a small problem…"
-Dialogue: 0,0:20:59.65,0:21:02.91,PinkiePie,,0,0,0,,"…into an enormously huge\Nentire-town-in-total-chaos…"
-Dialogue: 0,0:21:02.92,0:21:05.63,PinkiePie,,0,0,0,,"…Princess-has-to-come-\N-and-save-the-day problem."
-Dialogue: 0,0:21:05.64,0:21:08.47,AppleJack,,0,0,0,,"Signed, your loyal subjects."
-Dialogue: 0,0:21:09.88,0:21:12.83,Spike,,0,0,0,,"PS. Obviously Spike did not\Nhave to learn a lesson…"
-Dialogue: 0,0:21:12.84,0:21:16.23,Spike,,0,0,0,,"…because he is the best, most\Nawesome friend a pony could ask for."
-Dialogue: 0,0:21:16.23,0:21:19.62,Spike,,0,0,0,,"Unlike everypony else,\Nhe took things seriously. And…"
-Dialogue: 0,0:21:21.96,0:21:23.46,Spike,,0,0,0,,Uh… Yeah.
-Dialogue: 0,0:21:23.46,0:21:25.05,Spike,,0,0,0,,I'll just, um…
-Dialogue: 0,0:21:33.52,0:21:36.36,Somepony,,0,0,0,,SCHASTLIVYI PONETC
-Dialogue: 0,0:21:36.36,0:21:40.35,Somepony,,0,0,0,,anon2anon\Nsunnysubs.com
+Dialogue: 0,0:11:58.28,0:11:59.54,Twilight,,0,0,0,,I am not all right.
+Dialogue: 0,0:12:02.45,0:12:03.65,Twilight,,0,0,0,,It's just terrible.
+Dialogue: 0,0:12:04.41,0:12:05.37,Somepony,,0,0,0,,Yes?
+Dialogue: 0,0:12:05.42,0:12:06.83,Twilight,,0,0,0,,Simply awful.
+Dialogue: 0,0:12:07.47,0:12:08.45,Somepony,,0,0,0,,Yes?
+Dialogue: 0,0:12:08.51,0:12:10.56,Twilight,,0,0,0,,It's the most terrific trouble I've ever been in
+Dialogue: 0,0:12:10.57,0:12:13.06,Twilight,,0,0,0,,and I really, really, really need your help!
+Dialogue: 0,0:12:13.79,0:12:14.72,Somepony,,0,0,0,,YES?
+Dialogue: 0,0:12:15.08,0:12:17.88,Twilight,,0,0,0,,My letter to Princess Celestia is almost overdue!
+Dialogue: 0,0:12:18.17,0:12:20.74,Twilight,,0,0,0,,And I haven't learned anything about friendship!
+Dialogue: 0,0:12:22.94,0:12:23.98,FlutterShy,,0,0,0,,Oh, thank goodness.
+Dialogue: 0,0:12:24.18,0:12:26.05,FlutterShy,,0,0,0,,I thought something really awful had happened.
+Dialogue: 0,0:12:28.73,0:12:30.46,Twilight,,0,0,0,,Something awful HAS happened!
+Dialogue: 0,0:12:31.58,0:12:34.60,Twilight,,0,0,0,,If I don't turn in the letter on time, I'll be tardy!
+Dialogue: 0,0:12:35.36,0:12:36.72,Twilight,,0,0,0,,TAAARDY!
+Dialogue: 0,0:12:41.42,0:12:42.70,AppleJack,,0,0,0,,No offense, sugarcube,
+Dialogue: 0,0:12:42.82,0:12:46.06,AppleJack,,0,0,0,,but it looks like somepony's gettin' themselves all worked up over nothin'.
+Dialogue: 0,0:12:46.62,0:12:47.76,Twilight,,0,0,0,,This is not nothing.
+Dialogue: 0,0:12:47.93,0:12:49.30,Twilight,,0,0,0,,This is everything!
+Dialogue: 0,0:12:49.55,0:12:52.91,Twilight,,0,0,0,,I need you guys to help me find somepony with a problem I can fix before sundown!
+Dialogue: 0,0:12:53.13,0:12:55.62,Twilight,,0,0,0,,My whole life depends on it!
+Dialogue: 0,0:12:56.56,0:12:59.20,PinkiePie,,0,0,0,,Oh, Twilight. You're such a crackup.
+Dialogue: 0,0:13:00.67,0:13:01.62,AppleJack,,0,0,0,,Come on, now.
+Dialogue: 0,0:13:02.18,0:13:04.12,AppleJack,,0,0,0,,Have a seat and stop sweatin' small stuff.
+Dialogue: 0,0:13:08.14,0:13:11.26,FlutterShy,,0,0,0,,Wow, I've never seen Twilight so upset before.
+Dialogue: 0,0:13:11.45,0:13:14.10,Rarity,,0,0,0,,Ugh, what a drama queen.
+Dialogue: 0,0:13:15.43,0:13:17.02,Rarity,,0,0,0,,Relatively speaking.
+Dialogue: 0,0:13:21.50,0:13:22.74,Twilight,,0,0,0,,Clock is ticking, Twilight.
+Dialogue: 0,0:13:23.29,0:13:25.21,Twilight,,0,0,0,,Clock… is… ticking!
+Dialogue: 0,0:13:26.88,0:13:27.84,Twilight,,0,0,0,,Keep it together.
+Dialogue: 0,0:13:28.82,0:13:31.26,Twilight,,0,0,0,,If I can't find a friendship problem…
+Dialogue: 0,0:13:32.29,0:13:34.14,Twilight,,0,0,0,,…I'll make a friendship problem!
+Dialogue: 0,0:13:53.00,0:13:54.56,Twilight,,0,0,0,,Hi, girls!
+Dialogue: 0,0:13:56.30,0:13:57.38,AppleBloom,,0,0,0,,Hi, Twilight.
+Dialogue: 0,0:13:57.53,0:13:58.30,AppleBloom,,0,0,0,,How's it goi..
+Dialogue: 0,0:13:58.36,0:13:59.89,Twilight,,0,0,0,,Great! Just great!
+Dialogue: 0,0:14:00.81,0:14:02.66,Twilight,,0,0,0,,You three look like you're doing great too!
+Dialogue: 0,0:14:02.88,0:14:04.40,Twilight,,0,0,0,,Looks like three good friends who obviously
+Dialogue: 0,0:14:04.42,0:14:07.14,Twilight,,0,0,0,,don't need the help of another good friend!
+Dialogue: 0,0:14:09.16,0:14:11.04,Twilight,,0,0,0,,This is Smarty Pants.
+Dialogue: 0,0:14:11.30,0:14:12.85,Twilight,,0,0,0,,She was mine when I was your age.
+Dialogue: 0,0:14:13.01,0:14:15.35,Twilight,,0,0,0,,And now I want to give her to you!
+Dialogue: 0,0:14:17.10,0:14:19.34,Scootaloo,,0,0,0,,Uh… She's… great!
+Dialogue: 0,0:14:19.64,0:14:21.89,AppleBloom,,0,0,0,,Yeah… Great.
+Dialogue: 0,0:14:22.46,0:14:26.19,SweetieBelle,,0,0,0,,I really like her… mane?
+Dialogue: 0,0:14:26.58,0:14:29.92,Twilight,,0,0,0,,She even comes with her own notebook and quill!
+Dialogue: 0,0:14:30.17,0:14:33.10,Twilight,,0,0,0,,For when you want to pretend she's doing her homework!
+Dialogue: 0,0:14:34.14,0:14:36.81,Scootaloo,,0,0,0,,That's, um… great.
+Dialogue: 0,0:14:37.15,0:14:39.43,AppleBloom,,0,0,0,,Yeah… Great.
+Dialogue: 0,0:14:41.21,0:14:44.34,SweetieBelle,,0,0,0,,I really like her… mane?
+Dialogue: 0,0:14:45.02,0:14:47.20,Twilight,,0,0,0,,I just hope the fact that there are three of you…
+Dialogue: 0,0:14:47.22,0:14:49.84,Twilight,,0,0,0,,…and only one of her doesn't become a problem.
+Dialogue: 0,0:14:50.08,0:14:53.21,Twilight,,0,0,0,,I'd hate to cause a rift between such good friends!
+Dialogue: 0,0:14:54.52,0:14:56.00,Twilight,,0,0,0,,So who wants to play with her first?
+Dialogue: 0,0:14:57.39,0:14:59.05,AppleBloom,,0,0,0,,You should play with her first, Sweetie Belle.
+Dialogue: 0,0:14:59.25,0:15:01.50,AppleBloom,,0,0,0,,You know, cause you like her mane so much.
+Dialogue: 0,0:15:01.98,0:15:03.13,SweetieBelle,,0,0,0,,No-no-no-no-no-no.
+Dialogue: 0,0:15:03.36,0:15:06.16,SweetieBelle,,0,0,0,,I think Scootaloo should get to play with her first.
+Dialogue: 0,0:15:06.75,0:15:09.60,Scootaloo,,0,0,0,,I'd love to, but… You take her, Apple Bloom.
+Dialogue: 0,0:15:10.69,0:15:13.08,AppleBloom,,0,0,0,,Applejack says it's important to share.
+Dialogue: 0,0:15:14.24,0:15:16.71,Twilight,,0,0,0,,I got to think of something. Think-think-think-think-think, Twilight, think!
+Dialogue: 0,0:15:17.45,0:15:18.46,Twilight,,0,0,0,,That's it!
+Dialogue: 0,0:15:19.01,0:15:21.69,Twilight,,0,0,0,,Ooh, you're going to like Smarty Pants.
+Dialogue: 0,0:15:21.98,0:15:24.23,Twilight,,0,0,0,,And you're going to like her more than anything.
+Dialogue: 0,0:15:33.31,0:15:34.49,Scootaloo,,0,0,0,,I want it.
+Dialogue: 0,0:15:34.62,0:15:36.53,AppleBloom,,0,0,0,,I need it.
+Dialogue: 0,0:15:36.60,0:15:38.68,SweetieBelle,,0,0,0,,I really like her mane!
+Dialogue: 0,0:15:41.74,0:15:43.06,Twilight,,0,0,0,,The "want it, need it" spell.
+Dialogue: 0,0:15:43.21,0:15:44.26,Twilight,,0,0,0,,Works every time.
+Dialogue: 0,0:15:44.84,0:15:46.73,Twilight,,0,0,0,,Okay, okay. Let's break it up.
+Dialogue: 0,0:15:46.96,0:15:49.45,Twilight,,0,0,0,,I think you can all see that there is an important lesson…
+Dialogue: 0,0:15:49.46,0:15:50.74,Twilight,,0,0,0,,…to be learned here about…
+Dialogue: 0,0:15:52.45,0:15:54.63,Twilight,,0,0,0,,Come on, girls. We're all friends here, right?
+Dialogue: 0,0:15:55.13,0:15:56.36,Twilight,,0,0,0,,Don't you think you have to share?
+Dialogue: 0,0:15:57.49,0:15:58.22,AppleBloom,,0,0,0,,No way!
+Dialogue: 0,0:16:05.49,0:16:06.46,Twilight,,0,0,0,,Big McIntosh!
+Dialogue: 0,0:16:06.86,0:16:07.62,Twilight,,0,0,0,,Thank goodness!
+Dialogue: 0,0:16:07.90,0:16:10.33,Twilight,,0,0,0,,You gotta help me get that doll away from those girls.
+Dialogue: 0,0:16:11.10,0:16:12.18,BigMac,,0,0,0,,Eeyup.
+Dialogue: 0,0:16:19.63,0:16:20.93,Twilight,,0,0,0,,Thank you so much.
+Dialogue: 0,0:16:21.36,0:16:23.03,Twilight,,0,0,0,,Now if you could just give her to me…
+Dialogue: 0,0:16:23.82,0:16:24.96,BigMac,,0,0,0,,Nnnope.
+Dialogue: 0,0:16:26.54,0:16:27.23,Twilight,,0,0,0,,Oh no!
+Dialogue: 0,0:16:27.65,0:16:28.67,AppleBloom,,0,0,0,,Give her back!
+Dialogue: 0,0:16:32.10,0:16:33.50,Mayor,,0,0,0,,What's all the commotion about?
+Dialogue: 0,0:16:33.72,0:16:35.10,Somepony,,0,0,0,,They're fighting over that doll!
+Dialogue: 0,0:16:35.20,0:16:37.78,Somepony,,0,0,0,,That incredible, amazing doll!
+Dialogue: 0,0:16:40.08,0:16:42.70,Twilight,,0,0,0,,Can't get a clear shot…
+Dialogue: 0,0:16:47.86,0:16:48.44,Mayor,,0,0,0,,Give me!
+Dialogue: 0,0:16:53.64,0:16:54.45,BigMac,,0,0,0,,Nnnope.
+Dialogue: 0,0:16:56.21,0:16:57.84,Twilight,,0,0,0,,Oh, what have I done?!
+Dialogue: 0,0:17:04.55,0:17:05.56,AppleJack,,0,0,0,,Y'all hear that?
+Dialogue: 0,0:17:08.67,0:17:12.30,AppleJack,,0,0,0,,What in the name of all things oats 'n apples is goin' on here?
+Dialogue: 0,0:17:20.03,0:17:20.84,Twilight,,0,0,0,,DON'T LOOK AT IT!
+Dialogue: 0,0:17:21.02,0:17:22.44,Rarity,,0,0,0,,Don't look at what?
+Dialogue: 0,0:17:22.60,0:17:23.85,Twilight,,0,0,0,,My Smarty Pants doll.
+Dialogue: 0,0:17:24.13,0:17:26.92,Twilight,,0,0,0,,I enchanted her and now everypony is fighting over her.
+Dialogue: 0,0:17:27.78,0:17:29.82,FlutterShy,,0,0,0,,Why would you enchant your doll?
+Dialogue: 0,0:17:29.96,0:17:31.28,Twilight,,0,0,0,,Oh, I had to do something!
+Dialogue: 0,0:17:31.39,0:17:33.49,Twilight,,0,0,0,,I had nothing to report to Princess Celestia.
+Dialogue: 0,0:17:33.69,0:17:36.85,Twilight,,0,0,0,,I thought if I couldn't find a problem, I'd make a problem.
+Dialogue: 0,0:17:37.02,0:17:38.64,Twilight,,0,0,0,,The day is almost over!
+Dialogue: 0,0:17:39.26,0:17:40.44,AppleJack,,0,0,0,,Not almost.
+Dialogue: 0,0:17:47.06,0:17:48.26,Celestia,,0,0,0,,Twilight Sparkle!
+Dialogue: 0,0:17:51.88,0:17:53.10,AppleJack,,0,0,0,,Whoa, Nelly.
+Dialogue: 0,0:18:23.44,0:18:25.58,Celestia,,0,0,0,,Meet me in the library.
+Dialogue: 0,0:18:27.90,0:18:29.10,Twilight,,0,0,0,,Goodbye, girls.
+Dialogue: 0,0:18:29.74,0:18:30.82,Twilight,,0,0,0,,If you care to visit…
+Dialogue: 0,0:18:31.48,0:18:33.06,Twilight,,0,0,0,,…I'll be in a magic kindergarten…
+Dialogue: 0,0:18:33.93,0:18:35.06,Twilight,,0,0,0,,…back in Canterlot.
+Dialogue: 0,0:18:37.34,0:18:38.90,FlutterShy,,0,0,0,,Magic kindergarten?
+Dialogue: 0,0:18:39.04,0:18:39.98,RainbowDash,,0,0,0,,Canterlot?
+Dialogue: 0,0:18:40.98,0:18:43.13,PinkiePie,,0,0,0,,We're never gonna see Twilight again!
+Dialogue: 0,0:18:44.19,0:18:45.60,AppleJack,,0,0,0,,What are we gonna do, y'all?
+Dialogue: 0,0:18:46.16,0:18:48.50,Rarity,,0,0,0,,Of all the worst things that could happen…
+Dialogue: 0,0:18:48.91,0:18:52.48,Rarity,,0,0,0,,…this is the! Worst! Possible! Thing!
+Dialogue: 0,0:18:56.84,0:18:57.46,Rarity,,0,0,0,,What?
+Dialogue: 0,0:18:57.66,0:18:59.00,Rarity,,0,0,0,,I really mean it this time.
+Dialogue: 0,0:19:00.91,0:19:04.87,Twilight,,0,0,0,,But… but… I'm supposed to send you a letter about friendship every week.
+Dialogue: 0,0:19:05.44,0:19:06.64,Twilight,,0,0,0,,I missed the deadline.
+Dialogue: 0,0:19:06.73,0:19:07.90,Twilight,,0,0,0,,I'm a bad student.
+Dialogue: 0,0:19:08.34,0:19:09.87,Twilight,,0,0,0,,I'm… tardy!
+Dialogue: 0,0:19:10.58,0:19:12.97,Celestia,,0,0,0,,You are a wonderful student, Twilight.
+Dialogue: 0,0:19:13.17,0:19:15.57,Celestia,,0,0,0,,I don't have to get a letter every week to know that.
+Dialogue: 0,0:19:16.30,0:19:16.94,Twilight,,0,0,0,,Really?
+Dialogue: 0,0:19:19.86,0:19:20.53,RainbowDash,,0,0,0,,WAIT!
+Dialogue: 0,0:19:20.68,0:19:21.85,PinkiePie,,0,0,0,,You can't punish her!
+Dialogue: 0,0:19:21.96,0:19:23.19,AppleJack,,0,0,0,,It wasn't her fault!
+Dialogue: 0,0:19:23.47,0:19:24.40,Celestia,,0,0,0,,I'm listening.
+Dialogue: 0,0:19:24.56,0:19:25.54,FlutterShy,,0,0,0,,Please, your highness.
+Dialogue: 0,0:19:25.58,0:19:27.20,FlutterShy,,0,0,0,,We all saw that Twilight was upset.
+Dialogue: 0,0:19:27.36,0:19:29.51,RainbowDash,,0,0,0,,But we thought that the thing she was worrying about
+Dialogue: 0,0:19:29.58,0:19:31.09,RainbowDash,,0,0,0,,wasn't worth worrying about.
+Dialogue: 0,0:19:31.40,0:19:33.12,AppleJack,,0,0,0,,So when she ran out all worked up,
+Dialogue: 0,0:19:33.18,0:19:35.18,AppleJack,,0,0,0,,not a single one of us tried to stop her.
+Dialogue: 0,0:19:35.54,0:19:38.08,Rarity,,0,0,0,,As Twilight's good friends, we should have taken
+Dialogue: 0,0:19:38.09,0:19:40.59,Rarity,,0,0,0,,her feelings seriously and been there for her.
+Dialogue: 0,0:19:41.03,0:19:42.51,FlutterShy,,0,0,0,,Please don't take her away from us
+Dialogue: 0,0:19:42.55,0:19:44.90,FlutterShy,,0,0,0,,just because we were too insensitive to help her.
+Dialogue: 0,0:19:47.82,0:19:50.73,Celestia,,0,0,0,,Looks like you all learned a pretty valuable lesson today.
+Dialogue: 0,0:19:53.70,0:19:57.90,Celestia,,0,0,0,,Very well. I'll forget Twilight's punishment on one condition.
+Dialogue: 0,0:20:01.28,0:20:03.16,Celestia,,0,0,0,,From this day forth I would like you all
+Dialogue: 0,0:20:03.20,0:20:06.07,Celestia,,0,0,0,,to report to me your findings on the magic of friendship.
+Dialogue: 0,0:20:06.51,0:20:09.14,Celestia,,0,0,0,,When and only when you happen to discover them.
+Dialogue: 0,0:20:13.39,0:20:14.94,Twilight,,0,0,0,,Princess Celestia! Wait!
+Dialogue: 0,0:20:15.49,0:20:17.24,Twilight,,0,0,0,,How did you know I was in trouble?
+Dialogue: 0,0:20:17.75,0:20:19.10,Celestia,,0,0,0,,Your friend Spike made me aware
+Dialogue: 0,0:20:19.10,0:20:21.14,Celestia,,0,0,0,,that you were letting your fears get the best of you.
+Dialogue: 0,0:20:21.54,0:20:24.21,Celestia,,0,0,0,,I commend him for taking your feelings seriously.
+Dialogue: 0,0:20:24.60,0:20:28.18,Celestia,,0,0,0,,Now, if you will all excuse me, I must return to Canterlot.
+Dialogue: 0,0:20:28.74,0:20:30.38,Celestia,,0,0,0,,I'm expecting some mail.
+Dialogue: 0,0:20:35.12,0:20:36.32,AppleJack,,0,0,0,,Y'all heard the princess.
+Dialogue: 0,0:20:36.46,0:20:37.93,AppleJack,,0,0,0,,Spike, take a letter.
+Dialogue: 0,0:20:44.58,0:20:46.20,AppleJack,,0,0,0,,"Dear Princess Celestia."
+Dialogue: 0,0:20:46.60,0:20:50.05,AppleJack,,0,0,0,,"We're writin' to you because today we all learned a little somethin' about friendship."
+Dialogue: 0,0:20:50.27,0:20:53.23,FlutterShy,,0,0,0,,"We learned that you should take your friends' worries seriously."
+Dialogue: 0,0:20:53.52,0:20:56.26,RainbowDash,,0,0,0,,"Even if you don't think that she has anything to worry about."
+Dialogue: 0,0:20:56.70,0:20:59.57,Rarity,,0,0,0,,"And that you shouldn't let your worries turn a small problem…"
+Dialogue: 0,0:20:59.92,0:21:02.91,PinkiePie,,0,0,0,,"…into an enormously huge entire-town-in-total-chaos…"
+Dialogue: 0,0:21:03.08,0:21:05.32,PinkiePie,,0,0,0,,"…Princess-has-to-come-and-save-the-day problem!"
+Dialogue: 0,0:21:05.79,0:21:08.18,AppleJack,,0,0,0,,"Signed, your loyal subjects."
+Dialogue: 0,0:21:09.98,0:21:12.83,Spike,,0,0,0,,"PS. Obviously Spike did not have to learn a lesson…"
+Dialogue: 0,0:21:12.98,0:21:16.23,Spike,,0,0,0,,"…because he is the best, most awesome friend a pony could ask for."
+Dialogue: 0,0:21:16.40,0:21:19.44,Spike,,0,0,0,,"Unlike everypony else, he took things seriously. And…"
+Dialogue: 0,0:21:22.13,0:21:23.20,Spike,,0,0,0,,Uh… Yeah.
+Dialogue: 0,0:21:23.61,0:21:24.68,Spike,,0,0,0,,I'll just, um…
+Dialogue: 0,0:21:31.25,0:21:35.71,Default,,0,0,0,,SCHASTLIVY PONETC
+Dialogue: 0,0:21:36.36,0:21:40.35,Default,,0,0,0,,anon2anon\Nsunnysubs.com

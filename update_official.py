@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 import re
 import os
 import sys
@@ -9,7 +11,7 @@ import bs4
 
 OFFICIAL_ARCHIVE = 'official_archive'
 OFFICIAL_URL = 'http://files.sunnysubs.com/files/'
-MLP_iTunes_regex = re.compile(r'^Sub_MLPFiM_S\d{2}E.+?_iTunes_.+?.ass$')
+MLP_iTunes_regex = re.compile(r'^Sub_MLPFiM_S\d{2}E.+?_iTunes.*?.ass$')
 
 
 def log(message):
