@@ -1,0 +1,391 @@
+﻿[Script Info]
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: MLP:FiM Season 2 Episode 5 'Sisterhooves Social'
+Original Translation: anon2anon
+Original Editing: anon2anon
+Original Timing: anon2anon
+Script Updated By: 13.03.2017
+Update Details: v2.0 Релиз.
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Somepony,Arial,68,&H00FFFFFF,&H000000FF,&H007D7E80,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Default,Arial,68,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: AppleJack,Arial,68,&H00FFFFFF,&H000000FF,&H00005AFF,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Rarity,Arial,68,&H00FFFBF0,&H000000FF,&H00690050,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Spike,Arial,68,&H00F9FFF9,&H000000FF,&H00209322,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: AppleBloom,Arial,68,&H00C0FAF4,&H000000FF,&H006F00FF,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: SweetieBelle,Arial,68,&H00E8F0FF,&H000000FF,&H00752A5E,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: GrannySmith,Arial,68,&H00FFFFFF,&H000000FF,&H0000A37B,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Magnum,Arial,68,&H00FFFFFF,&H000000FF,&H007D7E80,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: CookieCrumbles,Arial,68,&H00F3D8EE,&H000000FF,&H00820467,&H00000000,0,0,0,0,100,100,0,0,1,2.2,2.2,2,30,30,45,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:04.44,0:00:07.90,Rarity,,0,0,0,,Are those sweet… carrot pancakes I smell?
+Dialogue: 0,0:00:09.38,0:00:11.20,Rarity,,0,0,0,,How divine.
+Dialogue: 0,0:00:11.85,0:00:13.14,Rarity,,0,0,0,,The aroma…
+Dialogue: 0,0:00:13.17,0:00:15.55,Rarity,,0,0,0,,spiced warm apple cider.
+Dialogue: 0,0:00:18.12,0:00:21.41,Rarity,,0,0,0,,And the smell of… smoke.
+Dialogue: 0,0:00:22.44,0:00:23.10,Rarity,,0,0,0,,Smoke?
+Dialogue: 0,0:00:23.66,0:00:24.44,Rarity,,0,0,0,,Smoke?!
+Dialogue: 0,0:00:25.87,0:00:27.53,Rarity,,0,0,0,,Smo-o-o-- ARGH!
+Dialogue: 0,0:00:29.59,0:00:30.72,SweetieBelle,,0,0,0,,Rarity!
+Dialogue: 0,0:00:31.96,0:00:35.28,SweetieBelle,,0,0,0,,You've ruined the surprise. I was gonna serve you breakfast in bed.
+Dialogue: 0,0:01:19.99,0:01:21.73,Magnum,,0,0,0,,Well, g'mornin', Rarity.
+Dialogue: 0,0:01:21.73,0:01:22.58,Rarity,,0,0,0,,Father!
+Dialogue: 0,0:01:22.96,0:01:24.06,Rarity,,0,0,0,,With mother!
+Dialogue: 0,0:01:24.47,0:01:27.96,Magnum,,0,0,0,,I'll have you know that Sweetie Belle here cooked this yummy lookin' breakfast all on her own.
+Dialogue: 0,0:01:30.50,0:01:32.24,Rarity,,0,0,0,,I… figured.
+Dialogue: 0,0:01:34.39,0:01:36.49,Rarity,,0,0,0,,I didn't know you could burn juice.
+Dialogue: 0,0:01:36.72,0:01:38.29,CookieCrumbles,,0,0,0,,I've been giving her lessons.
+Dialogue: 0,0:01:38.38,0:01:41.34,CookieCrumbles,,0,0,0,,I wouldn't be surprised if she's got a cutie mark in fancy cooking
+Dialogue: 0,0:01:41.37,0:01:43.22,CookieCrumbles,,0,0,0,,by the time we get back from our vacation.
+Dialogue: 0,0:01:43.45,0:01:44.30,Rarity,,0,0,0,,Vacation?
+Dialogue: 0,0:01:44.50,0:01:45.52,Rarity,,0,0,0,,Is that this week?
+Dialogue: 0,0:01:45.54,0:01:47.77,Rarity,,0,0,0,,As in… starting-this-very-instant this week?
+Dialogue: 0,0:01:50.26,0:01:52.42,Rarity,,0,0,0,,Let me guess. Apple sauce?
+Dialogue: 0,0:01:52.69,0:01:54.29,SweetieBelle,,0,0,0,,Nope! Toast.
+Dialogue: 0,0:01:55.08,0:01:58.57,SweetieBelle,,0,0,0,,We're gonna have the bestest time two sisters could ever have.
+Dialogue: 0,0:01:58.70,0:02:00.68,SweetieBelle,,0,0,0,,I'm gonna go grab my stuff from dad's wagon.
+Dialogue: 0,0:02:02.76,0:02:05.44,Rarity,,0,0,0,,So… now when you say "a week"…
+Dialogue: 0,0:02:05.77,0:02:08.36,Rarity,,0,0,0,,Is that… seven whole days?
+Dialogue: 0,0:02:08.77,0:02:10.83,CookieCrumbles,,0,0,0,,And six nights — I know,
+Dialogue: 0,0:02:10.84,0:02:13.10,CookieCrumbles,,0,0,0,,such a short time to spend with your lil' sis.
+Dialogue: 0,0:02:13.25,0:02:14.10,Magnum,,0,0,0,,You gonna eat that?
+Dialogue: 0,0:02:15.05,0:02:17.07,Rarity,,0,0,0,,But I've got such a long to-do list.
+Dialogue: 0,0:02:17.79,0:02:21.01,Rarity,,0,0,0,,Oh, well. I suppose "spend time with your sister"
+Dialogue: 0,0:02:21.02,0:02:22.96,Rarity,,0,0,0,,will just have to be added to the list.
+Dialogue: 0,0:02:26.21,0:02:27.63,SweetieBelle,,0,0,0,,Just a few necessities.
+Dialogue: 0,0:02:32.88,0:02:35.55,Rarity,,0,0,0,,Now let's get that kitchen all cleaned up.
+Dialogue: 0,0:02:35.88,0:02:36.79,SweetieBelle,,0,0,0,,Cleaned up?
+Dialogue: 0,0:02:37.00,0:02:38.92,SweetieBelle,,0,0,0,,But we haven't even eaten yet.
+Dialogue: 0,0:02:39.18,0:02:40.40,Rarity,,0,0,0,,Well now, Sweetie Belle.
+Dialogue: 0,0:02:40.84,0:02:45.09,Rarity,,0,0,0,,I appreciate the gesture, but we simply can't eat this breakfast. It's burnt.
+Dialogue: 0,0:02:45.47,0:02:46.45,SweetieBelle,,0,0,0,,It's not that burnt.
+Dialogue: 0,0:02:48.42,0:02:49.50,Rarity,,0,0,0,,Never fear, my dear.
+Dialogue: 0,0:02:49.72,0:02:51.60,Rarity,,0,0,0,,I'll get a proper breakfast going.
+Dialogue: 0,0:02:57.31,0:02:58.16,SweetieBelle,,0,0,0,,Can I help?
+Dialogue: 0,0:02:59.48,0:03:00.24,Rarity,,0,0,0,,Of course.
+Dialogue: 0,0:03:00.67,0:03:01.95,Rarity,,0,0,0,,In one moment, Sweetie Belle.
+Dialogue: 0,0:03:02.08,0:03:03.46,Rarity,,0,0,0,,Let me just get things started.
+Dialogue: 0,0:03:13.12,0:03:14.42,SweetieBelle,,0,0,0,,Rarity!
+Dialogue: 0,0:03:14.52,0:03:16.26,SweetieBelle,,0,0,0,,I thought you said I was gonna help.
+Dialogue: 0,0:03:16.95,0:03:19.76,Rarity,,0,0,0,,You are! You… can…
+Dialogue: 0,0:03:21.28,0:03:22.94,Rarity,,0,0,0,,…put the garnish on the plates.
+Dialogue: 0,0:03:23.85,0:03:25.15,SweetieBelle,,0,0,0,,You mean this parsley?
+Dialogue: 0,0:03:27.32,0:03:29.59,Rarity,,0,0,0,,Okay now, easy! It has to be just right.
+Dialogue: 0,0:03:29.66,0:03:30.57,Rarity,,0,0,0,,No need to rush.
+Dialogue: 0,0:03:30.60,0:03:32.43,Rarity,,0,0,0,,No! That's too slow!
+Dialogue: 0,0:03:32.56,0:03:33.83,Rarity,,0,0,0,,Careful! Back up!
+Dialogue: 0,0:03:35.35,0:03:37.09,Rarity,,0,0,0,,Looking for perfection here.
+Dialogue: 0,0:03:45.25,0:03:46.86,Rarity,,0,0,0,,Not bad.
+Dialogue: 0,0:03:55.20,0:03:57.07,Rarity,,0,0,0,,There are some things I must attend to.
+Dialogue: 0,0:03:57.75,0:03:59.88,Rarity,,0,0,0,,Can you take the dirty towels to the laundry room?
+Dialogue: 0,0:04:01.56,0:04:04.06,SweetieBelle,,0,0,0,,No problem! I'll make myself useful.
+Dialogue: 0,0:04:15.20,0:04:16.56,Rarity,,0,0,0,,Sweetie Belle!
+Dialogue: 0,0:04:16.64,0:04:18.93,SweetieBelle,,0,0,0,,I told you I'd make myself useful.
+Dialogue: 0,0:04:19.04,0:04:19.88,SweetieBelle,,0,0,0,,Surprised?
+Dialogue: 0,0:04:19.88,0:04:20.88,Rarity,,0,0,0,,Am I?
+Dialogue: 0,0:04:20.92,0:04:25.36,Rarity,,0,0,0,,You washed my incredibly expensive one of a kind designer crochet wool sweater!
+Dialogue: 0,0:04:25.53,0:04:27.85,Rarity,,0,0,0,,Do you know how hard these things are to come by?
+Dialogue: 0,0:04:28.20,0:04:29.13,SweetieBelle,,0,0,0,,What's the big deal?
+Dialogue: 0,0:04:29.27,0:04:32.88,Rarity,,0,0,0,,The big deal is that in the heat of the sun wool…
+Dialogue: 0,0:04:33.52,0:04:34.50,Rarity,,0,0,0,,…shrinks.
+Dialogue: 0,0:04:34.79,0:04:37.34,SweetieBelle,,0,0,0,,Oh. Sorry.
+Dialogue: 0,0:04:39.77,0:04:41.50,Rarity,,0,0,0,,Well, back to work.
+Dialogue: 0,0:04:41.63,0:04:42.64,Rarity,,0,0,0,,I must create.
+Dialogue: 0,0:04:44.32,0:04:45.44,SweetieBelle,,0,0,0,,Sorry?
+Dialogue: 0,0:04:46.20,0:04:47.77,Rarity,,0,0,0,,Stay out of trouble, okay?
+Dialogue: 0,0:04:48.26,0:04:49.21,Rarity,,0,0,0,,Please?
+Dialogue: 0,0:04:49.77,0:04:52.87,SweetieBelle,,0,0,0,,I just need to do something nice for my sister.
+Dialogue: 0,0:04:56.88,0:04:59.28,SweetieBelle,,0,0,0,,I'm so bored!
+Dialogue: 0,0:04:59.40,0:05:01.94,SweetieBelle,,0,0,0,,When is Rarity gonna finish her work?
+Dialogue: 0,0:05:03.34,0:05:05.45,Rarity,,0,0,0,,Stay out of trouble, okay?
+Dialogue: 0,0:05:08.96,0:05:10.95,SweetieBelle,,0,0,0,,I never got in trouble for drawing.
+Dialogue: 0,0:05:16.73,0:05:19.01,SweetieBelle,,0,0,0,,This needs something…
+Dialogue: 0,0:05:26.18,0:05:27.07,SweetieBelle,,0,0,0,,Hi, Rarity!
+Dialogue: 0,0:05:27.21,0:05:28.82,SweetieBelle,,0,0,0,,I made a special drawing for you…
+Dialogue: 0,0:05:30.80,0:05:33.13,Rarity,,0,0,0,,Oh no! Did you use these gems?
+Dialogue: 0,0:05:33.23,0:05:34.74,SweetieBelle,,0,0,0,,Well… Yes, but…
+Dialogue: 0,0:05:35.12,0:05:37.15,SweetieBelle,,0,0,0,,I know you have more in your work room…
+Dialogue: 0,0:05:37.15,0:05:40.28,Rarity,,0,0,0,,Bu… but these are extremely rare baby blue sapphires!
+Dialogue: 0,0:05:40.41,0:05:43.79,Rarity,,0,0,0,,I need them for an outfit for an extremely important client!
+Dialogue: 0,0:05:43.79,0:05:45.71,SweetieBelle,,0,0,0,,Oh. Sorry.
+Dialogue: 0,0:05:47.09,0:05:48.20,Rarity,,0,0,0,,Sweetie Belle.
+Dialogue: 0,0:05:48.39,0:05:50.85,Rarity,,0,0,0,,What am I going to do with you?!
+Dialogue: 0,0:05:50.85,0:05:52.36,SweetieBelle,,0,0,0,,Oh! We could paint together.
+Dialogue: 0,0:05:52.37,0:05:56.54,SweetieBelle,,0,0,0,,We could ride bikes, play chess, sing a song, catch frogs, pillow fight…
+Dialogue: 0,0:05:56.54,0:05:58.18,Rarity,,0,0,0,,That's not what I meant!
+Dialogue: 0,0:05:59.32,0:06:01.57,Rarity,,0,0,0,,Now I have to go and find some more of these gems.
+Dialogue: 0,0:06:01.57,0:06:02.85,SweetieBelle,,0,0,0,,I'll go with you and help…
+Dialogue: 0,0:06:02.85,0:06:03.46,Rarity,,0,0,0,,NO!
+Dialogue: 0,0:06:06.67,0:06:07.98,Rarity,,0,0,0,,No, thank you.
+Dialogue: 0,0:06:08.53,0:06:11.55,Rarity,,0,0,0,,You can help by picking up these papers and stacking them.
+Dialogue: 0,0:06:11.55,0:06:12.34,Rarity,,0,0,0,,Neatly!
+Dialogue: 0,0:06:12.59,0:06:15.50,Rarity,,0,0,0,,Put the pens and pencils back exactly where you've found them.
+Dialogue: 0,0:06:15.65,0:06:18.24,Rarity,,0,0,0,,And please find something to do
+Dialogue: 0,0:06:18.26,0:06:21.17,Rarity,,0,0,0,,that doesn't create a large mess for me to clean up!
+Dialogue: 0,0:06:22.76,0:06:25.45,SweetieBelle,,0,0,0,,Geez Louise, can't I do anything right?
+Dialogue: 0,0:06:34.34,0:06:35.42,Rarity,,0,0,0,,Sweetie Belle!
+Dialogue: 0,0:06:36.54,0:06:37.46,Rarity,,0,0,0,,I'm back!
+Dialogue: 0,0:06:38.16,0:06:39.55,Rarity,,0,0,0,,Sweetie Belle!
+Dialogue: 0,0:06:43.02,0:06:44.46,SweetieBelle,,0,0,0,,Surprise!
+Dialogue: 0,0:06:47.50,0:06:49.58,Rarity,,0,0,0,,My inspiration room!
+Dialogue: 0,0:06:50.61,0:06:51.50,Rarity,,0,0,0,,What did you do?
+Dialogue: 0,0:06:51.70,0:06:53.12,Rarity,,0,0,0,,What did you do?!
+Dialogue: 0,0:06:53.48,0:06:57.14,SweetieBelle,,0,0,0,,When I saw the big mess in your room, I thought I'd clean it up for you.
+Dialogue: 0,0:06:57.49,0:07:01.06,Rarity,,0,0,0,,This wasn't a mess! It was organized chaos!
+Dialogue: 0,0:07:01.38,0:07:03.83,Rarity,,0,0,0,,I was just about finished planning my new fashion line.
+Dialogue: 0,0:07:04.01,0:07:06.33,Rarity,,0,0,0,,And… and you… you… you went and… and then you…
+Dialogue: 0,0:07:06.36,0:07:08.56,Rarity,,0,0,0,,…and you put everything away!
+Dialogue: 0,0:07:08.84,0:07:11.38,SweetieBelle,,0,0,0,,But every time I make a mess, you get upset!
+Dialogue: 0,0:07:11.65,0:07:14.68,Rarity,,0,0,0,,But this was my mess. In my house!
+Dialogue: 0,0:07:15.44,0:07:17.82,Rarity,,0,0,0,,And now I'll have to start from scratch!
+Dialogue: 0,0:07:18.12,0:07:20.12,SweetieBelle,,0,0,0,,But… I… I thought it would…
+Dialogue: 0,0:07:20.44,0:07:21.77,SweetieBelle,,0,0,0,,Make you happy.
+Dialogue: 0,0:07:22.06,0:07:23.35,Rarity,,0,0,0,,HAPPY?
+Dialogue: 0,0:07:23.75,0:07:25.19,Rarity,,0,0,0,,HAPPY?! I…
+Dialogue: 0,0:07:29.73,0:07:31.48,Rarity,,0,0,0,,I just need some time alone.
+Dialogue: 0,0:07:44.20,0:07:46.27,AppleBloom,,0,0,0,,How's the sleepover at Rarity's goin'?
+Dialogue: 0,0:07:47.06,0:07:49.06,SweetieBelle,,0,0,0,,Why, it's smashing!
+Dialogue: 0,0:07:51.24,0:07:53.77,SweetieBelle,,0,0,0,,I just wish we could do something special together
+Dialogue: 0,0:07:53.78,0:07:55.66,SweetieBelle,,0,0,0,,that didn't include me goofing anything up.
+Dialogue: 0,0:07:56.67,0:07:57.99,AppleBloom,,0,0,0,,Oh! The Sisterhooves Social!
+Dialogue: 0,0:07:58.25,0:07:59.98,AppleBloom,,0,0,0,,Applejack and I do it every year!
+Dialogue: 0,0:08:00.10,0:08:03.88,AppleBloom,,0,0,0,,You and Rarity could compete against other sister teams in all these neat events.
+Dialogue: 0,0:08:04.46,0:08:06.89,SweetieBelle,,0,0,0,,That sounds like the perfect way for us to hang out!
+Dialogue: 0,0:08:06.89,0:08:09.10,SweetieBelle,,0,0,0,,Rarity will think it's an excellent idea.
+Dialogue: 0,0:08:09.45,0:08:11.71,Rarity,,0,0,0,,What a ridiculous idea!
+Dialogue: 0,0:08:11.71,0:08:14.00,Rarity,,0,0,0,,A contest at Sweet Apple Acres?
+Dialogue: 0,0:08:14.36,0:08:15.62,Rarity,,0,0,0,,It doesn't sound…
+Dialogue: 0,0:08:16.05,0:08:17.87,Rarity,,0,0,0,,…very clean.
+Dialogue: 0,0:08:18.67,0:08:21.70,SweetieBelle,,0,0,0,,So what? Now you're back to hating messes?
+Dialogue: 0,0:08:21.92,0:08:24.24,Rarity,,0,0,0,,Sweetie Belle! Watch your tone!
+Dialogue: 0,0:08:24.38,0:08:26.16,Rarity,,0,0,0,,I am still your big sister.
+Dialogue: 0,0:08:26.22,0:08:30.37,SweetieBelle,,0,0,0,,Right! And any sister, who cares about her sister, goes!
+Dialogue: 0,0:08:30.78,0:08:33.33,Rarity,,0,0,0,,Sweetie Belle! Honestly.
+Dialogue: 0,0:08:33.76,0:08:37.46,Rarity,,0,0,0,,Playing silly little games in the dirt is just… uncouth.
+Dialogue: 0,0:08:37.60,0:08:39.34,Rarity,,0,0,0,,With or without a sister.
+Dialogue: 0,0:08:41.56,0:08:43.56,SweetieBelle,,0,0,0,,Well then… maybe…
+Dialogue: 0,0:08:43.81,0:08:46.92,SweetieBelle,,0,0,0,,…maybe I'll try the Sisterhooves Social without a sister!
+Dialogue: 0,0:08:47.13,0:08:51.36,SweetieBelle,,0,0,0,,In fact, I think I'll try the rest of my life without a sister!
+Dialogue: 0,0:08:53.43,0:08:56.97,Rarity,,0,0,0,,Oh, I'm the one who's ruining your life!? Really!?
+Dialogue: 0,0:08:57.03,0:08:58.59,Rarity,,0,0,0,,Have you looked around this place?
+Dialogue: 0,0:08:58.78,0:09:01.93,Rarity,,0,0,0,,I'm the one who would be better off with no sister!
+Dialogue: 0,0:09:02.36,0:09:05.18,SweetieBelle,,0,0,0,,Well, it looks like we finally agree on something!
+Dialogue: 0,0:09:05.44,0:09:07.27,SweetieBelle,,0,0,0,,Neither of us needs a sister!
+Dialogue: 0,0:09:07.64,0:09:08.53,Rarity,,0,0,0,,DEAL!
+Dialogue: 0,0:09:08.53,0:09:10.88,SweetieBelle,,0,0,0,,DEAL! GOODBYE, UNSISTER!
+Dialogue: 0,0:09:19.79,0:09:21.06,AppleJack,,0,0,0,,"Uncouth"?
+Dialogue: 0,0:09:21.81,0:09:24.84,AppleJack,,0,0,0,,She said the Sisterhooves Social was uncouth?
+Dialogue: 0,0:09:25.45,0:09:26.80,AppleBloom,,0,0,0,,Yeah! Uncouth!
+Dialogue: 0,0:09:29.22,0:09:30.60,AppleBloom,,0,0,0,,Wait. What's uncouth?
+Dialogue: 0,0:09:31.12,0:09:34.49,SweetieBelle,,0,0,0,,It's not just the social. She thinks I'm uncouth.
+Dialogue: 0,0:09:34.81,0:09:37.80,AppleJack,,0,0,0,,Honey, Rarity thinks everything's uncouth.
+Dialogue: 0,0:09:39.54,0:09:40.61,AppleBloom,,0,0,0,,What's uncouth?
+Dialogue: 0,0:09:40.92,0:09:43.43,AppleJack,,0,0,0,,It means uncivil. You know, bad mannered.
+Dialogue: 0,0:09:44.15,0:09:45.58,AppleJack,,0,0,0,,Exactly!
+Dialogue: 0,0:09:46.22,0:09:48.22,AppleJack,,0,0,0,,Sweetie Belle, just give Rarity some time.
+Dialogue: 0,0:09:48.28,0:09:50.39,AppleJack,,0,0,0,,She'll come around. Sisters always do.
+Dialogue: 0,0:09:51.82,0:09:53.64,SweetieBelle,,0,0,0,,Not sisters like Rarity.
+Dialogue: 0,0:09:54.17,0:09:57.34,AppleJack,,0,0,0,,Come on now. Apple Bloom and I got some chores to finish up on.
+Dialogue: 0,0:09:57.58,0:09:58.57,AppleJack,,0,0,0,,Maybe you can help.
+Dialogue: 0,0:09:58.96,0:10:00.76,SweetieBelle,,0,0,0,,You sure you want me to help?
+Dialogue: 0,0:10:00.98,0:10:02.86,SweetieBelle,,0,0,0,,I just mess everything up.
+Dialogue: 0,0:10:02.98,0:10:05.22,AppleJack,,0,0,0,,Oh, come on. That's just stinkin'-thinkin'.
+Dialogue: 0,0:10:05.32,0:10:06.00,AppleJack,,0,0,0,,Watch.
+Dialogue: 0,0:10:13.06,0:10:14.79,AppleJack,,0,0,0,,Good catch there, Apple Bloom.
+Dialogue: 0,0:10:20.77,0:10:22.39,SweetieBelle,,0,0,0,,This is a chore?
+Dialogue: 0,0:10:22.39,0:10:24.24,AppleJack,,0,0,0,,Since we can't sell the bruised apples,
+Dialogue: 0,0:10:24.24,0:10:26.43,AppleJack,,0,0,0,,we gotta collect them all for the pigs to eat.
+Dialogue: 0,0:10:28.82,0:10:29.78,AppleBloom,,0,0,0,,It's a lot of work.
+Dialogue: 0,0:10:30.04,0:10:31.37,AppleBloom,,0,0,0,,So we make a game of it.
+Dialogue: 0,0:10:31.58,0:10:32.36,AppleBloom,,0,0,0,,Wanna try?
+Dialogue: 0,0:10:33.34,0:10:34.14,SweetieBelle,,0,0,0,,Okay.
+Dialogue: 0,0:10:37.57,0:10:38.56,SweetieBelle,,0,0,0,,You're right.
+Dialogue: 0,0:10:38.63,0:10:39.95,SweetieBelle,,0,0,0,,It is hard work.
+Dialogue: 0,0:10:39.95,0:10:41.34,AppleBloom,,0,0,0,,That's why we do it…
+Dialogue: 0,0:10:41.34,0:10:42.88,Somepony,,0,0,0,,…together!
+Dialogue: 0,0:10:44.07,0:10:46.50,SweetieBelle,,0,0,0,,Rarity never wants to do chores together.
+Dialogue: 0,0:10:49.10,0:10:51.11,Rarity,,0,0,0,,All that work ruined.
+Dialogue: 0,0:10:51.20,0:10:53.02,Rarity,,0,0,0,,Thanks to Sweetie Belle.
+Dialogue: 0,0:10:54.59,0:10:57.08,Rarity,,0,0,0,,Oh my. It's usually a big mess in here.
+Dialogue: 0,0:11:00.40,0:11:01.93,Rarity,,0,0,0,,IDEA!
+Dialogue: 0,0:11:02.07,0:11:04.28,Rarity,,0,0,0,,This is genius.
+Dialogue: 0,0:11:05.27,0:11:08.40,Rarity,,0,0,0,,I shall call it: "Full Spectrum Fashions".
+Dialogue: 0,0:11:08.81,0:11:10.55,Rarity,,0,0,0,,Why, if Sweetie Belle hadn't…
+Dialogue: 0,0:11:12.96,0:11:14.49,Rarity,,0,0,0,,Well. No matter.
+Dialogue: 0,0:11:14.49,0:11:17.03,Rarity,,0,0,0,,She still shouldn't have touched my things without permission.
+Dialogue: 0,0:11:19.52,0:11:21.14,AppleJack,,0,0,0,,Apple Bloom! You're up!
+Dialogue: 0,0:11:29.62,0:11:32.71,SweetieBelle,,0,0,0,,You're making grape juice?
+Dialogue: 0,0:11:33.04,0:11:35.68,SweetieBelle,,0,0,0,,Rarity would call the fashion police on me
+Dialogue: 0,0:11:35.68,0:11:37.99,SweetieBelle,,0,0,0,,if I got grape juice anywhere near her precious outfits.
+Dialogue: 0,0:11:38.32,0:11:39.34,AppleBloom,,0,0,0,,Well, that's silly.
+Dialogue: 0,0:11:41.64,0:11:42.74,AppleJack,,0,0,0,,Apple Bloom!
+Dialogue: 0,0:11:42.85,0:11:44.39,SweetieBelle,,0,0,0,,Please, Applejack! She didn't mea…
+Dialogue: 0,0:11:46.78,0:11:49.26,AppleJack,,0,0,0,,How d'you like them grapes, you little whippersnapper?
+Dialogue: 0,0:11:49.56,0:11:50.64,AppleBloom,,0,0,0,,That tickles…!
+Dialogue: 0,0:11:54.21,0:11:57.71,Rarity,,0,0,0,,Now to get these fabrics washed for my fabulous new line.
+Dialogue: 0,0:11:59.08,0:12:00.32,Rarity,,0,0,0,,My favorite sweater.
+Dialogue: 0,0:12:00.56,0:12:02.88,Rarity,,0,0,0,,I just can't believe that Sweetie Belle…
+Dialogue: 0,0:12:08.84,0:12:10.96,Rarity,,0,0,0,,Oh, Opal, Opal.
+Dialogue: 0,0:12:11.16,0:12:15.02,Rarity,,0,0,0,,It's as if Sweetie Belle knew this sweater was perfect for you.
+Dialogue: 0,0:12:15.72,0:12:18.48,Rarity,,0,0,0,,And Sweetie Belle should consider herself perfectly lucky,
+Dialogue: 0,0:12:18.62,0:12:20.91,Rarity,,0,0,0,,that this thoughtless mishap turned out all right.
+Dialogue: 0,0:12:25.32,0:12:26.72,AppleJack,,0,0,0,,Apple Bloom!
+Dialogue: 0,0:12:26.95,0:12:28.34,AppleBloom,,0,0,0,,Got it, sis!
+Dialogue: 0,0:12:33.19,0:12:34.91,SweetieBelle,,0,0,0,,It's as if they're just one pony.
+Dialogue: 0,0:12:36.54,0:12:38.42,AppleJack,,0,0,0,,Way to corral some critters, sis.
+Dialogue: 0,0:12:38.72,0:12:40.44,Somepony,,0,0,0,,You could have just asked.
+Dialogue: 0,0:12:42.38,0:12:44.73,SweetieBelle,,0,0,0,,Rarity never high-hooves me.
+Dialogue: 0,0:12:46.62,0:12:47.46,Rarity,,0,0,0,,Perfect.
+Dialogue: 0,0:12:47.73,0:12:50.39,Rarity,,0,0,0,,Just one more and this ensemble c'est/is fini.
+Dialogue: 0,0:12:52.43,0:12:54.09,Rarity,,0,0,0,,Sweetie Belle!
+Dialogue: 0,0:12:54.32,0:12:56.80,Rarity,,0,0,0,,Where's her silly little arts and crafts project?
+Dialogue: 0,0:13:06.48,0:13:09.72,Rarity,,0,0,0,,Oh, Sweetie Belle! My one and only sister.
+Dialogue: 0,0:13:09.84,0:13:11.14,Rarity,,0,0,0,,What have I done?!
+Dialogue: 0,0:13:12.71,0:13:15.50,Rarity,,0,0,0,,All the time I could have spent with you was wasted
+Dialogue: 0,0:13:15.50,0:13:18.11,Rarity,,0,0,0,,complaining and wishing you were gone!
+Dialogue: 0,0:13:18.31,0:13:21.23,Rarity,,0,0,0,,WOE IS ME!!!
+Dialogue: 0,0:13:21.46,0:13:23.05,Rarity,,0,0,0,,No! I must get her back.
+Dialogue: 0,0:13:23.40,0:13:24.26,Rarity,,0,0,0,,I must!
+Dialogue: 0,0:13:24.78,0:13:29.58,Rarity,,0,0,0,,As Celestia is my witness, I shall never be sisterless again!
+Dialogue: 0,0:13:36.52,0:13:37.41,Rarity,,0,0,0,,Sweetie Belle!
+Dialogue: 0,0:13:38.44,0:13:41.73,Rarity,,0,0,0,,I have been galloping all over, looking for you. I…
+Dialogue: 0,0:13:43.68,0:13:46.88,SweetieBelle,,0,0,0,,Oh, hello, unsister. What are you doing here?
+Dialogue: 0,0:13:47.04,0:13:49.74,SweetieBelle,,0,0,0,,Better be careful. You might get some dust on you.
+Dialogue: 0,0:13:51.08,0:13:54.34,Rarity,,0,0,0,,Oh, Sweetie Belle. I want to apologize.
+Dialogue: 0,0:13:54.62,0:13:57.48,Rarity,,0,0,0,,I am not better off without a sister.
+Dialogue: 0,0:13:57.90,0:14:00.20,SweetieBelle,,0,0,0,,I'm not better off without a sister either.
+Dialogue: 0,0:14:00.27,0:14:03.42,SweetieBelle,,0,0,0,,Spending the day with Applejack and Apple Bloom made me realize that.
+Dialogue: 0,0:14:03.59,0:14:05.75,Rarity,,0,0,0,,Oh! Oh, Sweetie.
+Dialogue: 0,0:14:05.75,0:14:07.89,Rarity,,0,0,0,,You don't know how happy I am to hear this…
+Dialogue: 0,0:14:08.42,0:14:11.97,SweetieBelle,,0,0,0,,And that's why I'm adopting Applejack as my big sister!
+Dialogue: 0,0:14:12.11,0:14:12.82,Rarity,,0,0,0,,WHAT?!
+Dialogue: 0,0:14:13.82,0:14:14.41,AppleJack,,0,0,0,,What?
+Dialogue: 0,0:14:14.44,0:14:14.82,AppleBloom,,0,0,0,,What?
+Dialogue: 0,0:14:15.40,0:14:18.33,SweetieBelle,,0,0,0,,A sister is someone who loves and takes care of another sister.
+Dialogue: 0,0:14:18.50,0:14:20.39,SweetieBelle,,0,0,0,,Applejack's a real sister.
+Dialogue: 0,0:14:23.18,0:14:24.45,AppleJack,,0,0,0,,Hold on, Sweetie Belle.
+Dialogue: 0,0:14:24.60,0:14:25.98,AppleJack,,0,0,0,,Don't get ahead of yourself here.
+Dialogue: 0,0:14:26.18,0:14:28.66,AppleBloom,,0,0,0,,Besides, she's my big sister.
+Dialogue: 0,0:14:29.69,0:14:30.22,AppleJack,,0,0,0,,Yeah.
+Dialogue: 0,0:14:31.06,0:14:33.78,SweetieBelle,,0,0,0,,Or maybe she should be your sister,
+Dialogue: 0,0:14:34.04,0:14:37.26,SweetieBelle,,0,0,0,,so she could teach you what a good sister is supposed to be.
+Dialogue: 0,0:14:39.66,0:14:41.18,AppleJack,,0,0,0,,Actually, I…
+Dialogue: 0,0:14:41.47,0:14:45.13,Rarity,,0,0,0,,Oh, I don't need lessons on being a good sister. I… I promise!
+Dialogue: 0,0:14:45.26,0:14:47.85,Rarity,,0,0,0,,Listen. I'll show you how to cook my favorite quiche.
+Dialogue: 0,0:14:47.89,0:14:51.78,Rarity,,0,0,0,,Or… or I'll show you the proper way to beautify your mane.
+Dialogue: 0,0:14:52.32,0:14:53.74,Rarity,,0,0,0,,Won't that be fun?
+Dialogue: 0,0:14:55.37,0:14:57.18,SweetieBelle,,0,0,0,,You want me to go home with you,
+Dialogue: 0,0:14:57.18,0:15:01.15,SweetieBelle,,0,0,0,,so we can do what you wanna do?
+Dialogue: 0,0:15:02.40,0:15:03.57,Rarity,,0,0,0,,Yes?
+Dialogue: 0,0:15:04.24,0:15:05.80,SweetieBelle,,0,0,0,,Just forget it!
+Dialogue: 0,0:15:06.92,0:15:08.48,AppleBloom,,0,0,0,,We're still sisters, right?
+Dialogue: 0,0:15:10.72,0:15:13.88,Rarity,,0,0,0,,Well, that apology went swimmingly.
+Dialogue: 0,0:15:14.32,0:15:18.66,Rarity,,0,0,0,,Applejack, why do you have to be so good and make me look so bad?
+Dialogue: 0,0:15:19.71,0:15:20.73,AppleJack,,0,0,0,,Oh, Rarity.
+Dialogue: 0,0:15:20.98,0:15:23.37,AppleJack,,0,0,0,,Once again you're thinkin' about yourself.
+Dialogue: 0,0:15:23.62,0:15:25.91,AppleJack,,0,0,0,,Bein' sisters is a give and take.
+Dialogue: 0,0:15:26.14,0:15:27.97,AppleJack,,0,0,0,,You've been doin' a whole lotta takin',
+Dialogue: 0,0:15:27.97,0:15:30.09,AppleJack,,0,0,0,,but you haven't been doin' a whole lotta givin'.
+Dialogue: 0,0:15:31.29,0:15:32.56,Rarity,,0,0,0,,But of course I give!
+Dialogue: 0,0:15:32.86,0:15:33.90,Rarity,,0,0,0,,I give lessons.
+Dialogue: 0,0:15:34.14,0:15:35.88,Rarity,,0,0,0,,Reasonable demands.
+Dialogue: 0,0:15:36.16,0:15:38.21,AppleJack,,0,0,0,,But you never give in.
+Dialogue: 0,0:15:38.77,0:15:41.08,AppleJack,,0,0,0,,Bein' sisters is like…
+Dialogue: 0,0:15:41.40,0:15:42.63,AppleJack,,0,0,0,,…apple pie!
+Dialogue: 0,0:15:43.04,0:15:47.44,AppleJack,,0,0,0,,You can have amazin' apples and you can have a wonderfully crispy crust,
+Dialogue: 0,0:15:47.75,0:15:51.72,AppleJack,,0,0,0,,but only together can you have a perfect apple pie.
+Dialogue: 0,0:15:52.74,0:15:58.41,Rarity,,0,0,0,,But apart all we are is just a pile of mush and some crumbly dry mess.
+Dialogue: 0,0:15:59.82,0:16:01.55,Rarity,,0,0,0,,I know what I need to do!
+Dialogue: 0,0:16:01.55,0:16:03.55,Rarity,,0,0,0,,I just hope it isn't too late.
+Dialogue: 0,0:16:14.10,0:16:17.05,SweetieBelle,,0,0,0,,Well, I guess it's a good thing Rarity isn't here.
+Dialogue: 0,0:16:17.10,0:16:20.44,SweetieBelle,,0,0,0,,Do I see "uncouth" written all over this contest?
+Dialogue: 0,0:16:21.63,0:16:23.74,AppleBloom,,0,0,0,,Look at the size of that pig!
+Dialogue: 0,0:16:23.94,0:16:25.70,AppleJack,,0,0,0,,He sure is a cutie.
+Dialogue: 0,0:16:25.98,0:16:28.39,SweetieBelle,,0,0,0,,That's the last word Rarity would use.
+Dialogue: 0,0:16:28.57,0:16:31.84,SweetieBelle,,0,0,0,,"Oh my! What a repulsive monstrosity!"
+Dialogue: 0,0:16:31.90,0:16:34.47,SweetieBelle,,0,0,0,,"This thing needs a head to toe makeover!"
+Dialogue: 0,0:16:35.72,0:16:36.84,AppleJack,,0,0,0,,It's almost time!
+Dialogue: 0,0:16:37.44,0:16:39.27,SweetieBelle,,0,0,0,,Well, you two have fun.
+Dialogue: 0,0:16:39.74,0:16:42.34,SweetieBelle,,0,0,0,,I sure wish I had a sister to run a race with.
+Dialogue: 0,0:16:44.30,0:16:45.42,AppleBloom,,0,0,0,,You do now!
+Dialogue: 0,0:16:45.58,0:16:48.28,AppleJack,,0,0,0,,AB and I figured since we do this every year…
+Dialogue: 0,0:16:48.28,0:16:50.76,AppleBloom,,0,0,0,,…I'd like you borrow my sis, so you can give it a try.
+Dialogue: 0,0:16:50.99,0:16:52.19,AppleJack,,0,0,0,,Sister for a day.
+Dialogue: 0,0:16:52.69,0:16:53.80,SweetieBelle,,0,0,0,,No way!
+Dialogue: 0,0:16:54.07,0:16:55.26,AppleBloom,,0,0,0,,One. Day.
+Dialogue: 0,0:16:57.44,0:16:59.44,AppleBloom,,0,0,0,,One. Day.
+Dialogue: 0,0:17:00.56,0:17:02.04,GrannySmith,,0,0,0,,Is this thing on?
+Dialogue: 0,0:17:02.04,0:17:04.48,GrannySmith,,0,0,0,,I don't think this thing is on.
+Dialogue: 0,0:17:04.48,0:17:05.93,GrannySmith,,0,0,0,,Hello!
+Dialogue: 0,0:17:06.09,0:17:07.14,GrannySmith,,0,0,0,,Wait a…?
+Dialogue: 0,0:17:07.97,0:17:09.43,GrannySmith,,0,0,0,,You have to say so.
+Dialogue: 0,0:17:09.52,0:17:11.91,GrannySmith,,0,0,0,,Confangled modern doohickey!
+Dialogue: 0,0:17:12.65,0:17:15.50,GrannySmith,,0,0,0,,Now's the event you all been waitin' for!
+Dialogue: 0,0:17:15.65,0:17:18.64,GrannySmith,,0,0,0,,The Sistersoci… The Socialhoof…
+Dialogue: 0,0:17:18.64,0:17:22.20,GrannySmith,,0,0,0,,Oh, dagnabit! You know, the big race!
+Dialogue: 0,0:17:22.20,0:17:25.16,GrannySmith,,0,0,0,,We have five teams this year for the event!
+Dialogue: 0,0:17:25.16,0:17:28.37,GrannySmith,,0,0,0,,So all ya head on up to the finish line, y'hear?
+Dialogue: 0,0:17:29.99,0:17:33.13,GrannySmith,,0,0,0,,THE START LINE! You coulda said.
+Dialogue: 0,0:17:33.27,0:17:34.27,SweetieBelle,,0,0,0,,That's us.
+Dialogue: 0,0:17:34.67,0:17:37.44,AppleBloom,,0,0,0,,One. Day. Good luck!
+Dialogue: 0,0:17:37.95,0:17:40.36,GrannySmith,,0,0,0,,And may the best sisters win!
+Dialogue: 0,0:17:40.70,0:17:42.15,GrannySmith,,0,0,0,,On your mark…
+Dialogue: 0,0:17:43.12,0:17:44.48,GrannySmith,,0,0,0,,Get set…
+Dialogue: 0,0:17:46.46,0:17:48.95,GrannySmith,,0,0,0,,GOOO!
+Dialogue: 0,0:17:57.10,0:17:58.46,SweetieBelle,,0,0,0,,You okay, Applejack?
+Dialogue: 0,0:18:09.46,0:18:11.00,SweetieBelle,,0,0,0,,Applejack! Help!
+Dialogue: 0,0:18:36.04,0:18:37.49,SweetieBelle,,0,0,0,,You can do it, sister!
+Dialogue: 0,0:19:24.57,0:19:26.28,AppleBloom,,0,0,0,,Oh, it was so close!
+Dialogue: 0,0:19:26.50,0:19:27.95,AppleBloom,,0,0,0,,You almost won!
+Dialogue: 0,0:19:28.16,0:19:30.41,SweetieBelle,,0,0,0,,Thank you, Applejack. You were amazing.
+Dialogue: 0,0:19:30.61,0:19:32.17,SweetieBelle,,0,0,0,,I don't even care that we didn't win.
+Dialogue: 0,0:19:32.34,0:19:34.10,SweetieBelle,,0,0,0,,It was so much fun!
+Dialogue: 0,0:19:39.64,0:19:40.34,SweetieBelle,,0,0,0,,Rarity?
+Dialogue: 0,0:19:44.42,0:19:46.04,SweetieBelle,,0,0,0,,Wait. Where's Applejack?
+Dialogue: 0,0:19:47.71,0:19:49.00,SweetieBelle,,0,0,0,,I don't get it.
+Dialogue: 0,0:19:50.97,0:19:53.98,AppleJack,,0,0,0,,We switched places over at the very first mudhole.
+Dialogue: 0,0:19:54.71,0:19:58.03,SweetieBelle,,0,0,0,,So we did the whole competition together?
+Dialogue: 0,0:19:58.32,0:20:00.32,Rarity,,0,0,0,,That we did, little sister.
+Dialogue: 0,0:20:00.58,0:20:02.62,Rarity,,0,0,0,,Well, except for the start line.
+Dialogue: 0,0:20:02.84,0:20:04.80,AppleBloom,,0,0,0,,But you finished together.
+Dialogue: 0,0:20:04.96,0:20:07.63,SweetieBelle,,0,0,0,,You mean you were all in on it?
+Dialogue: 0,0:20:09.10,0:20:10.84,SweetieBelle,,0,0,0,,You did this for me?
+Dialogue: 0,0:20:11.32,0:20:13.65,Rarity,,0,0,0,,Us. I did it for us.
+Dialogue: 0,0:20:16.04,0:20:19.02,Rarity,,0,0,0,,You see? We are apple pie.
+Dialogue: 0,0:20:21.24,0:20:22.62,Rarity,,0,0,0,,I'll explain later.
+Dialogue: 0,0:20:22.63,0:20:25.72,Rarity,,0,0,0,,For now, I think we deserve a celebration.
+Dialogue: 0,0:20:26.25,0:20:27.16,Somepony,,0,0,0,,YEAH!
+Dialogue: 0,0:20:27.56,0:20:28.50,SweetieBelle,,0,0,0,,Where?
+Dialogue: 0,0:20:28.50,0:20:29.97,Rarity,,0,0,0,,The spa, of course.
+Dialogue: 0,0:20:31.37,0:20:32.80,SweetieBelle,,0,0,0,,Oh, Rarity.
+Dialogue: 0,0:20:33.68,0:20:35.48,Rarity,,0,0,0,,No, I… I'm serious.
+Dialogue: 0,0:20:38.82,0:20:41.82,Rarity,,0,0,0,,Very well then. What should we write to the Princess?
+Dialogue: 0,0:20:42.03,0:20:42.91,SweetieBelle,,0,0,0,,I'll start.
+Dialogue: 0,0:20:42.91,0:20:46.46,SweetieBelle,,0,0,0,,"Having a sister is just about the bestest thing in the world."
+Dialogue: 0,0:20:46.72,0:20:48.40,SweetieBelle,,0,0,0,,"But it sure isn't the easiest."
+Dialogue: 0,0:20:48.71,0:20:51.62,Rarity,,0,0,0,,"I agree, that being sisters is a wonderful thing…"
+Dialogue: 0,0:20:51.82,0:20:53.25,Rarity,,0,0,0,,"…but it takes teamwork."
+Dialogue: 0,0:20:54.39,0:20:56.30,Rarity,,0,0,0,,"Sometimes it's about compromising."
+Dialogue: 0,0:20:58.60,0:21:01.67,Rarity,,0,0,0,,"Sometimes it's about accepting each other's differences."
+Dialogue: 0,0:21:03.28,0:21:06.36,Rarity,,0,0,0,,"But mostly it's about having fun together."
+Dialogue: 0,0:21:07.07,0:21:10.35,Rarity,,0,0,0,,"Even if it means getting your hooves a little bit dirty."
+Dialogue: 0,0:21:10.58,0:21:11.91,SweetieBelle,,0,0,0,,A lot dirty!
+Dialogue: 0,0:21:12.95,0:21:14.52,Rarity,,0,0,0,,A little bit dirty.
+Dialogue: 0,0:21:14.63,0:21:15.55,SweetieBelle,,0,0,0,,A lot dirty!
+Dialogue: 0,0:21:15.77,0:21:17.65,Rarity,,0,0,0,,A little bit dirty!
+Dialogue: 0,0:21:17.75,0:21:18.66,SweetieBelle,,0,0,0,,A lo…
+Dialogue: 0,0:21:18.89,0:21:20.27,Spike,,0,0,0,,Hold it, hold it.
+Dialogue: 0,0:21:20.52,0:21:22.71,Spike,,0,0,0,,How about… "a medium amount of dirty,
+Dialogue: 0,0:21:22.80,0:21:25.68,Spike,,0,0,0,,not too little, not too much, just right."
+Dialogue: 0,0:21:25.96,0:21:26.96,Somepony,,0,0,0,,Deal!
+Dialogue: 0,0:21:32.96,0:21:34.96,Default,,0,0,0,,SCHASTLIVY PONEС
+Dialogue: 0,0:21:34.96,0:21:37.96,Default,,0,0,0,,anon2anon\Nsunnysubs.com
