@@ -1,13 +1,20 @@
 ﻿[Script Info]
-PlayResX: 1920
-PlayResY: 1080
-ScaledBorderAndShadow: yes
 ScriptType: v4.00+
 WrapStyle: 0
+ScaledBorderAndShadow: yes
 YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Title: MLP:FiM Season 2 Episode 3 'Lesson Zero'
+Original Translation: anon2anon
+Original Editing: anon2anon
+Original Timing: anon2anon
+Script Updated By: 13.03.2018
+Update Details: v2.1 Мелкие правки.
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,68,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
 Style: AppleBloom,Arial,68,&H00C0FAF4,&H000000FF,&H006F00FF,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
 Style: AppleJack,Arial,68,&H00FFFFFF,&H000000FF,&H00005AFF,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
 Style: BigMac,Arial,68,&H00C2E1FF,&H00001FFF,&H000000DE,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
@@ -67,7 +74,7 @@ Dialogue: 0,0:02:06.79,0:02:09.79,Twilight,,0,0,0,,и боюсь, как бы к
 Dialogue: 0,0:02:11.09,0:02:13.64,MrsCake,,0,0,0,,Конечно… конечно, это не дело.
 Dialogue: 0,0:02:14.72,0:02:15.41,Twilight,,0,0,0,,Но не беда,
 Dialogue: 0,0:02:15.79,0:02:17.78,Twilight,,0,0,0,,я просто перенесу немного отсюда…
-Dialogue: 0,0:02:19.06,0:02:20.95,Twilight,,0,0,0,,Похоже, я перестаралсь.
+Dialogue: 0,0:02:19.06,0:02:20.95,Twilight,,0,0,0,,Похоже, я перестаралась.
 Dialogue: 0,0:02:21.27,0:02:23.25,Twilight,,0,0,0,,Ой! Теперь на этих двух перебор.
 Dialogue: 0,0:02:23.72,0:02:25.09,Twilight,,0,0,0,,Попробуем ещё раз.
 Dialogue: 0,0:02:28.36,0:02:29.74,Twilight,,0,0,0,,Хмм, нет, так не пойдёт.
@@ -428,5 +435,5 @@ Dialogue: 0,0:21:12.98,0:21:16.23,Spike,,0,0,0,,{\i1}потому что он с
 Dialogue: 0,0:21:16.40,0:21:19.44,Spike,,0,0,0,,{\i1}В отличие от остальных, он всё принял всерьёз и…{\i0}
 Dialogue: 0,0:21:22.13,0:21:23.20,Spike,,0,0,0,,Ага… Да…
 Dialogue: 0,0:21:23.61,0:21:24.68,Spike,,0,0,0,,Я просто…
-Dialogue: 0,0:21:31.25,0:21:35.71,Somepony,,0,0,0,,СЧАСТЛИВЫЙ ПОНЕЦ
-Dialogue: 0,0:21:36.36,0:21:40.35,Somepony,,0,0,0,,anon2anon\Nsunnysubs.com
+Dialogue: 0,0:21:31.25,0:21:35.71,Default,,0,0,0,,СЧАСТЛИВЫЙ ПОНЕЦ
+Dialogue: 0,0:21:36.36,0:21:40.35,Default,,0,0,0,,anon2anon\Nsunnysubs.com
