@@ -1,0 +1,563 @@
+﻿[Script Info]
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Video Link: https://yadi.sk/i/88MxlhYU3TbkLc
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Somepony,Arial,68,&H00FFFFFF,&H000000FF,&H007D7E80,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Default,Arial,68,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Twilight,Arial,68,&H00FFFFFF,&H000000FF,&H0092376D,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: RainbowDash,Arial,68,&H00FFFFFF,&H000000FF,&H00D29B1E,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: AppleJack,Arial,68,&H00FFFFFF,&H000000FF,&H00005AFF,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: PinkiePie,Arial,68,&H00FFFFFF,&H000000FF,&H009300E8,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: FlutterShy,Arial,68,&H00D2F9FF,&H000000FF,&H009542D6,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Rarity,Arial,68,&H00FFFBF0,&H000000FF,&H00690050,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Spike,Arial,68,&H00F9FFF9,&H000000FF,&H00209322,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: AppleBloom,Arial,68,&H00C0FAF4,&H000000FF,&H006F00FF,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Scootaloo,Arial,68,&H00A0DAFF,&H000000FF,&H007800A0,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: SweetieBelle,Arial,68,&H00E8F0FF,&H000000FF,&H00752A5E,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Celestia,Arial,68,&H00FBF8FD,&H000000FF,&H00DA2ACC,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Luna,Arial,68,&H00FFD6D7,&H000000FF,&H00BB4416,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: PrincessCadence,Arial,68,&H00D7F8FE,&H000000FF,&H00B0327F,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: ShiningArmor,Arial,68,&H00FFFFFF,&H000000FF,&H007C473B,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Discord,Arial,68,&H00DAE7EE,&H000000FF,&H001A6A9D,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: StarlightGlimmer,Arial,68,&H00F5CEF2,&H000000FF,&H005C0104,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Trixie,Arial,68,&H00FAEFDA,&H000000FF,&H00674303,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Zecora,Arial,68,&H00EAEAEA,&H000000FF,&H003F3F3F,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: AmethystStar,Arial,68,&H00FFEBFD,&H000000FF,&H008E245E,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: AppleRose,Arial,68,&H00DCECFF,&H00F2F1F4,&H006459CA,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Applesauce,Arial,68,&H00E9FFF4,&H00000000,&H0012C055,&H00111211,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: BabsSeed,Arial,68,&H00ABCBE6,&H000000FF,&H004608E5,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: BettyBouffant,Arial,68,&H00FFFFFF,&H000000FF,&H007D7E80,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: BigMac,Arial,68,&H00C2E1FF,&H00001FFF,&H000000DE,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: BlueishGreenChangeling,Arial,68,&H00B2E789,&H000000FF,&H00655B44,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: BonBon,Arial,68,&H00F8DFFF,&H000000FF,&H00905838,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: BowHothoof,Arial,68,&H00E9D7D6,&H000000FF,&H0064331E,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Braeburn,Arial,68,&H0097ECF0,&H000000FF,&H001F8AC2,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: BrightMac,Arial,68,&H0099E4EC,&H000000FF,&H003441E2,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: BulkBiceps,Arial,68,&H00FFFFFF,&H000000FF,&H00B9B6AC,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Buttercup,Arial,68,&H00B5DEF7,&H000000FF,&H000F6BB2,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: BurntOak,Arial,68,&H00A1ABB5,&H000000FF,&H00545A61,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Caballeron,Arial,68,&H00DBE8EA,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Cheerilee,Arial,68,&H009D69C3,&H000000FF,&H00361F46,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: CherryJubilee,Arial,68,&H00AAE8F4,&H000000FF,&H00321979,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,30,30,45,1
+Style: Chrysalis,Arial,68,&H00CEBF4E,&H000000FF,&H00121F0B,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Cinch,Arial,68,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,4.5,4.5,2,30,30,45,1
+Style: CloudyQuartz,Arial,68,&H00E1DBD0,&H000000FF,&H003B3712,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Coco,Arial,68,&H00FFFFFF,&H000000FF,&H007D7E80,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Coloratura,Arial,68,&H00FFFFFF,&H000000FF,&H007D7E80,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: CorianderCumin,Arial,68,&H00DEF2FF,&H000000FF,&H00066FA6,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Cranky,Arial,68,&H00DCEBF4,&H000000FF,&H004F6567,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: CyanChangeling,Arial,68,&H00D3ED80,&H000000FF,&H003142AA,&H003142AA,0,0,0,0,100,100,0,0,1,2.5,2.5,2,30,30,45,1
+Style: Daisy,Arial,68,&H00FCDFFE,&H000000FF,&H0000AA61,&H00000000,0,0,0,0,100,100,0,0,1,3,2.25,2,30,30,45,1
+Style: DandyGrandeur,Arial,68,&H00C6EEE9,&H000000FF,&H00AB5C8F,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: DaringDo,Arial,68,&H0065CBE0,&H000000FF,&H00333A3C,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: DayBreaker,Arial,68,&H00EBEAEA,&H000000FF,&H001034AB,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Derpy,Arial,68,&H00ABFBF5,&H000000FF,&H00A67B6F,&H00000000,0,0,0,0,100,100,0,0,1,2.5,2.25,2,30,30,45,1
+Style: DiamondTiara,Arial,68,&H00FFE6FA,&H00FFFFFF,&H00AD5F8A,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: DoubleDiamond,Arial,68,&H00FFFFFF,&H000000FF,&H00BDA99F,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: DrWhooves,Arial,68,&H00B7DDED,&H000000FF,&H00172732,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Ember,Arial,68,&H00EDFFAA,&H000000FF,&H0057270F,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,30,30,45,1
+Style: FancyPants,Arial,68,&H00FFFFFF,&H000000FF,&H00ABAA99,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,30,30,45,1
+Style: FanSeller,Arial,68,&H0086B7C5,&H000000FF,&H00367D47,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: FashionPlate,Arial,68,&H00F5EAD2,&H000000FF,&H0025231D,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: FeatherBangs,Arial,68,&H00B4D4DE,&H000000FF,&H002B4161,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Featherweight,Arial,68,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: FilthyRich,Arial,68,&H00D3E4EA,&H000000FF,&H00558494,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: FlashSentry,Arial,68,&H00FFFFFF,&H000000FF,&H007D7E80,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: FlimFlam,Arial,68,&H00B6F6F4,&H000000FF,&H004230C0,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Garble,Arial,68,&H009AECFA,&H000000FF,&H00081973,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,30,30,45,1
+Style: Gilda,Arial,68,&H00FFFFFF,&H000000FF,&H00297690,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,29,29,45,1
+Style: GloriosaDaisy,Arial,68,&H00EBE8FA,&H000000FF,&H00461284,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: GoldieDelicious,Arial,68,&H00E3ECF0,&H000000FF,&H002B90C4,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,30,30,45,1
+Style: GrandPear,Arial,68,&H0067CBED,&H000000FF,&H00265787,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: GrannySmith,Arial,68,&H00FFFFFF,&H000000FF,&H0000A37B,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: GreenChangeling,Arial,68,&H0095E789,&H000000FF,&H00655B44,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Guard,Arial,68,&H00FFFFFF,&H000000FF,&H008B8380,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Gummy,Arial,68,&H00D5FEE4,&H000000FF,&H001F7C20,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: HoityToity,Arial,68,&H00F1D8D1,&H000000FF,&H005F473B,&H00000000,0,0,0,0,100,100,0,0,1,2.5,2.5,2,30,30,45,1
+Style: Hooffield,Arial,68,&H00FFFFFF,&H000000FF,&H007D7E80,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: IgneousRock,Arial,68,&H005DA7C6,&H000000FF,&H00234974,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: IndigoZap,Arial,68,&H00C8EAF7,&H000000FF,&H00664216,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: InkyRose,Arial,68,&H00FFFFFF,&H000000FF,&H00715963,&H00000000,0,0,0,0,100,100,0,0,1,2.5,2.5,2,30,30,45,1
+Style: IronWill,Arial,68,&H00C19E83,&H000000FF,&H0046331C,&H00000000,0,0,0,0,100,100,0,0,1,2.2,2.2,2,30,30,45,1
+Style: JeffLetrotski,Arial,68,&H00E0EEF3,&H000000FF,&H002585B7,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: KettleCorn,Arial,68,&H009BD8E0,&H000000FF,&H00AF96DE,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: KingSombra,Arial,68,&H00C6C6C6,&H00000000,&H000F0EC8,&H00111211,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: LemonHearts,Arial,68,&H00C8FFFC,&H000000FF,&H006B5B0D,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Librarian,Arial,68,&H00F9F4FF,&H000000FF,&H00CA9191,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Librarian_Gray,Arial,68,&H00F2F2F2,&H000000FF,&H00C69E96,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: LightingDust,Arial,68,&H00FAFFF0,&H005BD6EE,&H0097B400,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: LillyValley,Arial,68,&H00B4EDF6,&H000000FF,&H007247B4,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: LimestonePie,Arial,68,&H00FF9CAB,&H000000FF,&H00665C4E,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: LordDragon,Arial,68,&H0098B3DC,&H000000FF,&H00322911,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,30,30,45,1
+Style: Loudspeaker,Arial,68,&H00FFFFFF,&H000000FF,&H007D7E80,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,8,30,30,45,1
+Style: Lyra,Arial,68,&H00F2F6DD,&H000000FF,&H003A6119,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Magnum,Arial,68,&H00FFFFFF,&H000000FF,&H007D7E80,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: MarblePie,Arial,68,&H00D3D2C8,&H000000FF,&H00373723,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Matilda,Arial,68,&H00C1EDFE,&H000000FF,&H002A5F64,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: MaudPie,Arial,68,&H00FFD0D8,&H000000FF,&H00823F54,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Mayor,Arial,68,&H0073AEC2,&H000000FF,&H002C2C2C,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: McColt,Arial,68,&H00FFFFFF,&H000000FF,&H007D7E80,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: MidnightSparkle,Arial,68,&H00B26993,&H000000FF,&H00251811,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Minuette,Arial,68,&H00FFFFFF,&H000000FF,&H00A16A3C,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Moondancer,Arial,68,&H00F0FEFD,&H000000FF,&H004D12BC,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: MrCake,Arial,68,&H0064D1E4,&H000000FF,&H003295F4,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: MrShy,Arial,68,&H00D9F5CB,&H000000FF,&H0077388D,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: MrsCake,Arial,68,&H00F2E195,&H000000FF,&H00885DDC,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: MrsShy,Arial,68,&H00D1FBFF,&H000000FF,&H004F2084,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: MysteryPony,Arial,68,&H002B2415,&H000000FF,&H00D7CCBC,&H00000000,0,0,0,0,100,100,0,0,1,1.5,1.5,2,30,30,45,1
+Style: NightLight,Arial,68,&H00FFF6ED,&H000000FF,&H006C3725,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: NightmareMoon,Arial,68,&H00E69D92,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Octavia,Arial,68,&H00C6CDCF,&H000000FF,&H00333033,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: OldLadyChangeling,Arial,68,&H007DC774,&H000000FF,&H00655B44,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: PartyFavor,Arial,68,&H00ECE9C0,&H000000FF,&H0097591E,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Pharynx,Arial,68,&H004217AE,&H000000FF,&H00121F0B,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: PhotoFinish,Arial,68,&H00FBF2D9,&H000000FF,&H00802E9F,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Pipsqueak,Arial,68,&H00DEF2FF,&H000000FF,&H00066FA6,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Prim,Arial,68,&H00FFFFFF,&H000000FF,&H007D7E80,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: PrincipalCinch,Arial,68,&H00F9FDDF,&H000000FF,&H005B1F6F,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Reference,Arial,45,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2.25,2.25,8,30,30,45,1
+Style: Remark,Arial,68,&H00FFFFFF,&H000000FF,&H007D7E80,&H00000000,0,0,0,0,80,80,0,0,1,2.25,2.25,7,30,30,45,1
+Style: RevizorReal,Arial,68,&H00FFFFFF,&H000000FF,&H007D7E80,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Rose,Arial,68,&H00C5E7E8,&H000000FF,&H005335A0,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Rumble,Arial,68,&H00C6C6C8,&H000000FF,&H00696557,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Rutherford,Arial,68,&H005F98B8,&H000000FF,&H00173D77,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: SaffronMasala,Arial,68,&H0099DFF9,&H000000FF,&H00001891,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Sandalwood,Arial,68,&H009CCEE8,&H000000FF,&H00386C27,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Sassy,Arial,68,&H00FFF2D2,&H000000FF,&H002D3492,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Shadow,Arial,68,&H00C6C6C6,&H00000000,&H000F0EC8,&H00111211,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Sheriff,Arial,68,&H0085C7CD,&H000000FF,&H00195971,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: SilverSpoon,Arial,68,&H00FFFFFF,&H000000FF,&H009A957F,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Snails,Arial,68,&H00DEF2FF,&H000000FF,&H00066FA6,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Snips,Arial,68,&H00F8F9F3,&H000000FF,&H00626B2C,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Soarin,Arial,68,&H00FFF4D1,&H000000FF,&H008A4220,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: SomeponyBlueOnYellow,Arial,68,&H0098FFFE,&H000000FF,&H00B76B2B,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,30,30,45,1
+Style: SomeponyBluishWhite,Arial,68,&H00FFE2D8,&H000000FF,&H00333333,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,30,30,45,1
+Style: SomeponyLightCyan,Arial,68,&H00FBFFB0,&H000000FF,&H00333333,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,30,30,45,1
+Style: SomeponyLightPink,Arial,68,&H00B6B2FE,&H000000FF,&H00262663,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,30,30,45,1
+Style: SomeponyOrange,Arial,68,&H0058B2FE,&H000000FF,&H00333333,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,30,30,45,1
+Style: SomeponyPurple,Arial,68,&H00B44A96,&H00FFE6FD,&H00FFFFFF,&H00FFFFFF,0,0,0,0,100,100,0,0,1,2,2,2,30,30,45,1
+Style: SomeponyWhiteOnDarkBlue,Arial,68,&H00FFFFFF,&H000000FF,&H00882200,&H00000000,0,0,0,0,100,100,0,0,1,2.5,2.5,2,30,30,45,1
+Style: SomeponyYellow,Arial,68,&H0098FFFE,&H000000FF,&H00333333,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,30,30,45,1
+Style: SourSweet,Arial,68,&H00D1FBFF,&H000000FF,&H004F2084,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Spearhead,Arial,68,&H004781CE,&H000000FF,&H001B5484,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: Spitfire,Arial,68,&H00BEF6FD,&H0007B3B5,&H000063BE,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: SpoiledRich,Arial,68,&H00DAD6F3,&H000000FF,&H005F1851,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: StarlightEqual,Arial,68,&H00FFEAF8,&H000000FF,&H00636363,&H00000000,0,0,0,0,100,100,0,0,1,3,3,2,30,30,45,1
+Style: StarTracker,Arial,68,&H008E5743,&H000000FF,&H007ABDBD,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: StevenMagnet,Arial,68,&H007FFDFF,&H000000FF,&H00954D8E,&H00000000,0,0,0,0,100,100,0,0,1,2.5,2.25,2,30,30,45,1
+Style: SkyStinger,Arial,68,&H00C3AB66,&H000000FF,&H006D4B15,&H00000000,0,0,0,0,100,100,0,0,1,2.5,2.25,2,30,30,45,1
+Style: SugarBelle,Arial,68,&H00EACAFF,&H000000FF,&H00591F56,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: SugarCoat,Arial,68,&H00FAFEEB,&H000000FF,&H005E5514,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Sunburst,Arial,68,&H00DBFFFC,&H000000FF,&H000D37CC,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: SunnyFlare,Arial,68,&H00F5FCE3,&H000000FF,&H007D2C6C,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: SunsetShimmer,Arial,68,&H0099DFF9,&H000000FF,&H00001891,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Suri,Arial,68,&H00FFFFFF,&H000000FF,&H007D7E80,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Svengallop,Arial,68,&H00FFFFFF,&H000000FF,&H007D7E80,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Thorax,Arial,68,&H00FCFCFC,&H000000FF,&H00B1AD09,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: TimberSpruce,Arial,68,&H00C9D3EC,&H000000FF,&H00456A26,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: TreeHugger,Arial,68,&H006AE7AC,&H00000000,&H00379A54,&H00111211,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Troubleshoes,Arial,68,&H00A6A6C5,&H000000FF,&H002E2950,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Tunderlane,Arial,68,&H00CED29D,&H000000FF,&H00565355,&H00010201,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: TwilightVelvet,Arial,68,&H00EFEFEF,&H000000FF,&H00722E51,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: TwinkleShine,Arial,68,&H00F4FFFD,&H000000FF,&H00A96ABA,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: VaporTrail,Arial,68,&H00F2FBF8,&H000000FF,&H00869452,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Warning,Arial,68,&H00B0B0FF,&H000000FF,&H00404080,&H00000000,0,0,0,0,40,40,0,0,1,2.25,2.25,9,30,30,45,1
+Style: Windrider,Arial,68,&H00FEECC7,&H000000FF,&H0046666B,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: WindyWhistles,Arial,68,&H00E7CFCF,&H000000FF,&H003A4191,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Wonderbolt,Arial,68,&H00AFEEFA,&H000000FF,&H00BF8604,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Wonderlane,Arial,68,&H00BB7F22,&H000000FF,&H00565355,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: ZephyrBreeze,Arial,68,&H00EDFFAA,&H000000FF,&H0057270F,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,30,30,45,1
+Style: Zipporwhill,Arial,68,&H00C2D4D9,&H000000FF,&H005C6D76,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Juniper,Arial,68,&H00CAFAFA,&H000000FF,&H007B6A0E,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: MrZoom,Arial,68,&H0097CCF2,&H000000FF,&H002E855C,&H00000000,0,0,0,0,100,100,0,0,1,3,2.25,2,30,30,45,1
+Style: StalwartStallion,Arial,68,&H00C6E3DF,&H000000FF,&H00001221,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Chestnut,Arial,68,&H0070B2EE,&H000000FF,&H00333333,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,30,30,45,1
+Style: SomeponyLightBluePurplehair,Arial,68,&H00FFF8CA,&H00FFFFFF,&H00AD5F8A,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: SomeponyDirector,Arial,68,&H00B1D9DF,&H000000FF,&H001A6A9D,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: SomeponyStatist,Arial,68,&H00F8DFFF,&H000000FF,&H00905838,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Capper,Arial,68,&H00338FED,&H000000FF,&H00055E87,&H00000000,0,0,0,0,100,100,0,0,1,2.2,2.2,2,30,30,45,1
+Style: TempestShadow,Arial,68,&H007D47BC,&H000000FF,&H00481051,&H00000000,0,0,0,0,100,100,0,0,1,2.2,2.2,2,30,30,45,1
+Style: Grubber,Arial,68,&H00B6B947,&H000000FF,&H005D5D5D,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: StormKing,Arial,68,&H00DDF027,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.2,2.2,2,30,30,45,1
+Style: Songbird,Arial,68,&H00C3F8F9,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.2,2.2,2,30,30,45,1
+Style: PrincessSkystar,Arial,68,&H0092F9FD,&H005CDDED,&H008E9F0E,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: QueenNovo,Arial,68,&H00F3D8EE,&H000000FF,&H00820467,&H00000000,0,0,0,0,100,100,0,0,1,2.2,2.2,2,30,30,45,1
+Style: CaptainCelaeno,Arial,68,&H00BAE9EB,&H000000FF,&H006BBC8E,&H00000000,0,0,0,0,100,100,0,0,1,2.2,2.2,2,30,30,45,1
+Style: Starswirl,Arial,68,&H00EAEAEA,&H000000FF,&H003F3F3F,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: PonyOfShadows,Arial,68,&H00A1ABB5,&H000000FF,&H00545A61,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: FlashMagnus,Arial,68,&H0098FFFE,&H000000FF,&H00333333,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,30,30,45,1
+Style: Mistmane,Arial,68,&H00D7F8FE,&H000000FF,&H00B0327F,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: PinkiePieBright,Arial,68,&H00FFFFFF,&H000000FF,&H005000F2,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Rockhoof,Arial,68,&H00D8DEA5,&H000000FF,&H001D5B78,&H00010201,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Somnambula,Arial,68,&H008EB1F7,&H000000FF,&H001B6210,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Stygian,Arial,68,&H00C6CDCF,&H000000FF,&H00916669,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Petunia,Arial,68,&H00E9F3D4,&H000000FF,&H00C1DC6D,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Meadowbrook,Arial,68,&H00FBFFB0,&H000000FF,&H00333333,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,30,30,45,1
+Style: OceanFlow,Arial,68,&H00CDF0F1,&H000000FF,&H00C65FC1,&H00000000,0,0,0,0,100,100,0,0,1,2.2,2.2,2,30,30,45,1
+Style: SkyBeak,Arial,68,&H00EAE5E1,&H000000FF,&H00DF7F6C,&H00000000,0,0,0,0,100,100,0,0,1,2.2,2.2,2,30,30,45,1
+Style: Terramar,Arial,68,&H00EAFAEA,&H000000FF,&H00B5BE64,&H00000000,0,0,0,0,100,100,0,0,1,2.2,2.2,2,30,30,45,1
+Style: Baker,Arial,68,&H00D1EEBD,&H000000FF,&H003F5236,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Firelight,Arial,68,&H00C4EE7F,&H000000FF,&H00AF4A84,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: SomeponyGreenyBrown,Arial,68,&H00CEFF9B,&H00FFFFFF,&H0064749A,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: SomeponyPinkishWhite,Arial,68,&H00FFE6FA,&H00001FFF,&H00D988E4,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: StellarFlare,Arial,68,&H0086B8F7,&H000000FF,&H001112DF,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Ocellus,Arial,68,&H00F5F4D4,&H000000FF,&H00BFB975,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Smolder,Arial,68,&H008CD0F8,&H000000FF,&H000066DC,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Gallus,Arial,68,&H00F9E386,&H000000FF,&H007B5101,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: SilverStream,Arial,68,&H00FFFFFF,&H000000FF,&H00A660A2,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Sandbar,Arial,68,&H00D6FFFF,&H000000FF,&H00BFB975,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Yona,Arial,68,&H008892CD,&H000000FF,&H00272F8B,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: DWK,Arial,68,&H00FFFFFF,&H000000FF,&H0064243A,&H00000000,0,0,0,0,100,100,0,0,1,2.5,2.25,2,30,30,45,1
+Style: Redheart,Arial,68,&H00FFFFFF,&H000000FF,&H000000FF,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: ToolaRoola,Arial,68,&H00E6D3F2,&H000000FF,&H00A466DB,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: CoconutCream,Arial,68,&H00F3F4EB,&H000000FF,&H00E899E3,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: Wallflower,Arial,68,&H00D4F5BA,&H000000FF,&H0042B80A,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+Style: CookieCrumbles,Arial,68,&H00F3D8EE,&H000000FF,&H00820467,&H00000000,0,0,0,0,100,100,0,0,1,2.2,2.2,2,30,30,45,1
+Style: Twist,Arial,68,&H00EBEAEA,&H000000DB,&H002D4FCB,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,2,30,30,45,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:04.66,0:00:06.22,Default,,0,0,0,,Road Trippin
+Dialogue: 0,0:00:07.49,0:00:08.51,Twilight,,0,0,0,,Instruments? Check
+Dialogue: 0,0:00:09.02,0:00:09.71,Twilight,,0,0,0,,Band members?
+Dialogue: 0,0:00:09.94,0:00:10.36,Somepony,,0,0,0,,Check!
+Dialogue: 0,0:00:10.80,0:00:12.44,Twilight,,0,0,0,,Directions to Cousin Goldie's party?
+Dialogue: 0,0:00:12.55,0:00:13.13,Twilight,,0,0,0,,Check.
+Dialogue: 0,0:00:13.45,0:00:14.12,Twilight,,0,0,0,,Perfect!
+Dialogue: 0,0:00:14.24,0:00:15.65,Twilight,,0,0,0,,We're a little behind schedule,
+Dialogue: 0,0:00:15.71,0:00:18.01,Twilight,,0,0,0,,but if we get on the road in the next 37 seconds,
+Dialogue: 0,0:00:18.11,0:00:21.07,Twilight,,0,0,0,,we'll make it just in time to go on stage for Goldie's party.
+Dialogue: 0,0:00:24.63,0:00:26.62,GrannySmith,,0,0,0,,Buckle up, Rainbooms.
+Dialogue: 0,0:00:37.94,0:00:38.59,Twilight,,0,0,0,,Don't worry.
+Dialogue: 0,0:00:38.71,0:00:40.54,Twilight,,0,0,0,,The GPS has accounted for traffic.
+Dialogue: 0,0:00:40.79,0:00:42.02,GrannySmith,,0,0,0,,G-P-what-now?
+Dialogue: 0,0:00:42.34,0:00:45.00,GrannySmith,,0,0,0,,I don't need that ninny newfangly flippatyjippaty.
+Dialogue: 0,0:00:45.38,0:00:46.95,GrannySmith,,0,0,0,,I know me a shortcut!
+Dialogue: 0,0:00:53.77,0:00:55.11,PinkiePie,,0,0,0,,Step on it, Granny!
+Dialogue: 0,0:01:10.86,0:01:13.13,FlutterShy,,0,0,0,,Excuse us, sorry to interrupt your lunch, but
+Dialogue: 0,0:01:13.45,0:01:14.40,FlutterShy,,0,0,0,,do you mind?
+Dialogue: 0,0:01:27.58,0:01:31.37,PinkiePie,,0,0,0,,If a tree falls in the woods and then gets sprinkle-blasted to bits,
+Dialogue: 0,0:01:31.64,0:01:33.24,PinkiePie,,0,0,0,,did it ever really exist?
+Dialogue: 0,0:01:33.27,0:01:35.14,RainbowDash,,0,0,0,,Pinkie, I love your riddles, but
+Dialogue: 0,0:01:35.45,0:01:36.35,RainbowDash,,0,0,0,,BRIDGE!!!
+Dialogue: 0,0:01:37.94,0:01:40.29,GrannySmith,,0,0,0,,Hold on ta yer horses, girls!
+Dialogue: 0,0:01:50.45,0:01:52.25,PinkiePie,,0,0,0,,Sorry! I love your work!
+Dialogue: 0,0:01:52.50,0:01:55.00,Wallflower,,0,0,0,,Tell the props department we're gonna need another bridge!
+Dialogue: 0,0:01:57.05,0:01:58.49,Twilight,,0,0,0,,We've 30 more seconds!
+Dialogue: 0,0:02:03.87,0:02:07.08,GoldieDelicious,,0,0,0,,Please welcome the Rainbooms!
+Dialogue: 0,0:02:09.86,0:02:10.88,GoldieDelicious,,0,0,0,,How was the drive, dear?
+Dialogue: 0,0:02:12.03,0:02:13.53,GrannySmith,,0,0,0,,Easy peasy lemon squeezy!
+Dialogue: 0,0:02:13.85,0:02:16.91,GoldieDelicious,,0,0,0,,Don't ya go squeezin' my Lemon Squeezy, that's my favorite cat.
+Dialogue: 0,0:02:23.79,0:02:25.92,Default,,0,0,0,,X Marks the Spot
+Dialogue: 0,0:02:36.07,0:02:36.98,SunsetShimmer,,0,0,0,,What the…
+Dialogue: 0,0:02:37.70,0:02:38.63,SunsetShimmer,,0,0,0,,Check this out!
+Dialogue: 0,0:02:38.66,0:02:41.55,SunsetShimmer,,0,0,0,,I found an actual, real-life message in a bottle.
+Dialogue: 0,0:02:42.63,0:02:44.02,PinkiePie,,0,0,0,,Is it a love letter?
+Dialogue: 0,0:02:44.05,0:02:44.99,PinkiePie,,0,0,0,,A secret recipe?
+Dialogue: 0,0:02:45.01,0:02:48.06,PinkiePie,,0,0,0,,Or, wait, someone's trapped on a deserted island.
+Dialogue: 0,0:02:48.08,0:02:49.92,PinkiePie,,0,0,0,,We have to save them!!
+Dialogue: 0,0:02:50.54,0:02:52.35,SunsetShimmer,,0,0,0,,It's a treasure map.
+Dialogue: 0,0:02:52.47,0:02:54.34,Twilight,,0,0,0,,It looks just like this beach.
+Dialogue: 0,0:02:54.50,0:02:56.31,PinkiePie,,0,0,0,,Amazing! let's go!
+Dialogue: 0,0:03:02.91,0:03:03.68,SunsetShimmer,,0,0,0,,Look.
+Dialogue: 0,0:03:03.71,0:03:04.80,SunsetShimmer,,0,0,0,,There it is.
+Dialogue: 0,0:03:05.34,0:03:06.91,SunsetShimmer,,0,0,0,,I wonder if it's filled with loot.
+Dialogue: 0,0:03:09.01,0:03:11.31,PinkiePie,,0,0,0,,The treasure is a treasure map!
+Dialogue: 0,0:03:11.33,0:03:16.79,SunsetShimmer,,0,0,0,,"Follow the trail to the top of the m-f-b-o and look for the "X" at the end of the…"
+Dialogue: 0,0:03:17.65,0:03:18.73,SunsetShimmer,,0,0,0,,It's a code.
+Dialogue: 0,0:03:19.02,0:03:22.08,SunsetShimmer,,0,0,0,,If only we had a… decoder ring!
+Dialogue: 0,0:03:22.56,0:03:24.09,Twilight,,0,0,0,,Well, that's convenient.
+Dialogue: 0,0:03:24.57,0:03:27.87,SunsetShimmer,,0,0,0,,"Follow the S-H" — "shells to the pier",
+Dialogue: 0,0:03:27.89,0:03:30.56,SunsetShimmer,,0,0,0,,and look for the "X" at the end of the" R-A-I…
+Dialogue: 0,0:03:30.59,0:03:31.38,SunsetShimmer,,0,0,0,,rainbow!
+Dialogue: 0,0:03:31.41,0:03:32.32,PinkiePie,,0,0,0,,Look!
+Dialogue: 0,0:03:32.34,0:03:34.27,PinkiePie,,0,0,0,,There's a trail of shells!
+Dialogue: 0,0:03:39.46,0:03:40.72,Twilight,,0,0,0,,This is the pier.
+Dialogue: 0,0:03:40.74,0:03:41.42,Twilight,,0,0,0,,Now where's the…
+Dialogue: 0,0:03:41.45,0:03:42.61,PinkiePie,,0,0,0,,Rainbow!
+Dialogue: 0,0:03:47.30,0:03:49.20,Twilight,,0,0,0,,"X" marks the sushi?
+Dialogue: 0,0:03:49.98,0:03:53.28,SunsetShimmer,,0,0,0,,Excuse me. Do you know anything about a treasure map?
+Dialogue: 0,0:03:53.30,0:03:55.58,SpoiledRich,,0,0,0,,Arrgh! Cong-arr-dulations.
+Dialogue: 0,0:03:55.61,0:04:00.38,SpoiledRich,,0,0,0,,Ye mateys followed ye map to find a bounty of "X" sushi.
+Dialogue: 0,0:04:00.41,0:04:02.46,SunsetShimmer,,0,0,0,,Yes! What's our treasure?
+Dialogue: 0,0:04:02.48,0:04:05.02,SpoiledRich,,0,0,0,,20 "parrcent" off any hand roll.
+Dialogue: 0,0:04:05.05,0:04:07.48,SpoiledRich,,0,0,0,,Plus, all ye can eat wasabi.
+Dialogue: 0,0:04:08.96,0:04:10.34,Twilight,,0,0,0,,That's it?
+Dialogue: 0,0:04:10.36,0:04:12.69,PinkiePie,,0,0,0,,The treasure is a sushi truck.
+Dialogue: 0,0:04:12.71,0:04:14.89,PinkiePie,,0,0,0,,That's amazing!
+Dialogue: 0,0:04:18.20,0:04:19.22,Twilight,,0,0,0,,I like it.
+Dialogue: 0,0:04:20.33,0:04:21.73,PinkiePie,,0,0,0,,So spicy.
+Dialogue: 0,0:04:31.12,0:04:32.55,Default,,0,0,0,,Aww… Baby Turtles
+Dialogue: 0,0:04:36.87,0:04:38.92,Rarity,,0,0,0,,Is everything okay, Fluttershy?
+Dialogue: 0,0:04:38.94,0:04:40.17,FlutterShy,,0,0,0,,I'll don't think so.
+Dialogue: 0,0:04:40.19,0:04:41.87,FlutterShy,,0,0,0,,I hear crying…
+Dialogue: 0,0:04:45.11,0:04:48.06,FlutterShy,,0,0,0,,…from a bunch of baby sea turtles.
+Dialogue: 0,0:04:48.06,0:04:51.63,FlutterShy,,0,0,0,,They just hatched and are trying to find their way to the water.
+Dialogue: 0,0:04:51.66,0:04:53.25,FlutterShy,,0,0,0,,But they're lost.
+Dialogue: 0,0:04:53.27,0:04:54.26,Rarity,,0,0,0,,Oh, no!
+Dialogue: 0,0:04:55.46,0:04:58.43,FlutterShy,,0,0,0,,How could i ever find a bunch of teeny, tiny turtles
+Dialogue: 0,0:04:58.43,0:05:01.00,FlutterShy,,0,0,0,,on this great, big beach?
+Dialogue: 0,0:05:01.96,0:05:03.73,RainbowDash,,0,0,0,,Tank here is a tortoise.
+Dialogue: 0,0:05:03.76,0:05:05.66,RainbowDash,,0,0,0,,Maybe he could help us?
+Dialogue: 0,0:05:08.39,0:05:12.21,FlutterShy,,0,0,0,,That's not exactly the same, but it's worth a try.
+Dialogue: 0,0:05:14.64,0:05:16.28,FlutterShy,,0,0,0,,Lead the way, Tank.
+Dialogue: 0,0:05:26.02,0:05:27.65,Rarity,,0,0,0,,There they are!
+Dialogue: 0,0:05:34.49,0:05:36.13,FlutterShy,,0,0,0,,You did it, Tank.
+Dialogue: 0,0:05:36.16,0:05:38.54,RainbowDash,,0,0,0,,So, what do we do now?
+Dialogue: 0,0:05:38.57,0:05:41.15,FlutterShy,,0,0,0,,We just need to help them get to the water safely.
+Dialogue: 0,0:05:41.18,0:05:42.97,FlutterShy,,0,0,0,,Just over this sand dune,
+Dialogue: 0,0:05:42.99,0:05:45.23,FlutterShy,,0,0,0,,past those rocks and crabs,
+Dialogue: 0,0:05:45.25,0:05:48.78,FlutterShy,,0,0,0,,beyond that abandoned sand castle city,
+Dialogue: 0,0:05:48.81,0:05:51.30,FlutterShy,,0,0,0,,and around that dangerous shipwreck!
+Dialogue: 0,0:05:51.98,0:05:53.39,FlutterShy,,0,0,0,,Oh, boy.
+Dialogue: 0,0:05:53.41,0:05:54.83,RainbowDash,,0,0,0,,Don't worry.
+Dialogue: 0,0:05:54.85,0:05:56.62,RainbowDash,,0,0,0,,We'll just carry them to safety.
+Dialogue: 0,0:05:56.65,0:05:59.81,FlutterShy,,0,0,0,,We can't. They have to make the journey on their own
+Dialogue: 0,0:05:59.83,0:06:02.29,FlutterShy,,0,0,0,,so they can imprint and return to this beach
+Dialogue: 0,0:06:02.31,0:06:04.55,FlutterShy,,0,0,0,,when they lay their own eggs someday.
+Dialogue: 0,0:06:04.57,0:06:07.82,RainbowDash,,0,0,0,,Well, then, the least we can do is help clear a path for them.
+Dialogue: 0,0:06:23.71,0:06:26.04,FlutterShy,,0,0,0,,That's it. The path is clear.
+Dialogue: 0,0:06:26.07,0:06:27.54,FlutterShy,,0,0,0,,Go, baby turtles!
+Dialogue: 0,0:06:27.56,0:06:29.17,FlutterShy,,0,0,0,,Be free!
+Dialogue: 0,0:06:32.19,0:06:33.98,FlutterShy,,0,0,0,,Adorable, tiny turtles?
+Dialogue: 0,0:06:34.97,0:06:36.09,RainbowDash,,0,0,0,,Tank?
+Dialogue: 0,0:06:36.55,0:06:38.13,RainbowDash,,0,0,0,,Fluttershy, look.
+Dialogue: 0,0:06:38.13,0:06:39.85,RainbowDash,,0,0,0,,The trail in the sand.
+Dialogue: 0,0:06:40.57,0:06:41.48,RainbowDash,,0,0,0,,Tank?
+Dialogue: 0,0:06:43.13,0:06:45.08,FlutterShy,,0,0,0,,Tank led the babies.
+Dialogue: 0,0:06:48.36,0:06:50.05,FlutterShy,,0,0,0,,Well done, Tank.
+Dialogue: 0,0:06:53.83,0:06:56.00,FlutterShy,,0,0,0,,They think Tank's their mommy.
+Dialogue: 0,0:07:04.92,0:07:07.18,Default,,0,0,0,,Lost and Found
+Dialogue: 0,0:07:08.94,0:07:10.22,AppleJack,,0,0,0,,Summer…
+Dialogue: 0,0:07:10.24,0:07:14.09,AppleJack,,0,0,0,,You know, there's nothin' like kickin' back and enjoyin' the…
+Dialogue: 0,0:07:14.11,0:07:16.42,Rarity,,0,0,0,,Complete disaster!
+Dialogue: 0,0:07:16.78,0:07:18.72,RainbowDash,,0,0,0,,Are you okay, Rarity?
+Dialogue: 0,0:07:18.72,0:07:21.06,Rarity,,0,0,0,,My earring's gone!
+Dialogue: 0,0:07:21.06,0:07:24.21,Rarity,,0,0,0,,A one-of-a-kind, irreplaceable work of art!
+Dialogue: 0,0:07:24.24,0:07:25.55,Rarity,,0,0,0,,I should know. I made it.
+Dialogue: 0,0:07:25.57,0:07:28.06,Rarity,,0,0,0,,I was reapplying my SPF
+Dialogue: 0,0:07:28.08,0:07:31.48,Rarity,,0,0,0,,when i realized my ear was…
+Dialogue: 0,0:07:32.29,0:07:33.57,Rarity,,0,0,0,,naked!
+Dialogue: 0,0:07:33.59,0:07:34.82,Rarity,,0,0,0,,I don't know what to do.
+Dialogue: 0,0:07:34.85,0:07:36.65,Rarity,,0,0,0,,It meant so much to me,
+Dialogue: 0,0:07:36.67,0:07:38.15,Rarity,,0,0,0,,and… and…
+Dialogue: 0,0:07:38.18,0:07:41.01,AppleJack,,0,0,0,,If you want our help, just ask.
+Dialogue: 0,0:07:41.70,0:07:42.94,Rarity,,0,0,0,,Would you mind?
+Dialogue: 0,0:07:42.96,0:07:45.23,Rarity,,0,0,0,,I took the liberty of getting some equipment.
+Dialogue: 0,0:07:50.59,0:07:51.59,AppleJack,,0,0,0,,Any luck?
+Dialogue: 0,0:07:51.62,0:07:52.38,RainbowDash,,0,0,0,,Not so…
+Dialogue: 0,0:07:52.41,0:07:54.10,RainbowDash,,0,0,0,,Wait. I got something!
+Dialogue: 0,0:07:54.85,0:07:55.94,Rarity,,0,0,0,,Could it be?
+Dialogue: 0,0:07:59.57,0:08:02.08,RainbowDash,,0,0,0,,Close, but not quite.
+Dialogue: 0,0:08:02.10,0:08:03.33,AppleJack,,0,0,0,,Hold your horses.
+Dialogue: 0,0:08:03.36,0:08:04.49,AppleJack,,0,0,0,,Now I'm beepin'.
+Dialogue: 0,0:08:07.73,0:08:09.59,Rarity,,0,0,0,,Now, that is definitely a…
+Dialogue: 0,0:08:11.06,0:08:12.22,Rarity,,0,0,0,,false alarm.
+Dialogue: 0,0:08:13.30,0:08:15.39,Rarity,,0,0,0,,Well, not to worry.
+Dialogue: 0,0:08:15.39,0:08:17.36,Rarity,,0,0,0,,We've got plenty of time.
+Dialogue: 0,0:08:20.67,0:08:22.52,Rarity,,0,0,0,,I can't believe this!
+Dialogue: 0,0:08:22.55,0:08:25.46,Rarity,,0,0,0,,We've combed the entire beach and found nothing,
+Dialogue: 0,0:08:25.48,0:08:26.92,Rarity,,0,0,0,,nothing!
+Dialogue: 0,0:08:26.92,0:08:29.52,Rarity,,0,0,0,,I'm sorry I've wasted your entire day.
+Dialogue: 0,0:08:29.55,0:08:31.01,AppleJack,,0,0,0,,Are you kiddin'?
+Dialogue: 0,0:08:31.04,0:08:33.45,AppleJack,,0,0,0,,We haven't even done half the beach.
+Dialogue: 0,0:08:33.48,0:08:35.46,AppleJack,,0,0,0,,Who knows what else we'll find?
+Dialogue: 0,0:08:37.30,0:08:39.49,RainbowDash,,0,0,0,,What even is this?
+Dialogue: 0,0:08:39.52,0:08:42.19,RainbowDash,,0,0,0,,The sand is full of mysteries.
+Dialogue: 0,0:08:42.19,0:08:44.18,Rarity,,0,0,0,,But the sun's going down.
+Dialogue: 0,0:08:44.81,0:08:46.66,Rarity,,0,0,0,,I guess it's a lost cause.
+Dialogue: 0,0:08:49.86,0:08:51.15,RainbowDash,,0,0,0,,Oh, hold that thought.
+Dialogue: 0,0:08:52.26,0:08:53.33,RainbowDash,,0,0,0,,And this.
+Dialogue: 0,0:09:00.01,0:09:00.86,RainbowDash,,0,0,0,,Got it!
+Dialogue: 0,0:09:00.89,0:09:02.95,RainbowDash,,0,0,0,,How's that for service?
+Dialogue: 0,0:09:04.02,0:09:06.12,AppleJack,,0,0,0,,That's not it, is it?
+Dialogue: 0,0:09:06.14,0:09:07.76,Rarity,,0,0,0,,It's not.
+Dialogue: 0,0:09:08.21,0:09:10.21,Rarity,,0,0,0,,But thank you, both of you.
+Dialogue: 0,0:09:10.23,0:09:12.56,Rarity,,0,0,0,,I had a wonderful day just the same.
+Dialogue: 0,0:09:13.28,0:09:15.46,Rarity,,0,0,0,,I'll just take one last sweep.
+Dialogue: 0,0:09:20.08,0:09:21.19,Rarity,,0,0,0,,Found it.
+Dialogue: 0,0:09:23.21,0:09:25.52,Default,,0,0,0,,Too hot to handle
+Dialogue: 0,0:09:27.74,0:09:30.83,FlutterShy,,0,0,0,,Thanks for helping with the crab adopt-a-thon, everyone.
+Dialogue: 0,0:09:30.85,0:09:32.17,Rarity,,0,0,0,,Oh, not a problem.
+Dialogue: 0,0:09:32.17,0:09:35.07,Rarity,,0,0,0,,My whole life has been leading up to this moment.
+Dialogue: 0,0:09:35.07,0:09:36.00,Rarity,,0,0,0,,Voilа!
+Dialogue: 0,0:09:36.02,0:09:37.81,Rarity,,0,0,0,,Crustacean couture.
+Dialogue: 0,0:09:38.21,0:09:40.33,PinkiePie,,0,0,0,,Ooh-la-la! Let me help!
+Dialogue: 0,0:09:44.60,0:09:48.44,PinkiePie,,0,0,0,,Actually, how about I help away from the crabs?
+Dialogue: 0,0:09:48.44,0:09:49.77,PinkiePie,,0,0,0,,I could get us a snack!
+Dialogue: 0,0:09:49.77,0:09:52.34,PinkiePie,,0,0,0,,There's still an hour until the shaved ice stand closes.
+Dialogue: 0,0:09:52.34,0:09:53.91,RainbowDash,,0,0,0,,Sounds great!
+Dialogue: 0,0:09:52.34,0:09:53.91,FlutterShy,,0,0,0,,Oh, yum.
+Dialogue: 0,0:09:53.91,0:09:56.31,PinkiePie,,0,0,0,,Cool! I promise I'll be back before it starts.
+Dialogue: 0,0:09:58.92,0:10:01.25,PinkiePie,,0,0,0,,So sparkly.
+Dialogue: 0,0:10:09.91,0:10:10.94,PinkiePie,,0,0,0,,Hey!
+Dialogue: 0,0:10:12.54,0:10:13.56,PinkiePie,,0,0,0,,Still works.
+Dialogue: 0,0:10:15.67,0:10:17.70,PinkiePie,,0,0,0,,Ow! Hot, hot, hot, hot, hot, hot!
+Dialogue: 0,0:10:26.96,0:10:29.14,PinkiePie,,0,0,0,,Boingy, boingy, boingy.
+Dialogue: 0,0:10:36.87,0:10:38.17,PinkiePie,,0,0,0,,Nailed it!
+Dialogue: 0,0:10:38.17,0:10:39.71,RainbowDash,,0,0,0,,You made it!
+Dialogue: 0,0:10:40.24,0:10:42.45,PinkiePie,,0,0,0,,Barely. You'll never believe what I had to do
+Dialogue: 0,0:10:42.48,0:10:44.48,PinkiePie,,0,0,0,,to get these back un-melty.
+Dialogue: 0,0:10:44.51,0:10:45.74,Rarity,,0,0,0,,Right on time.
+Dialogue: 0,0:10:45.76,0:10:47.08,Rarity,,0,0,0,,I hate to say it,
+Dialogue: 0,0:10:47.11,0:10:49.11,Rarity,,0,0,0,,but these crabs are getting awfully…
+Dialogue: 0,0:10:49.14,0:10:50.48,RainbowDash,,0,0,0,,Don't.
+Dialogue: 0,0:10:50.50,0:10:51.44,Rarity,,0,0,0,,…crabby!
+Dialogue: 0,0:10:52.36,0:10:54.24,FlutterShy,,0,0,0,,They're hot, poor things.
+Dialogue: 0,0:10:54.24,0:10:56.61,FlutterShy,,0,0,0,,If only we had a way to cool them off.
+Dialogue: 0,0:11:02.08,0:11:03.20,PinkiePie,,0,0,0,,Do you…
+Dialogue: 0,0:11:03.22,0:11:04.33,PinkiePie,,0,0,0,,want this?
+Dialogue: 0,0:11:07.70,0:11:09.14,PinkiePie,,0,0,0,,I'm sorry, everyone.
+Dialogue: 0,0:11:09.17,0:11:11.44,PinkiePie,,0,0,0,,I wanted to have enough to share.
+Dialogue: 0,0:11:11.44,0:11:12.92,RainbowDash,,0,0,0,,No worries, Pinkie.
+Dialogue: 0,0:11:12.94,0:11:13.97,RainbowDash,,0,0,0,,I got this.
+Dialogue: 0,0:11:22.03,0:11:24.29,Default,,0,0,0,,Unsolved selfie mysteries
+Dialogue: 0,0:11:27.80,0:11:30.05,PinkiePie,,0,0,0,,Say cheese sandwich!
+Dialogue: 0,0:11:32.83,0:11:35.33,PinkiePie,,0,0,0,,Okay, once more, with Gruyère!
+Dialogue: 0,0:11:36.09,0:11:38.89,Twilight,,0,0,0,,Wait, what's that splotchy thing in the background?
+Dialogue: 0,0:11:41.33,0:11:42.89,SunsetShimmer,,0,0,0,,It's a sea monster.
+Dialogue: 0,0:11:42.92,0:11:44.49,SunsetShimmer,,0,0,0,,We just caught it on camera.
+Dialogue: 0,0:11:45.03,0:11:47.88,Twilight,,0,0,0,,Hold on. I'm sure there's a logical explanation.
+Dialogue: 0,0:11:47.91,0:11:49.26,PinkiePie,,0,0,0,,A sea monster?
+Dialogue: 0,0:11:49.28,0:11:50.73,PinkiePie,,0,0,0,,I got to see it to believe it.
+Dialogue: 0,0:11:50.73,0:11:52.26,PinkiePie,,0,0,0,,But i already believe it!
+Dialogue: 0,0:11:54.97,0:11:56.76,FlutterShy,,0,0,0,,But i don't hear anything.
+Dialogue: 0,0:11:56.78,0:12:00.06,SunsetShimmer,,0,0,0,,Something's out there, and I'm gonna find out what it is.
+Dialogue: 0,0:12:00.09,0:12:01.10,SunsetShimmer,,0,0,0,,Who's with me?
+Dialogue: 0,0:12:01.40,0:12:02.33,PinkiePie,,0,0,0,,Over here!
+Dialogue: 0,0:12:02.36,0:12:05.26,FlutterShy,,0,0,0,,I'll go. Maybe I can hear it better underwater.
+Dialogue: 0,0:12:05.26,0:12:06.63,Twilight,,0,0,0,,You guys go ahead.
+Dialogue: 0,0:12:06.63,0:12:09.02,Twilight,,0,0,0,,I'll do some investigating of my own around the beach.
+Dialogue: 0,0:12:11.29,0:12:13.66,TimberSpruce,,0,0,0,,Whatcha looking for?
+Dialogue: 0,0:12:13.66,0:12:14.76,Twilight,,0,0,0,,Answers.
+Dialogue: 0,0:12:16.29,0:12:19.26,Twilight,,0,0,0,,Don't worry. I'll let you know when I have them.
+Dialogue: 0,0:12:21.19,0:12:24.16,SunsetShimmer,,0,0,0,,Hurry. We have to move quickly so it doesn't get too far away.
+Dialogue: 0,0:12:24.16,0:12:25.35,PinkiePie,,0,0,0,,I'm ready.
+Dialogue: 0,0:12:25.77,0:12:26.86,PinkiePie,,0,0,0,,I'm not ready!
+Dialogue: 0,0:12:26.88,0:12:27.90,PinkiePie,,0,0,0,,Where's my floatie?!
+Dialogue: 0,0:12:27.93,0:12:29.16,SunsetShimmer,,0,0,0,,There's no time.
+Dialogue: 0,0:12:32.27,0:12:34.39,Twilight,,0,0,0,,Oh, no! My friends!
+Dialogue: 0,0:12:34.54,0:12:37.76,Twilight,,0,0,0,,Sunset Shimmer, Pinkie Pie, watch out!
+Dialogue: 0,0:12:37.76,0:12:38.75,SunsetShimmer,,0,0,0,,We saw it.
+Dialogue: 0,0:12:38.78,0:12:40.13,SunsetShimmer,,0,0,0,,We saw the monster again.
+Dialogue: 0,0:12:40.16,0:12:42.19,Twilight,,0,0,0,,I know. I saw it, too.
+Dialogue: 0,0:12:42.19,0:12:43.76,SunsetShimmer,,0,0,0,,See? I told you.
+Dialogue: 0,0:12:43.78,0:12:44.83,SunsetShimmer,,0,0,0,,It was real.
+Dialogue: 0,0:12:44.86,0:12:46.26,PinkiePie,,0,0,0,,It's not only real.
+Dialogue: 0,0:12:46.28,0:12:48.13,PinkiePie,,0,0,0,,It's right there!
+Dialogue: 0,0:12:53.79,0:12:55.76,FlutterShy,,0,0,0,,I think I caught our monster.
+Dialogue: 0,0:12:55.76,0:12:57.46,PinkiePie,,0,0,0,,My floatie!
+Dialogue: 0,0:12:58.17,0:12:59.76,PinkiePie,,0,0,0,,Foiled again.
+Dialogue: 0,0:13:04.96,0:13:07.23,PinkiePie,,0,0,0,,I knew you would come back to me.
+Dialogue: 0,0:13:08.50,0:13:10.71,Default,,0,0,0,,The Salty Sails
+Dialogue: 0,0:13:12.48,0:13:13.91,Twilight,,0,0,0,,Life vests — on.
+Dialogue: 0,0:13:13.91,0:13:15.98,Twilight,,0,0,0,,Nautical dictionary — memorized.
+Dialogue: 0,0:13:15.98,0:13:17.75,Twilight,,0,0,0,,And course — set.
+Dialogue: 0,0:13:17.75,0:13:19.71,Twilight,,0,0,0,,Smooth sailing ahead.
+Dialogue: 0,0:13:19.73,0:13:21.09,Twilight,,0,0,0,,Ready about!
+Dialogue: 0,0:13:21.11,0:13:22.61,PinkiePie,,0,0,0,,I'm about ready for a snack.
+Dialogue: 0,0:13:22.61,0:13:24.36,PinkiePie,,0,0,0,,Care to try a caramel cream puff?
+Dialogue: 0,0:13:26.28,0:13:28.21,Rarity,,0,0,0,,Well, just serendipitous that we're setting sail,
+Dialogue: 0,0:13:28.21,0:13:30.72,Rarity,,0,0,0,,because I am winded.
+Dialogue: 0,0:13:30.88,0:13:32.42,PinkiePie,,0,0,0,,What's in the trunk, Rarity?
+Dialogue: 0,0:13:32.91,0:13:35.89,Rarity,,0,0,0,,Oh, just a change of clothes and a coat in case it gets chilly.
+Dialogue: 0,0:13:35.91,0:13:37.81,Rarity,,0,0,0,,Also, a small folding table, various tools,
+Dialogue: 0,0:13:37.81,0:13:39.98,Rarity,,0,0,0,,a fashion reference library, and a bag of gems…
+Dialogue: 0,0:13:39.98,0:13:41.96,Rarity,,0,0,0,,You know, the essentials.
+Dialogue: 0,0:13:43.00,0:13:44.79,Twilight,,0,0,0,,The essentials, right.
+Dialogue: 0,0:13:44.82,0:13:47.45,Twilight,,0,0,0,,My calculations accounted for the weight of the boat,
+Dialogue: 0,0:13:47.45,0:13:49.79,Twilight,,0,0,0,,but I forgot to account for Rarity.
+Dialogue: 0,0:13:53.51,0:13:56.21,PinkiePie,,0,0,0,,At sea, nothing's accounted for.
+Dialogue: 0,0:13:56.21,0:13:59.02,PinkiePie,,0,0,0,,Its tides are fierce, yet sublime,
+Dialogue: 0,0:13:59.05,0:14:01.82,PinkiePie,,0,0,0,,as beautiful as they are chaotic.
+Dialogue: 0,0:14:02.68,0:14:03.89,PinkiePie,,0,0,0,,Cast away!
+Dialogue: 0,0:14:05.79,0:14:07.45,Twilight,,0,0,0,,Don't worry. I checked the weather.
+Dialogue: 0,0:14:07.47,0:14:09.80,Twilight,,0,0,0,,We should expect a strong westward gale
+Dialogue: 0,0:14:09.83,0:14:11.70,Twilight,,0,0,0,,in
+Dialogue: 0,0:14:13.18,0:14:14.65,Twilight,,0,0,0,,We're going the wrong way.
+Dialogue: 0,0:14:14.68,0:14:15.79,Twilight,,0,0,0,,Ready about!
+Dialogue: 0,0:14:15.81,0:14:17.50,Twilight,,0,0,0,,Tack! Jibe!
+Dialogue: 0,0:14:18.21,0:14:20.89,Twilight,,0,0,0,,Am I the only one who memorized the nautical dictionary?
+Dialogue: 0,0:14:20.89,0:14:21.72,Twilight,,0,0,0,,Turn!
+Dialogue: 0,0:14:27.88,0:14:29.26,Twilight,,0,0,0,,We're way off course.
+Dialogue: 0,0:14:29.29,0:14:30.37,Twilight,,0,0,0,,Tack north!
+Dialogue: 0,0:14:31.81,0:14:33.30,Twilight,,0,0,0,,Almost back on track.
+Dialogue: 0,0:14:33.33,0:14:35.28,Twilight,,0,0,0,,If only we could get a little more power.
+Dialogue: 0,0:14:44.27,0:14:46.91,Twilight,,0,0,0,,My meticulously plotted chart!
+Dialogue: 0,0:14:47.03,0:14:50.65,PinkiePie,,0,0,0,,Surrender to the sea!
+Dialogue: 0,0:14:51.97,0:14:52.95,PinkiePie,,0,0,0,,A rock!
+Dialogue: 0,0:14:52.95,0:14:54.85,PinkiePie,,0,0,0,,I mean rock ho!
+Dialogue: 0,0:15:09.75,0:15:11.38,Twilight,,0,0,0,,Whichever way the wind blows,
+Dialogue: 0,0:15:11.40,0:15:13.19,Twilight,,0,0,0,,I guess it's not off-course
+Dialogue: 0,0:15:13.21,0:15:15.41,Twilight,,0,0,0,,as long as you're with your friends.
+Dialogue: 0,0:15:15.44,0:15:18.02,Rarity,,0,0,0,,Especially if your friends have towels.
+Dialogue: 0,0:15:18.71,0:15:20.75,PinkiePie,,0,0,0,,The ocean — vast,
+Dialogue: 0,0:15:20.75,0:15:22.85,PinkiePie,,0,0,0,,mysterious, wild,
+Dialogue: 0,0:15:22.85,0:15:24.98,PinkiePie,,0,0,0,,we may never fully understand her.
+Dialogue: 0,0:15:24.98,0:15:27.93,PinkiePie,,0,0,0,,But nonetheless, she commands respect.
+Dialogue: 0,0:15:30.14,0:15:31.93,PinkiePie,,0,0,0,,Salted caramel!
+Dialogue: 0,0:15:34.61,0:15:36.99,Default,,0,0,0,,Blue Crushed
+Dialogue: 0,0:15:38.23,0:15:40.45,RainbowDash,,0,0,0,,You sure you don't want to try it, Fluttershy?
+Dialogue: 0,0:15:40.53,0:15:41.83,RainbowDash,,0,0,0,,You can use my board.
+Dialogue: 0,0:15:41.85,0:15:43.74,AppleJack,,0,0,0,,You'll be Hangin' Ten in no time.
+Dialogue: 0,0:15:43.77,0:15:44.88,AppleJack,,0,0,0,,Twenty, even.
+Dialogue: 0,0:15:44.91,0:15:46.12,FlutterShy,,0,0,0,,Oh, no-no-no-no.
+Dialogue: 0,0:15:46.14,0:15:48.73,FlutterShy,,0,0,0,,I'll leave that to the experts like you and Rai…
+Dialogue: 0,0:15:51.35,0:15:54.32,ZephyrBreeze,,0,0,0,,Who's ready for a lesson in the fine art of the crush?
+Dialogue: 0,0:15:54.35,0:15:55.94,ZephyrBreeze,,0,0,0,,Afternoon, ladies.
+Dialogue: 0,0:15:56.18,0:15:57.99,FlutterShy,,0,0,0,,My brother?!
+Dialogue: 0,0:15:59.54,0:16:01.09,RainbowDash,,0,0,0,,Zephyr Breeze?
+Dialogue: 0,0:16:01.11,0:16:03.43,RainbowDash,,0,0,0,,Since when do you surf?
+Dialogue: 0,0:16:04.17,0:16:05.78,ZephyrBreeze,,0,0,0,,Since always.
+Dialogue: 0,0:16:05.81,0:16:07.46,ZephyrBreeze,,0,0,0,,I mean, look at this deck.
+Dialogue: 0,0:16:07.49,0:16:08.27,ZephyrBreeze,,0,0,0,,Gladys.
+Dialogue: 0,0:16:08.30,0:16:09.92,ZephyrBreeze,,0,0,0,,She's my pride and joy.
+Dialogue: 0,0:16:09.94,0:16:13.57,ZephyrBreeze,,0,0,0,,She and I have been together for what seems like a lifetime.
+Dialogue: 0,0:16:13.59,0:16:14.85,FlutterShy,,0,0,0,,No, you haven't.
+Dialogue: 0,0:16:14.87,0:16:16.12,FlutterShy,,0,0,0,,You only just…
+Dialogue: 0,0:16:16.14,0:16:17.69,ZephyrBreeze,,0,0,0,,Waxed her this morning?
+Dialogue: 0,0:16:17.72,0:16:19.00,ZephyrBreeze,,0,0,0,,Yes, it's true.
+Dialogue: 0,0:16:19.03,0:16:20.03,ZephyrBreeze,,0,0,0,,See that shine?
+Dialogue: 0,0:16:20.05,0:16:22.64,ZephyrBreeze,,0,0,0,,She's ready to seize the waves, so to speak.
+Dialogue: 0,0:16:23.82,0:16:26.02,AppleJack,,0,0,0,,Let's quit hollerin' and hit the water then.
+Dialogue: 0,0:16:26.12,0:16:27.15,ZephyrBreeze,,0,0,0,,What's that now?
+Dialogue: 0,0:16:27.29,0:16:28.56,RainbowDash,,0,0,0,,Come on, Zephyr!
+Dialogue: 0,0:16:28.59,0:16:31.04,RainbowDash,,0,0,0,,Show us what you and "Gladys" can do!
+Dialogue: 0,0:16:33.29,0:16:34.11,ZephyrBreeze,,0,0,0,,Okay…
+Dialogue: 0,0:16:38.03,0:16:39.36,AppleJack,,0,0,0,,Looks like a big one!
+Dialogue: 0,0:16:39.62,0:16:41.07,AppleJack,,0,0,0,,How would you tackle it?
+Dialogue: 0,0:16:41.10,0:16:41.90,ZephyrBreeze,,0,0,0,,Me?
+Dialogue: 0,0:16:42.26,0:16:43.63,ZephyrBreeze,,0,0,0,,Well, to be honest,
+Dialogue: 0,0:16:43.66,0:16:45.52,ZephyrBreeze,,0,0,0,,I think it's best to start smaller.
+Dialogue: 0,0:16:45.54,0:16:46.62,ZephyrBreeze,,0,0,0,,You girls probably aren't rea…
+Dialogue: 0,0:16:46.64,0:16:47.87,RainbowDash,,0,0,0,,Here it comes!
+Dialogue: 0,0:16:51.90,0:16:53.30,RainbowDash,,0,0,0,,Isn't this great?
+Dialogue: 0,0:16:53.32,0:16:55.27,RainbowDash,,0,0,0,,The waves today are just killer!
+Dialogue: 0,0:16:55.30,0:16:57.86,ZephyrBreeze,,0,0,0,,That's what I'm afraid ooooof!
+Dialogue: 0,0:16:58.38,0:16:59.15,RainbowDash,,0,0,0,,Zephyr?
+Dialogue: 0,0:17:00.22,0:17:04.07,AppleJack,,0,0,0,,Why on Earth would you try to hack it out there without knowin' how?
+Dialogue: 0,0:17:04.24,0:17:05.53,AppleJack,,0,0,0,,You could've got hurt!
+Dialogue: 0,0:17:05.56,0:17:06.55,ZephyrBreeze,,0,0,0,,I did!
+Dialogue: 0,0:17:06.89,0:17:08.50,ZephyrBreeze,,0,0,0,,My pride, that is.
+Dialogue: 0,0:17:08.89,0:17:09.81,ZephyrBreeze,,0,0,0,,Wounded.
+Dialogue: 0,0:17:12.01,0:17:13.18,RainbowDash,,0,0,0,,Zephyr…
+Dialogue: 0,0:17:13.27,0:17:13.98,ZephyrBreeze,,0,0,0,,I know.
+Dialogue: 0,0:17:14.24,0:17:15.62,ZephyrBreeze,,0,0,0,,I've shocked you all.
+Dialogue: 0,0:17:16.08,0:17:17.13,ZephyrBreeze,,0,0,0,,But Rainbow Dash,
+Dialogue: 0,0:17:17.34,0:17:19.43,ZephyrBreeze,,0,0,0,,if you could find the strength to forgive me
+Dialogue: 0,0:17:19.46,0:17:22.35,ZephyrBreeze,,0,0,0,,and the courage to keep from hopelessly falling for my…
+Dialogue: 0,0:17:23.19,0:17:24.33,ZephyrBreeze,,0,0,0,,Maybe you could…
+Dialogue: 0,0:17:24.36,0:17:25.36,ZephyrBreeze,,0,0,0,,give me some tips?
+Dialogue: 0,0:17:26.93,0:17:27.72,RainbowDash,,0,0,0,,Fine.
+Dialogue: 0,0:17:27.90,0:17:28.42,RainbowDash,,0,0,0,,But…
+Dialogue: 0,0:17:28.62,0:17:31.32,RainbowDash,,0,0,0,,I'm only doing this for Gladys.
+Dialogue: 0,0:17:32.05,0:17:34.42,RainbowDash,,0,0,0,,He doesn't deserve you.
+Dialogue: 0,0:17:35.90,0:17:39.90,Default,,0,0,0,,SHASTLIVIY PONEC
+Dialogue: 0,0:17:35.90,0:17:39.90,Default,,0,0,0,,anon2anon\Nsunnysubs.com
